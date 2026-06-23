@@ -1,7 +1,7 @@
 ---
 title: Local LLMs
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-06-23
 type: concept
 tags: [ai, llm, tooling, model]
 sources: [raw/newsletters/data-elixir-2026-06-16-data-elixir-issue-577.md, raw/newsletters/data-science-weekly-2026-06-18-data-science-weekly-issue-656.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/ainews-2026-06-11-ainews-open-models-model-labs-vs-agent-labs-and-what-s-untrainable-sar.md]
@@ -18,6 +18,14 @@ confidence: high
 - Data Science Weekly repeated the same local-model link in Issue 656.
 - AINews showed why local matters strategically: [[glm-5-2]] and other open-weight models provide a hedge against closed-model pricing, outages, retention policies, and government access controls.
 - Local execution still has constraints: memory, throughput at long context, quantization quality, and integration with coding-agent harnesses.
+
+## Backfill: May 24–June 7
+
+The earlier backfill broadens local AI from laptop LLMs into hybrid agent infrastructure:
+
+- [[nvidia]]’s RTX Spark / GB10 story framed local hardware as an agent-development surface.
+- Gemma and Nemotron coverage showed open/local work moving across multimodal models, quantization, and datacenter-scale open weights.
+- Local deployment remains a cost, privacy, and resilience hedge against closed-model gating.
 
 ## Why it matters
 

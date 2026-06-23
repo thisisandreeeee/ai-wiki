@@ -70,7 +70,9 @@ def main() -> None:
         body = (msg.get("body") or "").strip()
         if not body:
             body = msg.get("snippet", "").strip()
-        sha = hashlib.sha256(body.encode("utf-8")).hexdigest()
+        # Hash exactly what is stored after the closing frontmatter marker.
+        stored_body = body + "\n"
+        sha = hashlib.sha256(stored_body.encode("utf-8")).hexdigest()
         newsletter = summary.get("newsletter_query") or "newsletter"
         dslug = date_slug(msg.get("date") or summary.get("date", ""))
         sslug = slugify(msg.get("subject") or summary.get("subject", "newsletter"))

@@ -1,7 +1,7 @@
 ---
 title: Google DeepMind
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-06-23
 type: entity
 tags: [ai, company, research, policy]
 sources: [raw/newsletters/the-neuron-2026-06-21-how-deepmind-would-stop-rogue-agents.md, raw/newsletters/ainews-2026-06-11-ainews-open-models-model-labs-vs-agent-labs-and-what-s-untrainable-sar.md, raw/newsletters/latent-space-2026-06-18-the-professor-of-outputmaxxing-anjney-midha-amp.md]
@@ -29,6 +29,14 @@ This connects directly to [[ai-control-roadmaps]].
 AINews also covered Google/DeepMind’s DiffusionGemma release, a non-autoregressive diffusion text model that revived interest in iterative refinement and fast text generation.
 
 Latent.Space’s AMP interview raised a separate concern: much high-value DeepMind research may be delayed, embargoed, or never productionized. That made research hoarding and compute allocation part of the broader frontier-lab debate.
+
+## Backfill: May 24–June 7
+
+The earlier corpus adds broader Google signals around Gemini, Gemma, and agent security:
+
+- Gemini notification ingestion created an indirect prompt-injection risk via third-party app messages.
+- Gemma 4 coverage strengthened the local/open model thread connected to [[local-llms]].
+- Gemini Omni and AI Search coverage show Google pushing multimodal generation and search-as-agent-infrastructure while also creating user-trust backlash.
 
 ## Links
 

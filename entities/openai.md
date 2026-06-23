@@ -1,7 +1,7 @@
 ---
 title: OpenAI
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-06-23
 type: entity
 tags: [ai, company, llm, policy, tooling]
 sources: [raw/newsletters/the-neuron-2026-06-08-openai-admitted-its-product-strategy-was-broken.md, raw/newsletters/the-neuron-2026-06-15-what-42-states-want-from-openai.md, raw/newsletters/the-neuron-2026-06-19-your-doctor-may-ask-chatgpt-next.md, raw/newsletters/ainews-2026-06-09-ainews-frontiercode-benchmarking-for-code-quality-over-slop.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md]
@@ -25,6 +25,13 @@ Key implications:
 ## Policy and legal pressure
 
 OpenAI also faced a 42-state subpoena focused on advertising, engagement, consumer and health data, minors and seniors, and chatbot sycophancy. The Neuron framed this as a behavioral probe: not just privacy, but how agreeable or addictive an assistant is allowed to be.
+
+## Backfill: May 24–June 7
+
+The earlier corpus adds two prequel signals:
+
+- OpenAI expanded Codex-like workflows beyond developers, foreshadowing the later desktop-superapp consolidation story.
+- ChatGPT memory became a trust surface: The Neuron reported OpenAI’s older memory system had weak factual recall, while the newer system improved recall, preference adherence, reviewability, and cost.
 
 ## Health push
 
