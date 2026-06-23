@@ -1,201 +1,93 @@
 [
   {
-    "id": "19eba54bffc10481",
+    "id": "19e6781adbb0d081",
     "newsletter": "ainews",
-    "subject": "[AINews] Loopcraft: The Art of Stacking Loops",
-    "date": "Fri, 12 Jun 2026 05:34:09 +0000",
+    "subject": "[AINews] New AI Infra decacorns: Fireworks, Baseten (with OpenRouter on the way)",
+    "date": "Wed, 27 May 2026 03:33:53 +0000",
     "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-06-12-ainews-loopcraft-the-art-of-stacking-loops.md",
-    "chars": 46929
+    "path": "raw/newsletters/ainews-2026-05-27-ainews-new-ai-infra-decacorns-fireworks-baseten-with-openrouter-on-the.md",
+    "chars": 42001
   },
   {
-    "id": "19ebb8585ee903c8",
-    "newsletter": "the-neuron",
-    "subject": "🙀 What SpaceX's IPO really sold",
-    "date": "Fri, 12 Jun 2026 11:08:51 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-06-12-what-spacex-s-ipo-really-sold.md",
-    "chars": 19673
-  },
-  {
-    "id": "19ede746f1e1cc5a",
+    "id": "19e6d7c3b1531aaf",
     "newsletter": "ainews",
-    "subject": "[AINews] GLM > GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
-    "date": "Fri, 19 Jun 2026 05:53:54 +0000",
+    "subject": "[AINews] Cognition raises $1B in $26B Series D",
+    "date": "Thu, 28 May 2026 07:26:09 +0000",
     "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md",
-    "chars": 50719
+    "path": "raw/newsletters/ainews-2026-05-28-ainews-cognition-raises-1b-in-26b-series-d.md",
+    "chars": 43324
   },
   {
-    "id": "19edf8f51bebd671",
-    "newsletter": "the-neuron",
-    "subject": "😺 Your doctor may ask ChatGPT next",
-    "date": "Fri, 19 Jun 2026 11:05:46 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-06-19-your-doctor-may-ask-chatgpt-next.md",
-    "chars": 20584
-  },
-  {
-    "id": "19ea6e9009812abb",
-    "newsletter": "the-neuron",
-    "subject": "😺OpenAI admitted its product strategy was broken",
-    "date": "Mon, 08 Jun 2026 11:05:21 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-06-08-openai-admitted-its-product-strategy-was-broken.md",
-    "chars": 20462
-  },
-  {
-    "id": "19ecaf5c24586876",
-    "newsletter": "the-neuron",
-    "subject": "😺 What 42 states want from OpenAI",
-    "date": "Mon, 15 Jun 2026 11:05:36 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-06-15-what-42-states-want-from-openai.md",
-    "chars": 21521
-  },
-  {
-    "id": "19ebf4197c257183",
+    "id": "19e717e1bf47b853",
     "newsletter": "ainews",
-    "subject": "[AINews] Fable and Mythos officially too dangerous to release",
-    "date": "Sat, 13 Jun 2026 04:30:52 +0000",
+    "subject": "[AINews] Anthropic raises $965B Series H, releases Opus 4.8 and Dynamic Workflows/ultracode",
+    "date": "Fri, 29 May 2026 02:07:25 +0000",
     "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-06-13-ainews-fable-and-mythos-officially-too-dangerous-to-release.md",
-    "chars": 45060
+    "path": "raw/newsletters/ainews-2026-05-29-ainews-anthropic-raises-965b-series-h-releases-opus-4-8-and-dynamic-wo.md",
+    "chars": 68932
   },
   {
-    "id": "19ee415ab637342c",
+    "id": "19e769bab4f3142c",
+    "newsletter": "ainews",
+    "subject": "[AINews] Founders and Forward Deployed Engineers",
+    "date": "Sat, 30 May 2026 01:57:16 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-05-30-ainews-founders-and-forward-deployed-engineers.md",
+    "chars": 43136
+  },
+  {
+    "id": "19e8661764b6b7a1",
+    "newsletter": "ainews",
+    "subject": "[AINews] NVIDIA Cosmos 3, Nemotron 3 Ultra, and RTX Spark",
+    "date": "Tue, 2 Jun 2026 03:28:10 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-06-02-ainews-nvidia-cosmos-3-nemotron-3-ultra-and-rtx-spark.md",
+    "chars": 39016
+  },
+  {
+    "id": "19e8c09806f3c5a2",
+    "newsletter": "ainews",
+    "subject": "[AINews] Microsoft Build: MAI-Thinking-1 and MAI Family models",
+    "date": "Wed, 3 Jun 2026 05:49:02 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-06-03-ainews-microsoft-build-mai-thinking-1-and-mai-family-models.md",
+    "chars": 60252
+  },
+  {
+    "id": "19e8e7bcdff3fb25",
+    "newsletter": "ainews",
+    "subject": "⚡️Satya Nadella: No Priors x Latent Space Crossover Special at Microsoft Build",
+    "date": "Wed, 3 Jun 2026 17:13:57 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/ainews-2026-06-03-satya-nadella-no-priors-x-latent-space-crossover-special-at-microsoft.md",
+    "chars": 44870
+  },
+  {
+    "id": "19e90ab19410c05c",
+    "newsletter": "ainews",
+    "subject": "[AINews] Reve 2 and Ideogram 4: Layouts in Imagegen",
+    "date": "Thu, 4 Jun 2026 03:24:07 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-06-04-ainews-reve-2-and-ideogram-4-layouts-in-imagegen.md",
+    "chars": 47027
+  },
+  {
+    "id": "19e9689a72f1ca52",
     "newsletter": "ainews",
     "subject": "[AINews] not much happened today",
-    "date": "Sat, 20 Jun 2026 08:06:05 +0000",
+    "date": "Fri, 5 Jun 2026 06:44:49 +0000",
     "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-06-20-ainews-not-much-happened-today.md",
-    "chars": 49866
+    "path": "raw/newsletters/ainews-2026-06-05-ainews-not-much-happened-today.md",
+    "chars": 49411
   },
   {
-    "id": "19ec76975e4e7a59",
-    "newsletter": "the-neuron",
-    "subject": "🙀 US Gov Shuts Down Claude Fable",
-    "date": "Sun, 14 Jun 2026 18:33:07 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-06-14-us-gov-shuts-down-claude-fable.md",
-    "chars": 25477
-  },
-  {
-    "id": "19eeab9f24c94522",
+    "id": "19e9b37d06094470",
     "newsletter": "ainews",
-    "subject": "[Exclusive] $250 off AI Engineer tix til Monday",
-    "date": "Sun, 21 Jun 2026 15:01:23 +0000",
-    "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/ainews-2026-06-21-exclusive-250-off-ai-engineer-tix-til-monday.md",
-    "chars": 2637
-  },
-  {
-    "id": "19eeb75744bf4c66",
-    "newsletter": "the-neuron",
-    "subject": "😼 How DeepMind would stop rogue agents",
-    "date": "Sun, 21 Jun 2026 18:32:54 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-06-21-how-deepmind-would-stop-rogue-agents.md",
-    "chars": 21350
-  },
-  {
-    "id": "19eb4aea23054f8b",
-    "newsletter": "ainews",
-    "subject": "[AINews] Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo",
-    "date": "Thu, 11 Jun 2026 03:14:26 +0000",
+    "subject": "[AINews] not much happened today",
+    "date": "Sat, 6 Jun 2026 04:34:47 +0000",
     "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-06-11-ainews-open-models-model-labs-vs-agent-labs-and-what-s-untrainable-sar.md",
-    "chars": 44296
-  },
-  {
-    "id": "19eb65ea2a7c43a3",
-    "newsletter": "the-neuron",
-    "subject": "😸 Real-time translation is finally real",
-    "date": "Thu, 11 Jun 2026 11:08:23 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-06-11-real-time-translation-is-finally-real.md",
-    "chars": 21468
-  },
-  {
-    "id": "19eb8cab5eeaa9cd",
-    "newsletter": "data-science-weekly",
-    "subject": "Data Science Weekly - Issue 655",
-    "date": "Thu, 11 Jun 2026 22:25:19 +0000",
-    "from": "Data Science Weekly Newsletter <datascienceweekly@substack.com>",
-    "path": "raw/newsletters/data-science-weekly-2026-06-11-data-science-weekly-issue-655.md",
-    "chars": 16103
-  },
-  {
-    "id": "19ed8f9b77924659",
-    "newsletter": "ainews",
-    "subject": "[AINews] Midjourney Medical: scan your organs like you step on a scale",
-    "date": "Thu, 18 Jun 2026 04:23:05 +0000",
-    "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-06-18-ainews-midjourney-medical-scan-your-organs-like-you-step-on-a-scale.md",
-    "chars": 68441
-  },
-  {
-    "id": "19eda69ca003e65c",
-    "newsletter": "the-neuron",
-    "subject": "😺 Washington wants AI equity",
-    "date": "Thu, 18 Jun 2026 11:06:53 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-06-18-washington-wants-ai-equity.md",
-    "chars": 22538
-  },
-  {
-    "id": "19edbcab356325b4",
-    "newsletter": "latent-space",
-    "subject": "The Professor of Outputmaxxing — Anjney Midha, AMP",
-    "date": "Thu, 18 Jun 2026 17:30:00 +0000",
-    "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/latent-space-2026-06-18-the-professor-of-outputmaxxing-anjney-midha-amp.md",
-    "chars": 74083
-  },
-  {
-    "id": "19edd1046600fad2",
-    "newsletter": "data-science-weekly",
-    "subject": "Data Science Weekly - Issue 656",
-    "date": "Thu, 18 Jun 2026 23:25:29 +0000",
-    "from": "Data Science Weekly Newsletter <datascienceweekly@substack.com>",
-    "path": "raw/newsletters/data-science-weekly-2026-06-18-data-science-weekly-issue-656.md",
-    "chars": 11849
-  },
-  {
-    "id": "19eac10bd056357b",
-    "newsletter": "the-neuron",
-    "subject": "😺 Siri finally gets its AI reset",
-    "date": "Tue, 09 Jun 2026 11:07:12 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-06-09-siri-finally-gets-its-ai-reset.md",
-    "chars": 20875
-  },
-  {
-    "id": "19ece468a38258e5",
-    "newsletter": "ainews",
-    "subject": "[AINews] Satya on Loopcraft: Building Frontier Ecosystems",
-    "date": "Tue, 16 Jun 2026 02:29:29 +0000",
-    "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-06-16-ainews-satya-on-loopcraft-building-frontier-ecosystems.md",
-    "chars": 43731
-  },
-  {
-    "id": "19ed01e0f9c7166c",
-    "newsletter": "the-neuron",
-    "subject": "😺 Your spam texts were built with Google's AI 🤯",
-    "date": "Tue, 16 Jun 2026 11:07:06 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-06-16-your-spam-texts-were-built-with-google-s-ai.md",
-    "chars": 23370
-  },
-  {
-    "id": "19ed19dd3f87da17",
-    "newsletter": "data-elixir",
-    "subject": "Data Elixir - Issue 577",
-    "date": "Tue, 16 Jun 2026 18:07:20 +0000 (UTC)",
-    "from": "Data Elixir <lon@dataelixir.com>",
-    "path": "raw/newsletters/data-elixir-2026-06-16-data-elixir-issue-577.md",
-    "chars": 8030
+    "path": "raw/newsletters/ainews-2026-06-06-ainews-not-much-happened-today.md",
+    "chars": 45425
   },
   {
     "id": "19eab0461141cbef",
@@ -204,7 +96,7 @@
     "date": "Tue, 9 Jun 2026 06:12:33 +0000",
     "from": "AINews <swyx+ainews@substack.com>",
     "path": "raw/newsletters/ainews-2026-06-09-ainews-frontiercode-benchmarking-for-code-quality-over-slop.md",
-    "chars": 42573
+    "chars": 42495
   },
   {
     "id": "19eafaa521720626",
@@ -213,16 +105,43 @@
     "date": "Wed, 10 Jun 2026 03:50:21 +0000",
     "from": "AINews <swyx+ainews@substack.com>",
     "path": "raw/newsletters/ainews-2026-06-10-ainews-anthropic-claude-fable-5-mythos-but-safe-with-controversial-ter.md",
-    "chars": 58742
+    "chars": 58554
   },
   {
-    "id": "19eb24d34378bd5c",
-    "newsletter": "the-neuron",
-    "subject": "😺 Claude Fable = most controversial AI yet",
-    "date": "Wed, 10 Jun 2026 16:10:54 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-06-10-claude-fable-most-controversial-ai-yet.md",
-    "chars": 21319
+    "id": "19eb4aea23054f8b",
+    "newsletter": "ainews",
+    "subject": "[AINews] Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo",
+    "date": "Thu, 11 Jun 2026 03:14:26 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-06-11-ainews-open-models-model-labs-vs-agent-labs-and-what-s-untrainable-sar.md",
+    "chars": 44219
+  },
+  {
+    "id": "19eba54bffc10481",
+    "newsletter": "ainews",
+    "subject": "[AINews] Loopcraft: The Art of Stacking Loops",
+    "date": "Fri, 12 Jun 2026 05:34:09 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-06-12-ainews-loopcraft-the-art-of-stacking-loops.md",
+    "chars": 46848
+  },
+  {
+    "id": "19ebf4197c257183",
+    "newsletter": "ainews",
+    "subject": "[AINews] Fable and Mythos officially too dangerous to release",
+    "date": "Sat, 13 Jun 2026 04:30:52 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-06-13-ainews-fable-and-mythos-officially-too-dangerous-to-release.md",
+    "chars": 44973
+  },
+  {
+    "id": "19ece468a38258e5",
+    "newsletter": "ainews",
+    "subject": "[AINews] Satya on Loopcraft: Building Frontier Ecosystems",
+    "date": "Tue, 16 Jun 2026 02:29:29 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-06-16-ainews-satya-on-loopcraft-building-frontier-ecosystems.md",
+    "chars": 43651
   },
   {
     "id": "19ed41814e8377de",
@@ -231,16 +150,151 @@
     "date": "Wed, 17 Jun 2026 05:37:41 +0000",
     "from": "AINews <swyx+ainews@substack.com>",
     "path": "raw/newsletters/ainews-2026-06-17-ainews-glm-5-2-the-top-frontend-coding-model-in-the-world-indexshare-f.md",
-    "chars": 66707
+    "chars": 66399
   },
   {
-    "id": "19ed5443bab5e517",
-    "newsletter": "the-neuron",
-    "subject": "😺 Cursor is officially joining SpaceX",
-    "date": "Wed, 17 Jun 2026 11:07:24 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-06-17-cursor-is-officially-joining-spacex.md",
-    "chars": 21018
+    "id": "19ed8f9b77924659",
+    "newsletter": "ainews",
+    "subject": "[AINews] Midjourney Medical: scan your organs like you step on a scale",
+    "date": "Thu, 18 Jun 2026 04:23:05 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-06-18-ainews-midjourney-medical-scan-your-organs-like-you-step-on-a-scale.md",
+    "chars": 68065
+  },
+  {
+    "id": "19ede746f1e1cc5a",
+    "newsletter": "ainews",
+    "subject": "[AINews] GLM > GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
+    "date": "Fri, 19 Jun 2026 05:53:54 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md",
+    "chars": 50626
+  },
+  {
+    "id": "19ee415ab637342c",
+    "newsletter": "ainews",
+    "subject": "[AINews] not much happened today",
+    "date": "Sat, 20 Jun 2026 08:06:05 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-06-20-ainews-not-much-happened-today.md",
+    "chars": 49770
+  },
+  {
+    "id": "19eeab9f24c94522",
+    "newsletter": "ainews",
+    "subject": "[Exclusive] $250 off AI Engineer tix til Monday",
+    "date": "Sun, 21 Jun 2026 15:01:23 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/ainews-2026-06-21-exclusive-250-off-ai-engineer-tix-til-monday.md",
+    "chars": 2625
+  },
+  {
+    "id": "19ed19dd3f87da17",
+    "newsletter": "data-elixir",
+    "subject": "Data Elixir - Issue 577",
+    "date": "Tue, 16 Jun 2026 18:07:20 +0000 (UTC)",
+    "from": "Data Elixir <lon@dataelixir.com>",
+    "path": "raw/newsletters/data-elixir-2026-06-16-data-elixir-issue-577.md",
+    "chars": 7906
+  },
+  {
+    "id": "19e701b4044b912c",
+    "newsletter": "data-science-weekly",
+    "subject": "Data Science Weekly - Issue 653",
+    "date": "Thu, 28 May 2026 19:41:05 +0000",
+    "from": "Data Science Weekly Newsletter <datascienceweekly@substack.com>",
+    "path": "raw/newsletters/data-science-weekly-2026-05-28-data-science-weekly-issue-653.md",
+    "chars": 16107
+  },
+  {
+    "id": "19e92bf6da4e028c",
+    "newsletter": "data-science-weekly",
+    "subject": "Data Science Weekly - Issue 654",
+    "date": "Thu, 4 Jun 2026 13:02:35 +0000",
+    "from": "Data Science Weekly Newsletter <datascienceweekly@substack.com>",
+    "path": "raw/newsletters/data-science-weekly-2026-06-04-data-science-weekly-issue-654.md",
+    "chars": 14301
+  },
+  {
+    "id": "19eb8cab5eeaa9cd",
+    "newsletter": "data-science-weekly",
+    "subject": "Data Science Weekly - Issue 655",
+    "date": "Thu, 11 Jun 2026 22:25:19 +0000",
+    "from": "Data Science Weekly Newsletter <datascienceweekly@substack.com>",
+    "path": "raw/newsletters/data-science-weekly-2026-06-11-data-science-weekly-issue-655.md",
+    "chars": 16006
+  },
+  {
+    "id": "19edd1046600fad2",
+    "newsletter": "data-science-weekly",
+    "subject": "Data Science Weekly - Issue 656",
+    "date": "Thu, 18 Jun 2026 23:25:29 +0000",
+    "from": "Data Science Weekly Newsletter <datascienceweekly@substack.com>",
+    "path": "raw/newsletters/data-science-weekly-2026-06-18-data-science-weekly-issue-656.md",
+    "chars": 11781
+  },
+  {
+    "id": "19e6a8cea3575f41",
+    "newsletter": "latent-space",
+    "subject": "🔬ESMFold2: The Bitter Lesson is Coming for Proteins - Alex Rives, BioHub",
+    "date": "Wed, 27 May 2026 17:46:16 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-05-27-esmfold2-the-bitter-lesson-is-coming-for-proteins-alex-rives-biohub.md",
+    "chars": 8570
+  },
+  {
+    "id": "19e6fe68340a2de8",
+    "newsletter": "latent-space",
+    "subject": "The Age of Async Agents — Cognition's Walden Yan & OpenInspect's Cole Murray",
+    "date": "Thu, 28 May 2026 18:41:24 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-05-28-the-age-of-async-agents-cognition-s-walden-yan-openinspect-s-cole-murr.md",
+    "chars": 86580
+  },
+  {
+    "id": "19e83dab50fee3d0",
+    "newsletter": "latent-space",
+    "subject": "Why Video Agent models are next — Ethan He, xAI Grok Imagine Lead",
+    "date": "Mon, 1 Jun 2026 15:41:48 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-06-01-why-video-agent-models-are-next-ethan-he-xai-grok-imagine-lead.md",
+    "chars": 103617
+  },
+  {
+    "id": "19e893e23720b618",
+    "newsletter": "latent-space",
+    "subject": "GitHub's plan for Agents — Kyle Daigle, GitHub",
+    "date": "Tue, 2 Jun 2026 16:48:21 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-06-02-github-s-plan-for-agents-kyle-daigle-github.md",
+    "chars": 94517
+  },
+  {
+    "id": "19e8ef72bb2b0680",
+    "newsletter": "latent-space",
+    "subject": "🔬Scaling Past Informal AI - Carina Hong, Axiom Math",
+    "date": "Wed, 3 Jun 2026 19:27:49 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-06-03-scaling-past-informal-ai-carina-hong-axiom-math.md",
+    "chars": 9986
+  },
+  {
+    "id": "19e945e1ea571b3b",
+    "newsletter": "latent-space",
+    "subject": "Reality: The Final Eval — Lukas Petersson and Axel Backlund of Andon Labs",
+    "date": "Thu, 4 Jun 2026 20:39:18 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-06-04-reality-the-final-eval-lukas-petersson-and-axel-backlund-of-andon-labs.md",
+    "chars": 95730
+  },
+  {
+    "id": "19e992032c11bdc8",
+    "newsletter": "latent-space",
+    "subject": "How to Stop Shipping Low-Quality RL Environments (with Examples)",
+    "date": "Fri, 5 Jun 2026 18:49:40 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-06-05-how-to-stop-shipping-low-quality-rl-environments-with-examples.md",
+    "chars": 11129
   },
   {
     "id": "19ed6bdeb9ace1f1",
@@ -249,6 +303,240 @@
     "date": "Wed, 17 Jun 2026 17:58:06 +0000",
     "from": "\"Latent.Space\" <swyx@substack.com>",
     "path": "raw/newsletters/latent-space-2026-06-17-the-self-driving-lab-joseph-krause-radical-ai.md",
-    "chars": 10507
+    "chars": 10457
+  },
+  {
+    "id": "19edbcab356325b4",
+    "newsletter": "latent-space",
+    "subject": "The Professor of Outputmaxxing — Anjney Midha, AMP",
+    "date": "Thu, 18 Jun 2026 17:30:00 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-06-18-the-professor-of-outputmaxxing-anjney-midha-amp.md",
+    "chars": 73772
+  },
+  {
+    "id": "19e5b42527210fef",
+    "newsletter": "the-neuron",
+    "subject": "😸 Cursor just hit $3B. Elon wants it.",
+    "date": "Sun, 24 May 2026 18:31:59 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-05-24-cursor-just-hit-3b-elon-wants-it.md",
+    "chars": 21855
+  },
+  {
+    "id": "19e5ecf20fd443ea",
+    "newsletter": "the-neuron",
+    "subject": "😸 Voiceover artists are not going to like this",
+    "date": "Mon, 25 May 2026 11:04:14 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-05-25-voiceover-artists-are-not-going-to-like-this.md",
+    "chars": 20863
+  },
+  {
+    "id": "19e63f82477a116d",
+    "newsletter": "the-neuron",
+    "subject": "😺 Meta vs a random GitHub repo (GitHub won)",
+    "date": "Tue, 26 May 2026 11:06:56 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-05-26-meta-vs-a-random-github-repo-github-won.md",
+    "chars": 20716
+  },
+  {
+    "id": "19e691c05dcffee5",
+    "newsletter": "the-neuron",
+    "subject": "😺 The Pope’s Warning on AI's Babel",
+    "date": "Wed, 27 May 2026 11:04:31 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-05-27-the-pope-s-warning-on-ai-s-babel.md",
+    "chars": 22239
+  },
+  {
+    "id": "19e6e458cb21a1f3",
+    "newsletter": "the-neuron",
+    "subject": "😼 Robinhood agents can trade stocks now",
+    "date": "Thu, 28 May 2026 11:08:05 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-05-28-robinhood-agents-can-trade-stocks-now.md",
+    "chars": 20028
+  },
+  {
+    "id": "19e736cc103f284d",
+    "newsletter": "the-neuron",
+    "subject": "😺 What changed inside Claude Opus 4.8",
+    "date": "Fri, 29 May 2026 11:08:40 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-05-29-what-changed-inside-claude-opus-4-8.md",
+    "chars": 21340
+  },
+  {
+    "id": "19e7f1768659145e",
+    "newsletter": "the-neuron",
+    "subject": "😹 Grok killed a whole town in 4 days",
+    "date": "Sun, 31 May 2026 17:31:40 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-05-31-grok-killed-a-whole-town-in-4-days.md",
+    "chars": 24224
+  },
+  {
+    "id": "19e82de25b6c03be",
+    "newsletter": "the-neuron",
+    "subject": "😹 DuckDuckGo said hold my beer 🍺",
+    "date": "Mon, 01 Jun 2026 11:07:06 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-06-01-duckduckgo-said-hold-my-beer.md",
+    "chars": 21182
+  },
+  {
+    "id": "19e88052699f8ac7",
+    "newsletter": "the-neuron",
+    "subject": "😺 NVIDIA agents in your laptop?",
+    "date": "Tue, 02 Jun 2026 11:07:27 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-06-02-nvidia-agents-in-your-laptop.md",
+    "chars": 19836
+  },
+  {
+    "id": "19e8d2b69f3d3e34",
+    "newsletter": "the-neuron",
+    "subject": "😺 New Codex, Copilot, Hermes, Microst Build 2026 AI",
+    "date": "Wed, 03 Jun 2026 11:07:14 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-06-03-new-codex-copilot-hermes-microst-build-2026-ai.md",
+    "chars": 20225
+  },
+  {
+    "id": "19e92529367e936d",
+    "newsletter": "the-neuron",
+    "subject": "😺 Google Gemini got hijacked via WhatsApp",
+    "date": "Thu, 04 Jun 2026 11:07:27 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-06-04-google-gemini-got-hijacked-via-whatsapp.md",
+    "chars": 19734
+  },
+  {
+    "id": "19e973d12e23ece8",
+    "newsletter": "the-neuron",
+    "subject": "😺 Can AI Improve Itself?",
+    "date": "Fri, 05 Jun 2026 10:03:39 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-06-05-can-ai-improve-itself.md",
+    "chars": 20087
+  },
+  {
+    "id": "19ea330ffbed0ed6",
+    "newsletter": "the-neuron",
+    "subject": "😺 ChatGPT admitted it misremembers you",
+    "date": "Sun, 07 Jun 2026 17:45:55 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-06-07-chatgpt-admitted-it-misremembers-you.md",
+    "chars": 21053
+  },
+  {
+    "id": "19ea6e9009812abb",
+    "newsletter": "the-neuron",
+    "subject": "😺OpenAI admitted its product strategy was broken",
+    "date": "Mon, 08 Jun 2026 11:05:21 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-06-08-openai-admitted-its-product-strategy-was-broken.md",
+    "chars": 20239
+  },
+  {
+    "id": "19eac10bd056357b",
+    "newsletter": "the-neuron",
+    "subject": "😺 Siri finally gets its AI reset",
+    "date": "Tue, 09 Jun 2026 11:07:12 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-06-09-siri-finally-gets-its-ai-reset.md",
+    "chars": 20632
+  },
+  {
+    "id": "19eb24d34378bd5c",
+    "newsletter": "the-neuron",
+    "subject": "😺 Claude Fable = most controversial AI yet",
+    "date": "Wed, 10 Jun 2026 16:10:54 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-06-10-claude-fable-most-controversial-ai-yet.md",
+    "chars": 21087
+  },
+  {
+    "id": "19eb65ea2a7c43a3",
+    "newsletter": "the-neuron",
+    "subject": "😸 Real-time translation is finally real",
+    "date": "Thu, 11 Jun 2026 11:08:23 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-06-11-real-time-translation-is-finally-real.md",
+    "chars": 21214
+  },
+  {
+    "id": "19ebb8585ee903c8",
+    "newsletter": "the-neuron",
+    "subject": "🙀 What SpaceX's IPO really sold",
+    "date": "Fri, 12 Jun 2026 11:08:51 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-06-12-what-spacex-s-ipo-really-sold.md",
+    "chars": 19398
+  },
+  {
+    "id": "19ec76975e4e7a59",
+    "newsletter": "the-neuron",
+    "subject": "🙀 US Gov Shuts Down Claude Fable",
+    "date": "Sun, 14 Jun 2026 18:33:07 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-06-14-us-gov-shuts-down-claude-fable.md",
+    "chars": 25218
+  },
+  {
+    "id": "19ecaf5c24586876",
+    "newsletter": "the-neuron",
+    "subject": "😺 What 42 states want from OpenAI",
+    "date": "Mon, 15 Jun 2026 11:05:36 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-06-15-what-42-states-want-from-openai.md",
+    "chars": 21270
+  },
+  {
+    "id": "19ed01e0f9c7166c",
+    "newsletter": "the-neuron",
+    "subject": "😺 Your spam texts were built with Google's AI 🤯",
+    "date": "Tue, 16 Jun 2026 11:07:06 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-06-16-your-spam-texts-were-built-with-google-s-ai.md",
+    "chars": 23097
+  },
+  {
+    "id": "19ed5443bab5e517",
+    "newsletter": "the-neuron",
+    "subject": "😺 Cursor is officially joining SpaceX",
+    "date": "Wed, 17 Jun 2026 11:07:24 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-06-17-cursor-is-officially-joining-spacex.md",
+    "chars": 20778
+  },
+  {
+    "id": "19eda69ca003e65c",
+    "newsletter": "the-neuron",
+    "subject": "😺 Washington wants AI equity",
+    "date": "Thu, 18 Jun 2026 11:06:53 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-06-18-washington-wants-ai-equity.md",
+    "chars": 22266
+  },
+  {
+    "id": "19edf8f51bebd671",
+    "newsletter": "the-neuron",
+    "subject": "😺 Your doctor may ask ChatGPT next",
+    "date": "Fri, 19 Jun 2026 11:05:46 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-06-19-your-doctor-may-ask-chatgpt-next.md",
+    "chars": 20351
+  },
+  {
+    "id": "19eeb75744bf4c66",
+    "newsletter": "the-neuron",
+    "subject": "😼 How DeepMind would stop rogue agents",
+    "date": "Sun, 21 Jun 2026 18:32:54 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-06-21-how-deepmind-would-stop-rogue-agents.md",
+    "chars": 21098
   }
 ]

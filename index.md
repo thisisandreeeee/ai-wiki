@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.  
-> Last updated: 2026-06-21 | Total pages: 17
+> Last updated: 2026-06-23 | Total pages: 28
 
 ## Entities
 
@@ -11,6 +11,14 @@
 - [[google-deepmind]] — Agent-control roadmap and frontier-research context around DeepMind.
 - [[radical-ai]] — Materials-science company using self-driving labs for closed-loop alloy discovery.
 - [[amp]] — AI compute-grid company focused on utilization, scheduling, and infrastructure reliability.
+
+
+- [[anthropic]] — Frontier AI lab linking Claude coding agents, RSI claims, and access-control policy debates.
+- [[claude-opus-4-8]] — Anthropic coding/agent model that prefigured Fable-era workflow orchestration.
+- [[cognition]] — Async coding-agent company around Devin and enterprise engineering value measurement.
+- [[github]] — Developer collaboration layer adapting to agent-generated software work and trust pressure.
+- [[microsoft]] — Enterprise AI platform actor bundling MAI models, GitHub, Windows, Foundry, context, and evals.
+- [[nvidia]] — AI hardware and open-model actor spanning local agent systems, Cosmos, and Nemotron.
 
 ## Concepts
 
@@ -23,6 +31,12 @@
 - [[ai-healthcare]] — Health-oriented LLM and AI workflows with clinical validation and human-in-the-loop constraints.
 - [[model-labs-vs-agent-labs]] — Strategic split between foundation-model capability and durable agent/application systems.
 
+
+- [[ai-infrastructure-economics]] — Cost, compute, token, datacenter, and energy constraints behind AI agent growth.
+- [[real-world-agent-evaluations]] — Long-horizon, stateful, economic, and physical-world evals for agent behavior.
+- [[recursive-self-improvement]] — Model-assisted AI development as a near-term capability and governance feedback loop.
+- [[rl-environment-quality]] — Harness and simulator reliability as a prerequisite for training and evaluating agents.
+
 ## Comparisons
 
 - [[closed-vs-open-frontier-models]] — Tradeoffs between closed API capability and open/local resilience.
@@ -31,3 +45,5 @@
 ## Queries
 
 - [[two-week-briefing-2026-06-08-to-2026-06-21]] — Executive synthesis of the last-two-weeks newsletter corpus.
+
+- [[two-week-briefing-2026-05-24-to-2026-06-07]] — Backfill synthesis for the earlier half of the last-30-days corpus.
