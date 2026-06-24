@@ -27,9 +27,9 @@ MAX_PER_QUERY = 50
 SENDER_MAP = [
     ("the-neuron", "theneurondaily.com"),
     ("data-science-weekly", "Data Science Weekly"),
-    ("data-elixir", "Data Elixir"),
+    ("data-elixir", "dataelixir.com"),  # lon@dataelixir.com
     ("ainews", "AINews"),
-    ("latent-space", "Latent.Space"),  # Substack display name or swyx@substack
+    ("latent-space", "Latent.Space"),
 ]
 
 def classify_newsletter(msg: dict) -> str:
