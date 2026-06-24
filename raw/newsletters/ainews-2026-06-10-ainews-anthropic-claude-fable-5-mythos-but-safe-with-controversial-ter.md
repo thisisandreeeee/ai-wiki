@@ -6,8 +6,8 @@ thread_id: "19eafaa521720626"
 subject: "[AINews] Anthropic Claude Fable 5 — Mythos but Safe, with Controversial Terms"
 from: "AINews <swyx+ainews@substack.com>"
 date: "Wed, 10 Jun 2026 03:50:21 +0000"
-ingested: 2026-06-21
-sha256: 886343d700e7983f66b96760b6eedb1731c159e5a09fb5a5ad338b513e344530
+ingested: 2026-06-24
+sha256: 84b4eb74d675bd71e8b1a9244ec8ce00814643aeb9eda92e6a86c2670a27cca1
 ---
 View this post on the web at https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos
 

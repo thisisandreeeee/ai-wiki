@@ -6,8 +6,8 @@ thread_id: "19eda69ca003e65c"
 subject: "😺 Washington wants AI equity"
 from: "The Neuron <theneuron@newsletter.theneurondaily.com>"
 date: "Thu, 18 Jun 2026 11:06:53 +0000 (UTC)"
-ingested: 2026-06-21
-sha256: 9c0a668bfb524525ebb5570d6b50b1e0b8fad2d029fe7279299348d344fb3446
+ingested: 2026-06-24
+sha256: a40b27366d9427d0ccdf5b1fbb7e64959b9494f64e4a9a7cf8105da40ea404e4
 ---
 View image: (https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/9fd01602-45b9-4f76-b158-17a5656282b3/Gemini_Generated_Image_rk4pjhrk4pjhrk4p.png?t=1781764729)
 Caption: 

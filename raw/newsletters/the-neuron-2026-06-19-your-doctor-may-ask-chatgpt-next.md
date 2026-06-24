@@ -6,8 +6,8 @@ thread_id: "19edf8f51bebd671"
 subject: "😺 Your doctor may ask ChatGPT next"
 from: "The Neuron <theneuron@newsletter.theneurondaily.com>"
 date: "Fri, 19 Jun 2026 11:05:46 +0000 (UTC)"
-ingested: 2026-06-21
-sha256: 469066257d208cf81ed5eb5daab743a10b1cf2ec00b86e2a35f1997f827dfd3d
+ingested: 2026-06-24
+sha256: f962a9f0671143c911e76646c1d9218b56f4e7771ac91d9ef526fd206328e73b
 ---
 View image: (https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/089deeb9-b4e2-4f5e-b7b2-bcb233d9f06a/Gemini_Generated_Image_g40vs7g40vs7g40v.png?t=1781833899)
 Caption: 

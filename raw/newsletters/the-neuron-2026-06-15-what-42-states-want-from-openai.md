@@ -6,8 +6,8 @@ thread_id: "19ecaf5c24586876"
 subject: "😺 What 42 states want from OpenAI"
 from: "The Neuron <theneuron@newsletter.theneurondaily.com>"
 date: "Mon, 15 Jun 2026 11:05:36 +0000 (UTC)"
-ingested: 2026-06-21
-sha256: 3a7c26fd36229c007953c30e75c492b909db474164969d66bf0f167229cd49bd
+ingested: 2026-06-24
+sha256: c0fec388a85c94fb9de5fedbf5d97e6c8387d14c6821f6a33fb93e2f6fa4471d
 ---
 View image: (https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/36b3e288-bdc5-42b7-ba2a-32f9d6de5d37/image.png?t=1781511860)
 Caption: 

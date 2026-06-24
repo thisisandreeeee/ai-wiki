@@ -6,8 +6,8 @@ thread_id: "19ebf4197c257183"
 subject: "[AINews] Fable and Mythos officially too dangerous to release"
 from: "AINews <swyx+ainews@substack.com>"
 date: "Sat, 13 Jun 2026 04:30:52 +0000"
-ingested: 2026-06-21
-sha256: c7ad8252ab98e630d063a4b5f736792f75716d8b2e5ba1ac92a38025c1306f3d
+ingested: 2026-06-24
+sha256: 262d07f28bf037ed8a7ee10ba5a164c3d8a7f8cbe24bd774df72df9dc337027c
 ---
 View this post on the web at https://www.latent.space/p/ainews-fable-and-mythos-officially
 

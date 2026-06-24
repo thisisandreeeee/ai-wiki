@@ -6,8 +6,8 @@ thread_id: "19eb24d34378bd5c"
 subject: "😺 Claude Fable = most controversial AI yet"
 from: "The Neuron <theneuron@newsletter.theneurondaily.com>"
 date: "Wed, 10 Jun 2026 16:10:54 +0000 (UTC)"
-ingested: 2026-06-21
-sha256: 78fa79f17076b1bc4956eebf0574fbc4df76fa497926dca64538dbcce188dbd9
+ingested: 2026-06-24
+sha256: d56d603983dc869f4986576d75d305f5a21eba22d24af0d35cabfb82a5163550
 ---
 View image: (https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/a12541ba-0a0e-4faf-b082-eb19c69c428f/image.png?t=1781070478)
 Caption: 

@@ -6,8 +6,8 @@ thread_id: "19ed19dd3f87da17"
 subject: "Data Elixir - Issue 577"
 from: "Data Elixir <lon@dataelixir.com>"
 date: "Tue, 16 Jun 2026 18:07:20 +0000 (UTC)"
-ingested: 2026-06-21
-sha256: acb637f38d934e410e2bd10519220196cb62549a0309ff5675d462dafd945ca1
+ingested: 2026-06-24
+sha256: f5718f603a9c3edf50d5ddce6443d955ee2d29ca79fd257de55e8d34c7a437ad
 ---
 View image: (https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/6f434f58-89f0-497f-ad89-d11d87b653d2/dataelixir-banner1.png?t=1763243575)
 Follow image link: (https://dataelixir.com/)

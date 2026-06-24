@@ -6,8 +6,8 @@ thread_id: "19ec76975e4e7a59"
 subject: "🙀 US Gov Shuts Down Claude Fable"
 from: "The Neuron <theneuron@newsletter.theneurondaily.com>"
 date: "Sun, 14 Jun 2026 18:33:07 +0000 (UTC)"
-ingested: 2026-06-21
-sha256: 2a5f981ba2d8dc823b68a8ab951c295ca8994acc377e607b55eb00d19d939702
+ingested: 2026-06-24
+sha256: c59e4384473d286d61c2d26be73cfd467af340fb09142cb72d04e8a1bc008515
 ---
 View image: (https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/68a0cac9-7f68-4f3c-96bd-0e00aa907052/Gemini_Generated_Image_xysisaxysisaxysi.png?t=1781378768)
 Caption: 

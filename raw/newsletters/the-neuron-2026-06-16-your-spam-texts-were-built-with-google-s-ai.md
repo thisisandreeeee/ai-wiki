@@ -6,8 +6,8 @@ thread_id: "19ed01e0f9c7166c"
 subject: "😺 Your spam texts were built with Google's AI 🤯"
 from: "The Neuron <theneuron@newsletter.theneurondaily.com>"
 date: "Tue, 16 Jun 2026 11:07:06 +0000 (UTC)"
-ingested: 2026-06-21
-sha256: bb11645c3f29071ae5cf45a2049c068899481bfd91dcb5413fec6b43b92a04bd
+ingested: 2026-06-24
+sha256: fdaf62916582172b79d79ef14d7babf65979f9621405b50ab1f363775a03f135
 ---
 View image: (https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/ae8bfb82-fb80-483c-87e3-3de459aa176a/image.png?t=1781596299)
 Caption: 

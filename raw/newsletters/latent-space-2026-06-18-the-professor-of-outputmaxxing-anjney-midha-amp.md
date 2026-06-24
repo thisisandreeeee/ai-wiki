@@ -6,8 +6,8 @@ thread_id: "19edbcab356325b4"
 subject: "The Professor of Outputmaxxing — Anjney Midha, AMP"
 from: "\"Latent.Space\" <swyx@substack.com>"
 date: "Thu, 18 Jun 2026 17:30:00 +0000"
-ingested: 2026-06-21
-sha256: 5553572fc6a8bd83573d1e2db064c0a0ed86e0295e52b59c8fbb48ae51da5b8b
+ingested: 2026-06-24
+sha256: 33e4a49fc92da8342af937dc055073a9f1137d1ff8c98500f8533f2a5ee31255
 ---
 View this post on the web at https://www.latent.space/p/anj
 

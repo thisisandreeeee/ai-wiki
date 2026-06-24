@@ -6,8 +6,8 @@ thread_id: "19eb8cab5eeaa9cd"
 subject: "Data Science Weekly - Issue 655"
 from: "Data Science Weekly Newsletter <datascienceweekly@substack.com>"
 date: "Thu, 11 Jun 2026 22:25:19 +0000"
-ingested: 2026-06-21
-sha256: 08a6af94ab34a5072a11928854696b748ad285a914cbe41e717883c85ddf20a2
+ingested: 2026-06-24
+sha256: e2a2c8bb3523e30d1d031f5c18ae139ac46918def80add8b5f8ac302d047b4a7
 ---
 View this post on the web at https://datascienceweekly.substack.com/p/data-science-weekly-issue-655
 

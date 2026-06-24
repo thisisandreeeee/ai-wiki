@@ -6,8 +6,8 @@ thread_id: "19ed6bdeb9ace1f1"
 subject: "🔬 The Self-Driving Lab — Joseph Krause, Radical AI"
 from: "\"Latent.Space\" <swyx@substack.com>"
 date: "Wed, 17 Jun 2026 17:58:06 +0000"
-ingested: 2026-06-21
-sha256: 389211874c84bd8d2c76a65e1602c6a75362581b673e32d66ab2570c46d64648
+ingested: 2026-06-24
+sha256: 35b37c656a42504565ba7e65b3c013ce1832306c0b82a756683e0d9320c73aad
 ---
 View this post on the web at https://www.latent.space/p/radical-ai
 

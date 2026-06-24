@@ -6,8 +6,8 @@ thread_id: "19ee415ab637342c"
 subject: "[AINews] not much happened today"
 from: "AINews <swyx+ainews@substack.com>"
 date: "Sat, 20 Jun 2026 08:06:05 +0000"
-ingested: 2026-06-21
-sha256: 807ec1647b12d5347c1d982132966034ee09a2379b341b71cacc5fc6534f1f8e
+ingested: 2026-06-24
+sha256: 1b24791a773f99bff06d6303256eab1c0c1625d4ce2590579f1760adc4e38f03
 ---
 View this post on the web at https://www.latent.space/p/ainews-not-much-happened-today-e7b
 

@@ -6,8 +6,8 @@ thread_id: "19ed5443bab5e517"
 subject: "😺 Cursor is officially joining SpaceX"
 from: "The Neuron <theneuron@newsletter.theneurondaily.com>"
 date: "Wed, 17 Jun 2026 11:07:24 +0000 (UTC)"
-ingested: 2026-06-21
-sha256: ef14dcaaffd6558e3ecd8ff82eb6d42e8b62920f990f0c981a94c4fd104aee9f
+ingested: 2026-06-24
+sha256: d6f688b23ae359e2c6804d06f0e610d9099e531a70b9ce5cd54b905d253a0f13
 ---
 View image: (https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/2f0bc52f-b83c-4163-8c5c-a07528a8e7d4/Gemini_Generated_Image_x10xhkx10xhkx10x.png?t=1781679130)
 Caption: 

@@ -6,8 +6,8 @@ thread_id: "19eeb75744bf4c66"
 subject: "😼 How DeepMind would stop rogue agents"
 from: "The Neuron <theneuron@newsletter.theneurondaily.com>"
 date: "Sun, 21 Jun 2026 18:32:54 +0000 (UTC)"
-ingested: 2026-06-21
-sha256: 67f97ea5664db0521979f7f2d4cfce05abff0c09276ea34f7685e5ea75cda26c
+ingested: 2026-06-24
+sha256: 8fe9f0dc0db9539a8d81b38d5f9b27aba607f769762c001b102e417fe9890816
 ---
 View image: (https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/ed375032-633c-4d6e-b34a-b2795bf9fc92/Gemini_Generated_Image_k9l4fik9l4fik9l4.png?t=1781875743)
 Caption: 

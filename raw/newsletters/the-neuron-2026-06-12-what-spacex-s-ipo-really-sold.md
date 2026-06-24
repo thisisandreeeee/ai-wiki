@@ -6,8 +6,8 @@ thread_id: "19ebb8585ee903c8"
 subject: "🙀 What SpaceX's IPO really sold"
 from: "The Neuron <theneuron@newsletter.theneurondaily.com>"
 date: "Fri, 12 Jun 2026 11:08:51 +0000 (UTC)"
-ingested: 2026-06-21
-sha256: 56830104435c2a3348025f27d2afebd66c7c4de760ff54ef4f00462ed8b837eb
+ingested: 2026-06-24
+sha256: 387cd844b62d4bdb61cc7750432c760f9c0dc3036665fcf73aff9c2480f6185c
 ---
 View image: (https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/9a56fdcb-4653-4f2a-81ce-92d5b590e8eb/Gemini_Generated_Image_usnx6fusnx6fusnx.png?t=1781237076)
 Caption: 

@@ -6,8 +6,8 @@ thread_id: "19ed41814e8377de"
 subject: "[AINews] GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding"
 from: "AINews <swyx+ainews@substack.com>"
 date: "Wed, 17 Jun 2026 05:37:41 +0000"
-ingested: 2026-06-21
-sha256: 693ec7b51aa7057a5f9659ab952852befe01423fff28f61e51c16d3e8441baac
+ingested: 2026-06-24
+sha256: eb89db2bbe6306480ff43feb92efdb4a6dfbca841195cf6e244b00e456fd1800
 ---
 View this post on the web at https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding
 

@@ -6,8 +6,8 @@ thread_id: "19eb4aea23054f8b"
 subject: "[AINews] Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo"
 from: "AINews <swyx+ainews@substack.com>"
 date: "Thu, 11 Jun 2026 03:14:26 +0000"
-ingested: 2026-06-21
-sha256: 5724da830a5ba3ec452670e7f549ba3aa9e7d188ad22236680f5b4cb21217691
+ingested: 2026-06-24
+sha256: f74cb6ee7ae41d2a33087579515259227b330dcfd00e066ab9e4993118d3028f
 ---
 View this post on the web at https://www.latent.space/p/ainews-open-models-model-labs-vs
 

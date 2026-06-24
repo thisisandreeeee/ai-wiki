@@ -6,8 +6,8 @@ thread_id: "19ede746f1e1cc5a"
 subject: "[AINews] GLM > GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December"
 from: "AINews <swyx+ainews@substack.com>"
 date: "Fri, 19 Jun 2026 05:53:54 +0000"
-ingested: 2026-06-21
-sha256: a60ed5842efdfd84a80182f36b535657ceb1ba17fbd6bd20f8a0d0cabdcc1201
+ingested: 2026-06-24
+sha256: 557d17c3912867ea3ad393ef9399c8af3383b6df276fbde702db1f461c8606c7
 ---
 View this post on the web at https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe
 

@@ -6,8 +6,8 @@ thread_id: "19eba54bffc10481"
 subject: "[AINews] Loopcraft: The Art of Stacking Loops"
 from: "AINews <swyx+ainews@substack.com>"
 date: "Fri, 12 Jun 2026 05:34:09 +0000"
-ingested: 2026-06-21
-sha256: c54e374d0861a2ef34ca10a591ad3d96b50da80442bd287d135c6ed1e231dc8d
+ingested: 2026-06-24
+sha256: 1915a86279d2f6f274c85afc263a487053ff7341669c78f3705c2cb24f62a41f
 ---
 View this post on the web at https://www.latent.space/p/ainews-loopcraft-the-art-of-stacking
 

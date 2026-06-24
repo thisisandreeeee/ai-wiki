@@ -6,8 +6,8 @@ thread_id: "19eb65ea2a7c43a3"
 subject: "😸 Real-time translation is finally real"
 from: "The Neuron <theneuron@newsletter.theneurondaily.com>"
 date: "Thu, 11 Jun 2026 11:08:23 +0000 (UTC)"
-ingested: 2026-06-21
-sha256: 244c285ddff4632c9b4a7ee1b9dcd36716f98395a25016cb15d392ee81216691
+ingested: 2026-06-24
+sha256: eb13c51348e07bcdaa097c839f9250060c2f35b082146579099f45afdae7a829
 ---
 View image: (https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/e9276c1d-c1ed-4fe7-a4fe-3af02fd198a2/image.png?t=1781162166)
 Caption: 

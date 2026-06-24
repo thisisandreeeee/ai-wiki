@@ -6,8 +6,8 @@ thread_id: "19ece468a38258e5"
 subject: "[AINews] Satya on Loopcraft: Building Frontier Ecosystems"
 from: "AINews <swyx+ainews@substack.com>"
 date: "Tue, 16 Jun 2026 02:29:29 +0000"
-ingested: 2026-06-21
-sha256: 0213eac50ff1412b88a1dad94872c2c4de646c6bd909eb6cc3ea98fca98fa0a0
+ingested: 2026-06-24
+sha256: 5d5467cda71bda05b6ac14e9548e7fad6f6dcccfefa315d7b34ba3dc9e9d0b4b
 ---
 View this post on the web at https://www.latent.space/p/ainews-satya-on-loopcraft-building
 

@@ -16,14 +16,30 @@ ROOT = Path(__file__).resolve().parents[1]
 GOOGLE_API = Path(os.environ.get("HERMES_HOME", str(Path.home() / ".hermes"))) / "skills/productivity/google-workspace/scripts/google_api.py"
 
 QUERIES = [
-    ("the-neuron", '"The Neuron" newer_than:14d'),
-    ("data-science-weekly", '"Data Science Weekly" newer_than:14d'),
-    ("data-elixir", '"Data Elixir" newer_than:14d'),
-    ("ainews", '"AINews" newer_than:14d'),
-    ("latent-space", '"Latent Space" newer_than:14d'),
+    # Primary: label-based search catches all AI newsletters regardless of sender changes.
+    # Fallback: individual text queries for any that don't match the label.
+    ("label", 'label:Newsletters/AI newer_than:14d'),
 ]
 
-MAX_PER_QUERY = 20
+MAX_PER_QUERY = 50
+
+# Map sender patterns to newsletter slugs for filename categorization.
+SENDER_MAP = [
+    ("the-neuron", "theneurondaily.com"),
+    ("data-science-weekly", "Data Science Weekly"),
+    ("data-elixir", "Data Elixir"),
+    ("ainews", "AINews"),
+    ("latent-space", "Latent.Space"),  # Substack display name or swyx@substack
+]
+
+def classify_newsletter(msg: dict) -> str:
+    """Map a Gmail message to a newsletter slug based on sender/subject."""
+    sender = (msg.get("from") or "").lower()
+    subject = (msg.get("subject") or "")
+    for slug, pattern in SENDER_MAP:
+        if pattern.lower() in sender or pattern in subject:
+            return slug
+    return "newsletter"
 
 
 def run_api(*args: str):
@@ -59,7 +75,6 @@ def main() -> None:
     for newsletter, query in QUERIES:
         results = run_api("gmail", "search", query, "--max", str(MAX_PER_QUERY))
         for item in results:
-            item["newsletter_query"] = newsletter
             seen.setdefault(item["id"], item)
 
     out_dir = ROOT / "raw" / "newsletters"
@@ -73,7 +88,7 @@ def main() -> None:
         # Hash exactly what is stored after the closing frontmatter marker.
         stored_body = body + "\n"
         sha = hashlib.sha256(stored_body.encode("utf-8")).hexdigest()
-        newsletter = summary.get("newsletter_query") or "newsletter"
+        newsletter = classify_newsletter(msg) or classify_newsletter(summary)
         dslug = date_slug(msg.get("date") or summary.get("date", ""))
         sslug = slugify(msg.get("subject") or summary.get("subject", "newsletter"))
         path = out_dir / f"{newsletter}-{dslug}-{sslug}.md"

@@ -1,6 +1,6 @@
 ---
 source: gmail
-newsletter: "ainews"
+newsletter: "latent-space"
 message_id: "19eeab9f24c94522"
 thread_id: "19eeab9f24c94522"
 subject: "[Exclusive] $250 off AI Engineer tix til Monday"

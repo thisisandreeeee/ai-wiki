@@ -6,8 +6,8 @@ thread_id: "19ed8f9b77924659"
 subject: "[AINews] Midjourney Medical: scan your organs like you step on a scale"
 from: "AINews <swyx+ainews@substack.com>"
 date: "Thu, 18 Jun 2026 04:23:05 +0000"
-ingested: 2026-06-21
-sha256: 4597708a2837964c033f6d20fdccc7b32e7f4c87d2235b8b88bbf5faa491d6ff
+ingested: 2026-06-24
+sha256: 31ad4802bea4a80711b5757010e0b38d48669432eac13cb4aa6800421d72c74e
 ---
 View this post on the web at https://www.latent.space/p/ainews-midjourney-medical-scan-your
 
