@@ -1,10 +1,10 @@
 ---
 title: Anthropic
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-07-06
 type: entity
 tags: [ai, company, llm, tooling, policy]
-sources: [raw/newsletters/the-neuron-2026-06-05-can-ai-improve-itself.md, raw/newsletters/ainews-2026-06-05-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-05-29-ainews-anthropic-raises-965b-series-h-releases-opus-4-8-and-dynamic-wo.md, raw/newsletters/the-neuron-2026-05-29-what-changed-inside-claude-opus-4-8.md, raw/newsletters/ainews-2026-06-10-ainews-anthropic-claude-fable-5-mythos-but-safe-with-controversial-ter.md]
+sources: [raw/newsletters/the-neuron-2026-06-05-can-ai-improve-itself.md, raw/newsletters/ainews-2026-06-05-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-05-29-ainews-anthropic-raises-965b-series-h-releases-opus-4-8-and-dynamic-wo.md, raw/newsletters/the-neuron-2026-05-29-what-changed-inside-claude-opus-4-8.md, raw/newsletters/ainews-2026-06-10-ainews-anthropic-claude-fable-5-mythos-but-safe-with-controversial-ter.md, raw/newsletters/ainews-2026-06-24-ainews-claude-tag-multiplayer-proactive-persistent-agents-in-slack.md, raw/newsletters/ainews-2026-07-01-ainews-sonnet-5-today-and-fable-5-tomorrow.md, raw/newsletters/the-neuron-2026-07-01-fable-5-is-back-baby.md]
 confidence: high
 ---
 
@@ -17,9 +17,20 @@ confidence: high
 - The May–June corpus ties Anthropic to [[claude-opus-4-8]], Claude Code Dynamic Workflows, and later [[claude-fable-5]]. The through-line is not just better models; it is stronger coding agents, orchestration, and enterprise workflow capture.
 - The Neuron reported Anthropic’s internal claim that Claude authored more than 80% of production code merged in May 2026 and helped engineers merge 8x as much code per day as in 2024.
 - AINews framed Anthropic’s stronger models and agent tooling as part of a broader capability-acceleration loop, including Mythos/Fable-class systems and recursive self-improvement concerns.
-- The same capability story feeds policy concerns: access controls, pause proposals, and safety gates around frontier releases.
+- The same capability story feeds policy concerns: access controls, pause proposals, export-control restrictions, and safety gates around frontier releases.
+
+## July platform turn
+
+The late-June and early-July corpus adds an enterprise-product layer:
+
+- **Claude Tag** moved Claude into Slack as a delegated teammate, with enterprise/team beta access, admin-granted context, and audit/credential questions.
+- **Sonnet 5** became the default mid-tier model across Claude, Claude Code, API, and partner surfaces, emphasizing coding, tool use, cost-performance, and agentic workflows.
+- **Fable 5** returned after export-control disruption, but its rollout remained constrained by safeguards, approved-partner access, and capacity/plan ambiguity.
+
+Anthropic’s pattern is now both model release and workflow capture: stronger models, collaboration-surface integrations, and [[software-factories]]-style agent loops are advancing together.
 
 ## Links
 
 - Related models: [[claude-opus-4-8]], [[claude-fable-5]]
 - Related concepts: [[recursive-self-improvement]], [[frontier-model-access-controls]], [[coding-agent-evaluation]]
+- See also: [[software-factories]], [[weekly-briefing-2026-07-06]]

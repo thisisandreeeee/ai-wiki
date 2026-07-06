@@ -21,3 +21,11 @@
 - Added concise synthesis pages for Anthropic, Claude Opus 4.8, Cognition, Microsoft, GitHub, NVIDIA, real-world agent evals, recursive self-improvement, RL environment quality, and AI infrastructure economics.
 - Updated existing pages for coding-agent evaluation, local LLMs, OpenAI, and Google DeepMind.
 - Created `queries/two-week-briefing-2026-05-24-to-2026-06-07.md`.
+
+## [2026-07-06] synthesize | Weekly newsletter batch
+
+- Fetched 34 Gmail newsletter items; 30 were new raw newsletter files added to `raw/newsletters/`, with `raw/newsletters/manifest.json` refreshed by the fetch script.
+- Created `concepts/software-factories.md` and `queries/weekly-briefing-2026-07-06.md`.
+- Updated `entities/anthropic.md`, `entities/claude-fable-5.md`, `entities/openai.md`, `concepts/ai-infrastructure-economics.md`, `concepts/coding-agent-evaluation.md`, `concepts/frontier-model-access-controls.md`, `concepts/local-llms.md`, `concepts/recursive-self-improvement.md`, `concepts/self-driving-labs.md`, and `comparisons/closed-vs-open-frontier-models.md`.
+- Updated `index.md`; adjusted `scripts/lint_wiki.py` to validate raw newsletter hashes over raw bytes so CRLF newsletter bodies are checked without false mismatches.
+- Ran wiki validation before PR creation.

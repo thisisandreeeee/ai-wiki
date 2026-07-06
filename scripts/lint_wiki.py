@@ -97,14 +97,17 @@ def main() -> int:
 
     for raw in sorted((ROOT / "raw" / "newsletters").glob("*.md")):
         rel = raw.relative_to(ROOT)
-        text = raw.read_text(encoding="utf-8")
-        fm, body = split_frontmatter(text)
-        if fm is None:
+        raw_bytes = raw.read_bytes()
+        marker = b"\n---\n"
+        end = raw_bytes.find(marker, 4)
+        if not raw_bytes.startswith(b"---\n") or end == -1:
             errors.append(f"{rel}: missing raw frontmatter")
             continue
+        fm = raw_bytes[4:end].decode("utf-8", errors="replace")
+        body_bytes = raw_bytes[end + len(marker) :]
         data = parse_frontmatter(fm)
         expected = data.get("sha256")
-        actual = hashlib.sha256(body.encode("utf-8")).hexdigest()
+        actual = hashlib.sha256(body_bytes).hexdigest()
         if expected != actual:
             errors.append(f"{rel}: sha256 mismatch")
 
