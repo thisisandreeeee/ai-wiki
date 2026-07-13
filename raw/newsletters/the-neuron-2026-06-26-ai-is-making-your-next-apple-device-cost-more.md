@@ -6,7 +6,7 @@ thread_id: "19f039e5362a0b46"
 subject: "😺 AI is making your next Apple device cost more"
 from: "The Neuron <theneuron@newsletter.theneurondaily.com>"
 date: "Fri, 26 Jun 2026 11:08:23 +0000 (UTC)"
-ingested: 2026-07-06
+ingested: 2026-06-29
 sha256: f1fdf7b4e647aab29179c93259c9d9deb4ee922827be0ddd5538ce71692e57a1
 ---
 View image: (https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/decd57f1-749c-4ccf-90b6-b69ae13f0f5d/image.png?t=1782443992)

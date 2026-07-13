@@ -6,7 +6,7 @@ thread_id: "19f0f4ac8e01b7e7"
 subject: "😺 OpenAI vs Washington over GPT 5.6"
 from: "The Neuron <theneuron@newsletter.theneurondaily.com>"
 date: "Sun, 28 Jun 2026 17:32:48 +0000 (UTC)"
-ingested: 2026-07-06
+ingested: 2026-06-29
 sha256: 309063af27a183498a319d7fd74e9499a9e0f36df401b5a2e2e8a46d3d1f000d
 ---
 View image: (https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/d6f14420-6f45-44e9-a796-b4201a8dd8da/Gemini_Generated_Image_t1r76it1r76it1r7.png?t=1782524450)

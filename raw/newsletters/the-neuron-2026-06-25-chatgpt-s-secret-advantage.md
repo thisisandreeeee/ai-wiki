@@ -6,7 +6,7 @@ thread_id: "19efe791eff56e8d"
 subject: "😺 ChatGPT's secret advantage"
 from: "The Neuron <theneuron@newsletter.theneurondaily.com>"
 date: "Thu, 25 Jun 2026 11:09:28 +0000 (UTC)"
-ingested: 2026-07-06
+ingested: 2026-06-29
 sha256: 62022a95ef4a562a7c30d771463ebab89bde7f74e8d0caa1b2cb36b05922f007
 ---
 View image: (https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/c29e903d-0e18-45e9-a035-6b954e15d56a/Gemini_Generated_Image_yi98nyyi98nyyi98.png?t=1782368602)

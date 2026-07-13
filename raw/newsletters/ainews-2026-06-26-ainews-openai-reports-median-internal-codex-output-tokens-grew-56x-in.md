@@ -6,7 +6,7 @@ thread_id: "19f017f78b306363"
 subject: "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in …"
 from: "AINews <swyx+ainews@substack.com>"
 date: "Fri, 26 Jun 2026 01:12:30 +0000"
-ingested: 2026-07-06
+ingested: 2026-06-29
 sha256: fca1959f8b70d0945045336b2fbc2b9fcdbee47c31aa6b6ca7af17a6933a26cd
 ---
 View this post on the web at https://www.latent.space/p/ainews-openai-reports-median-internal
