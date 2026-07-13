@@ -6,7 +6,7 @@ thread_id: "19f078aee6b5fe62"
 subject: "[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners"
 from: "AINews <swyx+ainews@substack.com>"
 date: "Sat, 27 Jun 2026 05:23:22 +0000"
-ingested: 2026-07-06
+ingested: 2026-06-29
 sha256: 59bdcb529bca7c15a8f1a9fa869b145d86a6d661d5ec7b363340b25c37956284
 ---
 View this post on the web at https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna

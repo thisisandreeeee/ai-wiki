@@ -6,7 +6,7 @@ thread_id: "19ef94f9fde6c4d6"
 subject: "😺 AI glasses are $299. Do you need them?"
 from: "The Neuron <theneuron@newsletter.theneurondaily.com>"
 date: "Wed, 24 Jun 2026 11:06:36 +0000 (UTC)"
-ingested: 2026-07-06
+ingested: 2026-06-29
 sha256: cde9453e15ac0feae08991d3500f9aeff9273ae36e31a4a437c92b7e1e1e9a03
 ---
 View image: (https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/24a85f41-d73f-43a6-8279-472c85550d2f/Gemini_Generated_Image_icfmnoicfmnoicfm.png?t=1782288245)

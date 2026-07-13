@@ -6,7 +6,7 @@ thread_id: "19ef87c7e7c97252"
 subject: "[AINews] Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack"
 from: "AINews <swyx+ainews@substack.com>"
 date: "Wed, 24 Jun 2026 07:14:26 +0000"
-ingested: 2026-07-06
+ingested: 2026-06-29
 sha256: 11ef034364feb99828885a438cc270e77157c3381df6a427e20183beccc7d2cf
 ---
 View this post on the web at https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive

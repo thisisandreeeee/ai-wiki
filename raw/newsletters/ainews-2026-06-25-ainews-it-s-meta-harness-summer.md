@@ -6,7 +6,7 @@ thread_id: "19efc90434a4d299"
 subject: "[AINews] It's Meta-Harness Summer"
 from: "AINews <swyx+ainews@substack.com>"
 date: "Thu, 25 Jun 2026 02:14:08 +0000"
-ingested: 2026-07-06
+ingested: 2026-06-29
 sha256: 5d3149cef7b6d253036cd1464c3538448297b53163629c6e0d00859af47a7331
 ---
 View this post on the web at https://www.latent.space/p/ainews-its-meta-harness-summer

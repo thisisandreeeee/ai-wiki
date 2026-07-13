@@ -6,7 +6,7 @@ thread_id: "19efafd337a2e81a"
 subject: "Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks"
 from: "\"Latent.Space\" <swyx@substack.com>"
 date: "Wed, 24 Jun 2026 18:53:16 +0000"
-ingested: 2026-07-06
+ingested: 2026-06-29
 sha256: f6d0cb09fba43e8ea5a2316b33f333723b77c97f115a485ad65812a554d83478
 ---
 View this post on the web at https://www.latent.space/p/databricks
