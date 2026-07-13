@@ -1,11 +1,11 @@
 ---
 title: Software Factories
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-13
 type: concept
 tags: [ai, llm, tooling, trend]
-sources: [raw/newsletters/ainews-2026-07-01-aiewf-daily-dispatch-loops-software-factories-forward-deployed-enginee.md, raw/newsletters/ainews-2026-07-01-warp-ceo-zach-lloyd-on-why-software-factories-are-the-next-phase-of-co.md, raw/newsletters/ainews-2026-07-01-how-cursor-deploys-ai-inside-the-enterprise.md, raw/newsletters/ainews-2026-07-01-forward-deployed-engineers-and-the-future-of-software-engineering.md, raw/newsletters/ainews-2026-07-01-autoresearch-the-feedback-loop-behind-self-improving-agents.md, raw/newsletters/ainews-2026-07-03-vercel-s-andrew-qu-on-why-agents-are-a-new-kind-of-software.md, raw/newsletters/ainews-2026-07-03-aiewf-daily-dispatch-the-great-loops-debate-and-the-state-of-ai-engine.md]
-confidence: medium
+sources: [raw/newsletters/ainews-2026-07-01-aiewf-daily-dispatch-loops-software-factories-forward-deployed-enginee.md, raw/newsletters/ainews-2026-07-01-warp-ceo-zach-lloyd-on-why-software-factories-are-the-next-phase-of-co.md, raw/newsletters/ainews-2026-07-01-how-cursor-deploys-ai-inside-the-enterprise.md, raw/newsletters/ainews-2026-07-01-forward-deployed-engineers-and-the-future-of-software-engineering.md, raw/newsletters/ainews-2026-07-01-autoresearch-the-feedback-loop-behind-self-improving-agents.md, raw/newsletters/ainews-2026-07-03-vercel-s-andrew-qu-on-why-agents-are-a-new-kind-of-software.md, raw/newsletters/ainews-2026-07-03-aiewf-daily-dispatch-the-great-loops-debate-and-the-state-of-ai-engine.md, raw/newsletters/latent-space-2026-07-08-why-ai-infrastructure-must-evolve-for-agent-experience-akshat-bubna-mo.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/ainews-2026-07-11-ainews-not-much-happened-today.md]
+confidence: high
 ---
 
 # Software Factories
@@ -32,12 +32,20 @@ The common pattern is a move from **tool use** to **managed loops**:
 
 This makes [[coding-agent-evaluation]] and [[ai-infrastructure-economics]] first-class factory controls, not after-the-fact reporting.
 
+## July 13 update: harness is the product
+
+The new batch strengthens the factory thesis:
+
+- [[gpt-5-6]] shipped not only as models but with Work, Codex integration, programmatic tool calling, and multi-agent API support—evidence that the orchestration layer is becoming the product surface. [raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md:84-92]
+- AINews summarized a broader “harness is the product” theme: frontier model parity is tightening, so value shifts to routing, memory, tool use, safety rails, enterprise context, and cost control. [raw/newsletters/ainews-2026-07-11-ainews-not-much-happened-today.md:26-29]
+- [[modal]] reframed cloud infrastructure around [[agent-experience]]: agents need typed, observable, sandboxed loops where they can run code, inspect outputs, and recover from failure. [raw/newsletters/latent-space-2026-07-08-why-ai-infrastructure-must-evolve-for-agent-experience-akshat-bubna-mo.md:15-23]
+
 ## Cautions
 
-The same sources emphasize limits: loops can burn tokens, amplify low-quality code, and create long-term maintenance debt if verification is weak. The practical lesson is not “remove humans,” but move people to the points where judgment, taste, accountability, and risk review matter most.
+The same sources emphasize limits: loops can burn tokens, amplify low-quality code, hide subagent costs, and create long-term maintenance debt if verification is weak. The practical lesson is not “remove humans,” but move people to the points where judgment, taste, accountability, and risk review matter most.
 
 ## Links
 
-- Related concepts: [[coding-agent-evaluation]], [[recursive-self-improvement]], [[ai-infrastructure-economics]]
-- Related entities: [[anthropic]], [[openai]], [[github]]
+- Related concepts: [[coding-agent-evaluation]], [[recursive-self-improvement]], [[ai-infrastructure-economics]], [[agent-experience]]
+- Related entities: [[anthropic]], [[openai]], [[gpt-5-6]], [[grok-4-5]], [[github]], [[modal]]
 - Related governance: [[frontier-model-access-controls]], [[ai-control-roadmaps]]

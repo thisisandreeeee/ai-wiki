@@ -29,3 +29,11 @@
 - Updated `entities/anthropic.md`, `entities/claude-fable-5.md`, `entities/openai.md`, `concepts/ai-infrastructure-economics.md`, `concepts/coding-agent-evaluation.md`, `concepts/frontier-model-access-controls.md`, `concepts/local-llms.md`, `concepts/recursive-self-improvement.md`, `concepts/self-driving-labs.md`, and `comparisons/closed-vs-open-frontier-models.md`.
 - Updated `index.md`; adjusted `scripts/lint_wiki.py` to validate raw newsletter hashes over raw bytes so CRLF newsletter bodies are checked without false mismatches.
 - Ran wiki validation before PR creation.
+
+## [2026-07-13] synthesize | Weekly newsletter batch
+
+- Fetched 33 Gmail newsletter items; 12 were new raw newsletter files added to `raw/newsletters/`, with `raw/newsletters/manifest.json` refreshed by the fetch script.
+- Created `entities/gpt-5-6.md`, `entities/grok-4-5.md`, `entities/modal.md`, `concepts/agent-experience.md`, and `queries/weekly-briefing-2026-07-13.md`.
+- Updated `entities/openai.md`, `entities/anthropic.md`, `entities/claude-fable-5.md`, `concepts/software-factories.md`, `concepts/ai-infrastructure-economics.md`, `concepts/coding-agent-evaluation.md`, `concepts/recursive-self-improvement.md`, `concepts/ai-control-roadmaps.md`, and `concepts/frontier-model-access-controls.md`.
+- Updated `index.md` and preserved previously ingested raw newsletter files unchanged after the fetch script refreshed their `ingested` dates.
+- Ran wiki validation before PR creation.

@@ -9,22 +9,22 @@
     "chars": 23766
   },
   {
-    "id": "19f017f78b306363",
+    "id": "19f4ab1c86e44344",
     "newsletter": "ainews",
-    "subject": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in …",
-    "date": "Fri, 26 Jun 2026 01:12:30 +0000",
+    "subject": "[AINews] OpenAI launches GPT 5.6 Sol/Terra/Luna, Codex becomes ChatGPT superapp",
+    "date": "Fri, 10 Jul 2026 06:19:40 +0000",
     "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-06-26-ainews-openai-reports-median-internal-codex-output-tokens-grew-56x-in.md",
-    "chars": 48287
+    "path": "raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md",
+    "chars": 83662
   },
   {
-    "id": "19f039e5362a0b46",
+    "id": "19f4b970c0f48f13",
     "newsletter": "the-neuron",
-    "subject": "😺 AI is making your next Apple device cost more",
-    "date": "Fri, 26 Jun 2026 11:08:23 +0000 (UTC)",
+    "subject": "😺 ChatGPT swallowed Codex and Atlas",
+    "date": "Fri, 10 Jul 2026 10:33:06 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-06-26-ai-is-making-your-next-apple-device-cost-more.md",
-    "chars": 20482
+    "path": "raw/newsletters/the-neuron-2026-07-10-chatgpt-swallowed-codex-and-atlas.md",
+    "chars": 21722
   },
   {
     "id": "19f25519ae2970d6",
@@ -45,22 +45,13 @@
     "chars": 7905
   },
   {
-    "id": "19eef0233c5407e0",
+    "id": "19f36c4c0e5a9dbe",
     "newsletter": "the-neuron",
-    "subject": "😺 China's open model got scary",
-    "date": "Mon, 22 Jun 2026 11:05:45 +0000 (UTC)",
+    "subject": "😸 Cloudflare draws an AI bot line",
+    "date": "Mon, 06 Jul 2026 09:31:25 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-06-22-china-s-open-model-got-scary.md",
-    "chars": 20108
-  },
-  {
-    "id": "19ef12f1d61b4f7d",
-    "newsletter": "latent-space",
-    "subject": "Red-Teaming after Mythos — Zico Kolter & Matt Fredrikson, Gray Swan",
-    "date": "Mon, 22 Jun 2026 21:06:55 +0000",
-    "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/latent-space-2026-06-22-red-teaming-after-mythos-zico-kolter-matt-fredrikson-gray-swan.md",
-    "chars": 72288
+    "path": "raw/newsletters/the-neuron-2026-07-06-cloudflare-draws-an-ai-bot-line.md",
+    "chars": 17741
   },
   {
     "id": "19f12d50166b143d",
@@ -72,13 +63,13 @@
     "chars": 17867
   },
   {
-    "id": "19f078aee6b5fe62",
+    "id": "19f4f1992eb0e3c1",
     "newsletter": "ainews",
-    "subject": "[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners",
-    "date": "Sat, 27 Jun 2026 05:23:22 +0000",
+    "subject": "[AINews] not much happened today",
+    "date": "Sat, 11 Jul 2026 02:53:08 +0000",
     "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-06-27-ainews-openai-gpt-5-6-sol-terra-luna-restricted-to-trusted-partners.md",
-    "chars": 67728
+    "path": "raw/newsletters/ainews-2026-07-11-ainews-not-much-happened-today.md",
+    "chars": 41888
   },
   {
     "id": "19f335840b268aca",
@@ -90,13 +81,13 @@
     "chars": 20408
   },
   {
-    "id": "19f0f4ac8e01b7e7",
+    "id": "19f5764b1f239c03",
     "newsletter": "the-neuron",
-    "subject": "😺 OpenAI vs Washington over GPT 5.6",
-    "date": "Sun, 28 Jun 2026 17:32:48 +0000 (UTC)",
+    "subject": "😹 Apple is suing OpenAI?",
+    "date": "Sun, 12 Jul 2026 17:33:15 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-06-28-openai-vs-washington-over-gpt-5-6.md",
-    "chars": 19543
+    "path": "raw/newsletters/the-neuron-2026-07-12-apple-is-suing-openai.md",
+    "chars": 22813
   },
   {
     "id": "19f222b9bb9dbd32",
@@ -106,6 +97,15 @@
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
     "path": "raw/newsletters/the-neuron-2026-07-02-fable-5-first-reviews.md",
     "chars": 20089
+  },
+  {
+    "id": "19f466f6cd9aa03c",
+    "newsletter": "the-neuron",
+    "subject": "😺 ChatGPT can talk over you now",
+    "date": "Thu, 09 Jul 2026 10:32:02 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-07-09-chatgpt-can-talk-over-you-now.md",
+    "chars": 21771
   },
   {
     "id": "19f21786c77f7bf8",
@@ -144,40 +144,22 @@
     "chars": 7190
   },
   {
-    "id": "19efc90434a4d299",
+    "id": "19f457e9ca4ba0e0",
     "newsletter": "ainews",
-    "subject": "[AINews] It's Meta-Harness Summer",
-    "date": "Thu, 25 Jun 2026 02:14:08 +0000",
+    "subject": "[AINews] SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition",
+    "date": "Thu, 9 Jul 2026 06:05:41 +0000",
     "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-06-25-ainews-it-s-meta-harness-summer.md",
-    "chars": 38891
+    "path": "raw/newsletters/ainews-2026-07-09-ainews-spacexai-launches-grok-4-5-first-opus-class-model-post-cursor-a.md",
+    "chars": 78730
   },
   {
-    "id": "19efe791eff56e8d",
+    "id": "19f3c0391248e948",
     "newsletter": "the-neuron",
-    "subject": "😺 ChatGPT's secret advantage",
-    "date": "Thu, 25 Jun 2026 11:09:28 +0000 (UTC)",
+    "subject": "😼 Anthropic found Claude’s hidden workspace",
+    "date": "Tue, 07 Jul 2026 09:57:43 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-06-25-chatgpt-s-secret-advantage.md",
-    "chars": 19375
-  },
-  {
-    "id": "19ef324ff06f03f7",
-    "newsletter": "ainews",
-    "subject": "[AINews] SpaceX is already a $28B/yr Neocloud",
-    "date": "Tue, 23 Jun 2026 06:19:49 +0000",
-    "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-06-23-ainews-spacex-is-already-a-28b-yr-neocloud.md",
-    "chars": 50155
-  },
-  {
-    "id": "19ef3f06f29cbc52",
-    "newsletter": "the-neuron",
-    "subject": "😼 The model-choice trick behind Fugu",
-    "date": "Tue, 23 Jun 2026 10:04:40 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-06-23-the-model-choice-trick-behind-fugu.md",
-    "chars": 20873
+    "path": "raw/newsletters/the-neuron-2026-07-07-anthropic-found-claude-s-hidden-workspace.md",
+    "chars": 17865
   },
   {
     "id": "19f174b096c4a308",
@@ -207,6 +189,15 @@
     "chars": 10054
   },
   {
+    "id": "19f3ae73ded311e2",
+    "newsletter": "ainews",
+    "subject": "[AINews] The Field Guide to Fable",
+    "date": "Tue, 7 Jul 2026 04:44:53 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-07-07-ainews-the-field-guide-to-fable.md",
+    "chars": 46256
+  },
+  {
     "id": "19f1d1cb36ee6af2",
     "newsletter": "the-neuron",
     "subject": "😺 Fable 5 is back baby",
@@ -214,6 +205,15 @@
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
     "path": "raw/newsletters/the-neuron-2026-07-01-fable-5-is-back-baby.md",
     "chars": 21076
+  },
+  {
+    "id": "19f41698b08bdb63",
+    "newsletter": "the-neuron",
+    "subject": "😸 One rogue agent could hijack enterprise chatbots",
+    "date": "Wed, 08 Jul 2026 11:07:32 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-07-08-one-rogue-agent-could-hijack-enterprise-chatbots.md",
+    "chars": 19433
   },
   {
     "id": "19f1b0f3b2494bf6",
@@ -279,30 +279,21 @@
     "chars": 11783
   },
   {
-    "id": "19ef87c7e7c97252",
+    "id": "19f3f8842b2cbc9d",
     "newsletter": "ainews",
-    "subject": "[AINews] Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack",
-    "date": "Wed, 24 Jun 2026 07:14:26 +0000",
+    "subject": "[AINews] Lilian Weng summarizes 35 papers on Harness Engineering for RSI",
+    "date": "Wed, 8 Jul 2026 02:20:26 +0000",
     "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-06-24-ainews-claude-tag-multiplayer-proactive-persistent-agents-in-slack.md",
-    "chars": 74274
+    "path": "raw/newsletters/ainews-2026-07-08-ainews-lilian-weng-summarizes-35-papers-on-harness-engineering-for-rsi.md",
+    "chars": 52804
   },
   {
-    "id": "19ef94f9fde6c4d6",
-    "newsletter": "the-neuron",
-    "subject": "😺 AI glasses are $299. Do you need them?",
-    "date": "Wed, 24 Jun 2026 11:06:36 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-06-24-ai-glasses-are-299-do-you-need-them.md",
-    "chars": 20592
-  },
-  {
-    "id": "19efafd337a2e81a",
+    "id": "19f43f4e162edbbe",
     "newsletter": "latent-space",
-    "subject": "Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks",
-    "date": "Wed, 24 Jun 2026 18:53:16 +0000",
+    "subject": "Why AI Infrastructure must evolve for Agent Experience — Akshat Bubna, Modal CTO",
+    "date": "Wed, 8 Jul 2026 22:55:07 +0000",
     "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/latent-space-2026-06-24-why-the-frontier-ecosystem-must-be-open-matei-zaharia-and-reynold-xin.md",
-    "chars": 99227
+    "path": "raw/newsletters/latent-space-2026-07-08-why-ai-infrastructure-must-evolve-for-agent-experience-akshat-bubna-mo.md",
+    "chars": 75949
   }
 ]
