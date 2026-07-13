@@ -15,11 +15,17 @@
 - Covered Claude Fable/Mythos access controls, OpenAI product/policy strategy, GLM-5.2/open models, coding-agent evaluation, healthcare AI, self-driving labs, agent control, local LLMs, and reliable data workflows.
 - Updated `index.md` with all new pages and provenance-linked summaries.
 
-## [2026-06-29] synthesize | June 24–28 newsletter corpus
+## [2026-06-23] synthesize | Backfill last-30-days newsletter corpus
 
-- Synthesized 9 newsletters (4 AINews, 1 Latent Space, 4 The Neuron) from 2026-06-24 through 2026-06-28.
-- Created 6 new wiki pages: entities for GPT-5.6, Claude Tag, Databricks, and OpenAI Jalapeño Chip; concepts for meta-harnesses and AI memory chip shortage.
-- Updated 6 existing pages: OpenAI, Anthropic, Frontier Model Access Controls, GLM-5.2, AI Infrastructure Economics, Google DeepMind.
-- Created `queries/weekly-briefing-2026-06-24-to-2026-06-28.md`.
-- Key themes: GPT-5.6 government-gated launch, Claude Tag multiplayer agents, meta-harness infrastructure wave (Omnigent), AI DRAM shortage hitting consumer prices, and open models (GLM-5.2) gaining strategic urgency as frontier access bifurcates.
-- Updated `index.md` (28 → 35 pages) and `log.md`.
+- Backfilled raw newsletters from 2026-05-24 through 2026-06-07 to complete last-30-days coverage alongside the existing 2026-06-08 through 2026-06-21 ingest.
+- Added concise synthesis pages for Anthropic, Claude Opus 4.8, Cognition, Microsoft, GitHub, NVIDIA, real-world agent evals, recursive self-improvement, RL environment quality, and AI infrastructure economics.
+- Updated existing pages for coding-agent evaluation, local LLMs, OpenAI, and Google DeepMind.
+- Created `queries/two-week-briefing-2026-05-24-to-2026-06-07.md`.
+
+## [2026-07-06] synthesize | Weekly newsletter batch
+
+- Fetched 34 Gmail newsletter items; 30 were new raw newsletter files added to `raw/newsletters/`, with `raw/newsletters/manifest.json` refreshed by the fetch script.
+- Created `concepts/software-factories.md` and `queries/weekly-briefing-2026-07-06.md`.
+- Updated `entities/anthropic.md`, `entities/claude-fable-5.md`, `entities/openai.md`, `concepts/ai-infrastructure-economics.md`, `concepts/coding-agent-evaluation.md`, `concepts/frontier-model-access-controls.md`, `concepts/local-llms.md`, `concepts/recursive-self-improvement.md`, `concepts/self-driving-labs.md`, and `comparisons/closed-vs-open-frontier-models.md`.
+- Updated `index.md`; adjusted `scripts/lint_wiki.py` to validate raw newsletter hashes over raw bytes so CRLF newsletter bodies are checked without false mismatches.
+- Ran wiki validation before PR creation.

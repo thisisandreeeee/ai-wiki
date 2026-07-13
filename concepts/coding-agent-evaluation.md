@@ -1,10 +1,10 @@
 ---
 title: Coding Agent Evaluation
 created: 2026-06-21
-updated: 2026-06-23
+updated: 2026-07-06
 type: concept
 tags: [ai, llm, tooling, research]
-sources: [raw/newsletters/ainews-2026-06-09-ainews-frontiercode-benchmarking-for-code-quality-over-slop.md, raw/newsletters/the-neuron-2026-06-09-siri-finally-gets-its-ai-reset.md, raw/newsletters/the-neuron-2026-06-18-washington-wants-ai-equity.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/the-neuron-2026-06-21-how-deepmind-would-stop-rogue-agents.md]
+sources: [raw/newsletters/ainews-2026-06-09-ainews-frontiercode-benchmarking-for-code-quality-over-slop.md, raw/newsletters/the-neuron-2026-06-09-siri-finally-gets-its-ai-reset.md, raw/newsletters/the-neuron-2026-06-18-washington-wants-ai-equity.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/the-neuron-2026-06-21-how-deepmind-would-stop-rogue-agents.md, raw/newsletters/ainews-2026-06-26-ainews-openai-reports-median-internal-codex-output-tokens-grew-56x-in.md, raw/newsletters/ainews-2026-07-01-aiewf-daily-dispatch-loops-software-factories-forward-deployed-enginee.md, raw/newsletters/ainews-2026-07-01-warp-ceo-zach-lloyd-on-why-software-factories-are-the-next-phase-of-co.md, raw/newsletters/ainews-2026-07-03-aiewf-daily-dispatch-the-great-loops-debate-and-the-state-of-ai-engine.md]
 confidence: high
 ---
 
@@ -16,16 +16,17 @@ confidence: high
 
 - Cognition’s **FrontierCode** benchmark asks whether real maintainers would merge AI-written code, emphasizing regression safety, cleanliness, scope, test correctness, and maintainability.
 - AINews reported that Opus 4.8 scored only ~13% on the hardest FrontierCode subset, far below many conventional coding-benchmark pass rates.
-- Agent Arena and later AA-Briefcase pushed evaluation toward real-world traces, long-horizon knowledge work, tool use, steerability, bash recovery, and hallucinated actions.
+- Agent Arena and AA-Briefcase pushed evaluation toward real-world traces, long-horizon knowledge work, tool use, steerability, bash recovery, and hallucinated actions.
 - The Neuron’s “review by risk, not size” advice reframed AI code review around auth, payments, data access, PII, network calls, and production database writes.
 
-## Backfill: May 24–June 7
+## July update: evals become factory controls
 
-The earlier backfill adds three useful baselines:
+The AI Engineer World’s Fair batch shifts evaluation from model benchmarking into production operations:
 
-- [[github]] shows the operational pressure of agent-generated pull requests, CI runs, and maintainer review at machine speed.
-- [[real-world-agent-evaluations]] pushes beyond code-only tests into long-horizon state, money, users, and failure modes.
-- [[rl-environment-quality]] warns that broken harnesses can reward the wrong behavior before a model ever reaches production.
+- [[openai]] reported rapidly increasing internal Codex usage, which makes organizational evals and review controls more important than leaderboard claims.
+- [[software-factories]] need loop-level metrics: issue selection, specification quality, implementation correctness, review quality, verification, deployment safety, and monitoring.
+- The “great loops debate” emphasized verifiability, economic viability, and maintenance debt. One useful warning: teams cannot “orchestrate problems away” by buying more tokens.
+- Agent recipes and skill engineering make eval artifacts portable: judges, harnesses, traces, failures, and human expertise become part of the system being evaluated.
 
 ## Evaluation direction
 
@@ -34,9 +35,10 @@ Useful evals are becoming:
 - **mergeability-oriented** rather than unit-test-only;
 - **risk-aware** rather than line-count-aware;
 - **trace-based** rather than prompt/answer-only;
-- **workflow-level** rather than model-only.
+- **workflow-level** rather than model-only;
+- **cost-aware** rather than capability-only.
 
 ## Links
 
 - Related entities: [[claude-fable-5]], [[glm-5-2]], [[openai]]
-- Related concepts: [[ai-control-roadmaps]], [[frontier-model-access-controls]]
+- Related concepts: [[ai-control-roadmaps]], [[frontier-model-access-controls]], [[software-factories]]

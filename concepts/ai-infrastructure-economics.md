@@ -1,10 +1,10 @@
 ---
 title: AI Infrastructure Economics
 created: 2026-06-23
-updated: 2026-06-29
+updated: 2026-07-06
 type: concept
 tags: [ai, tooling, trend, company]
-sources: [raw/newsletters/the-neuron-2026-05-24-cursor-just-hit-3b-elon-wants-it.md, raw/newsletters/ainews-2026-05-27-ainews-new-ai-infra-decacorns-fireworks-baseten-with-openrouter-on-the.md, raw/newsletters/the-neuron-2026-05-31-grok-killed-a-whole-town-in-4-days.md, raw/newsletters/ainews-2026-06-06-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-06-24-ai-glasses-are-299-do-you-need-them.md, raw/newsletters/the-neuron-2026-06-26-ai-is-making-your-next-apple-device-cost-more.md, raw/newsletters/ainews-2026-06-27-ainews-openai-gpt-5-6-sol-terra-luna-restricted-to-trusted-partners.md, raw/newsletters/the-neuron-2026-06-28-openai-vs-washington-over-gpt-5-6.md]
+sources: [raw/newsletters/the-neuron-2026-05-24-cursor-just-hit-3b-elon-wants-it.md, raw/newsletters/ainews-2026-05-27-ainews-new-ai-infra-decacorns-fireworks-baseten-with-openrouter-on-the.md, raw/newsletters/the-neuron-2026-05-31-grok-killed-a-whole-town-in-4-days.md, raw/newsletters/ainews-2026-06-06-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-06-25-chatgpt-s-secret-advantage.md, raw/newsletters/the-neuron-2026-06-26-ai-is-making-your-next-apple-device-cost-more.md, raw/newsletters/latent-space-2026-06-24-why-the-frontier-ecosystem-must-be-open-matei-zaharia-and-reynold-xin.md, raw/newsletters/ainews-2026-07-03-aiewf-daily-dispatch-the-great-loops-debate-and-the-state-of-ai-engine.md, raw/newsletters/the-neuron-2026-07-03-openai-may-give-uncle-sam-5.md]
 confidence: high
 ---
 
@@ -18,39 +18,20 @@ confidence: high
 - At the same time, the corpus surfaced cost pushback: license cuts, token-spend controls, and concern that agents can burn budgets through tool calls and long contexts.
 - Hardware and energy constraints remained visible through NVIDIA local-agent systems, TSMC energy-efficiency comments, and estimates of AI-related data-center spending.
 
-## June 24–28: Memory crunch, cloud price hikes, and enterprise belt-tightening
+## July update
 
-### DRAM shortage hits consumers
+The latest batch adds four pressure points:
 
-The [[ai-memory-chip-shortage|global DRAM shortage]] driven by AI data center demand forced Apple to raise prices $100–$300 on MacBooks, iPads, and Vision Pro. Memory prices doubled since October 2025 with 30–40% more projected. Samsung, SK Hynix, and Micron — controlling global memory supply — are at peak revenue.
-
-### Cloud compute getting more expensive
-
-AWS raised NVIDIA GPU rental prices ~20%. The downstream effects of the memory crunch are appearing in cloud bills.
-
-### Enterprise cost pressure intensifies
-
-UBS reported **60% of companies** are curbing AI spend and shifting easier tasks to cheaper/open models. Some users spend up to $35K/month; teams exceed quotas by 200%; some companies cut internal AI tools from 5 to 2. This makes model routing, local deployment, and open ecosystems economically necessary.
-
-### Massive infrastructure deals
-
-- **SpaceX** signed a $6.3B compute deal with Reflection AI for NVIDIA GB300 access at Colossus 2 through 2029 ($150M/month).
-- **Groq** raised $650M to expand its AI inference cloud.
-- **Databricks** runs 50–60M VMs/day processing exabytes of data.
-
-### Cost optimization playbooks
-
-Coinbase's Brian Armstrong detailed a production playbook: cheaper defaults, routing, warm-cache reuse, lean context — cutting AI spend nearly in half while token usage kept growing. Cache hit rate improved from 5% → 60%. Baseten reported live draft-model training improving speculative decoding acceptance rates by 20% median.
-
-### Data center siting backlash
-
-Virginia residents reported 24/7 noise from natural-gas-turbine-powered data centers. John Carmack warned public opposition could become analogous to anti-nuclear sentiment, potentially slowing AI infrastructure deployment. The counter-argument: facilities should supply their own power/water and avoid residential siting.
+- [[openai]] and Broadcom’s reported Jalapeño chip points to vertical integration for inference cost control.
+- The Neuron linked AI datacenter demand to memory-chip scarcity and rising consumer-device costs, making AI infrastructure a supply-chain story beyond cloud budgets.
+- Databricks’ Omnigent discussion emphasized spend controls for agents that can burn hundreds of dollars through tool calls or log-reading loops.
+- The AI Engineer Survey reported cost as a practical limiter: many respondents said AI costs regularly or sometimes constrain how ambitiously they use AI, while token usage has become a closely monitored production metric.
 
 ## Why it matters
 
-Infrastructure economics is the constraint layer beneath [[local-llms]], [[coding-agent-evaluation]], and [[model-labs-vs-agent-labs]]. Better agents are only useful if teams can afford to run, observe, and govern them. Memory shortages and cloud price hikes are accelerating the shift toward efficient routing, local deployment, and open models.
+Infrastructure economics is the constraint layer beneath [[local-llms]], [[coding-agent-evaluation]], [[model-labs-vs-agent-labs]], and [[software-factories]]. Better agents are only useful if teams can afford to run, observe, and govern them.
 
 ## Links
 
-- Related entities: [[nvidia]], [[cognition]], [[github]], [[openai-jalapeno-chip]], [[databricks]]
-- Related concepts: [[local-llms]], [[model-labs-vs-agent-labs]], [[coding-agent-evaluation]], [[ai-memory-chip-shortage]]
+- Related entities: [[nvidia]], [[cognition]], [[github]], [[openai]]
+- Related concepts: [[local-llms]], [[model-labs-vs-agent-labs]], [[coding-agent-evaluation]]

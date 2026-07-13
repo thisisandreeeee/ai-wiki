@@ -1,10 +1,10 @@
 ---
 title: Local LLMs
 created: 2026-06-21
-updated: 2026-06-23
+updated: 2026-07-06
 type: concept
 tags: [ai, llm, tooling, model]
-sources: [raw/newsletters/data-elixir-2026-06-16-data-elixir-issue-577.md, raw/newsletters/data-science-weekly-2026-06-18-data-science-weekly-issue-656.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/ainews-2026-06-11-ainews-open-models-model-labs-vs-agent-labs-and-what-s-untrainable-sar.md]
+sources: [raw/newsletters/data-elixir-2026-06-16-data-elixir-issue-577.md, raw/newsletters/data-science-weekly-2026-06-18-data-science-weekly-issue-656.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/ainews-2026-06-11-ainews-open-models-model-labs-vs-agent-labs-and-what-s-untrainable-sar.md, raw/newsletters/ainews-2026-06-30-ahmad-osman-on-why-local-ai-is-catching-up.md, raw/newsletters/ainews-2026-06-30-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-07-02-ainews-not-much-happened-today.md]
 confidence: high
 ---
 
@@ -19,20 +19,18 @@ confidence: high
 - AINews showed why local matters strategically: [[glm-5-2]] and other open-weight models provide a hedge against closed-model pricing, outages, retention policies, and government access controls.
 - Local execution still has constraints: memory, throughput at long context, quantization quality, and integration with coding-agent harnesses.
 
-## Backfill: May 24–June 7
+## July update
 
-The earlier backfill broadens local AI from laptop LLMs into hybrid agent infrastructure:
+Ahmad Osman’s AIEWF local-AI workshop framed local models as increasingly serious infrastructure, not just hobbyist demos. His key point: the model is only one part of the system. Hosted products like ChatGPT or Claude Code include search, tools, fresh docs, orchestration, sandboxes, and deployment workflow around the model. Local AI catches up only when those layers are supplied too.
 
-- [[nvidia]]’s RTX Spark / GB10 story framed local hardware as an agent-development surface.
-- Gemma and Nemotron coverage showed open/local work moving across multimodal models, quantization, and datacenter-scale open weights.
-- Local deployment remains a cost, privacy, and resilience hedge against closed-model gating.
+The surrounding AINews digests also show continuing interest in GLM-5.2 local inference, llama.cpp support, GGUF conversion, and open-weight runtime benchmarks. The practical local-vs-cloud question is therefore shifting from “can the model run?” to “can the full agent system run reliably, affordably, and privately?”
 
 ## Why it matters
 
-Local LLMs are no longer just hobbyist infrastructure. They are a resilience layer for teams that need privacy, portability, cost control, and continuity when frontier APIs are gated or unavailable.
+Local LLMs are no longer just hobbyist infrastructure. They are a resilience layer for teams that need privacy, portability, cost control, and continuity when frontier APIs are gated or unavailable. They also provide evaluation baselines for [[software-factories]] that should not depend entirely on a single closed provider.
 
 ## Links
 
 - Related entities: [[glm-5-2]], [[claude-fable-5]]
-- Related concepts: [[frontier-model-access-controls]]
+- Related concepts: [[frontier-model-access-controls]], [[ai-infrastructure-economics]]
 - Related comparison: [[closed-vs-open-frontier-models]]
