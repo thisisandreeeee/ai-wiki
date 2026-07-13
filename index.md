@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.  
-> Last updated: 2026-07-13 | Total pages: 37
+> Last updated: 2026-07-13 | Total pages: 41
 
 ## Entities
 
@@ -15,8 +15,10 @@
 - [[github]] — Developer collaboration layer adapting to agent-generated software work and trust pressure.
 - [[glm-5-2]] — Breakout open-weight model framed as frontier-adjacent and strategically important for local/open AI.
 - [[google-deepmind]] — Agent-control roadmap and frontier-research context around DeepMind.
+- [[grok-4-5]] — xAI/SpaceXAI's July 2026 coding-and-agents-focused frontier model with a coding-agent evaluation harness.
 - [[gpt-5-6]] — OpenAI's flagship model family (Sol/Terra/Luna), restricted to trusted partners, at the center of access-control and regulatory debates.
 - [[microsoft]] — Enterprise AI platform actor bundling MAI models, GitHub, Windows, Foundry, context, and evals.
+- [[modal]] — AI cloud platform illustrating how infrastructure is being redesigned for agent-native workloads.
 - [[nvidia]] — AI hardware and open-model actor spanning local agent systems, Cosmos, and Nemotron.
 - [[openai]] — Product consolidation, GPT-5.6 release gating, infrastructure economics, regulatory scrutiny, and coding workflows around OpenAI.
 - [[openai-jalapeno-chip]] — OpenAI's rumored custom AI hardware chip, part of the infrastructure buildout to reduce dependence on NVIDIA.
@@ -24,6 +26,7 @@
 
 ## Concepts
 
+- [[agent-experience]] — Infrastructure, tools, APIs, observability, and guardrails designed for AI agents as first-class users.
 - [[ai-control-roadmaps]] — Operational security model for powerful AI agents with permissions, logs, monitors, and brakes.
 - [[ai-healthcare]] — Health-oriented LLM and AI workflows with clinical validation and human-in-the-loop constraints.
 - [[ai-infrastructure-economics]] — Cost, compute, token, datacenter, chip, and energy constraints behind AI agent growth.
@@ -51,3 +54,4 @@
 - [[two-week-briefing-2026-06-08-to-2026-06-21]] — Executive synthesis of the last-two-weeks newsletter corpus.
 - [[weekly-briefing-2026-06-24-to-2026-06-28]] — Synthesis of the June 24–28 newsletter batch covering Claude Tag, Meta-Harnesses, OpenAI Jalapeño, and the AI memory chip shortage.
 - [[weekly-briefing-2026-07-06]] — Weekly synthesis of the 2026-06-24 through 2026-07-05 newsletter batch.
+- [[weekly-briefing-2026-07-13]] — Weekly synthesis of the 2026-07-06 through 2026-07-13 batch covering GPT-5.6, Grok 4.5, Codex superapp, and agent-native infrastructure.

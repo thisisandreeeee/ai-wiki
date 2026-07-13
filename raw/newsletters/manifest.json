@@ -200,6 +200,31 @@
     "chars": 8644
   },
   {
+    "file": "ainews-2026-07-07-ainews-the-field-guide-to-fable.md",
+    "sha256": "8f9c92337be249bbcb15269d10c75e51893a067ab8b7f502fd7375cd5384c61b",
+    "chars": 46477
+  },
+  {
+    "file": "ainews-2026-07-08-ainews-lilian-weng-summarizes-35-papers-on-harness-engineering-for-rsi.md",
+    "sha256": "1a8585337fbf3132d0c02fcb179051f3274a6e53270f6193d417293367ae8323",
+    "chars": 53073
+  },
+  {
+    "file": "ainews-2026-07-09-ainews-spacexai-launches-grok-4-5-first-opus-class-model-post-cursor-a.md",
+    "sha256": "9f623687f5cff43bd91c1aafea9b473a33a1aa658631902248693ca38765a7b0",
+    "chars": 78787
+  },
+  {
+    "file": "ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md",
+    "sha256": "25df3650293f69059e157a6b4e72a6ea59deb1a04e985152d3ae7e3de2f74f71",
+    "chars": 83802
+  },
+  {
+    "file": "ainews-2026-07-11-ainews-not-much-happened-today.md",
+    "sha256": "7291f03fab3de198ef0291d3910f26bd8c3b3b4e755cd15e72015e3716d3db07",
+    "chars": 42134
+  },
+  {
     "file": "data-elixir-2026-06-16-data-elixir-issue-577.md",
     "sha256": "be14525245694d1bfbb5a5eae61f8f21f691559ba0bf87ccbde0873ced179483",
     "chars": 8232
@@ -288,6 +313,11 @@
     "file": "latent-space-2026-07-01-the-coolest-diffusion-research-isn-t-in-llms-evan-feinberg-sergey-edun.md",
     "sha256": "cd1d0fcca16d88cab8e86e7a4c26f68b69f17238ff19e78f203650ce8428552b",
     "chars": 11258
+  },
+  {
+    "file": "latent-space-2026-07-08-why-ai-infrastructure-must-evolve-for-agent-experience-akshat-bubna-mo.md",
+    "sha256": "98c92aac6f8364842cbd853e8242fa51c532425b00c633b00cfa09353374bd01",
+    "chars": 75654
   },
   {
     "file": "the-neuron-2026-05-24-cursor-just-hit-3b-elon-wants-it.md",
@@ -473,5 +503,35 @@
     "file": "the-neuron-2026-07-05-build-something-real-with-fable.md",
     "sha256": "80642ad10bc5eb5dfd32b7484023840393ecc6c9d89ad2d4e82593545183bf2c",
     "chars": 20518
+  },
+  {
+    "file": "the-neuron-2026-07-06-cloudflare-draws-an-ai-bot-line.md",
+    "sha256": "5fa7221c130323aaaf7a19fc4ec0b1c59c7894dd92e5a93b533d04f41398c42a",
+    "chars": 17867
+  },
+  {
+    "file": "the-neuron-2026-07-07-anthropic-found-claude-s-hidden-workspace.md",
+    "sha256": "35457e83888bd5708d63eb9a6ebf4bca17479d139b0fc87e86706e06dceffd85",
+    "chars": 18001
+  },
+  {
+    "file": "the-neuron-2026-07-08-one-rogue-agent-could-hijack-enterprise-chatbots.md",
+    "sha256": "3f04f61139a8489fe978f8688500fad661e4c9c3b256c17f0b60efdb5c3317b2",
+    "chars": 19553
+  },
+  {
+    "file": "the-neuron-2026-07-09-chatgpt-can-talk-over-you-now.md",
+    "sha256": "85265b1e75f6e2bc3c037298eb477953f2a4f4d32abe7488b5fff9fd3bf17ce7",
+    "chars": 21860
+  },
+  {
+    "file": "the-neuron-2026-07-10-chatgpt-swallowed-codex-and-atlas.md",
+    "sha256": "1228693f79a5808d5313e0a7b9ee2c24eb090f53915649a7fcef39426b3effa7",
+    "chars": 21828
+  },
+  {
+    "file": "the-neuron-2026-07-12-apple-is-suing-openai.md",
+    "sha256": "2098184e4c270d1b50d29e4aff4540ef67c8757582735810f08529692fcadb18",
+    "chars": 22900
   }
 ]

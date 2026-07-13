@@ -1,10 +1,10 @@
 ---
 title: Claude Fable 5
 created: 2026-06-21
-updated: 2026-07-06
+updated: 2026-07-13
 type: entity
 tags: [ai, llm, model, policy]
-sources: [raw/newsletters/the-neuron-2026-06-10-claude-fable-most-controversial-ai-yet.md, raw/newsletters/the-neuron-2026-06-14-us-gov-shuts-down-claude-fable.md, raw/newsletters/ainews-2026-06-11-ainews-open-models-model-labs-vs-agent-labs-and-what-s-untrainable-sar.md, raw/newsletters/ainews-2026-06-13-ainews-fable-and-mythos-officially-too-dangerous-to-release.md, raw/newsletters/the-neuron-2026-06-19-your-doctor-may-ask-chatgpt-next.md, raw/newsletters/ainews-2026-07-01-ainews-sonnet-5-today-and-fable-5-tomorrow.md, raw/newsletters/the-neuron-2026-07-01-fable-5-is-back-baby.md, raw/newsletters/the-neuron-2026-07-02-fable-5-first-reviews.md, raw/newsletters/the-neuron-2026-07-05-build-something-real-with-fable.md]
+sources: [raw/newsletters/the-neuron-2026-06-10-claude-fable-most-controversial-ai-yet.md, raw/newsletters/the-neuron-2026-06-14-us-gov-shuts-down-claude-fable.md, raw/newsletters/ainews-2026-06-11-ainews-open-models-model-labs-vs-agent-labs-and-what-s-untrainable-sar.md, raw/newsletters/ainews-2026-06-13-ainews-fable-and-mythos-officially-too-dangerous-to-release.md, raw/newsletters/the-neuron-2026-06-19-your-doctor-may-ask-chatgpt-next.md, raw/newsletters/ainews-2026-07-01-ainews-sonnet-5-today-and-fable-5-tomorrow.md, raw/newsletters/the-neuron-2026-07-01-fable-5-is-back-baby.md, raw/newsletters/the-neuron-2026-07-02-fable-5-first-reviews.md, raw/newsletters/the-neuron-2026-07-05-build-something-real-with-fable.md, raw/newsletters/ainews-2026-07-07-ainews-the-field-guide-to-fable.md, raw/newsletters/ainews-2026-07-08-ainews-lilian-weng-summarizes-35-papers-on-harness-engineering-for-rsi.md, raw/newsletters/ainews-2026-07-11-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-07-10-chatgpt-swallowed-codex-and-atlas.md]
 confidence: high
 ---
 
@@ -25,6 +25,15 @@ By July 1, the corpus reported that export controls had been lifted enough for F
 
 The first-review coverage framed Fable 5 as usable but still operationally unstable: builders were stress-testing it, Anthropic had added safeguards after the shutdown, and capacity/plan availability remained messy. The Neuron’s July 5 advice was to treat Fable like a scarce “weekend contractor”: plan cheaply, give it a concrete goal and finish line, then spend the expensive model run on work that genuinely needs it.
 
+## July 13 update: field guide and competitive pressure
+
+The new Fable material is more operational than launch-oriented:
+
+- The “Field Guide to Fable” emphasized **unhobbling**: older prompts and harnesses can constrain a new class of model, so teams should revisit how they elicit behavior. [raw/newsletters/ainews-2026-07-07-ainews-the-field-guide-to-fable.md:15-20]
+- Practical techniques included blindspot passes, wildly different design directions, interview/grill-me prompts, implementation notes, and quizzes to check the user’s own understanding. [raw/newsletters/ainews-2026-07-07-ainews-the-field-guide-to-fable.md:21-30]
+- AINews user reports characterize Fable as strongest for project outlining, gap analysis, codebase understanding, architecture decisions, and avoiding dead-end paths, not necessarily for every local code-generation step. [raw/newsletters/ainews-2026-07-07-ainews-the-field-guide-to-fable.md:89-93]
+- The week’s [[gpt-5-6]] and [[grok-4-5]] launches put Fable under cost/performance pressure, especially where Sol/Terra or Grok can match parts of the coding-agent workload at lower cost. [raw/newsletters/the-neuron-2026-07-10-chatgpt-swallowed-codex-and-atlas.md:88-90]
+
 ## Why it mattered
 
 Fable 5 made three themes concrete:
@@ -39,6 +48,6 @@ Treat Fable-class models as unstable strategic dependencies. Teams should keep e
 
 ## Links
 
-- Related concepts: [[frontier-model-access-controls]], [[coding-agent-evaluation]], [[ai-control-roadmaps]]
-- Related entities: [[anthropic]], [[glm-5-2]], [[openai]]
-- See also: [[closed-vs-open-frontier-models]], [[weekly-briefing-2026-07-06]]
+- Related concepts: [[frontier-model-access-controls]], [[coding-agent-evaluation]], [[ai-control-roadmaps]], [[agent-experience]]
+- Related entities: [[anthropic]], [[gpt-5-6]], [[grok-4-5]], [[openai]]
+- See also: [[closed-vs-open-frontier-models]], [[weekly-briefing-2026-07-13]]

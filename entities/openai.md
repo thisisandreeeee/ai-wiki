@@ -1,16 +1,16 @@
 ---
 title: OpenAI
 created: 2026-06-21
-updated: 2026-07-06
+updated: 2026-07-13
 type: entity
 tags: [ai, company, llm, policy, tooling]
-sources: [raw/newsletters/the-neuron-2026-06-08-openai-admitted-its-product-strategy-was-broken.md, raw/newsletters/the-neuron-2026-06-15-what-42-states-want-from-openai.md, raw/newsletters/the-neuron-2026-06-19-your-doctor-may-ask-chatgpt-next.md, raw/newsletters/ainews-2026-06-09-ainews-frontiercode-benchmarking-for-code-quality-over-slop.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/the-neuron-2026-06-25-chatgpt-s-secret-advantage.md, raw/newsletters/ainews-2026-06-26-ainews-openai-reports-median-internal-codex-output-tokens-grew-56x-in.md, raw/newsletters/ainews-2026-06-27-ainews-openai-gpt-5-6-sol-terra-luna-restricted-to-trusted-partners.md, raw/newsletters/the-neuron-2026-06-28-openai-vs-washington-over-gpt-5-6.md, raw/newsletters/the-neuron-2026-07-03-openai-may-give-uncle-sam-5.md]
+sources: [raw/newsletters/the-neuron-2026-06-08-openai-admitted-its-product-strategy-was-broken.md, raw/newsletters/the-neuron-2026-06-15-what-42-states-want-from-openai.md, raw/newsletters/the-neuron-2026-06-19-your-doctor-may-ask-chatgpt-next.md, raw/newsletters/ainews-2026-06-09-ainews-frontiercode-benchmarking-for-code-quality-over-slop.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/the-neuron-2026-06-25-chatgpt-s-secret-advantage.md, raw/newsletters/ainews-2026-06-26-ainews-openai-reports-median-internal-codex-output-tokens-grew-56x-in.md, raw/newsletters/ainews-2026-06-27-ainews-openai-gpt-5-6-sol-terra-luna-restricted-to-trusted-partners.md, raw/newsletters/the-neuron-2026-06-28-openai-vs-washington-over-gpt-5-6.md, raw/newsletters/the-neuron-2026-07-03-openai-may-give-uncle-sam-5.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/the-neuron-2026-07-10-chatgpt-swallowed-codex-and-atlas.md, raw/newsletters/the-neuron-2026-07-09-chatgpt-can-talk-over-you-now.md, raw/newsletters/the-neuron-2026-07-12-apple-is-suing-openai.md]
 confidence: high
 ---
 
 # OpenAI
 
-**OpenAI** appears in the corpus as a product consolidator, frontier-model gatekeeper, infrastructure builder, and regulatory target.
+**OpenAI** appears in the corpus as a product consolidator, frontier-model gatekeeper, infrastructure builder, regulatory target, and increasingly a full-stack work-platform company.
 
 ## Product strategy
 
@@ -29,17 +29,27 @@ Key implications:
 - GPT-5.6 Sol/Terra/Luna appeared as a restricted preview for trusted partners, with the corpus emphasizing coding, biology, cybersecurity, model-efficiency claims, and outside evaluation by METR.
 - The Neuron reported early discussions around a possible 5% U.S. government stake in OpenAI, tying OpenAI’s public-benefit rhetoric to concrete ownership and governance questions.
 
+## July 13 update: GPT-5.6 and the work superapp
+
+[[gpt-5-6]] moved from preview to public launch as **Sol**, **Terra**, and **Luna**. The release bundled ChatGPT Work, a new desktop app merging Codex and ChatGPT, Sites beta, programmatic tool calling, and multi-agent API support. AINews framed the important shift as OpenAI competing on cost-efficient agentic work, not just benchmark topping. [raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md:23-28]
+
+The Neuron described the same move as ChatGPT becoming a desktop super-app: GPT-5.6 plus Work can browse, use connected apps, edit files, operate the computer, schedule tasks, and create deliverables, while Codex moved inside the unified desktop app and Atlas-style browser features shifted into the app/sidebar. [raw/newsletters/the-neuron-2026-07-10-chatgpt-swallowed-codex-and-atlas.md:50-65]
+
+The launch also showed the cost of complexity: users struggled with Work vs Codex, three model tiers, multiple effort settings, quota resets, and opaque subagent costs. This makes [[agent-experience]] part of OpenAI’s strategic risk, not only a UI issue.
+
 ## Policy and legal pressure
 
 OpenAI faced a 42-state subpoena focused on advertising, engagement, consumer and health data, minors and seniors, and chatbot sycophancy. The newer GPT-5.6 and possible government-stake stories extend that pressure from consumer protection into [[frontier-model-access-controls]], model-release standards, and public upside sharing.
 
+The July 12 The Neuron issue added a hardware-interface conflict: Apple sued OpenAI, io Products, and former Apple employees over alleged trade-secret theft tied to OpenAI’s device ambitions. The source frames the case as a strategic collision between Apple’s control of device interfaces and OpenAI’s desire to own more of the user’s daily AI surface. [raw/newsletters/the-neuron-2026-07-12-apple-is-suing-openai.md:55-75]
+
 ## Health push
 
-OpenAI’s health coverage was significant: GPT-5.5 Instant was described as improved for health answers, while an OpenAI reasoning model helped clinicians surface 18 confirmed diagnoses from 376 previously unsolved pediatric rare-disease cases.
+OpenAI’s health coverage was significant: GPT-5.5 Instant was described as improved for health answers, while an OpenAI reasoning model helped clinicians surface 18 confirmed diagnoses from 376 previously unsolved pediatric rare-disease cases. The GPT-5.6 launch extended this health thread by positioning Luna and Sol as improved health-intelligence models, though those claims remain launch-week claims in this corpus.
 
 ## Links
 
-- Related concepts: [[ai-healthcare]], [[frontier-model-access-controls]], [[coding-agent-evaluation]]
+- Related models: [[gpt-5-6]], [[claude-fable-5]], [[grok-4-5]]
+- Related concepts: [[ai-healthcare]], [[frontier-model-access-controls]], [[coding-agent-evaluation]], [[agent-experience]]
 - Related comparisons: [[closed-vs-open-frontier-models]]
-- Related entities: [[claude-fable-5]], [[anthropic]]
-- See also: [[software-factories]], [[weekly-briefing-2026-07-06]]
+- See also: [[software-factories]], [[weekly-briefing-2026-07-13]]

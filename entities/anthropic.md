@@ -1,10 +1,10 @@
 ---
 title: Anthropic
 created: 2026-06-23
-updated: 2026-07-06
+updated: 2026-07-13
 type: entity
 tags: [ai, company, llm, tooling, policy]
-sources: [raw/newsletters/the-neuron-2026-06-05-can-ai-improve-itself.md, raw/newsletters/ainews-2026-06-05-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-05-29-ainews-anthropic-raises-965b-series-h-releases-opus-4-8-and-dynamic-wo.md, raw/newsletters/the-neuron-2026-05-29-what-changed-inside-claude-opus-4-8.md, raw/newsletters/ainews-2026-06-10-ainews-anthropic-claude-fable-5-mythos-but-safe-with-controversial-ter.md, raw/newsletters/ainews-2026-06-24-ainews-claude-tag-multiplayer-proactive-persistent-agents-in-slack.md, raw/newsletters/ainews-2026-07-01-ainews-sonnet-5-today-and-fable-5-tomorrow.md, raw/newsletters/the-neuron-2026-07-01-fable-5-is-back-baby.md]
+sources: [raw/newsletters/the-neuron-2026-06-05-can-ai-improve-itself.md, raw/newsletters/ainews-2026-06-05-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-05-29-ainews-anthropic-raises-965b-series-h-releases-opus-4-8-and-dynamic-wo.md, raw/newsletters/the-neuron-2026-05-29-what-changed-inside-claude-opus-4-8.md, raw/newsletters/ainews-2026-06-10-ainews-anthropic-claude-fable-5-mythos-but-safe-with-controversial-ter.md, raw/newsletters/ainews-2026-06-24-ainews-claude-tag-multiplayer-proactive-persistent-agents-in-slack.md, raw/newsletters/ainews-2026-07-01-ainews-sonnet-5-today-and-fable-5-tomorrow.md, raw/newsletters/the-neuron-2026-07-01-fable-5-is-back-baby.md, raw/newsletters/the-neuron-2026-07-07-anthropic-found-claude-s-hidden-workspace.md, raw/newsletters/ainews-2026-07-07-ainews-the-field-guide-to-fable.md, raw/newsletters/ainews-2026-07-08-ainews-lilian-weng-summarizes-35-papers-on-harness-engineering-for-rsi.md, raw/newsletters/the-neuron-2026-07-08-one-rogue-agent-could-hijack-enterprise-chatbots.md]
 confidence: high
 ---
 
@@ -29,8 +29,16 @@ The late-June and early-July corpus adds an enterprise-product layer:
 
 Anthropic’s pattern is now both model release and workflow capture: stronger models, collaboration-surface integrations, and [[software-factories]]-style agent loops are advancing together.
 
+## July 13 update: workspace, Cowork, and compute footprint
+
+The new batch adds three signals:
+
+- Anthropic’s J-space/global-workspace work claimed Claude has a small internal signal set that functions like a shared workspace for selected information; The Neuron and AINews both highlight it as potentially useful for inspecting model reasoning, while noting community pushback against consciousness framing. [raw/newsletters/the-neuron-2026-07-07-anthropic-found-claude-s-hidden-workspace.md:47-81]
+- Claude Cowork expanded to mobile and web, reinforcing Anthropic’s move from chat sessions toward long-running background agent work across devices. [raw/newsletters/ainews-2026-07-08-ainews-lilian-weng-summarizes-35-papers-on-harness-engineering-for-rsi.md:21-24]
+- The Neuron reported a 20-year TeraWulf lease tied to Anthropic at a data-campus site, making Anthropic part of the broader [[ai-infrastructure-economics]] story where AI labs reserve long-term power and datacenter capacity. [raw/newsletters/the-neuron-2026-07-08-one-rogue-agent-could-hijack-enterprise-chatbots.md:21-25]
+
 ## Links
 
-- Related models: [[claude-opus-4-8]], [[claude-fable-5]]
-- Related concepts: [[recursive-self-improvement]], [[frontier-model-access-controls]], [[coding-agent-evaluation]]
-- See also: [[software-factories]], [[weekly-briefing-2026-07-06]]
+- Related models: [[claude-opus-4-8]], [[claude-fable-5]], [[gpt-5-6]]
+- Related concepts: [[recursive-self-improvement]], [[frontier-model-access-controls]], [[coding-agent-evaluation]], [[ai-infrastructure-economics]]
+- See also: [[software-factories]], [[weekly-briefing-2026-07-13]]
