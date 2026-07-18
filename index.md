@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.  
-> Last updated: 2026-07-13 | Total pages: 41
+> Last updated: 2026-07-18 | Total pages: 50
 
 ## Entities
 
@@ -26,20 +26,28 @@
 
 ## Concepts
 
+- [[agent-reliability-and-operations]] — Production controls for agent quality, recovery, security, evaluation, incidents, and safe releases.
+- [[agentic-systems]] — Controlled LLM decision loops, durable state, harnesses, runtimes, and verification.
 - [[agent-experience]] — Infrastructure, tools, APIs, observability, and guardrails designed for AI agents as first-class users.
 - [[ai-control-roadmaps]] — Operational security model for powerful AI agents with permissions, logs, monitors, and brakes.
 - [[ai-healthcare]] — Health-oriented LLM and AI workflows with clinical validation and human-in-the-loop constraints.
 - [[ai-infrastructure-economics]] — Cost, compute, token, datacenter, chip, and energy constraints behind AI agent growth.
 - [[ai-memory-chip-shortage]] — Supply constraints on HBM and advanced memory chips as a bottleneck for AI hardware scaling.
+- [[attention-and-transformer-architecture]] — The attention equation, Transformer blocks, masking, encoder/decoder structure, MoE, and tensor-shape mental models.
 - [[coding-agent-evaluation]] — Shift from test-passing code benchmarks to mergeability, trace safety, cost-aware loops, and risk-aware review.
 - [[frontier-model-access-controls]] — Policy, product, safety, and trusted-partner gates that determine who receives frontier model capability.
 - [[local-llms]] — Local/open model deployment as a resilience, privacy, cost-control, and agent-system portability layer.
+- [[llm-application-interface]] — Model requests, structured output, tool calling, MCP, context management, and workflow selection.
+- [[llm-inference-on-gpus]] — GPU compute and memory constraints, KV cache, prefill/decode, and multi-GPU parallelism.
+- [[llm-inference-optimization]] — Serving metrics, batching, cache management, kernel IO, quantization, and optimization choices.
+- [[llm-training-lifecycle]] — Pretraining through post-training, SFT, DPO, RLHF/RLAIF, distillation, and LoRA.
 - [[meta-harnesses]] — Meta's internal evaluation and training harness infrastructure for frontier AI models.
 - [[model-labs-vs-agent-labs]] — Strategic split between foundation-model capability and durable agent/application systems.
 - [[real-world-agent-evaluations]] — Long-horizon, stateful, economic, and physical-world evals for agent behavior.
 - [[recursive-self-improvement]] — Model-assisted AI development as a near-term capability, autoresearch, and governance feedback loop.
 - [[reliable-data-pipelines]] — Data-engineering practices for trustworthy, reproducible analytics and AI workflows.
 - [[rl-environment-quality]] — Harness and simulator reliability as a prerequisite for training and evaluating agents.
+- [[retrieval-augmented-generation]] — Runtime evidence retrieval, index design, chunking, evaluation, and operational safeguards.
 - [[self-driving-labs]] — Closed-loop AI/robotics labs and science workflows that generate, test, and learn from physical experiments.
 - [[software-factories]] — Agent-orchestrated engineering loops for triage, implementation, review, verification, shipping, and monitoring.
 
@@ -55,3 +63,4 @@
 - [[weekly-briefing-2026-06-24-to-2026-06-28]] — Synthesis of the June 24–28 newsletter batch covering Claude Tag, Meta-Harnesses, OpenAI Jalapeño, and the AI memory chip shortage.
 - [[weekly-briefing-2026-07-06]] — Weekly synthesis of the 2026-06-24 through 2026-07-05 newsletter batch.
 - [[weekly-briefing-2026-07-13]] — Weekly synthesis of the 2026-07-06 through 2026-07-13 batch covering GPT-5.6, Grok 4.5, Codex superapp, and agent-native infrastructure.
+- [[technical-interview-study-guide]] — Learning order and understanding checks mapped to the technical-interview question bank.
