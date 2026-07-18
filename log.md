@@ -37,3 +37,10 @@
 - Updated `entities/openai.md`, `entities/anthropic.md`, `entities/claude-fable-5.md`, `concepts/software-factories.md`, `concepts/ai-infrastructure-economics.md`, `concepts/coding-agent-evaluation.md`, `concepts/recursive-self-improvement.md`, `concepts/ai-control-roadmaps.md`, and `concepts/frontier-model-access-controls.md`.
 - Updated `index.md` and preserved previously ingested raw newsletter files unchanged after the fetch script refreshed their `ingested` dates.
 - Ran wiki validation before PR creation.
+
+## [2026-07-18] synthesize | Technical-interview learning resources
+
+- Synthesized eight user-provided ChatGPT learning resources and an attached technical-interview question bank into durable notes on LLM training, Transformer architecture, application interfaces, RAG, agent systems, agent operations, GPU inference, and serving optimization.
+- Added `queries/technical-interview-study-guide.md` as a coverage map that emphasizes mechanism, trade-offs, failure modes, and production design rather than rote answers.
+- Added a source manifest with original share URLs and hashes for the fetched text and attached PDF; preserved the raw newsletter corpus unchanged.
+- Updated `index.md` and ran wiki validation before PR creation.
