@@ -44,3 +44,11 @@
 - Added `queries/technical-interview-study-guide.md` as a coverage map that emphasizes mechanism, trade-offs, failure modes, and production design rather than rote answers.
 - Added a source manifest with original share URLs and hashes for the fetched text and attached PDF; preserved the raw newsletter corpus unchanged.
 - Updated `index.md` and ran wiki validation before PR creation.
+
+## [2026-07-20] synthesize | Weekly newsletter batch
+
+- Fetched 25 Gmail newsletter items; 13 were new raw newsletter files added to `raw/newsletters/`, with `raw/newsletters/manifest.json` regenerated to include all 120 raw newsletter captures.
+- Preserved previously ingested raw newsletter files unchanged after the fetch script refreshed their `ingested` dates.
+- Created `entities/kimi-k3.md`, `entities/inkling.md`, and `queries/weekly-briefing-2026-07-20.md`.
+- Updated `entities/openai.md`, `entities/gpt-5-6.md`, `concepts/ai-infrastructure-economics.md`, `concepts/software-factories.md`, `concepts/frontier-model-access-controls.md`, `concepts/self-driving-labs.md`, and `comparisons/closed-vs-open-frontier-models.md`.
+- Updated `index.md` and ran wiki validation before PR creation.

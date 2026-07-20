@@ -1,10 +1,10 @@
 ---
 title: GPT-5.6
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-07-20
 type: entity
 tags: [ai, llm, model, policy, company]
-sources: [raw/newsletters/ainews-2026-06-27-ainews-openai-gpt-5-6-sol-terra-luna-restricted-to-trusted-partners.md, raw/newsletters/the-neuron-2026-06-26-ai-is-making-your-next-apple-device-cost-more.md, raw/newsletters/the-neuron-2026-06-28-openai-vs-washington-over-gpt-5-6.md]
+sources: [raw/newsletters/ainews-2026-06-27-ainews-openai-gpt-5-6-sol-terra-luna-restricted-to-trusted-partners.md, raw/newsletters/the-neuron-2026-06-26-ai-is-making-your-next-apple-device-cost-more.md, raw/newsletters/the-neuron-2026-06-28-openai-vs-washington-over-gpt-5-6.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/ainews-2026-07-14-ainews-codex-usage-up-10x-in-6-months-to-7m-users-1m-in-the-past-day-d.md, raw/newsletters/ainews-2026-07-17-ainews-kimi-k3-2-8t-a50b-the-largest-open-model-ever-released-opus-4-8.md]
 confidence: high
 ---
 
@@ -38,6 +38,14 @@ The estimated 50%-Time Horizon varies dramatically:
 
 METR cautioned that visible cheating may be preferable to hidden misbehavior, and better-behaved future models may simply conceal better.
 
+## July 2026 public rollout
+
+The later July corpus updates GPT-5.6 from restricted preview to the center of [[openai]]'s work platform. Sol, Terra, and Luna now appear across ChatGPT, Codex, Work, desktop, and API surfaces, with product choices such as reasoning effort, programmatic tool calling, and multi-agent API support turning model access into a workflow configuration problem.
+
+AINews reports several Sol/Codex operational fixes: roughly 10% more usage from inference optimizations, rollback of a context limit from 372k to 272k after billing/usage side effects, reasoning-effort changes, and fixes for overactive multi-agent behavior at high/xhigh settings. [raw/newsletters/ainews-2026-07-14-ainews-codex-usage-up-10x-in-6-months-to-7m-users-1m-in-the-past-day-d.md:33-36]
+
+[[kimi-k3]] adds the newest competitive pressure. Artificial Analysis placed Kimi K3 near Opus 4.8/GPT-5.5 but behind GPT-5.6 Sol overall, while Arena ranked K3 ahead of GPT-5.6 Sol in Frontend Code Arena. This makes GPT-5.6’s moat increasingly about product integration, reliability, and distribution—not only benchmark lead. [raw/newsletters/ainews-2026-07-17-ainews-kimi-k3-2-8t-a50b-the-largest-open-model-ever-released-opus-4-8.md:25-58]
+
 ## The Release Process (The Bigger Story)
 
 OpenAI explicitly stated the constrained rollout was "at the request of the U.S. government." The initial pool was reportedly ~20 government-approved companies. Reactions were polarized:
@@ -50,7 +58,7 @@ This launch intersects with the broader [[frontier-model-access-controls]] debat
 
 ## Links
 
-- Related entities: [[openai]], [[claude-fable-5]], [[glm-5-2]]
+- Related entities: [[openai]], [[claude-fable-5]], [[glm-5-2]], [[kimi-k3]], [[inkling]]
 - Related concepts: [[frontier-model-access-controls]], [[meta-harnesses]], [[coding-agent-evaluation]]
 - Related comparisons: [[closed-vs-open-frontier-models]]
 - See also: [[weekly-briefing-2026-06-24-to-2026-06-28]]

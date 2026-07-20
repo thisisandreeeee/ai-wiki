@@ -1,537 +1,602 @@
 [
   {
     "file": "ainews-2026-05-27-ainews-new-ai-infra-decacorns-fireworks-baseten-with-openrouter-on-the.md",
-    "sha256": "a79dcc2ba2b8abbbf35e92e9edb4b3163606d751f69d34bb44c9bb30964b0f0b",
-    "chars": 42374
+    "sha256": "a3e8ddd5568db3a7cfc255134729999213b47a0f8b237278132acebb38ce6aaa",
+    "chars": 42001
   },
   {
     "file": "ainews-2026-05-28-ainews-cognition-raises-1b-in-26b-series-d.md",
-    "sha256": "09ff1cfdea3f72dc961aad50e6d2541a473e8ac5e53745f63ee4ce70e31338c1",
-    "chars": 43663
+    "sha256": "a29bff3ebec83cb750c689a44c793ed03f9dd981930693faf9a2d880daf94773",
+    "chars": 43324
   },
   {
     "file": "ainews-2026-05-29-ainews-anthropic-raises-965b-series-h-releases-opus-4-8-and-dynamic-wo.md",
-    "sha256": "89184a2aaaa46ed04e435d26340498f012f84b41055e2732929969d8fcdd81eb",
-    "chars": 69316
+    "sha256": "b1ad6b49e37c0f2a5b4d6127451d29ee2376bc3e99fa665a6b6c211feb907954",
+    "chars": 68932
   },
   {
     "file": "ainews-2026-05-30-ainews-founders-and-forward-deployed-engineers.md",
-    "sha256": "9afe0532d815ec9b98de8a0ae6c15945b0ccaa8fb20b3bb80bd8cadca782ad99",
-    "chars": 43477
+    "sha256": "1f5f721d6487a2a43b836eee809b5dff1609b927e8908974369f9a1845dd4cd2",
+    "chars": 43136
   },
   {
     "file": "ainews-2026-06-02-ainews-nvidia-cosmos-3-nemotron-3-ultra-and-rtx-spark.md",
-    "sha256": "ca83ef15a78bbdd9d81d7b10ac90f527cc296cdb17bc0f73f5957060f9559e6c",
-    "chars": 39365
+    "sha256": "274e7be2c3053a5aa2b4ca6f19da5e7ddd994ae66cbc7af402d2f3e4d4178693",
+    "chars": 39016
   },
   {
     "file": "ainews-2026-06-03-ainews-microsoft-build-mai-thinking-1-and-mai-family-models.md",
-    "sha256": "e6a69780eb29bcccc37af8f172739c4e341242f3292d4942fbcf995b70a719be",
-    "chars": 60606
+    "sha256": "ab5e67349078d5907a0d2bb218fb1b0ea0cd44dd4a2d81df52c61feb8638142f",
+    "chars": 60252
   },
   {
     "file": "ainews-2026-06-03-satya-nadella-no-priors-x-latent-space-crossover-special-at-microsoft.md",
-    "sha256": "2aab63d59136d6caa8cc55e6ee5792bae1a97b4d51e516492414300096327813",
-    "chars": 45243
+    "sha256": "1e8378d6bff8403541900aeeadcec331c3638b90c9dac1b1c158a48d9895c118",
+    "chars": 44870
   },
   {
     "file": "ainews-2026-06-04-ainews-reve-2-and-ideogram-4-layouts-in-imagegen.md",
-    "sha256": "a09bbffdaa269768449b7770119ce0315b750ae166e6fe788a1fba85e86341be",
-    "chars": 47370
+    "sha256": "7d5e759cf0897da1bb79eeac6f020d0a6070ed09cff1a7fbb9b42c3b98845d46",
+    "chars": 47027
   },
   {
     "file": "ainews-2026-06-05-ainews-not-much-happened-today.md",
-    "sha256": "b624bd0dacebbb23c649ffcf193480075a0fbb77f4a3889a9a75e64d23d3a539",
-    "chars": 49735
+    "sha256": "852607c5464b33c0cb76d561d46d6463e24dfff67c67d3302929ac7515aec338",
+    "chars": 49411
   },
   {
     "file": "ainews-2026-06-06-ainews-not-much-happened-today.md",
-    "sha256": "6fc6fc215936552c32b791da231be1fe7abe5d80df30c031349377cbb5b866be",
-    "chars": 45749
+    "sha256": "2924c21372c6393022e941f8d7b176eede707766df4e801083b754430ca554b1",
+    "chars": 45425
   },
   {
     "file": "ainews-2026-06-09-ainews-frontiercode-benchmarking-for-code-quality-over-slop.md",
-    "sha256": "0964bc19c9d7e52aecc12d0d7afc38b108e056c4e1da8ee3cb6baacddbf21d74",
-    "chars": 42849
+    "sha256": "44b44828190277d1d2416374edea830999945eea728688dff91d3823eda7c479",
+    "chars": 42495
   },
   {
     "file": "ainews-2026-06-10-ainews-anthropic-claude-fable-5-mythos-but-safe-with-controversial-ter.md",
-    "sha256": "ced5bf880e1bb820fc32160d4c43f42699797cb0545a6212986795031f3f8c6f",
-    "chars": 58924
+    "sha256": "84b4eb74d675bd71e8b1a9244ec8ce00814643aeb9eda92e6a86c2670a27cca1",
+    "chars": 58742
   },
   {
     "file": "ainews-2026-06-11-ainews-open-models-model-labs-vs-agent-labs-and-what-s-untrainable-sar.md",
-    "sha256": "4acb0e6e8fa9e1475e7587e6a81be6ae31ee435adbc0da46cee4b3e1d6c178ca",
-    "chars": 44594
+    "sha256": "f74cb6ee7ae41d2a33087579515259227b330dcfd00e066ab9e4993118d3028f",
+    "chars": 44296
   },
   {
     "file": "ainews-2026-06-12-ainews-loopcraft-the-art-of-stacking-loops.md",
-    "sha256": "003871220fc619151c3f7ebd1ba7797c3353a9b090e79250249877da5f952af4",
-    "chars": 47186
+    "sha256": "1915a86279d2f6f274c85afc263a487053ff7341669c78f3705c2cb24f62a41f",
+    "chars": 46929
   },
   {
     "file": "ainews-2026-06-13-ainews-fable-and-mythos-officially-too-dangerous-to-release.md",
-    "sha256": "8eee848e2103f48292df88febbaefe7820f760eee1b1ec1c4bc497664277252d",
-    "chars": 45327
+    "sha256": "262d07f28bf037ed8a7ee10ba5a164c3d8a7f8cbe24bd774df72df9dc337027c",
+    "chars": 45060
   },
   {
     "file": "ainews-2026-06-16-ainews-satya-on-loopcraft-building-frontier-ecosystems.md",
-    "sha256": "4da4f5cc3c389d8084da998b8e25d51b413e26331620816f8e5cfe0b066be126",
-    "chars": 44001
+    "sha256": "5d5467cda71bda05b6ac14e9548e7fad6f6dcccfefa315d7b34ba3dc9e9d0b4b",
+    "chars": 43731
   },
   {
     "file": "ainews-2026-06-17-ainews-glm-5-2-the-top-frontend-coding-model-in-the-world-indexshare-f.md",
-    "sha256": "6fe6b3689c24f7618c18d9f7bada05fd4d40d8712cfbeeb9aed6592b4855145f",
-    "chars": 66789
+    "sha256": "eb89db2bbe6306480ff43feb92efdb4a6dfbca841195cf6e244b00e456fd1800",
+    "chars": 66707
   },
   {
     "file": "ainews-2026-06-18-ainews-midjourney-medical-scan-your-organs-like-you-step-on-a-scale.md",
-    "sha256": "462e5fb3d0d84d7e70b48a62529c47c16c68000e404e2de309537633ca788ab3",
-    "chars": 68428
+    "sha256": "31ad4802bea4a80711b5757010e0b38d48669432eac13cb4aa6800421d72c74e",
+    "chars": 68441
   },
   {
     "file": "ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md",
-    "sha256": "c504f515212bdd9150305e39a229213fd1feb85dd2c0bfdba83d74223818966d",
-    "chars": 51003
+    "sha256": "557d17c3912867ea3ad393ef9399c8af3383b6df276fbde702db1f461c8606c7",
+    "chars": 50719
   },
   {
     "file": "ainews-2026-06-20-ainews-not-much-happened-today.md",
-    "sha256": "665aba09c25c72e42abf946e4cbb9d4de1f1662253d7786124641f449444962f",
-    "chars": 50095
+    "sha256": "1b24791a773f99bff06d6303256eab1c0c1625d4ce2590579f1760adc4e38f03",
+    "chars": 49866
   },
   {
     "file": "ainews-2026-06-21-exclusive-250-off-ai-engineer-tix-til-monday.md",
-    "sha256": "628a21e84dbba5da4deeb6e034c2d77dac48e924e16f0208a8de4acbad15dadc",
-    "chars": 2968
+    "sha256": "c11ff82b3bed23aaf8d049160e7460f4b5a747c27e222d987ba592207f35948d",
+    "chars": 2637
   },
   {
     "file": "ainews-2026-06-23-ainews-spacex-is-already-a-28b-yr-neocloud.md",
-    "sha256": "9c9de1e2e1f80bd45b111bce12ae9f666348b88deb77d789d29945df4006b5dc",
-    "chars": 50398
+    "sha256": "c74cb78e838d8aa6b65233ce925ab4283efa37797def46d9046e7d4290b8c820",
+    "chars": 50155
   },
   {
     "file": "ainews-2026-06-24-ainews-claude-tag-multiplayer-proactive-persistent-agents-in-slack.md",
-    "sha256": "74ecc0991c2697f6c6c6c0a94f22811b0352ce0a7ed173e2e3d5f9f9ce4a22ae",
-    "chars": 74366
+    "sha256": "11ef034364feb99828885a438cc270e77157c3381df6a427e20183beccc7d2cf",
+    "chars": 74274
   },
   {
     "file": "ainews-2026-06-25-ainews-it-s-meta-harness-summer.md",
-    "sha256": "548dd4ae7289ddd5c93697f036923129f6de0a8c25f39ec23ad2e06b40717df2",
-    "chars": 39138
+    "sha256": "5d3149cef7b6d253036cd1464c3538448297b53163629c6e0d00859af47a7331",
+    "chars": 38891
   },
   {
     "file": "ainews-2026-06-26-ainews-openai-reports-median-internal-codex-output-tokens-grew-56x-in.md",
-    "sha256": "dc6afc333bc5a5cd71f5c85491de5701b9b1fc31929be4d748d7da60035c3417",
-    "chars": 48600
+    "sha256": "fca1959f8b70d0945045336b2fbc2b9fcdbee47c31aa6b6ca7af17a6933a26cd",
+    "chars": 48287
   },
   {
     "file": "ainews-2026-06-27-ainews-openai-gpt-5-6-sol-terra-luna-restricted-to-trusted-partners.md",
-    "sha256": "7bf925f28f452e1851c6a68dc6b23363ee9fefc029c2919792fb7d9985a74a34",
-    "chars": 67824
+    "sha256": "59bdcb529bca7c15a8f1a9fa869b145d86a6d661d5ec7b363340b25c37956284",
+    "chars": 67728
   },
   {
     "file": "ainews-2026-06-30-ahmad-osman-on-why-local-ai-is-catching-up.md",
-    "sha256": "290784f24be2c4664ea1f29aeb24fbc97fbc04f0f82d90185f357852b63b6d6d",
-    "chars": 10331
+    "sha256": "a6e36c1f2a3f2b5600581ce04ae6c58ff22e84d040fd43a52b0e25cf2596e319",
+    "chars": 10054
   },
   {
     "file": "ainews-2026-06-30-ainews-not-much-happened-today.md",
-    "sha256": "105b74714a1673793ba4fd05bfc89e66aae28ab976447414bd88beb8c938c8c1",
-    "chars": 34884
+    "sha256": "103af96524d29c0ab28f8c4a1c214a111e6445e8f87166aad2c2d487861d1cb1",
+    "chars": 34630
   },
   {
     "file": "ainews-2026-07-01-aiewf-daily-dispatch-loops-software-factories-forward-deployed-enginee.md",
-    "sha256": "f2180968e279a00555a605cb2f6c38218af897f009e310a9a98ec2832679a2de",
-    "chars": 8311
+    "sha256": "34a9ad2589a205ed76dbee78185f569119610f4a1d7b5546c22807b4a38e4464",
+    "chars": 7976
   },
   {
     "file": "ainews-2026-07-01-ainews-sonnet-5-today-and-fable-5-tomorrow.md",
-    "sha256": "466429d34e94126847aec0539c5717f220db5e832a745a70f0c1cd46a252b4bd",
-    "chars": 65584
+    "sha256": "590abd94b8bd95d4e6f7910d189bbf9d512e9c265d632283a86d434ca424b316",
+    "chars": 65430
   },
   {
     "file": "ainews-2026-07-01-autoresearch-the-feedback-loop-behind-self-improving-agents.md",
-    "sha256": "49801c9849bb31854598512012fc1c17e9a47fe7e297670075b7171190fde849",
-    "chars": 12060
+    "sha256": "3eeb257b6ddc42f7acfee7b08e1a099e8969708d0dcaa116422cc25166b221bc",
+    "chars": 11783
   },
   {
     "file": "ainews-2026-07-01-forward-deployed-engineers-and-the-future-of-software-engineering.md",
-    "sha256": "55bbc8a03bcf4c4ed12eb876b4d25d457cef17bef1ed0748348dfda6bfba4b45",
-    "chars": 10646
+    "sha256": "ee68a7c533efe9c3ffa5eb0f81cb5e0b999bf591c845a12ee5f24e5b18343218",
+    "chars": 10355
   },
   {
     "file": "ainews-2026-07-01-how-cursor-deploys-ai-inside-the-enterprise.md",
-    "sha256": "45f7d03c1db4ac066c6f0c1ab75a938418fa147e6eb68bd1866f3f55e74c4aad",
-    "chars": 10770
+    "sha256": "44e2ebfd44928b52f80667fe078b1fd0943391889018e4595f7bf6141961e7a5",
+    "chars": 10498
   },
   {
     "file": "ainews-2026-07-01-warp-ceo-zach-lloyd-on-why-software-factories-are-the-next-phase-of-co.md",
-    "sha256": "24766f519a637a581b115356ec7b196d2921bfb927567ff08816347f1f74c8ac",
-    "chars": 12194
+    "sha256": "320157d7e4e65d2aebfa2e1aa8b20b6857d32b66555b4302689e73db56a1e144",
+    "chars": 11888
   },
   {
     "file": "ainews-2026-07-02-aiewf-daily-dispatch-autoresearch-and-the-tension-between-ai-and-human.md",
-    "sha256": "ffb666b1dafff147a288b8c3c37220582b311a452af098a2ba8e0d36806dcf21",
-    "chars": 7594
+    "sha256": "05d22ce1c51357e4844848306cd122c17be1809a0a41bb00bcad5fa517f2c1e1",
+    "chars": 7254
   },
   {
     "file": "ainews-2026-07-02-ainews-not-much-happened-today.md",
-    "sha256": "9c7b4215265ea12e2df88e9d85038da2b106d44a6fb210eecab6e19ee6829436",
-    "chars": 36826
+    "sha256": "b639cc07b88235dd2b72e8224d6f3f4de9a13d8d91b055008cf8daed32520096",
+    "chars": 36574
   },
   {
     "file": "ainews-2026-07-02-skill-engineering-and-the-case-against-one-shot-ai-design.md",
-    "sha256": "a82d8c297fa9ed0b63a4abe8f36eea5eca49311196216f61b94165b639e21642",
-    "chars": 8483
+    "sha256": "aa975e734074ba95f26ebd01548414c1a961aeae24b0082cc07ddedd89739300",
+    "chars": 8175
   },
   {
     "file": "ainews-2026-07-02-the-website-of-the-future-may-assemble-itself-for-every-visitor.md",
-    "sha256": "e67d1c60f1ae316f6983927fb7cdccc8a4ed4db52a1dce2875a8e802aee33ead",
-    "chars": 7508
+    "sha256": "d4bc617112fe6bbe3fddf5bee0123881e99050eed72197b6711b1544c365a52b",
+    "chars": 7190
   },
   {
     "file": "ainews-2026-07-03-aiewf-daily-dispatch-the-great-loops-debate-and-the-state-of-ai-engine.md",
-    "sha256": "50eac8eee55235bc0014a101342f5d18d437193d3adb03a6256be13b409191eb",
-    "chars": 8236
+    "sha256": "1aa2451d9eb33cf8852e1140592840c4e31d8f0f30b52ee69c67b97d3691a043",
+    "chars": 7905
   },
   {
     "file": "ainews-2026-07-03-vercel-s-andrew-qu-on-why-agents-are-a-new-kind-of-software.md",
-    "sha256": "d4f23fd448a6303603c40834cc9800e68088c842c9d19d7e4b52b834b811f410",
-    "chars": 8644
+    "sha256": "3da4663839d0dafd19e6aa6fe045d2b0cea49625e7193261b3fb273756119b5a",
+    "chars": 8345
   },
   {
     "file": "ainews-2026-07-07-ainews-the-field-guide-to-fable.md",
-    "sha256": "8f9c92337be249bbcb15269d10c75e51893a067ab8b7f502fd7375cd5384c61b",
-    "chars": 46477
+    "sha256": "88cc4e46767623aeade925072c2474b4dc76b65a17b2622e9ab849cff1eb572a",
+    "chars": 46256
   },
   {
     "file": "ainews-2026-07-08-ainews-lilian-weng-summarizes-35-papers-on-harness-engineering-for-rsi.md",
-    "sha256": "1a8585337fbf3132d0c02fcb179051f3274a6e53270f6193d417293367ae8323",
-    "chars": 53073
+    "sha256": "c19db6a6b185369fcbcfe3bf7a070cacb70342e5f654095aeafab331b7104ac3",
+    "chars": 52804
   },
   {
     "file": "ainews-2026-07-09-ainews-spacexai-launches-grok-4-5-first-opus-class-model-post-cursor-a.md",
-    "sha256": "9f623687f5cff43bd91c1aafea9b473a33a1aa658631902248693ca38765a7b0",
-    "chars": 78787
+    "sha256": "85477e93b00c8cd2332fbdad534cfad4fd33104bfe2e63ea8792a51671cf33d8",
+    "chars": 78730
   },
   {
     "file": "ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md",
-    "sha256": "25df3650293f69059e157a6b4e72a6ea59deb1a04e985152d3ae7e3de2f74f71",
-    "chars": 83802
+    "sha256": "1d12077e2a6faa1c51f3a60c101f627a21c934ecdd7b0d1bd6f0c93d839dff54",
+    "chars": 83662
   },
   {
     "file": "ainews-2026-07-11-ainews-not-much-happened-today.md",
-    "sha256": "7291f03fab3de198ef0291d3910f26bd8c3b3b4e755cd15e72015e3716d3db07",
-    "chars": 42134
+    "sha256": "5bd778c644a8a7f50c2242343f8a98713d601d9e60895319c6e1374a8f0840fb",
+    "chars": 41888
+  },
+  {
+    "file": "ainews-2026-07-14-ainews-codex-usage-up-10x-in-6-months-to-7m-users-1m-in-the-past-day-d.md",
+    "sha256": "ff55fc7b00599c8a23e652fcd379954a63be77deacbaf622ce62af877e9aa707",
+    "chars": 57860
+  },
+  {
+    "file": "ainews-2026-07-14-ainews-not-much-happened-today.md",
+    "sha256": "c40c866d4a2b82e4d32ddf00cd338ced8686453fbe1ec61e72856ccecf63098f",
+    "chars": 51390
+  },
+  {
+    "file": "ainews-2026-07-16-ainews-thinky-s-inkling-975b-a41b-multimodal-new-best-american-apache.md",
+    "sha256": "f91b65b99b53c1487c4db6dd6df93f090adf77edac2c786181fc75ed0021803c",
+    "chars": 90715
+  },
+  {
+    "file": "ainews-2026-07-17-ainews-kimi-k3-2-8t-a50b-the-largest-open-model-ever-released-opus-4-8.md",
+    "sha256": "a257ffcbf10e3a2941874f7272a1a64e778c49c8d81edabaf929842a027b6862",
+    "chars": 83042
+  },
+  {
+    "file": "ainews-2026-07-18-ainews-not-much-happened-today.md",
+    "sha256": "8552d3a0c4c308d96a1cae55fedecf6ce749749568b5b531eb8793b0060efba6",
+    "chars": 53280
   },
   {
     "file": "data-elixir-2026-06-16-data-elixir-issue-577.md",
-    "sha256": "be14525245694d1bfbb5a5eae61f8f21f691559ba0bf87ccbde0873ced179483",
-    "chars": 8232
+    "sha256": "f5718f603a9c3edf50d5ddce6443d955ee2d29ca79fd257de55e8d34c7a437ad",
+    "chars": 8030
   },
   {
     "file": "data-science-weekly-2026-05-28-data-science-weekly-issue-653.md",
-    "sha256": "bedef00ed03c7415a607fab010b6f83dd47be54b2349fc3292a66c04e6b29afe",
-    "chars": 16474
+    "sha256": "f3e057cd829468357370508253b8530e127926aa78f2392a131ba9afcd831268",
+    "chars": 16107
   },
   {
     "file": "data-science-weekly-2026-06-04-data-science-weekly-issue-654.md",
-    "sha256": "4ade14ae440ef4d38acc960ed8cdcde90510146ebacb78118c1534f26b8efc43",
-    "chars": 14667
+    "sha256": "ea40d310ceff4801a91f0b4d278f6ac7b7ba71d051ed907cfcdc849be883b029",
+    "chars": 14301
   },
   {
     "file": "data-science-weekly-2026-06-11-data-science-weekly-issue-655.md",
-    "sha256": "4bfc4f94c69900f784c3a3f2d2d9720d3f496af317a42ecac2442f84d19c5a8a",
-    "chars": 16373
+    "sha256": "e2a2c8bb3523e30d1d031f5c18ae139ac46918def80add8b5f8ac302d047b4a7",
+    "chars": 16103
   },
   {
     "file": "data-science-weekly-2026-06-18-data-science-weekly-issue-656.md",
-    "sha256": "afcd3b6e48083c0d8c88511de024455c6da5caa84f0d08521a217d242dd548da",
-    "chars": 12148
+    "sha256": "90c445ca22d666e2320a55cffa1343e5fc29835d95fbdf7f5103e10754bb00d0",
+    "chars": 11849
   },
   {
     "file": "latent-space-2026-05-27-esmfold2-the-bitter-lesson-is-coming-for-proteins-alex-rives-biohub.md",
-    "sha256": "90b4d09b3dadb76bd3d280f8d1ff572f54d7ef127983cfb4b90f60ac9f05e507",
-    "chars": 8944
+    "sha256": "fa715f22038e0db3636f20f4a2c104aaca62a363eed55f8127ae87956b8b1a08",
+    "chars": 8570
   },
   {
     "file": "latent-space-2026-05-28-the-age-of-async-agents-cognition-s-walden-yan-openinspect-s-cole-murr.md",
-    "sha256": "cd1fc818caf84c0d85ca944e3ba7ab609c8fd2978f9b578131188b2968cf5016",
-    "chars": 86958
+    "sha256": "d093e6f45d953068a96f100c7d3cb3a5632ad22243852d2452322900158c11aa",
+    "chars": 86580
   },
   {
     "file": "latent-space-2026-06-01-why-video-agent-models-are-next-ethan-he-xai-grok-imagine-lead.md",
-    "sha256": "f99efdc388eb336c9c847ff750581876a9a00a0eec9c467bc33ab8ced67fc8ce",
-    "chars": 103983
+    "sha256": "f9bb70e9f6254bcedfe279efea6e701ed4608823061ac61d3ba5e318a75109fc",
+    "chars": 103617
   },
   {
     "file": "latent-space-2026-06-02-github-s-plan-for-agents-kyle-daigle-github.md",
-    "sha256": "e0f71d8124224c549516a3d8d7ea4e2f0f1f124b20537608884722c843efe4f9",
-    "chars": 94864
+    "sha256": "f1949f3363064ae3c39a2d648142b2ca7e5746e61802a00c51ae11c9cd67b706",
+    "chars": 94517
   },
   {
     "file": "latent-space-2026-06-03-scaling-past-informal-ai-carina-hong-axiom-math.md",
-    "sha256": "be8849d38a60cafebbf45aff21c185901513518e49fe6cee49ca2a5ec11cb90e",
-    "chars": 10338
+    "sha256": "2549e663d52c52b3f3a775ed4689cc5c8208f390d3e19fbb89e84fdd7bbc324c",
+    "chars": 9986
   },
   {
     "file": "latent-space-2026-06-04-reality-the-final-eval-lukas-petersson-and-axel-backlund-of-andon-labs.md",
-    "sha256": "53082ebc1ef5d6b3da409c91bbbfaf6bac683b5c5ba9ab88d39dbf87402d0c44",
-    "chars": 96104
+    "sha256": "20ae32fc2e8435ec7988d0a0b39f83f636a648d7d66873b6ecd8f7ae0e0a292e",
+    "chars": 95730
   },
   {
     "file": "latent-space-2026-06-05-how-to-stop-shipping-low-quality-rl-environments-with-examples.md",
-    "sha256": "43e0606aa6164305029261fde83097768ec2b7caa8242cc9ae6708ada1cd908f",
-    "chars": 11494
+    "sha256": "d58ff2513eed09ca94585f497141f18b0e8657f38f9f6bf22170f8f6b28f2213",
+    "chars": 11129
   },
   {
     "file": "latent-space-2026-06-17-the-self-driving-lab-joseph-krause-radical-ai.md",
-    "sha256": "4b76f47d79fd5ae960b360ff8475c99cb1231a517b4f938c0d455b245229ac85",
-    "chars": 10809
+    "sha256": "35b37c656a42504565ba7e65b3c013ce1832306c0b82a756683e0d9320c73aad",
+    "chars": 10507
   },
   {
     "file": "latent-space-2026-06-18-the-professor-of-outputmaxxing-anjney-midha-amp.md",
-    "sha256": "e2e9bfaba77e120b6e5a96de2a2993f6c564445a08164b0205f60edada3e188b",
-    "chars": 74124
+    "sha256": "33e4a49fc92da8342af937dc055073a9f1137d1ff8c98500f8533f2a5ee31255",
+    "chars": 74083
   },
   {
     "file": "latent-space-2026-06-21-exclusive-250-off-ai-engineer-tix-til-monday.md",
-    "sha256": "0b77da249ec0858bf184293c33316b1d04ea78d42f493ba20a2136862ccd8628",
-    "chars": 2974
+    "sha256": "c11ff82b3bed23aaf8d049160e7460f4b5a747c27e222d987ba592207f35948d",
+    "chars": 2637
   },
   {
     "file": "latent-space-2026-06-22-red-teaming-after-mythos-zico-kolter-matt-fredrikson-gray-swan.md",
-    "sha256": "a7873b120e974cf4f527c22c1c5790d311794c77d56b1bd6b08469c06d036464",
-    "chars": 72320
+    "sha256": "3c9af857c8971a8f0ebfc49f283b865551fc7437abf2cd472e6d0c9b31443580",
+    "chars": 72288
   },
   {
     "file": "latent-space-2026-06-24-why-the-frontier-ecosystem-must-be-open-matei-zaharia-and-reynold-xin.md",
-    "sha256": "dd37ca75582a18c02287cf04e8966afca943a9a97709695aeeb14e2d7057fd32",
-    "chars": 98839
+    "sha256": "f6d0cb09fba43e8ea5a2316b33f333723b77c97f115a485ad65812a554d83478",
+    "chars": 99227
   },
   {
     "file": "latent-space-2026-07-01-the-coolest-diffusion-research-isn-t-in-llms-evan-feinberg-sergey-edun.md",
-    "sha256": "cd1d0fcca16d88cab8e86e7a4c26f68b69f17238ff19e78f203650ce8428552b",
-    "chars": 11258
+    "sha256": "c80b2c67ac8a8eefec9a501051d473acc0e75dab1a9cae5b7736bcd71efa67c8",
+    "chars": 10897
   },
   {
     "file": "latent-space-2026-07-08-why-ai-infrastructure-must-evolve-for-agent-experience-akshat-bubna-mo.md",
-    "sha256": "98c92aac6f8364842cbd853e8242fa51c532425b00c633b00cfa09353374bd01",
-    "chars": 75654
+    "sha256": "24f36e9fa0e632f337a0281b6d0af06764ef6238db55c8b39c883b03daef038d",
+    "chars": 75949
+  },
+  {
+    "file": "latent-space-2026-07-14-5-trends-that-defined-ai-engineering-at-world-s-fair-2026.md",
+    "sha256": "da9c693964236a74839e9019cabd942c76cf03a6b14c875c545aa6a59128d9f7",
+    "chars": 19515
+  },
+  {
+    "file": "latent-space-2026-07-16-the-lab-of-the-future-should-feel-like-a-data-center-andy-beam-rafa-g.md",
+    "sha256": "58157efb5ad9a60ad0bd18499abda80f8f86e0cabf7db0dbfe1f573796e46b70",
+    "chars": 7393
   },
   {
     "file": "the-neuron-2026-05-24-cursor-just-hit-3b-elon-wants-it.md",
-    "sha256": "48a8a879fbfd80def908d4b5a96c001fde8273c782cd3cbb155d944d8f555f83",
-    "chars": 22214
+    "sha256": "757cb6c9f34d1f790cae97bfddbdc4b542292d5c03df399218d32bbbc56a3f4b",
+    "chars": 21855
   },
   {
     "file": "the-neuron-2026-05-25-voiceover-artists-are-not-going-to-like-this.md",
-    "sha256": "7cfdbe169d33df6dda303319e3687568a1e821e56017ce1758f1fe8ddcd0354d",
-    "chars": 21231
+    "sha256": "051aa0dcc07adbfc26103da7e3736e6bfd007bfec6afa29aeaeae3c0a6b930eb",
+    "chars": 20863
   },
   {
     "file": "the-neuron-2026-05-26-meta-vs-a-random-github-repo-github-won.md",
-    "sha256": "3eaf5c11c27e342396da9deaf1b6118e3b8bc0ab707d451d3d07ee00523836ce",
-    "chars": 21081
+    "sha256": "5e6db3b51dbfed98e81ec02d1e787c5ccb6667f482cc3866df63f13e0fc68943",
+    "chars": 20716
   },
   {
     "file": "the-neuron-2026-05-27-the-pope-s-warning-on-ai-s-babel.md",
-    "sha256": "59b71888394aa33ce23dadbab43c5ca21a49a1ce6ba0b426559ed349b399943c",
-    "chars": 22595
+    "sha256": "fd19288c750bb775dd796a969896f70c67b3494f25cc4628109dc91011c275f7",
+    "chars": 22239
   },
   {
     "file": "the-neuron-2026-05-28-robinhood-agents-can-trade-stocks-now.md",
-    "sha256": "91198b6d0bacdc573cc5cb1559cb9356ff52a59f6c333e7f77f88ae874060cb3",
-    "chars": 20389
+    "sha256": "2b269bf6610f9b3581bb1913ee7b057fd01fe8e799f284f0a7e0cbf76d0a9320",
+    "chars": 20028
   },
   {
     "file": "the-neuron-2026-05-29-what-changed-inside-claude-opus-4-8.md",
-    "sha256": "f0903f9efa54e8cb2bee3bc50fc283c297560a4a20ccbc53df2b3a3d1cdea5e9",
-    "chars": 21699
+    "sha256": "397096077bae1264510eb713137312153bf2909d05229da8fa8e3c2e24380bb3",
+    "chars": 21340
   },
   {
     "file": "the-neuron-2026-05-31-grok-killed-a-whole-town-in-4-days.md",
-    "sha256": "e76f393926838d07dd9c4e935fd5db7c2b3779c95888a30f8111bc67f20e6125",
-    "chars": 24582
+    "sha256": "357f1790924a83d4e430837fe1afbcfc013bfbace0c2c7e9ebc0e507a3e769e8",
+    "chars": 24224
   },
   {
     "file": "the-neuron-2026-06-01-duckduckgo-said-hold-my-beer.md",
-    "sha256": "eb79089eb26cb09c96c7da8d43a12061447f778c6156bb4d93216dea4c8c74f3",
-    "chars": 21536
+    "sha256": "b1cde1c118342f2604fa3fd992c8ea7fb21dc34aa2322eb32195eb73aeebbaed",
+    "chars": 21182
   },
   {
     "file": "the-neuron-2026-06-02-nvidia-agents-in-your-laptop.md",
-    "sha256": "da59dd655cf2993ede523647e40132ef482412dfebc52c2f6cd00db2aecb0cd6",
-    "chars": 20189
+    "sha256": "c4f102a0252b00c87267f0013146e113e79fcfad62784a55836355932ba2f652",
+    "chars": 19836
   },
   {
     "file": "the-neuron-2026-06-03-new-codex-copilot-hermes-microst-build-2026-ai.md",
-    "sha256": "e28093ac09f8ecfd8c55542243f165a270f56d81bfc927f565224ea0f85b39a0",
-    "chars": 20598
+    "sha256": "d7dc6edf010fdea1113d8bf162c47ad0de694c441ca575e2af943eaa8a8eb207",
+    "chars": 20225
   },
   {
     "file": "the-neuron-2026-06-04-google-gemini-got-hijacked-via-whatsapp.md",
-    "sha256": "af5f4a2add64a9b751765518dc8556344357ad1566d3ac81046ecfbb85604d31",
-    "chars": 20097
+    "sha256": "af52ec51e9e6c92892195243bac0d98bfe90e583144a04db42df9f59eeafcd8c",
+    "chars": 19734
   },
   {
     "file": "the-neuron-2026-06-05-can-ai-improve-itself.md",
-    "sha256": "99bcfac591a2946792244fd1a576d68566fcb28083fc6f01a58ba4a1f2b65dca",
-    "chars": 20433
+    "sha256": "ace9e810505e879d593812c544f57b66b32148852e260c72ebf49d5279eb7f22",
+    "chars": 20087
   },
   {
     "file": "the-neuron-2026-06-07-chatgpt-admitted-it-misremembers-you.md",
-    "sha256": "46db92e1f34db39376b6930af9f23d54d5d1a56cc65fd15f48e2123b7ff9e31d",
-    "chars": 21413
+    "sha256": "61d97690568eea1f8ac390161480205b30fe623315eef030d35347b577a1ca28",
+    "chars": 21053
   },
   {
     "file": "the-neuron-2026-06-08-openai-admitted-its-product-strategy-was-broken.md",
-    "sha256": "5b093b375fc0cb637824f183f74680111d0c836f6987dc1a61caa657c17c9304",
-    "chars": 20609
+    "sha256": "daf65344cb43ab0fa4dc87e60a8f845eef4b3a2a194d6f4f6ccb08ab38fc1a3b",
+    "chars": 20239
   },
   {
     "file": "the-neuron-2026-06-09-siri-finally-gets-its-ai-reset.md",
-    "sha256": "a1cafb9bf1e262c1192cdef59d98f8a81666fdc6b3a27353999caee72b40417e",
-    "chars": 20986
+    "sha256": "e3070eff82d381b5397c45399ea8ad1549076328c33f96f60c7ba4dfc6358362",
+    "chars": 20632
   },
   {
     "file": "the-neuron-2026-06-10-claude-fable-most-controversial-ai-yet.md",
-    "sha256": "d1445f9391e70374118f6dc0140f1be31476103d899de8931d06994826a3db77",
-    "chars": 21451
+    "sha256": "d56d603983dc869f4986576d75d305f5a21eba22d24af0d35cabfb82a5163550",
+    "chars": 21319
   },
   {
     "file": "the-neuron-2026-06-11-real-time-translation-is-finally-real.md",
-    "sha256": "fe456b3b239a0554e894e2afff186177a1417b059ad6aa845cd64bc732617585",
-    "chars": 21575
+    "sha256": "eb13c51348e07bcdaa097c839f9250060c2f35b082146579099f45afdae7a829",
+    "chars": 21468
   },
   {
     "file": "the-neuron-2026-06-12-what-spacex-s-ipo-really-sold.md",
-    "sha256": "9501f9dd761d4f24a18db05204ec2b884d2aea26c03c36fb3608ceb5fef2b1b5",
-    "chars": 19751
+    "sha256": "387cd844b62d4bdb61cc7750432c760f9c0dc3036665fcf73aff9c2480f6185c",
+    "chars": 19673
   },
   {
     "file": "the-neuron-2026-06-14-us-gov-shuts-down-claude-fable.md",
-    "sha256": "980698dcd850b622d7ab119200030a682be858e702733fb3c085be874d5d6ba6",
-    "chars": 25572
+    "sha256": "c59e4384473d286d61c2d26be73cfd467af340fb09142cb72d04e8a1bc008515",
+    "chars": 25477
   },
   {
     "file": "the-neuron-2026-06-15-what-42-states-want-from-openai.md",
-    "sha256": "97b58d7da0d34e14b8a146c5da5d507ee4e9ef69aecd1a65d46997fda9913c0e",
-    "chars": 21625
+    "sha256": "c0fec388a85c94fb9de5fedbf5d97e6c8387d14c6821f6a33fb93e2f6fa4471d",
+    "chars": 21521
   },
   {
     "file": "the-neuron-2026-06-16-your-spam-texts-were-built-with-google-s-ai.md",
-    "sha256": "5207a0f5453cc244c4ebc32ddbf22525ed904535cdd6f4d346afb8b9ac9cbbc8",
-    "chars": 23466
+    "sha256": "fdaf62916582172b79d79ef14d7babf65979f9621405b50ab1f363775a03f135",
+    "chars": 23370
   },
   {
     "file": "the-neuron-2026-06-17-cursor-is-officially-joining-spacex.md",
-    "sha256": "0293d9584410df3e06f172740f68f294bfc5ba43485f4c32d021cf08fb08a026",
-    "chars": 21137
+    "sha256": "d6f688b23ae359e2c6804d06f0e610d9099e531a70b9ce5cd54b905d253a0f13",
+    "chars": 21018
   },
   {
     "file": "the-neuron-2026-06-18-washington-wants-ai-equity.md",
-    "sha256": "d13a5a1569423502a8853a255f4aba0814fda29a31a54431292fa49d8e30873c",
-    "chars": 22616
+    "sha256": "a40b27366d9427d0ccdf5b1fbb7e64959b9494f64e4a9a7cf8105da40ea404e4",
+    "chars": 22538
   },
   {
     "file": "the-neuron-2026-06-19-your-doctor-may-ask-chatgpt-next.md",
-    "sha256": "9ce287b7fa518e127256a8ab61155f8b98fe92255b7e22c51826ad1e92e87cf9",
-    "chars": 20707
+    "sha256": "f962a9f0671143c911e76646c1d9218b56f4e7771ac91d9ef526fd206328e73b",
+    "chars": 20584
   },
   {
     "file": "the-neuron-2026-06-21-how-deepmind-would-stop-rogue-agents.md",
-    "sha256": "a0ec5b3c4bd3e077cb1534a67f1123b6b22ed862f26049f124d7163e120a625b",
-    "chars": 21458
+    "sha256": "8fe9f0dc0db9539a8d81b38d5f9b27aba607f769762c001b102e417fe9890816",
+    "chars": 21350
   },
   {
     "file": "the-neuron-2026-06-22-china-s-open-model-got-scary.md",
-    "sha256": "6170983d5f31a9992b64438cac3c663e40569ddc9815e74c766796bd14747d09",
-    "chars": 20208
+    "sha256": "2543d15c342b2b5a815e8a4382807b480be71260cd28d4a4a5cb6cbdd7be7e50",
+    "chars": 20108
   },
   {
     "file": "the-neuron-2026-06-23-the-model-choice-trick-behind-fugu.md",
-    "sha256": "4abd87b3000fcf04fbeba69a2a99c054c83ec4cc1c643fc2ed07bf4ceb8f8be7",
-    "chars": 20970
+    "sha256": "3e465611e400e44e8c2bbe2a11a927a87edfa93f6c2830eeb131420efae43945",
+    "chars": 20873
   },
   {
     "file": "the-neuron-2026-06-24-ai-glasses-are-299-do-you-need-them.md",
-    "sha256": "045e2cc828546e6ff9fe973e3c3d5b840960cfdfc0329349947dad6527b954fe",
-    "chars": 20724
+    "sha256": "cde9453e15ac0feae08991d3500f9aeff9273ae36e31a4a437c92b7e1e1e9a03",
+    "chars": 20592
   },
   {
     "file": "the-neuron-2026-06-25-chatgpt-s-secret-advantage.md",
-    "sha256": "9bcf45f65bde923a6c0666b310f8e382270b409b78ffe816acfca18d600f812b",
-    "chars": 19494
+    "sha256": "62022a95ef4a562a7c30d771463ebab89bde7f74e8d0caa1b2cb36b05922f007",
+    "chars": 19375
   },
   {
     "file": "the-neuron-2026-06-26-ai-is-making-your-next-apple-device-cost-more.md",
-    "sha256": "3b9c538fce7b7a3b914fefd4ca93a8db4132edf54f68eab7a3fa71d230dcf5b0",
-    "chars": 20610
+    "sha256": "f1fdf7b4e647aab29179c93259c9d9deb4ee922827be0ddd5538ce71692e57a1",
+    "chars": 20482
   },
   {
     "file": "the-neuron-2026-06-28-openai-vs-washington-over-gpt-5-6.md",
-    "sha256": "e7c84065f540acfda4848638974b1b4491456cfce4317ade380c7e9a79c93a90",
-    "chars": 19659
+    "sha256": "309063af27a183498a319d7fd74e9499a9e0f36df401b5a2e2e8a46d3d1f000d",
+    "chars": 19543
   },
   {
     "file": "the-neuron-2026-06-29-apple-loses-another-one-to-openai.md",
-    "sha256": "b9800dd6cafbcd216be439314b41608a56d6fe84346fe7daa6cdbe7dc9655636",
-    "chars": 18015
-  },
-  {
-    "file": "the-neuron-2026-06-30-did-ai-kill-the-billable-hour.md",
-    "sha256": "a6b1c84abfc822873d767b0bc3d9dca314b2ece35333d05471b6fbcc678f07ef",
-    "chars": 23725
-  },
-  {
-    "file": "the-neuron-2026-07-01-fable-5-is-back-baby.md",
-    "sha256": "7486929f7e1bc8bc3acad9986774ae87914cc820e484ab24a850f7851feb0437",
-    "chars": 21167
-  },
-  {
-    "file": "the-neuron-2026-07-02-fable-5-first-reviews.md",
-    "sha256": "af5f22f90dfcb1f6eeec37c47b83196ec34786bbe9edc3c25849e04ded0de3e7",
-    "chars": 20190
-  },
-  {
-    "file": "the-neuron-2026-07-03-openai-may-give-uncle-sam-5.md",
-    "sha256": "7293e9dc2e0999e0ffce89b9ae5101082267b07b475dfd7bb2b630d449baab0e",
-    "chars": 23890
-  },
-  {
-    "file": "the-neuron-2026-07-05-build-something-real-with-fable.md",
-    "sha256": "80642ad10bc5eb5dfd32b7484023840393ecc6c9d89ad2d4e82593545183bf2c",
-    "chars": 20518
-  },
-  {
-    "file": "the-neuron-2026-07-06-cloudflare-draws-an-ai-bot-line.md",
-    "sha256": "5fa7221c130323aaaf7a19fc4ec0b1c59c7894dd92e5a93b533d04f41398c42a",
+    "sha256": "eb6f25dfe3c2fa49b3be3bd822b165fdf8a602bfaf017733706bf7b22c9745c3",
     "chars": 17867
   },
   {
+    "file": "the-neuron-2026-06-30-did-ai-kill-the-billable-hour.md",
+    "sha256": "4f7edc239b84a4e690b70735d4cf059b9569b1ef4329ff131df3ae1ae4a7a1c9",
+    "chars": 23673
+  },
+  {
+    "file": "the-neuron-2026-07-01-fable-5-is-back-baby.md",
+    "sha256": "13c4caeaa003528c4bcbf86f09cddd8c3a3ba7229b601fbfa090212e1c4ec7ca",
+    "chars": 21076
+  },
+  {
+    "file": "the-neuron-2026-07-02-fable-5-first-reviews.md",
+    "sha256": "3370bd506f762cd8162575bfd422df91adf854b0a4a4f2bb3aa304de8d6766f8",
+    "chars": 20089
+  },
+  {
+    "file": "the-neuron-2026-07-03-openai-may-give-uncle-sam-5.md",
+    "sha256": "d5934ad76aa725f98b00054dc096f676ba308a0c775820feae48aa3cffe025b7",
+    "chars": 23766
+  },
+  {
+    "file": "the-neuron-2026-07-05-build-something-real-with-fable.md",
+    "sha256": "a826d87809691e8864d9b433a8311bfbc6e60655529e48a573e8d8cc7662b6fd",
+    "chars": 20408
+  },
+  {
+    "file": "the-neuron-2026-07-06-cloudflare-draws-an-ai-bot-line.md",
+    "sha256": "d7911111fbf64e6fca86c390aa3c65bee79fe361bf7dbaf52a36b0190e9f8566",
+    "chars": 17741
+  },
+  {
     "file": "the-neuron-2026-07-07-anthropic-found-claude-s-hidden-workspace.md",
-    "sha256": "35457e83888bd5708d63eb9a6ebf4bca17479d139b0fc87e86706e06dceffd85",
-    "chars": 18001
+    "sha256": "2cced76c83d0f0611a659c7308bda557eaacbbc57bf78e16b03273daa127f5b1",
+    "chars": 17865
   },
   {
     "file": "the-neuron-2026-07-08-one-rogue-agent-could-hijack-enterprise-chatbots.md",
-    "sha256": "3f04f61139a8489fe978f8688500fad661e4c9c3b256c17f0b60efdb5c3317b2",
-    "chars": 19553
+    "sha256": "1908e94a05dd061b6b5dd06a735a0b6e1226eb77a8eae89ff621bee2ae6da5fe",
+    "chars": 19433
   },
   {
     "file": "the-neuron-2026-07-09-chatgpt-can-talk-over-you-now.md",
-    "sha256": "85265b1e75f6e2bc3c037298eb477953f2a4f4d32abe7488b5fff9fd3bf17ce7",
-    "chars": 21860
+    "sha256": "0ccb8afa3b43dfb7f55f6cb6308525c510ab897d65df36d7ad5d5af66308a76f",
+    "chars": 21771
   },
   {
     "file": "the-neuron-2026-07-10-chatgpt-swallowed-codex-and-atlas.md",
-    "sha256": "1228693f79a5808d5313e0a7b9ee2c24eb090f53915649a7fcef39426b3effa7",
-    "chars": 21828
+    "sha256": "5129fe91331fb5439052f3dbf1f587e91a3ebf52ec384404b58b10d7c467ccca",
+    "chars": 21722
   },
   {
     "file": "the-neuron-2026-07-12-apple-is-suing-openai.md",
-    "sha256": "2098184e4c270d1b50d29e4aff4540ef67c8757582735810f08529692fcadb18",
-    "chars": 22900
+    "sha256": "c4240a2fcd43477a729bc1639ed8d0a51afe31e83badbc2f2eb40892277b6256",
+    "chars": 22813
+  },
+  {
+    "file": "the-neuron-2026-07-13-the-ai-crunch-coming-for-your-stack.md",
+    "sha256": "a789ca8e608dc799b37276572b881d739da9745cb74ab8b9a0b617411d0918ce",
+    "chars": 18282
+  },
+  {
+    "file": "the-neuron-2026-07-14-nadella-s-blunt-take-on-model-cloning.md",
+    "sha256": "7656ee2bc8195a24a3ac7498522523d2cc833c65ba6ab00e99b8987a20b1eb9a",
+    "chars": 16749
+  },
+  {
+    "file": "the-neuron-2026-07-15-google-wants-an-ai-referee.md",
+    "sha256": "7d182ec25e0f7a3c7708b293f31973173e647d4fabfb6df26ca5d35820041a4b",
+    "chars": 17270
+  },
+  {
+    "file": "the-neuron-2026-07-16-chatgpt-may-get-a-body.md",
+    "sha256": "47fab5b8cfcb4a579e7472112643edc498a3d1a77a6faacb4155cfa5093452d5",
+    "chars": 19851
+  },
+  {
+    "file": "the-neuron-2026-07-17-kimi-k3-just-shrank-openai-s-moat.md",
+    "sha256": "d8ed0e09c1138c06e9491dc0d26ac61b5ad37d74167255f666f5610a01db1f29",
+    "chars": 19674
+  },
+  {
+    "file": "the-neuron-2026-07-19-netflix-is-all-in-on-ai.md",
+    "sha256": "042e89eea7dddd33c8c63efa55cecf0e3a13f3a15d5ced26e538417cc05f1f2c",
+    "chars": 22047
   }
 ]

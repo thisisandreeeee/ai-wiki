@@ -1,10 +1,10 @@
 ---
 title: Closed vs Open Frontier Models
 created: 2026-06-21
-updated: 2026-07-06
+updated: 2026-07-20
 type: comparison
 tags: [ai, llm, model, policy, comparison]
-sources: [raw/newsletters/the-neuron-2026-06-14-us-gov-shuts-down-claude-fable.md, raw/newsletters/the-neuron-2026-06-18-washington-wants-ai-equity.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/data-elixir-2026-06-16-data-elixir-issue-577.md, raw/newsletters/latent-space-2026-06-24-why-the-frontier-ecosystem-must-be-open-matei-zaharia-and-reynold-xin.md, raw/newsletters/ainews-2026-06-30-ahmad-osman-on-why-local-ai-is-catching-up.md, raw/newsletters/ainews-2026-06-27-ainews-openai-gpt-5-6-sol-terra-luna-restricted-to-trusted-partners.md, raw/newsletters/the-neuron-2026-07-01-fable-5-is-back-baby.md]
+sources: [raw/newsletters/the-neuron-2026-06-14-us-gov-shuts-down-claude-fable.md, raw/newsletters/the-neuron-2026-06-18-washington-wants-ai-equity.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/data-elixir-2026-06-16-data-elixir-issue-577.md, raw/newsletters/latent-space-2026-06-24-why-the-frontier-ecosystem-must-be-open-matei-zaharia-and-reynold-xin.md, raw/newsletters/ainews-2026-06-30-ahmad-osman-on-why-local-ai-is-catching-up.md, raw/newsletters/ainews-2026-06-27-ainews-openai-gpt-5-6-sol-terra-luna-restricted-to-trusted-partners.md, raw/newsletters/the-neuron-2026-07-01-fable-5-is-back-baby.md, raw/newsletters/ainews-2026-07-16-ainews-thinky-s-inkling-975b-a41b-multimodal-new-best-american-apache.md, raw/newsletters/ainews-2026-07-17-ainews-kimi-k3-2-8t-a50b-the-largest-open-model-ever-released-opus-4-8.md, raw/newsletters/the-neuron-2026-07-17-kimi-k3-just-shrank-openai-s-moat.md]
 confidence: high
 ---
 
@@ -30,12 +30,20 @@ The corpus sharpened the open-vs-closed frontier debate. [[claude-fable-5]] and 
 
 Databricks’ Omnigent argument expands “open” beyond weights: common APIs for sessions, files, streams, tool calls, cancellation, contextual policies, and spend control matter if agents are to be portable. Ahmad Osman’s local-AI comments make the same point from the workstation side: local models catch up only when the missing product infrastructure is rebuilt around them.
 
+## July 20 synthesis
+
+[[kimi-k3]] and [[inkling]] move the comparison from “open frontier-adjacent” to “open models near parts of the public frontier.” Kimi K3 is especially important because it is both very large and competitively benchmarked: AINews reports a #1 Frontend Code Arena placement and Artificial Analysis results near Opus 4.8/GPT-5.5, while still behind Fable 5 and GPT-5.6 Sol overall. [raw/newsletters/ainews-2026-07-17-ainews-kimi-k3-2-8t-a50b-the-largest-open-model-ever-released-opus-4-8.md:25-58]
+
+Inkling adds a U.S. open-weight signal: Thinking Machines released a 975B-total / 41B-active multimodal MoE with a 1M context window and a customization-first pitch. Its immediate importance is less benchmark dominance than proof that open weights are becoming upstream infrastructure for post-training and private specialization. [raw/newsletters/ainews-2026-07-16-ainews-thinky-s-inkling-975b-a41b-multimodal-new-best-american-apache.md:14-18]
+
+The updated practical stance: open weights now pressure closed API pricing and distribution, but they also require serious [[ai-infrastructure-economics]]. Closed labs still lead on polished assistants, default safety, and integrated workflow surfaces; open ecosystems compete on control, inspectability, portability, and compounding customization.
+
 ## Practical stance
 
 Use closed models for peak capability and vendor-supported workflows, but design portability from day one. Use open/local models for resilience, privacy, eval baselines, workload segmentation, and continuity when [[frontier-model-access-controls]] change.
 
 ## Links
 
-- Related entities: [[claude-fable-5]], [[glm-5-2]], [[openai]]
+- Related entities: [[claude-fable-5]], [[glm-5-2]], [[openai]], [[kimi-k3]], [[inkling]], [[gpt-5-6]]
 - Related concepts: [[frontier-model-access-controls]], [[local-llms]], [[coding-agent-evaluation]]
 - See also: [[software-factories]], [[weekly-briefing-2026-07-06]]
