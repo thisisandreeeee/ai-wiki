@@ -1,10 +1,10 @@
 ---
 title: Closed vs Open Frontier Models
 created: 2026-06-21
-updated: 2026-07-06
+updated: 2026-07-30
 type: comparison
 tags: [ai, llm, model, policy, comparison]
-sources: [raw/newsletters/the-neuron-2026-06-14-us-gov-shuts-down-claude-fable.md, raw/newsletters/the-neuron-2026-06-18-washington-wants-ai-equity.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/data-elixir-2026-06-16-data-elixir-issue-577.md, raw/newsletters/latent-space-2026-06-24-why-the-frontier-ecosystem-must-be-open-matei-zaharia-and-reynold-xin.md, raw/newsletters/ainews-2026-06-30-ahmad-osman-on-why-local-ai-is-catching-up.md, raw/newsletters/ainews-2026-06-27-ainews-openai-gpt-5-6-sol-terra-luna-restricted-to-trusted-partners.md, raw/newsletters/the-neuron-2026-07-01-fable-5-is-back-baby.md]
+sources: [raw/newsletters/the-neuron-2026-06-14-us-gov-shuts-down-claude-fable.md, raw/newsletters/the-neuron-2026-06-18-washington-wants-ai-equity.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/data-elixir-2026-06-16-data-elixir-issue-577.md, raw/newsletters/latent-space-2026-06-24-why-the-frontier-ecosystem-must-be-open-matei-zaharia-and-reynold-xin.md, raw/newsletters/ainews-2026-06-30-ahmad-osman-on-why-local-ai-is-catching-up.md, raw/newsletters/ainews-2026-06-27-ainews-openai-gpt-5-6-sol-terra-luna-restricted-to-trusted-partners.md, raw/newsletters/the-neuron-2026-07-01-fable-5-is-back-baby.md, raw/newsletters/ainews-2026-07-17-ainews-kimi-k3-2-8t-a50b-the-largest-open-model-ever-released-opus-4-8.md, raw/newsletters/the-neuron-2026-07-28-nvidia-s-open-ai-counterpunch.md, raw/newsletters/the-neuron-2026-07-30-zuckerberg-split-with-his-own-ai-chief.md]
 confidence: high
 ---
 
@@ -30,12 +30,16 @@ The corpus sharpened the open-vs-closed frontier debate. [[claude-fable-5]] and 
 
 Databricks’ Omnigent argument expands “open” beyond weights: common APIs for sessions, files, streams, tool calls, cancellation, contextual policies, and spend control matter if agents are to be portable. Ahmad Osman’s local-AI comments make the same point from the workstation side: local models catch up only when the missing product infrastructure is rebuilt around them.
 
+## July 30 synthesis: open weights as security and policy leverage
+
+[[kimi-k3]] makes open frontier-adjacent capability more concrete, while the OpenAI/Hugging Face incident makes the security argument two-sided. Closed providers can enforce refusals and release gates, but The Neuron reports that closed tools also blocked parts of defensive forensics, pushing Hugging Face toward self-hosted open models. The open side now argues not only for cost and sovereignty, but for inspectable incident response; the closed side argues that powerful weights increase misuse risk. See [[ai-cybersecurity]] and [[pacing-the-frontier]].
+
 ## Practical stance
 
 Use closed models for peak capability and vendor-supported workflows, but design portability from day one. Use open/local models for resilience, privacy, eval baselines, workload segmentation, and continuity when [[frontier-model-access-controls]] change.
 
 ## Links
 
-- Related entities: [[claude-fable-5]], [[glm-5-2]], [[openai]]
+- Related entities: [[claude-fable-5]], [[glm-5-2]], [[kimi-k3]], [[openai]], [[meta]]
 - Related concepts: [[frontier-model-access-controls]], [[local-llms]], [[coding-agent-evaluation]]
 - See also: [[software-factories]], [[weekly-briefing-2026-07-06]]

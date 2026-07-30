@@ -1,10 +1,10 @@
 ---
 title: Local LLMs
 created: 2026-06-21
-updated: 2026-07-06
+updated: 2026-07-30
 type: concept
 tags: [ai, llm, tooling, model]
-sources: [raw/newsletters/data-elixir-2026-06-16-data-elixir-issue-577.md, raw/newsletters/data-science-weekly-2026-06-18-data-science-weekly-issue-656.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/ainews-2026-06-11-ainews-open-models-model-labs-vs-agent-labs-and-what-s-untrainable-sar.md, raw/newsletters/ainews-2026-06-30-ahmad-osman-on-why-local-ai-is-catching-up.md, raw/newsletters/ainews-2026-06-30-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-07-02-ainews-not-much-happened-today.md]
+sources: [raw/newsletters/data-elixir-2026-06-16-data-elixir-issue-577.md, raw/newsletters/data-science-weekly-2026-06-18-data-science-weekly-issue-656.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/ainews-2026-06-11-ainews-open-models-model-labs-vs-agent-labs-and-what-s-untrainable-sar.md, raw/newsletters/ainews-2026-06-30-ahmad-osman-on-why-local-ai-is-catching-up.md, raw/newsletters/ainews-2026-06-30-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-07-02-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-07-17-ainews-kimi-k3-2-8t-a50b-the-largest-open-model-ever-released-opus-4-8.md, raw/newsletters/ainews-2026-07-29-ainews-fearing-rsi-openai-anthropic-gdm-meta-thinky-cosign-letter-to-p.md, raw/newsletters/ainews-2026-07-29-ainews-ai-is-eating-finance-aie-nyc-now-open.md]
 confidence: high
 ---
 
@@ -25,12 +25,16 @@ Ahmad Osman’s AIEWF local-AI workshop framed local models as increasingly seri
 
 The surrounding AINews digests also show continuing interest in GLM-5.2 local inference, llama.cpp support, GGUF conversion, and open-weight runtime benchmarks. The practical local-vs-cloud question is therefore shifting from “can the model run?” to “can the full agent system run reliably, affordably, and privately?”
 
+## July 30 update: giant open weights
+
+[[kimi-k3]] raises the ceiling and the operational burden for local/open AI. The weights are open and already have hosted, vLLM, compressed, and experimental local paths, but AINews repeatedly frames production-grade serving as an infrastructure problem involving memory, interconnect, routing, and harness support. That makes local AI less of a laptop-only category and more of a portability/resilience strategy across local, sovereign, and hosted-open deployments. [raw/newsletters/ainews-2026-07-29-ainews-fearing-rsi-openai-anthropic-gdm-meta-thinky-cosign-letter-to-p.md:33-35]
+
 ## Why it matters
 
 Local LLMs are no longer just hobbyist infrastructure. They are a resilience layer for teams that need privacy, portability, cost control, and continuity when frontier APIs are gated or unavailable. They also provide evaluation baselines for [[software-factories]] that should not depend entirely on a single closed provider.
 
 ## Links
 
-- Related entities: [[glm-5-2]], [[claude-fable-5]]
+- Related entities: [[glm-5-2]], [[kimi-k3]], [[claude-fable-5]]
 - Related concepts: [[frontier-model-access-controls]], [[ai-infrastructure-economics]]
 - Related comparison: [[closed-vs-open-frontier-models]]

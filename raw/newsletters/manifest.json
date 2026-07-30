@@ -533,5 +533,145 @@
     "file": "the-neuron-2026-07-12-apple-is-suing-openai.md",
     "sha256": "2098184e4c270d1b50d29e4aff4540ef67c8757582735810f08529692fcadb18",
     "chars": 22900
+  },
+  {
+    "file": "ainews-2026-07-17-ainews-kimi-k3-2-8t-a50b-the-largest-open-model-ever-released-opus-4-8.md",
+    "sha256": "a257ffcbf10e3a2941874f7272a1a64e778c49c8d81edabaf929842a027b6862",
+    "chars": 82840
+  },
+  {
+    "file": "ainews-2026-07-18-ainews-not-much-happened-today.md",
+    "sha256": "8552d3a0c4c308d96a1cae55fedecf6ce749749568b5b531eb8793b0060efba6",
+    "chars": 53183
+  },
+  {
+    "file": "ainews-2026-07-21-ainews-not-much-happened-today.md",
+    "sha256": "c156b956913b884f0b0db111850abf79bcaada99c7dac37931a321b4b70952b9",
+    "chars": 47008
+  },
+  {
+    "file": "ainews-2026-07-22-ainews-ai-cybersecurity-becomes-top-of-mind.md",
+    "sha256": "6493bf0dc74bab18785114ae3977023647c6adc8ee0384b705104819738a6f6e",
+    "chars": 56340
+  },
+  {
+    "file": "ainews-2026-07-23-ainews-laguna-s-2-1-released-cheaper-than-deepseek-v4-flash-better-tha.md",
+    "sha256": "c3296ab6ff3f9a65b51bb07a51ee6c941cef1b3291e3689fccb06dfd31311a76",
+    "chars": 56938
+  },
+  {
+    "file": "ainews-2026-07-24-ainews-black-forest-labs-flux-3-multimodal-flow-models-that-beat-seeda.md",
+    "sha256": "983af91727905b46625c83325e323454574ceb8a4107d878daa4f81a759914bc",
+    "chars": 49576
+  },
+  {
+    "file": "ainews-2026-07-25-ainews-claude-opus-5-fable-level-performance-at-opus-price-half-fable.md",
+    "sha256": "8a7f1ed4ba550955c7b6e0830b337092f9642177407e733b160da460739fbcae",
+    "chars": 55377
+  },
+  {
+    "file": "ainews-2026-07-28-ainews-much-ado-about-open-weights.md",
+    "sha256": "51b8e65eafea9e1384f30908ba91c2ef8d7d30c793234e83864f4415913b428e",
+    "chars": 45224
+  },
+  {
+    "file": "ainews-2026-07-29-ainews-ai-is-eating-finance-aie-nyc-now-open.md",
+    "sha256": "e53965ab901ff1ec389c018456c6d6102a5e829501b934da11682dcea65f8515",
+    "chars": 66568
+  },
+  {
+    "file": "ainews-2026-07-29-ainews-fearing-rsi-openai-anthropic-gdm-meta-thinky-cosign-letter-to-p.md",
+    "sha256": "efa446e4a05eb40197621e05c8c79a14f8977329e8d3a2ff0714b8f39ed78fec",
+    "chars": 57377
+  },
+  {
+    "file": "latent-space-2026-07-21-causal-models-need-causal-data-xaira-s-x-cell-model-for-drug-discovery.md",
+    "sha256": "bcac24903efa9aad18c8d2550f55d7b8cd4f330777546861bef95deca94fc9f5",
+    "chars": 4836
+  },
+  {
+    "file": "latent-space-2026-07-23-inside-the-model-factory-eiso-kant-poolside-ai.md",
+    "sha256": "939de910acf355ac0bb8b2acf4f503f2e9d2a3bfb6581a597512d999286bc9db",
+    "chars": 139037
+  },
+  {
+    "file": "latent-space-2026-07-28-codex-from-0-to-10m-users-building-chatgpt-work-akshay-nathan-openai.md",
+    "sha256": "19ae72a71e0c2c741a4087f194dce684c3c82ee1ff4f38a04541c2efc4949955",
+    "chars": 92643
+  },
+  {
+    "file": "latent-space-2026-07-30-ontologies-are-so-back-why-ai-agents-are-reviving-the-semantic-web.md",
+    "sha256": "0fd398889a3a283bc14ce78fc2317b767fdcb7a309da1dd6e12c5e2f48f1ebd9",
+    "chars": 8085
+  },
+  {
+    "file": "the-neuron-2026-07-17-kimi-k3-just-shrank-openai-s-moat.md",
+    "sha256": "d8ed0e09c1138c06e9491dc0d26ac61b5ad37d74167255f666f5610a01db1f29",
+    "chars": 19442
+  },
+  {
+    "file": "the-neuron-2026-07-19-netflix-is-all-in-on-ai.md",
+    "sha256": "042e89eea7dddd33c8c63efa55cecf0e3a13f3a15d5ced26e538417cc05f1f2c",
+    "chars": 21791
+  },
+  {
+    "file": "the-neuron-2026-07-20-china-s-next-mega-model.md",
+    "sha256": "ef276d3696b27c784cc7291c96a257b3b07da7ffcf79a05168a95fc2c9c915a0",
+    "chars": 16749
+  },
+  {
+    "file": "the-neuron-2026-07-21-cheap-ai-got-political.md",
+    "sha256": "bd5c16aa224fae7ac7b36257641a7d17e7cbeb2a33027c3dfbede73eb79f9cef",
+    "chars": 17676
+  },
+  {
+    "file": "the-neuron-2026-07-22-how-openai-s-model-escaped-its-sandbox.md",
+    "sha256": "582bc8bf6b32c0660d5676c4febf3006ca56ccc16a57582272b63d74e4259a85",
+    "chars": 19354
+  },
+  {
+    "file": "the-neuron-2026-07-22-want-to-get-better-at-actually-using-ai.md",
+    "sha256": "1db4b9eb24f44b8851efee8fc77a674f431f2972f62983be0688cf8d4db04e2f",
+    "chars": 1838
+  },
+  {
+    "file": "the-neuron-2026-07-23-a-quick-question-about-how-you-use-ai.md",
+    "sha256": "f17d9901e43975455ce79073b5e366175aa036899f581782e1dd928629329dd0",
+    "chars": 1188
+  },
+  {
+    "file": "the-neuron-2026-07-23-google-split-gemini-in-three.md",
+    "sha256": "59789b825aea8c857552e3104d46ed656c1383e695d37ea711f37cd5d25a7507",
+    "chars": 17898
+  },
+  {
+    "file": "the-neuron-2026-07-24-chatgpt-can-read-your-medical-records.md",
+    "sha256": "914eec7feaf45a20b63a44c656415dcf672a546f70f799ddfbd9e23204a7acc0",
+    "chars": 18605
+  },
+  {
+    "file": "the-neuron-2026-07-26-nvidia-microsoft-all-in-on-open-source.md",
+    "sha256": "bbff13ee695d6f932c3bcc00e6d0b9e277760cd37d0d63180b60c3c76e8c0e78",
+    "chars": 23079
+  },
+  {
+    "file": "the-neuron-2026-07-27-is-this-the-future-of-robotics.md",
+    "sha256": "13527519b90dcf53d9e6573a979f4a266e5d5dd4c0e07e7d25a21167dfca57a8",
+    "chars": 15798
+  },
+  {
+    "file": "the-neuron-2026-07-28-nvidia-s-open-ai-counterpunch.md",
+    "sha256": "5b3eed46b06e7371fb5b017de733b60b8e8fd3a0e6097128e7034470fd4d5857",
+    "chars": 16417
+  },
+  {
+    "file": "the-neuron-2026-07-29-an-ai-broke-out-so-1-000-humans-said-slow-down.md",
+    "sha256": "3effc818f65ca534e5005bb50d085d9aa1a982a84d304ad1583b904b51a9850f",
+    "chars": 19261
+  },
+  {
+    "file": "the-neuron-2026-07-30-zuckerberg-split-with-his-own-ai-chief.md",
+    "sha256": "3534841d1e82c4ff89d9c6ba4c46632f459b9831677a503dda2b297d78c376e0",
+    "chars": 18423
   }
 ]

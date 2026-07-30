@@ -1,10 +1,10 @@
 ---
 title: OpenAI
 created: 2026-06-21
-updated: 2026-07-13
+updated: 2026-07-30
 type: entity
 tags: [ai, company, llm, policy, tooling]
-sources: [raw/newsletters/the-neuron-2026-06-08-openai-admitted-its-product-strategy-was-broken.md, raw/newsletters/the-neuron-2026-06-15-what-42-states-want-from-openai.md, raw/newsletters/the-neuron-2026-06-19-your-doctor-may-ask-chatgpt-next.md, raw/newsletters/ainews-2026-06-09-ainews-frontiercode-benchmarking-for-code-quality-over-slop.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/the-neuron-2026-06-25-chatgpt-s-secret-advantage.md, raw/newsletters/ainews-2026-06-26-ainews-openai-reports-median-internal-codex-output-tokens-grew-56x-in.md, raw/newsletters/ainews-2026-06-27-ainews-openai-gpt-5-6-sol-terra-luna-restricted-to-trusted-partners.md, raw/newsletters/the-neuron-2026-06-28-openai-vs-washington-over-gpt-5-6.md, raw/newsletters/the-neuron-2026-07-03-openai-may-give-uncle-sam-5.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/the-neuron-2026-07-10-chatgpt-swallowed-codex-and-atlas.md, raw/newsletters/the-neuron-2026-07-09-chatgpt-can-talk-over-you-now.md, raw/newsletters/the-neuron-2026-07-12-apple-is-suing-openai.md]
+sources: [raw/newsletters/the-neuron-2026-06-08-openai-admitted-its-product-strategy-was-broken.md, raw/newsletters/the-neuron-2026-06-15-what-42-states-want-from-openai.md, raw/newsletters/the-neuron-2026-06-19-your-doctor-may-ask-chatgpt-next.md, raw/newsletters/ainews-2026-06-09-ainews-frontiercode-benchmarking-for-code-quality-over-slop.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/the-neuron-2026-06-25-chatgpt-s-secret-advantage.md, raw/newsletters/ainews-2026-06-26-ainews-openai-reports-median-internal-codex-output-tokens-grew-56x-in.md, raw/newsletters/ainews-2026-06-27-ainews-openai-gpt-5-6-sol-terra-luna-restricted-to-trusted-partners.md, raw/newsletters/the-neuron-2026-06-28-openai-vs-washington-over-gpt-5-6.md, raw/newsletters/the-neuron-2026-07-03-openai-may-give-uncle-sam-5.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/the-neuron-2026-07-10-chatgpt-swallowed-codex-and-atlas.md, raw/newsletters/the-neuron-2026-07-09-chatgpt-can-talk-over-you-now.md, raw/newsletters/the-neuron-2026-07-12-apple-is-suing-openai.md, raw/newsletters/ainews-2026-07-22-ainews-ai-cybersecurity-becomes-top-of-mind.md, raw/newsletters/the-neuron-2026-07-24-chatgpt-can-read-your-medical-records.md, raw/newsletters/latent-space-2026-07-28-codex-from-0-to-10m-users-building-chatgpt-work-akshay-nathan-openai.md, raw/newsletters/ainews-2026-07-29-ainews-fearing-rsi-openai-anthropic-gdm-meta-thinky-cosign-letter-to-p.md]
 confidence: high
 ---
 
@@ -37,6 +37,12 @@ The Neuron described the same move as ChatGPT becoming a desktop super-app: GPT-
 
 The launch also showed the cost of complexity: users struggled with Work vs Codex, three model tiers, multiple effort settings, quota resets, and opaque subagent costs. This makes [[agent-experience]] part of OpenAI’s strategic risk, not only a UI issue.
 
+## July 30 update: Work, health, cyber, and pacing
+
+Latent.Space reported ChatGPT Work and Codex reaching 10M combined users, with Codex now powering broader [[agentic-knowledge-work]] for non-developers as well as engineers. The product thesis is that OpenAI is turning the coding-agent harness into a general work surface for documents, spreadsheets, artifacts, sites, connected apps, memory, and subagents. [raw/newsletters/latent-space-2026-07-28-codex-from-0-to-10m-users-building-chatgpt-work-akshay-nathan-openai.md:14-21]
+
+The same batch added two governance-sensitive surfaces: Health in ChatGPT can connect Apple Health and supported medical records for U.S. users, while the OpenAI/Hugging Face cyber incident made internal eval containment a public [[ai-cybersecurity]] issue. OpenAI also aligned with the [[pacing-the-frontier]] petition, reinforcing its position as both accelerator and governance target.
+
 ## Policy and legal pressure
 
 OpenAI faced a 42-state subpoena focused on advertising, engagement, consumer and health data, minors and seniors, and chatbot sycophancy. The newer GPT-5.6 and possible government-stake stories extend that pressure from consumer protection into [[frontier-model-access-controls]], model-release standards, and public upside sharing.
@@ -50,6 +56,6 @@ OpenAI’s health coverage was significant: GPT-5.5 Instant was described as imp
 ## Links
 
 - Related models: [[gpt-5-6]], [[claude-fable-5]], [[grok-4-5]]
-- Related concepts: [[ai-healthcare]], [[frontier-model-access-controls]], [[coding-agent-evaluation]], [[agent-experience]]
+- Related concepts: [[ai-healthcare]], [[ai-health-data-interfaces]], [[frontier-model-access-controls]], [[coding-agent-evaluation]], [[agent-experience]], [[ai-cybersecurity]], [[pacing-the-frontier]]
 - Related comparisons: [[closed-vs-open-frontier-models]]
 - See also: [[software-factories]], [[weekly-briefing-2026-07-13]]

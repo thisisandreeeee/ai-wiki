@@ -44,3 +44,10 @@
 - Added `queries/technical-interview-study-guide.md` as a coverage map that emphasizes mechanism, trade-offs, failure modes, and production design rather than rote answers.
 - Added a source manifest with original share URLs and hashes for the fetched text and attached PDF; preserved the raw newsletter corpus unchanged.
 - Updated `index.md` and ran wiki validation before PR creation.
+
+## [2026-07-30] synthesize | Weekly newsletter batch
+
+- Fetched 28 Gmail newsletter items; 28 were new raw newsletter files added to `raw/newsletters/`, with `raw/newsletters/manifest.json` refreshed by the fetch script.
+- Created `queries/weekly-briefing-2026-07-30.md` plus new entity/concept pages for Kimi K3, Claude Opus 5, Poolside, Black Forest Labs, Meta, Google Gemini, AI cybersecurity, pacing/frontier governance, model routing, agentic knowledge work, ontology/semantic-layer guardrails, agent memory, robotics, health data interfaces, finance, workplace adoption, and related evaluation/open-data topics.
+- Updated `entities/openai.md`, `entities/nvidia.md`, `concepts/local-llms.md`, and `comparisons/closed-vs-open-frontier-models.md` with late-July open-model, cyber, health, and governance signals.
+- Updated `index.md` and ran wiki validation before PR creation.
