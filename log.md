@@ -52,3 +52,10 @@
 - Created `entities/kimi-k3.md`, `entities/inkling.md`, and `queries/weekly-briefing-2026-07-20.md`.
 - Updated `entities/openai.md`, `entities/gpt-5-6.md`, `concepts/ai-infrastructure-economics.md`, `concepts/software-factories.md`, `concepts/frontier-model-access-controls.md`, `concepts/self-driving-labs.md`, and `comparisons/closed-vs-open-frontier-models.md`.
 - Updated `index.md` and ran wiki validation before PR creation.
+
+## [2026-07-30] synthesize | Weekly newsletter batch
+
+- Fetched 28 Gmail newsletter items; 24 were new raw newsletter files added to `raw/newsletters/` after rebasing onto the 2026-07-20 main update, with `raw/newsletters/manifest.json` regenerated to include all 144 raw newsletter captures.
+- Created `queries/weekly-briefing-2026-07-30.md` plus new entity/concept pages for Claude Opus 5, Poolside, Black Forest Labs, Meta, Google Gemini, AI cybersecurity, pacing/frontier governance, model routing, agentic knowledge work, ontology/semantic-layer guardrails, agent memory, robotics, health data interfaces, finance, workplace adoption, and related evaluation/open-data topics.
+- Updated `entities/kimi-k3.md`, `entities/openai.md`, `entities/nvidia.md`, `concepts/local-llms.md`, and `comparisons/closed-vs-open-frontier-models.md` with late-July open-model, cyber, health, and governance signals.
+- Updated `index.md` and ran wiki validation before PR creation.
