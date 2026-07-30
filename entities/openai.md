@@ -1,10 +1,10 @@
 ---
 title: OpenAI
 created: 2026-06-21
-updated: 2026-07-13
+updated: 2026-07-20
 type: entity
 tags: [ai, company, llm, policy, tooling]
-sources: [raw/newsletters/the-neuron-2026-06-08-openai-admitted-its-product-strategy-was-broken.md, raw/newsletters/the-neuron-2026-06-15-what-42-states-want-from-openai.md, raw/newsletters/the-neuron-2026-06-19-your-doctor-may-ask-chatgpt-next.md, raw/newsletters/ainews-2026-06-09-ainews-frontiercode-benchmarking-for-code-quality-over-slop.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/the-neuron-2026-06-25-chatgpt-s-secret-advantage.md, raw/newsletters/ainews-2026-06-26-ainews-openai-reports-median-internal-codex-output-tokens-grew-56x-in.md, raw/newsletters/ainews-2026-06-27-ainews-openai-gpt-5-6-sol-terra-luna-restricted-to-trusted-partners.md, raw/newsletters/the-neuron-2026-06-28-openai-vs-washington-over-gpt-5-6.md, raw/newsletters/the-neuron-2026-07-03-openai-may-give-uncle-sam-5.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/the-neuron-2026-07-10-chatgpt-swallowed-codex-and-atlas.md, raw/newsletters/the-neuron-2026-07-09-chatgpt-can-talk-over-you-now.md, raw/newsletters/the-neuron-2026-07-12-apple-is-suing-openai.md]
+sources: [raw/newsletters/the-neuron-2026-06-08-openai-admitted-its-product-strategy-was-broken.md, raw/newsletters/the-neuron-2026-06-15-what-42-states-want-from-openai.md, raw/newsletters/the-neuron-2026-06-19-your-doctor-may-ask-chatgpt-next.md, raw/newsletters/ainews-2026-06-09-ainews-frontiercode-benchmarking-for-code-quality-over-slop.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/the-neuron-2026-06-25-chatgpt-s-secret-advantage.md, raw/newsletters/ainews-2026-06-26-ainews-openai-reports-median-internal-codex-output-tokens-grew-56x-in.md, raw/newsletters/ainews-2026-06-27-ainews-openai-gpt-5-6-sol-terra-luna-restricted-to-trusted-partners.md, raw/newsletters/the-neuron-2026-06-28-openai-vs-washington-over-gpt-5-6.md, raw/newsletters/the-neuron-2026-07-03-openai-may-give-uncle-sam-5.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/the-neuron-2026-07-10-chatgpt-swallowed-codex-and-atlas.md, raw/newsletters/the-neuron-2026-07-09-chatgpt-can-talk-over-you-now.md, raw/newsletters/the-neuron-2026-07-12-apple-is-suing-openai.md, raw/newsletters/ainews-2026-07-14-ainews-codex-usage-up-10x-in-6-months-to-7m-users-1m-in-the-past-day-d.md, raw/newsletters/the-neuron-2026-07-16-chatgpt-may-get-a-body.md, raw/newsletters/ainews-2026-07-17-ainews-kimi-k3-2-8t-a50b-the-largest-open-model-ever-released-opus-4-8.md]
 confidence: high
 ---
 
@@ -37,6 +37,14 @@ The Neuron described the same move as ChatGPT becoming a desktop super-app: GPT-
 
 The launch also showed the cost of complexity: users struggled with Work vs Codex, three model tiers, multiple effort settings, quota resets, and opaque subagent costs. This makes [[agent-experience]] part of OpenAI’s strategic risk, not only a UI issue.
 
+## July 20 update: usage scale, hardware surfaces, and safety rails
+
+AINews reports Codex reached about **7M users** after GPT-5.6’s launch, up from a reported 2M in March and roughly 550k–700k around January 1. The source frames this as about 10x user growth year to date and a major competitive signal against Claude Code/Fable-style developer workflows. [raw/newsletters/ainews-2026-07-14-ainews-codex-usage-up-10x-in-6-months-to-7m-users-1m-in-the-past-day-d.md:15-23]
+
+OpenAI also moved toward physical interfaces. The Neuron reports a planned screenless ChatGPT smart speaker with cameras, sensors, GPT-Live voice, movement, and smart-home context, plus Codex Micro, a $230 keyboard for steering coding agents with shortcuts, status lights, a joystick, and a reasoning-effort dial. [raw/newsletters/the-neuron-2026-07-16-chatgpt-may-get-a-body.md:54-83]
+
+The same week added an operational warning: AINews reports OpenAI investigated rare GPT-5.6/Codex file-deletion incidents tied to full-access mode, weak sandboxing, and temp-directory handling. The practical lesson is that OpenAI’s platform strategy now depends on [[agent-reliability-and-operations]] as much as raw model quality. [raw/newsletters/ainews-2026-07-17-ainews-kimi-k3-2-8t-a50b-the-largest-open-model-ever-released-opus-4-8.md:137-140]
+
 ## Policy and legal pressure
 
 OpenAI faced a 42-state subpoena focused on advertising, engagement, consumer and health data, minors and seniors, and chatbot sycophancy. The newer GPT-5.6 and possible government-stake stories extend that pressure from consumer protection into [[frontier-model-access-controls]], model-release standards, and public upside sharing.
@@ -49,7 +57,7 @@ OpenAI’s health coverage was significant: GPT-5.5 Instant was described as imp
 
 ## Links
 
-- Related models: [[gpt-5-6]], [[claude-fable-5]], [[grok-4-5]]
+- Related models: [[gpt-5-6]], [[claude-fable-5]], [[grok-4-5]], [[kimi-k3]]
 - Related concepts: [[ai-healthcare]], [[frontier-model-access-controls]], [[coding-agent-evaluation]], [[agent-experience]]
 - Related comparisons: [[closed-vs-open-frontier-models]]
 - See also: [[software-factories]], [[weekly-briefing-2026-07-13]]

@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.  
-> Last updated: 2026-07-18 | Total pages: 50
+> Last updated: 2026-07-20 | Total pages: 53
 
 ## Entities
 
@@ -17,6 +17,8 @@
 - [[google-deepmind]] — Agent-control roadmap and frontier-research context around DeepMind.
 - [[grok-4-5]] — xAI/SpaceXAI's July 2026 coding-and-agents-focused frontier model with a coding-agent evaluation harness.
 - [[gpt-5-6]] — OpenAI's flagship model family (Sol/Terra/Luna), restricted to trusted partners, at the center of access-control and regulatory debates.
+- [[inkling]] — Thinking Machines Lab's open-weight multimodal MoE model family built around customization.
+- [[kimi-k3]] — Moonshot AI's 2.8T open-weight frontier-class model with strong coding/frontend benchmark signals.
 - [[microsoft]] — Enterprise AI platform actor bundling MAI models, GitHub, Windows, Foundry, context, and evals.
 - [[modal]] — AI cloud platform illustrating how infrastructure is being redesigned for agent-native workloads.
 - [[nvidia]] — AI hardware and open-model actor spanning local agent systems, Cosmos, and Nemotron.
@@ -63,4 +65,5 @@
 - [[weekly-briefing-2026-06-24-to-2026-06-28]] — Synthesis of the June 24–28 newsletter batch covering Claude Tag, Meta-Harnesses, OpenAI Jalapeño, and the AI memory chip shortage.
 - [[weekly-briefing-2026-07-06]] — Weekly synthesis of the 2026-06-24 through 2026-07-05 newsletter batch.
 - [[weekly-briefing-2026-07-13]] — Weekly synthesis of the 2026-07-06 through 2026-07-13 batch covering GPT-5.6, Grok 4.5, Codex superapp, and agent-native infrastructure.
+- [[weekly-briefing-2026-07-20]] — Weekly synthesis of the 2026-07-13 through 2026-07-19 batch covering Kimi K3, Inkling, OpenAI hardware surfaces, AI-engineering loops, and frontier governance.
 - [[technical-interview-study-guide]] — Learning order and understanding checks mapped to the technical-interview question bank.
