@@ -1,10 +1,10 @@
 ---
 title: OpenAI
 created: 2026-06-21
-updated: 2026-07-20
+updated: 2026-07-30
 type: entity
 tags: [ai, company, llm, policy, tooling]
-sources: [raw/newsletters/the-neuron-2026-06-08-openai-admitted-its-product-strategy-was-broken.md, raw/newsletters/the-neuron-2026-06-15-what-42-states-want-from-openai.md, raw/newsletters/the-neuron-2026-06-19-your-doctor-may-ask-chatgpt-next.md, raw/newsletters/ainews-2026-06-09-ainews-frontiercode-benchmarking-for-code-quality-over-slop.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/the-neuron-2026-06-25-chatgpt-s-secret-advantage.md, raw/newsletters/ainews-2026-06-26-ainews-openai-reports-median-internal-codex-output-tokens-grew-56x-in.md, raw/newsletters/ainews-2026-06-27-ainews-openai-gpt-5-6-sol-terra-luna-restricted-to-trusted-partners.md, raw/newsletters/the-neuron-2026-06-28-openai-vs-washington-over-gpt-5-6.md, raw/newsletters/the-neuron-2026-07-03-openai-may-give-uncle-sam-5.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/the-neuron-2026-07-10-chatgpt-swallowed-codex-and-atlas.md, raw/newsletters/the-neuron-2026-07-09-chatgpt-can-talk-over-you-now.md, raw/newsletters/the-neuron-2026-07-12-apple-is-suing-openai.md, raw/newsletters/ainews-2026-07-14-ainews-codex-usage-up-10x-in-6-months-to-7m-users-1m-in-the-past-day-d.md, raw/newsletters/the-neuron-2026-07-16-chatgpt-may-get-a-body.md, raw/newsletters/ainews-2026-07-17-ainews-kimi-k3-2-8t-a50b-the-largest-open-model-ever-released-opus-4-8.md]
+sources: [raw/newsletters/the-neuron-2026-06-08-openai-admitted-its-product-strategy-was-broken.md, raw/newsletters/the-neuron-2026-06-15-what-42-states-want-from-openai.md, raw/newsletters/the-neuron-2026-06-19-your-doctor-may-ask-chatgpt-next.md, raw/newsletters/ainews-2026-06-09-ainews-frontiercode-benchmarking-for-code-quality-over-slop.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/the-neuron-2026-06-25-chatgpt-s-secret-advantage.md, raw/newsletters/ainews-2026-06-26-ainews-openai-reports-median-internal-codex-output-tokens-grew-56x-in.md, raw/newsletters/ainews-2026-06-27-ainews-openai-gpt-5-6-sol-terra-luna-restricted-to-trusted-partners.md, raw/newsletters/the-neuron-2026-06-28-openai-vs-washington-over-gpt-5-6.md, raw/newsletters/the-neuron-2026-07-03-openai-may-give-uncle-sam-5.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/the-neuron-2026-07-10-chatgpt-swallowed-codex-and-atlas.md, raw/newsletters/the-neuron-2026-07-09-chatgpt-can-talk-over-you-now.md, raw/newsletters/the-neuron-2026-07-12-apple-is-suing-openai.md, raw/newsletters/ainews-2026-07-14-ainews-codex-usage-up-10x-in-6-months-to-7m-users-1m-in-the-past-day-d.md, raw/newsletters/the-neuron-2026-07-16-chatgpt-may-get-a-body.md, raw/newsletters/ainews-2026-07-17-ainews-kimi-k3-2-8t-a50b-the-largest-open-model-ever-released-opus-4-8.md, raw/newsletters/ainews-2026-07-22-ainews-ai-cybersecurity-becomes-top-of-mind.md, raw/newsletters/the-neuron-2026-07-24-chatgpt-can-read-your-medical-records.md, raw/newsletters/latent-space-2026-07-28-codex-from-0-to-10m-users-building-chatgpt-work-akshay-nathan-openai.md, raw/newsletters/ainews-2026-07-29-ainews-fearing-rsi-openai-anthropic-gdm-meta-thinky-cosign-letter-to-p.md]
 confidence: high
 ---
 
@@ -45,6 +45,12 @@ OpenAI also moved toward physical interfaces. The Neuron reports a planned scree
 
 The same week added an operational warning: AINews reports OpenAI investigated rare GPT-5.6/Codex file-deletion incidents tied to full-access mode, weak sandboxing, and temp-directory handling. The practical lesson is that OpenAI’s platform strategy now depends on [[agent-reliability-and-operations]] as much as raw model quality. [raw/newsletters/ainews-2026-07-17-ainews-kimi-k3-2-8t-a50b-the-largest-open-model-ever-released-opus-4-8.md:137-140]
 
+## July 30 update: Work, health, cyber, and pacing
+
+Latent.Space reported ChatGPT Work and Codex reaching 10M combined users, with Codex now powering broader [[agentic-knowledge-work]] for non-developers as well as engineers. The product thesis is that OpenAI is turning the coding-agent harness into a general work surface for documents, spreadsheets, artifacts, sites, connected apps, memory, and subagents. [raw/newsletters/latent-space-2026-07-28-codex-from-0-to-10m-users-building-chatgpt-work-akshay-nathan-openai.md:14-21]
+
+The same batch added two governance-sensitive surfaces: Health in ChatGPT can connect Apple Health and supported medical records for U.S. users, while the OpenAI/Hugging Face cyber incident made internal eval containment a public [[ai-cybersecurity]] issue. OpenAI also aligned with the [[pacing-the-frontier]] petition, reinforcing its position as both accelerator and governance target.
+
 ## Policy and legal pressure
 
 OpenAI faced a 42-state subpoena focused on advertising, engagement, consumer and health data, minors and seniors, and chatbot sycophancy. The newer GPT-5.6 and possible government-stake stories extend that pressure from consumer protection into [[frontier-model-access-controls]], model-release standards, and public upside sharing.
@@ -55,9 +61,11 @@ The July 12 The Neuron issue added a hardware-interface conflict: Apple sued Ope
 
 OpenAI’s health coverage was significant: GPT-5.5 Instant was described as improved for health answers, while an OpenAI reasoning model helped clinicians surface 18 confirmed diagnoses from 376 previously unsolved pediatric rare-disease cases. The GPT-5.6 launch extended this health thread by positioning Luna and Sol as improved health-intelligence models, though those claims remain launch-week claims in this corpus.
 
+Health in ChatGPT extends the thread from model answers into connected records and Apple Health. That makes [[ai-health-data-interfaces]] a product-governance issue: privacy controls, data completeness, and human clinical review matter as much as answer quality.
+
 ## Links
 
 - Related models: [[gpt-5-6]], [[claude-fable-5]], [[grok-4-5]], [[kimi-k3]]
-- Related concepts: [[ai-healthcare]], [[frontier-model-access-controls]], [[coding-agent-evaluation]], [[agent-experience]]
+- Related concepts: [[ai-healthcare]], [[ai-health-data-interfaces]], [[frontier-model-access-controls]], [[coding-agent-evaluation]], [[agent-experience]], [[ai-cybersecurity]], [[pacing-the-frontier]]
 - Related comparisons: [[closed-vs-open-frontier-models]]
-- See also: [[software-factories]], [[weekly-briefing-2026-07-13]]
+- See also: [[software-factories]], [[weekly-briefing-2026-07-13]], [[weekly-briefing-2026-07-20]], [[weekly-briefing-2026-07-30]]
