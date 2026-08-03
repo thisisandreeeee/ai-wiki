@@ -13,7 +13,7 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-GOOGLE_API = Path(os.environ.get("HERMES_HOME", str(Path.home() / ".hermes"))) / "skills/productivity/google-workspace/scripts/google_api.py"
+GOOGLE_API = Path(__file__).resolve().parent / "google_api.py"
 
 QUERIES = [
     # Primary: label-based search catches all AI newsletters regardless of sender changes.
