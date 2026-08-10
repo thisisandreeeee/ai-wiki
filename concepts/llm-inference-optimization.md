@@ -1,10 +1,10 @@
 ---
 title: LLM Inference Optimization
 created: 2026-07-18
-updated: 2026-07-18
+updated: 2026-08-10
 type: concept
 tags: [ai, llm, tooling, machine-learning]
-sources: [raw/learning-resources/technical-interview-learning-resources.md]
+sources: [raw/learning-resources/technical-interview-learning-resources.md, raw/newsletters/latent-space-2026-08-03-the-inference-engineering-masterclass-philip-kiely-ali-taha-baseten.md, raw/newsletters/ainews-2026-07-31-ainews-gpt-5-6-price-cut-by-20-80-cost-of-gpt-5-4-intelligence-dropped.md, raw/newsletters/ainews-2026-08-01-ainews-not-much-happened-today.md]
 confidence: high
 ---
 
@@ -49,6 +49,12 @@ Bits do not translate directly to end-to-end speed: scales, packing, dequantizat
 ## Speculative decoding
 
 A cheap draft model proposes several tokens; the target model verifies them in parallel and accepts a prefix. A correct speculative-sampling implementation preserves the target distribution. It pays off only when draft cost is low, target agreement is high, and verification is efficient; measure acceptance length and TPOT under representative traffic.
+
+## August 2026 update: inference engineering
+
+The Baseten masterclass makes the serving stack more explicit. A 200K-token request may benefit from cache-aware routing, prefill/decode disaggregation, a traffic-specific speculative decoder, and structured-output constraints; dedicated deployments become attractive when traffic or reliability requirements justify custom batching, topology, precision, or kernels. [raw/newsletters/latent-space-2026-08-03-the-inference-engineering-masterclass-philip-kiely-ali-taha-baseten.md]
+
+The new batch also reports model-assisted serving optimization and sharp GPT-5.6 price cuts. Treat the numerical claims as source-reported, but the engineering implication is robust: optimize the whole path—routing, cache reuse, kernels, batching, and workload-specific orchestration—before assuming a new checkpoint is the only route to lower cost. [[baseten]] and [[deepseek-v4-flash]] provide concrete open-serving examples.
 
 ## A selection guide
 

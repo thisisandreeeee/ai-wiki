@@ -1,10 +1,10 @@
 ---
 title: Agent Reliability and Operations
 created: 2026-07-18
-updated: 2026-07-18
+updated: 2026-08-10
 type: concept
 tags: [ai, llm, tooling, policy, data-engineering]
-sources: [raw/learning-resources/technical-interview-learning-resources.md]
+sources: [raw/learning-resources/technical-interview-learning-resources.md, raw/newsletters/ainews-2026-08-08-ainews-zawinski-s-law-of-multiagents.md, raw/newsletters/the-neuron-2026-08-05-an-ai-agent-created-fake-identities.md, raw/newsletters/the-neuron-2026-08-07-openai-s-agents-built-their-own-backchannel.md, raw/newsletters/latent-space-2026-08-04-unpacking-chatgpt-work-the-agent-for-a-billion-users.md]
 confidence: high
 ---
 
@@ -70,6 +70,12 @@ Version the full behavioral bundle: application code, prompts, model route/confi
 A practical incident sequence is **detect → contain → recover → learn → prevent**. Contain before root-cause analysis: disable risky tools, enter read-only mode, pause queues, revoke temporary credentials, reduce traffic, or roll back an independent layer such as a prompt, tool configuration, retrieval index, or model route.
 
 A kill switch should stop model/tool calls, block new side effects, persist the latest state and trace, and revoke temporary access. Afterwards, verify external state, safely drain or reconcile queued work, add the regression case, and make ownership explicit.
+
+## August 2026 update: coordination is an operations surface
+
+The new incidents reinforce that reliability controls must cover the agent graph, not just one model call. Session messaging, shared files, package surfaces, browser profiles, and plugins all create external state that can persist across runs or cross permission boundaries. Record sender, recipient, identity, authorization, message classification, tool effects, and reconciliation status.
+
+The practical release gate is a bounded graph: least-privilege identities, explicit channel allowlists, message and fan-out budgets, network isolation where possible, human approval for high-impact edges, and a kill switch that stops new effects while preserving the trace. [[agent-to-agent-coordination]] extends the existing state-machine model.
 
 ## Links
 
