@@ -718,5 +718,167 @@
     "file": "the-neuron-2026-07-30-zuckerberg-split-with-his-own-ai-chief.md",
     "sha256": "3534841d1e82c4ff89d9c6ba4c46632f459b9831677a503dda2b297d78c376e0",
     "chars": 18423
+  },
+  {
+    "id": "19fdbc9fcbed49e8",
+    "newsletter": "the-neuron",
+    "subject": "🙀 OpenAI’s agents built their own backchannel",
+    "date": "Fri, 07 Aug 2026 10:34:22 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-08-07-openai-s-agents-built-their-own-backchannel.md",
+    "chars": 18867
+  },
+  {
+    "id": "19fb67bc6ea2d150",
+    "newsletter": "ainews",
+    "subject": "[AINews] GPT 5.6 price cut by 20%-80%: Cost of GPT 5.4 Intelligence dropped 13x in 4 months due to GPT 5.6 recursi…",
+    "date": "Fri, 31 Jul 2026 04:40:54 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-07-31-ainews-gpt-5-6-price-cut-by-20-80-cost-of-gpt-5-4-intelligence-dropped.md",
+    "chars": 54022
+  },
+  {
+    "id": "19fb7bcb93eb2276",
+    "newsletter": "the-neuron",
+    "subject": "😼 What Happens When AI Bets Go Wrong?",
+    "date": "Fri, 31 Jul 2026 10:32:30 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-07-31-what-happens-when-ai-bets-go-wrong.md",
+    "chars": 19328
+  },
+  {
+    "id": "19fdaa5c967f83e4",
+    "newsletter": "ainews",
+    "subject": "[AINews] AMD buys Taalas",
+    "date": "Fri, 7 Aug 2026 05:13:46 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-08-07-ainews-amd-buys-taalas.md",
+    "chars": 51065
+  },
+  {
+    "id": "19fc72fd509904bf",
+    "newsletter": "the-neuron",
+    "subject": "😺 Why Mexico's top university axed exams",
+    "date": "Mon, 03 Aug 2026 10:33:20 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-08-03-why-mexico-s-top-university-axed-exams.md",
+    "chars": 18332
+  },
+  {
+    "id": "19fc997fdee4bd71",
+    "newsletter": "latent-space",
+    "subject": "The Inference Engineering Masterclass — Philip Kiely & Ali Taha, Baseten",
+    "date": "Mon, 3 Aug 2026 21:44:03 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-08-03-the-inference-engineering-masterclass-philip-kiely-ali-taha-baseten.md",
+    "chars": 130556
+  },
+  {
+    "id": "19fbafc054ada5d8",
+    "newsletter": "ainews",
+    "subject": "[AINews] not much happened today",
+    "date": "Sat, 1 Aug 2026 01:38:09 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-08-01-ainews-not-much-happened-today.md",
+    "chars": 60885
+  },
+  {
+    "id": "19fdeef90ec7b23e",
+    "newsletter": "ainews",
+    "subject": "[AINews] Zawinski's Law of MultiAgents",
+    "date": "Sat, 8 Aug 2026 01:12:07 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-08-08-ainews-zawinski-s-law-of-multiagents.md",
+    "chars": 43706
+  },
+  {
+    "id": "19fc3f56c1c4322c",
+    "newsletter": "the-neuron",
+    "subject": "😺 Why is DeepSeek so good at this?",
+    "date": "Sun, 02 Aug 2026 19:31:07 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-08-02-why-is-deepseek-so-good-at-this.md",
+    "chars": 22200
+  },
+  {
+    "id": "19fe7457b88b8f22",
+    "newsletter": "the-neuron",
+    "subject": "😺 Why voters are turning on AI data centers",
+    "date": "Sun, 09 Aug 2026 16:05:16 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-08-09-why-voters-are-turning-on-ai-data-centers.md",
+    "chars": 19221
+  },
+  {
+    "id": "19fd6ad714705aa6",
+    "newsletter": "the-neuron",
+    "subject": "🙀 Google's AI team splits into 3",
+    "date": "Thu, 06 Aug 2026 10:40:06 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-08-06-google-s-ai-team-splits-into-3.md",
+    "chars": 21521
+  },
+  {
+    "id": "19fd94ecbcca5d81",
+    "newsletter": "the-neuron",
+    "subject": "😸Learn to use AI for actual work",
+    "date": "Thu, 06 Aug 2026 23:00:46 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-08-06-learn-to-use-ai-for-actual-work.md",
+    "chars": 1140
+  },
+  {
+    "id": "19fd55c0b0dae2fe",
+    "newsletter": "ainews",
+    "subject": "[AINews] Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???",
+    "date": "Thu, 6 Aug 2026 04:34:11 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-08-06-ainews-jeff-sanjay-oriol-and-quoc-depart-deepmind-demis-to-chair-koray.md",
+    "chars": 46343
+  },
+  {
+    "id": "19fcc55fec690af9",
+    "newsletter": "the-neuron",
+    "subject": "😺 OpenAI’s new Astra AI made 10 scientific advances",
+    "date": "Tue, 04 Aug 2026 10:32:51 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-08-04-openai-s-new-astra-ai-made-10-scientific-advances.md",
+    "chars": 19607
+  },
+  {
+    "id": "19fcae5edaa9158c",
+    "newsletter": "ainews",
+    "subject": "[AINews] Qwen 3.8 Max(2.4T) and 27B, new open weights models for Coding and Cowork",
+    "date": "Tue, 4 Aug 2026 03:49:14 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-08-04-ainews-qwen-3-8-max-2-4t-and-27b-new-open-weights-models-for-coding-an.md",
+    "chars": 98571
+  },
+  {
+    "id": "19fce042643d9cbc",
+    "newsletter": "latent-space",
+    "subject": "Unpacking ChatGPT Work: the Agent for a Billion Users",
+    "date": "Tue, 4 Aug 2026 18:20:14 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-08-04-unpacking-chatgpt-work-the-agent-for-a-billion-users.md",
+    "chars": 28146
+  },
+  {
+    "id": "19fd17d4f47531fd",
+    "newsletter": "the-neuron",
+    "subject": "😿 An AI agent created fake identities",
+    "date": "Wed, 05 Aug 2026 10:32:08 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-08-05-an-ai-agent-created-fake-identities.md",
+    "chars": 21275
+  },
+  {
+    "id": "19fcf84bf9ec26e3",
+    "newsletter": "ainews",
+    "subject": "[AINews] Megakernels are so dead and so back",
+    "date": "Wed, 5 Aug 2026 01:21:47 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-08-05-ainews-megakernels-are-so-dead-and-so-back.md",
+    "chars": 52772
   }
 ]

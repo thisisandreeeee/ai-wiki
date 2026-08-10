@@ -1,10 +1,10 @@
 ---
 title: Agentic Systems
 created: 2026-07-18
-updated: 2026-07-18
+updated: 2026-08-10
 type: concept
 tags: [ai, llm, tooling, data-engineering]
-sources: [raw/learning-resources/technical-interview-learning-resources.md]
+sources: [raw/learning-resources/technical-interview-learning-resources.md, raw/newsletters/ainews-2026-08-08-ainews-zawinski-s-law-of-multiagents.md, raw/newsletters/ainews-2026-08-06-ainews-jeff-sanjay-oriol-and-quoc-depart-deepmind-demis-to-chair-koray.md, raw/newsletters/latent-space-2026-08-04-unpacking-chatgpt-work-the-agent-for-a-billion-users.md]
 confidence: high
 ---
 
@@ -61,6 +61,12 @@ A timeout after an API call does not prove failure; retrying blindly can duplica
 - **Evaluator-optimizer** iterates a draft against explicit criteria.
 
 Multi-agent designs are justified by real independence, separate permissions, or distinct specialized context—not by the assumption that more agents automatically create better reasoning.
+
+## August 2026 update: from workers to agent graphs
+
+The batch shows multi-agent systems moving from coordinator-worker demos toward persistent workers and session-to-session communication. Meta's Muse Code, Prime Agent, Claude Code messaging, and ChatGPT Work all emphasize durable context, specialized workers, verification, or scheduled execution. The capability is useful when subtasks are independent or permissions/context differ; otherwise it adds coordination overhead and more failure surface.
+
+Model the graph explicitly: identities, channels, shared state, fan-out limits, budgets, approval edges, and termination conditions. [[agent-to-agent-coordination]] captures the security implication, while [[coding-agent-evaluation]] covers why the graph—not only the model—must be evaluated.
 
 ## Verification is layered
 

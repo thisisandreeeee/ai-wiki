@@ -1,10 +1,10 @@
 ---
 title: Local LLMs
 created: 2026-06-21
-updated: 2026-07-30
+updated: 2026-08-10
 type: concept
 tags: [ai, llm, tooling, model]
-sources: [raw/newsletters/data-elixir-2026-06-16-data-elixir-issue-577.md, raw/newsletters/data-science-weekly-2026-06-18-data-science-weekly-issue-656.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/ainews-2026-06-11-ainews-open-models-model-labs-vs-agent-labs-and-what-s-untrainable-sar.md, raw/newsletters/ainews-2026-06-30-ahmad-osman-on-why-local-ai-is-catching-up.md, raw/newsletters/ainews-2026-06-30-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-07-02-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-07-17-ainews-kimi-k3-2-8t-a50b-the-largest-open-model-ever-released-opus-4-8.md, raw/newsletters/ainews-2026-07-29-ainews-fearing-rsi-openai-anthropic-gdm-meta-thinky-cosign-letter-to-p.md, raw/newsletters/ainews-2026-07-29-ainews-ai-is-eating-finance-aie-nyc-now-open.md]
+sources: [raw/newsletters/data-elixir-2026-06-16-data-elixir-issue-577.md, raw/newsletters/data-science-weekly-2026-06-18-data-science-weekly-issue-656.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/ainews-2026-06-11-ainews-open-models-model-labs-vs-agent-labs-and-what-s-untrainable-sar.md, raw/newsletters/ainews-2026-06-30-ahmad-osman-on-why-local-ai-is-catching-up.md, raw/newsletters/ainews-2026-06-30-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-07-02-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-07-17-ainews-kimi-k3-2-8t-a50b-the-largest-open-model-ever-released-opus-4-8.md, raw/newsletters/ainews-2026-07-29-ainews-fearing-rsi-openai-anthropic-gdm-meta-thinky-cosign-letter-to-p.md, raw/newsletters/ainews-2026-07-29-ainews-ai-is-eating-finance-aie-nyc-now-open.md, raw/newsletters/ainews-2026-08-01-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-08-04-ainews-qwen-3-8-max-2-4t-and-27b-new-open-weights-models-for-coding-an.md, raw/newsletters/ainews-2026-08-05-ainews-megakernels-are-so-dead-and-so-back.md, raw/newsletters/ainews-2026-08-08-ainews-zawinski-s-law-of-multiagents.md, raw/newsletters/latent-space-2026-08-03-the-inference-engineering-masterclass-philip-kiely-ali-taha-baseten.md]
 confidence: high
 ---
 
@@ -28,6 +28,12 @@ The surrounding AINews digests also show continuing interest in GLM-5.2 local in
 ## July 30 update: giant open weights
 
 [[kimi-k3]] raises the ceiling and the operational burden for local/open AI. The weights are open and already have hosted, vLLM, compressed, and experimental local paths, but AINews repeatedly frames production-grade serving as an infrastructure problem involving memory, interconnect, routing, and harness support. That makes local AI less of a laptop-only category and more of a portability/resilience strategy across local, sovereign, and hosted-open deployments. [raw/newsletters/ainews-2026-07-29-ainews-fearing-rsi-openai-anthropic-gdm-meta-thinky-cosign-letter-to-p.md:33-35]
+
+## August 2026 update: open does not mean small
+
+[[qwen-3-8-max]] shows the strategic value of a giant open-weight flagship, while its 27B sibling is the tier most likely to reach ordinary local hardware. [[deepseek-v4-flash]] shows a different route: low active parameters, rapid runtime support, and strong cost/performance, but sensitivity to quantization and heterogeneous memory systems.
+
+The local question is consequently two questions: can the model fit, and can the surrounding agent system run privately and reliably? Prefix caching, MoE expert placement, native runtimes, quantization-aware training, and local routing all matter. [[baseten]]'s serving work is relevant even when the final deployment is not local because the same bottlenecks—memory movement, cache reuse, and topology—reappear.
 
 ## Why it matters
 

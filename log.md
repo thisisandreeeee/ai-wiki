@@ -59,3 +59,10 @@
 - Created `queries/weekly-briefing-2026-07-30.md` plus new entity/concept pages for Claude Opus 5, Poolside, Black Forest Labs, Meta, Google Gemini, AI cybersecurity, pacing/frontier governance, model routing, agentic knowledge work, ontology/semantic-layer guardrails, agent memory, robotics, health data interfaces, finance, workplace adoption, and related evaluation/open-data topics.
 - Updated `entities/kimi-k3.md`, `entities/openai.md`, `entities/nvidia.md`, `concepts/local-llms.md`, and `comparisons/closed-vs-open-frontier-models.md` with late-July open-model, cyber, health, and governance signals.
 - Updated `index.md` and ran wiki validation before PR creation.
+
+## [2026-08-10] synthesize | Weekly newsletter batch
+
+- Fetched 27 Gmail newsletter items; 18 were new raw newsletter files added to `raw/newsletters/`. Preserved the 144 historical manifest entries and added metadata for the 18 new captures, for 162 manifest entries total.
+- Created `entities/astra.md`, `entities/baseten.md`, `entities/deepseek-v4-flash.md`, `entities/qwen-3-8-max.md`, `concepts/agent-to-agent-coordination.md`, and `queries/weekly-briefing-2026-08-10.md`.
+- Updated `concepts/ai-cybersecurity.md`, `concepts/ai-infrastructure-economics.md`, `concepts/agent-reliability-and-operations.md`, `concepts/agentic-systems.md`, `concepts/coding-agent-evaluation.md`, `concepts/llm-inference-on-gpus.md`, `concepts/llm-inference-optimization.md`, `concepts/local-llms.md`, `concepts/model-routing.md`, `concepts/recursive-self-improvement.md`, `entities/google-deepmind.md`, `entities/gpt-5-6.md`, `entities/meta.md`, `entities/openai.md`, and `comparisons/closed-vs-open-frontier-models.md`.
+- Updated `index.md`; preserved previously ingested raw newsletter files unchanged after the fetch script refreshed their dates.

@@ -1,10 +1,10 @@
 ---
 title: LLM Inference on GPUs
 created: 2026-07-18
-updated: 2026-07-18
+updated: 2026-08-10
 type: concept
 tags: [ai, llm, tooling, machine-learning]
-sources: [raw/learning-resources/technical-interview-learning-resources.md]
+sources: [raw/learning-resources/technical-interview-learning-resources.md, raw/newsletters/latent-space-2026-08-03-the-inference-engineering-masterclass-philip-kiely-ali-taha-baseten.md, raw/newsletters/ainews-2026-08-05-ainews-megakernels-are-so-dead-and-so-back.md, raw/newsletters/ainews-2026-08-01-ainews-not-much-happened-today.md]
 confidence: high
 ---
 
@@ -55,6 +55,12 @@ A **node** is a physical server with CPU, RAM, storage, networking, and one or m
 | pipeline parallelism (PP) | groups of layers | less frequent communication but pipeline bubbles and sequential stages |
 
 If a model fits on one GPU, use replicas for throughput first. If it needs sharding, try TP within high-bandwidth NVLink/NVSwitch topology; for larger cross-node placement, consider hybrid TP-within-node and PP-across-node. Profile actual communication rather than treating the rule as universal.
+
+## August 2026 update: topology is part of the model
+
+The new inference coverage reinforces that GPU placement is an application decision. Prefill and decode can use different GPU pools; tensor, expert, and pipeline parallelism must be tuned against the actual interconnect; and identical weights can behave differently across clusters because kernels, scheduling, races, and memory movement differ. [[baseten]] frames this as auto-tuning against representative traffic rather than a one-time hardware choice.
+
+The open-model examples make capacity trade-offs visible. [[qwen-3-8-max]] is strategically important but datacenter-scale, while [[deepseek-v4-flash]] has a smaller active footprint yet still exposes storage, bandwidth, and quantization constraints. “Open weights” changes who can inspect and serve a model; it does not remove the hardware system around it.
 
 ## Links
 

@@ -1,12 +1,14 @@
 # Wiki Index
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.  
-> Last updated: 2026-07-30 | Total pages: 75
+> Last updated: 2026-08-10 | Total pages: 81
 
 ## Entities
 
 - [[amp]] — AI compute-grid company focused on utilization, scheduling, and infrastructure reliability.
 - [[anthropic]] — Frontier AI lab linking Claude coding agents, Slack-native delegation, Fable/Sonnet/Opus releases, and access-control policy debates.
+- [[astra]] — OpenAI model program linked to proof-producing scientific research and heightened cyber-capability controls.
+- [[baseten]] — Inference platform illustrating cache-aware routing, speculative decoding, model serving, and dedicated deployments.
 - [[black-forest-labs]] — FLUX 3 lab connecting multimodal generation with robotics and physical-world modeling.
 - [[claude-fable-5]] — Anthropic's public Mythos-class model and the corpus's central case study in gated frontier capability.
 - [[claude-opus-4-8]] — Anthropic coding/agent model that prefigured Fable-era workflow orchestration.
@@ -14,6 +16,7 @@
 - [[claude-tag]] — Anthropic's multiplayer Slack-native agent framework for persistent, proactive AI assistance in teams.
 - [[cognition]] — Async coding-agent company around Devin and enterprise engineering value measurement.
 - [[databricks]] — Enterprise data+AI platform and key player in the AI infrastructure and agent ecosystem.
+- [[deepseek-v4-flash]] — Cost/performance open-weight model emphasizing post-training, Codex-compatible serving, and rapid local-runtime support.
 - [[github]] — Developer collaboration layer adapting to agent-generated software work and trust pressure.
 - [[glm-5-2]] — Breakout open-weight model framed as frontier-adjacent and strategically important for local/open AI.
 - [[google-deepmind]] — Agent-control roadmap and frontier-research context around DeepMind.
@@ -29,12 +32,14 @@
 - [[openai]] — Product consolidation, GPT-5.6/ChatGPT Work rollout, cyber-incident fallout, health interfaces, and governance pressure around OpenAI.
 - [[openai-jalapeno-chip]] — OpenAI's rumored custom AI hardware chip, part of the infrastructure buildout to reduce dependence on NVIDIA.
 - [[poolside]] — Code-model lab using a high-throughput Model Factory and open-weight Laguna releases.
+- [[qwen-3-8-max]] — Alibaba's 2.4T open-weight flagship and 27B companion aimed at coding, multimodal reasoning, and long-horizon agents.
 - [[radical-ai]] — Materials-science company using self-driving labs for closed-loop alloy discovery.
 
 ## Concepts
 
 - [[agent-memory]] — Durable state for agents across facts, procedures, traces, skills, and persistent work contexts.
 - [[agent-reliability-and-operations]] — Production controls for agent quality, recovery, security, evaluation, incidents, and safe releases.
+- [[agent-to-agent-coordination]] — Communication, shared state, and security boundaries across persistent agent runs and workers.
 - [[agent-experience]] — Infrastructure, tools, APIs, observability, and guardrails designed for AI agents as first-class users.
 - [[agentic-knowledge-work]] — Persistent agents producing documents, spreadsheets, sites, analyses, plans, and business artifacts across tools.
 - [[agentic-robotics]] — Multimodal models, world models, policies, and agent-style reasoning loops for physical systems.
@@ -89,3 +94,4 @@
 - [[weekly-briefing-2026-07-13]] — Weekly synthesis of the 2026-07-06 through 2026-07-13 batch covering GPT-5.6, Grok 4.5, Codex superapp, and agent-native infrastructure.
 - [[weekly-briefing-2026-07-20]] — Weekly synthesis of the 2026-07-13 through 2026-07-19 batch covering Kimi K3, Inkling, OpenAI hardware surfaces, AI-engineering loops, and frontier governance.
 - [[weekly-briefing-2026-07-30]] — Weekly synthesis of the 2026-07-17 through 2026-07-30 batch covering Kimi K3, AI cybersecurity, pacing governance, ChatGPT Work, health data, robotics, and ontology guardrails.
+- [[weekly-briefing-2026-08-10]] — Weekly synthesis of inference economics, Qwen/DeepSeek open models, agent coordination, Astra cyber controls, and data-center politics.

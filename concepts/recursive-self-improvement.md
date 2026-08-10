@@ -1,10 +1,10 @@
 ---
 title: Recursive Self-Improvement
 created: 2026-06-23
-updated: 2026-07-13
+updated: 2026-08-10
 type: concept
 tags: [ai, llm, research, policy]
-sources: [raw/newsletters/the-neuron-2026-06-05-can-ai-improve-itself.md, raw/newsletters/ainews-2026-06-05-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-06-06-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-06-07-chatgpt-admitted-it-misremembers-you.md, raw/newsletters/ainews-2026-06-26-ainews-openai-reports-median-internal-codex-output-tokens-grew-56x-in.md, raw/newsletters/ainews-2026-07-01-autoresearch-the-feedback-loop-behind-self-improving-agents.md, raw/newsletters/ainews-2026-07-02-aiewf-daily-dispatch-autoresearch-and-the-tension-between-ai-and-human.md, raw/newsletters/ainews-2026-07-08-ainews-lilian-weng-summarizes-35-papers-on-harness-engineering-for-rsi.md, raw/newsletters/the-neuron-2026-07-08-one-rogue-agent-could-hijack-enterprise-chatbots.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md]
+sources: [raw/newsletters/the-neuron-2026-06-05-can-ai-improve-itself.md, raw/newsletters/ainews-2026-06-05-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-06-06-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-06-07-chatgpt-admitted-it-misremembers-you.md, raw/newsletters/ainews-2026-06-26-ainews-openai-reports-median-internal-codex-output-tokens-grew-56x-in.md, raw/newsletters/ainews-2026-07-01-autoresearch-the-feedback-loop-behind-self-improving-agents.md, raw/newsletters/ainews-2026-07-02-aiewf-daily-dispatch-autoresearch-and-the-tension-between-ai-and-human.md, raw/newsletters/ainews-2026-07-08-ainews-lilian-weng-summarizes-35-papers-on-harness-engineering-for-rsi.md, raw/newsletters/the-neuron-2026-07-08-one-rogue-agent-could-hijack-enterprise-chatbots.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/ainews-2026-07-31-ainews-gpt-5-6-price-cut-by-20-80-cost-of-gpt-5-4-intelligence-dropped.md, raw/newsletters/ainews-2026-08-04-ainews-qwen-3-8-max-2-4t-and-27b-new-open-weights-models-for-coding-an.md, raw/newsletters/the-neuron-2026-08-04-openai-s-new-astra-ai-made-10-scientific-advances.md, raw/newsletters/ainews-2026-08-06-ainews-jeff-sanjay-oriol-and-quoc-depart-deepmind-demis-to-chair-koray.md]
 confidence: medium
 ---
 
@@ -29,6 +29,12 @@ This is not autonomous runaway improvement. It is a practical systems pattern: m
 Lilian Weng’s harness-engineering recap became the clearest current RSI synthesis in the corpus. AINews describes it as reframing recursive self-improvement around tools, verifiers, workflows, and scaffolding rather than direct weight self-modification. [raw/newsletters/ainews-2026-07-08-ainews-lilian-weng-summarizes-35-papers-on-harness-engineering-for-rsi.md:15-24]
 
 The [[gpt-5-6]] launch added a provocative but contested signal: Sol was described as helping post-train Luna. AINews records both the hype and the skeptical interpretation: the evidence points to models executing meaningful chunks of RL/post-training workflows inside existing infrastructure, not autonomously owning end-to-end model training. [raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md:65-76]
+
+## August 2026 update: self-improvement through systems
+
+The new batch supplies concrete, bounded forms of RSI: Sol reportedly helped optimize serving kernels and cost; Qwen 3.8 Max was marketed through long-running coding, research, and chip-design loops; Meta and Prime Intellect pushed self-improving harnesses; and Astra was credited with proof-producing scientific work. These are workflow and infrastructure feedback loops, not evidence of unbounded autonomous improvement.
+
+The governance implication is immediate. As systems gain better tools, memory, and cross-agent communication, [[ai-cybersecurity]], [[agent-to-agent-coordination]], and release gates must evaluate the loop that creates capability—not only the checkpoint that starts it.
 
 ## Read carefully
 
