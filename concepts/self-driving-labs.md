@@ -1,10 +1,10 @@
 ---
 title: Self-Driving Labs
 created: 2026-06-21
-updated: 2026-07-20
+updated: 2026-08-17
 type: concept
 tags: [ai, machine-learning, research]
-sources: [raw/newsletters/latent-space-2026-06-17-the-self-driving-lab-joseph-krause-radical-ai.md, raw/newsletters/data-science-weekly-2026-06-11-data-science-weekly-issue-655.md, raw/newsletters/data-science-weekly-2026-06-18-data-science-weekly-issue-656.md, raw/newsletters/latent-space-2026-07-01-the-coolest-diffusion-research-isn-t-in-llms-evan-feinberg-sergey-edun.md, raw/newsletters/latent-space-2026-07-16-the-lab-of-the-future-should-feel-like-a-data-center-andy-beam-rafa-g.md]
+sources: [raw/newsletters/latent-space-2026-06-17-the-self-driving-lab-joseph-krause-radical-ai.md, raw/newsletters/data-science-weekly-2026-06-11-data-science-weekly-issue-655.md, raw/newsletters/data-science-weekly-2026-06-18-data-science-weekly-issue-656.md, raw/newsletters/latent-space-2026-07-01-the-coolest-diffusion-research-isn-t-in-llms-evan-feinberg-sergey-edun.md, raw/newsletters/latent-space-2026-07-16-the-lab-of-the-future-should-feel-like-a-data-center-andy-beam-rafa-g.md, raw/newsletters/latent-space-2026-08-11-the-bioai-phase-shift-matthew-mcpartlon-neil-patil-chai-discovery.md]
 confidence: high
 ---
 
@@ -29,6 +29,8 @@ Latent.Space’s Lila Sciences interview sharpens the self-driving-lab architect
 The most important distinction is that Lila does not position itself as a pure automation company. It optimizes for flexible, generalizable experiment loops, leaves humans below the API line where automation does not pay, and treats experimentally verified reasoning traces as a scarce training signal. [raw/newsletters/latent-space-2026-07-16-the-lab-of-the-future-should-feel-like-a-data-center-andy-beam-rafa-g.md:23-35]
 
 That makes self-driving labs an [[ai-infrastructure-economics]] problem as much as a science problem: physical rollouts have runtimes, wet-lab reward hacking has real costs, and scientific superintelligence depends on verifiers in nature, not just benchmark test sets.
+
+Chai Discovery adds a product and business layer to this architecture. Its account describes structural models becoming binding and design models, with pharma partnerships supplying the feedback needed to make molecular tooling trustworthy. The resulting “molecule CAD” thesis is that AI-for-science value comes from experimentally validated candidates and shorter iteration loops, not prediction scores alone. [raw/newsletters/latent-space-2026-08-11-the-bioai-phase-shift-matthew-mcpartlon-neil-patil-chai-discovery.md]
 
 ## Components
 

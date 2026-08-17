@@ -1,10 +1,10 @@
 ---
 title: Meta
 created: 2026-07-30
-updated: 2026-08-10
+updated: 2026-08-17
 type: entity
 tags: [ai, company, policy, model]
-sources: [raw/newsletters/the-neuron-2026-07-30-zuckerberg-split-with-his-own-ai-chief.md, raw/newsletters/ainews-2026-07-29-ainews-fearing-rsi-openai-anthropic-gdm-meta-thinky-cosign-letter-to-p.md, raw/newsletters/ainews-2026-08-06-ainews-jeff-sanjay-oriol-and-quoc-depart-deepmind-demis-to-chair-koray.md, raw/newsletters/ainews-2026-08-07-ainews-amd-buys-taalas.md]
+sources: [raw/newsletters/the-neuron-2026-07-30-zuckerberg-split-with-his-own-ai-chief.md, raw/newsletters/ainews-2026-07-29-ainews-fearing-rsi-openai-anthropic-gdm-meta-thinky-cosign-letter-to-p.md, raw/newsletters/ainews-2026-08-06-ainews-jeff-sanjay-oriol-and-quoc-depart-deepmind-demis-to-chair-koray.md, raw/newsletters/ainews-2026-08-07-ainews-amd-buys-taalas.md, raw/newsletters/ainews-2026-08-11-ainews-muse-glimmer-and-spark-open-weights-return-personal-superintell.md, raw/newsletters/the-neuron-2026-08-11-zuckerberg-s-superintelligence-bargain.md]
 confidence: medium
 ---
 
@@ -20,9 +20,9 @@ That stance landed the same week that OpenAI, Anthropic, Google DeepMind, Meta e
 
 ## August 2026: Muse becomes a systems bet
 
-The new batch reports Meta's Muse Spark 1.2 moving into serious coding-agent and cost/performance comparisons, alongside Muse Code's persistent background workers, repository-scale context, multimodal inputs, and verification loops. Coverage also attributes strong STEM-competition results to the Muse family while emphasizing that orchestration and evaluation protocol affect the result. These are partly vendor and ecosystem claims, so benchmark conditions matter.
+The new batch reports Meta's Muse family moving into serious coding-agent and cost/performance comparisons, alongside persistent workers, multimodal inputs, and verification loops. Muse Glimmer makes the open-distribution stance concrete: a roughly 30B Apache-2.0 multimodal model is intended to run locally, use tools, recover from failures, and support long-running work. [raw/newsletters/ainews-2026-08-11-ainews-muse-glimmer-and-spark-open-weights-return-personal-superintell.md][raw/newsletters/the-neuron-2026-08-11-zuckerberg-s-superintelligence-bargain.md]
 
-Meta is therefore no longer represented only by an acceleration/open-distribution stance. It is also a model-plus-harness competitor to [[openai]], [[anthropic]], and [[google-deepmind]], with [[coding-agent-evaluation]] and [[model-routing]] becoming central to its product position.
+Meta is therefore no longer represented only by an acceleration/open-distribution stance. It is also a model-plus-harness competitor to [[openai]], [[anthropic]], and [[google-deepmind]], with [[coding-agent-evaluation]], [[local-llms]], and [[model-routing]] central to its product position. Early community comparisons remain workload-specific and should not be treated as settled model rankings. [raw/newsletters/ainews-2026-08-11-ainews-muse-glimmer-and-spark-open-weights-return-personal-superintell.md]
 
 ## Why it matters
 
