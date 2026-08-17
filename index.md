@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.  
-> Last updated: 2026-08-10 | Total pages: 81
+> Last updated: 2026-08-17 | Total pages: 87
 
 ## Entities
 
@@ -10,6 +10,7 @@
 - [[astra]] — OpenAI model program linked to proof-producing scientific research and heightened cyber-capability controls.
 - [[baseten]] — Inference platform illustrating cache-aware routing, speculative decoding, model serving, and dedicated deployments.
 - [[black-forest-labs]] — FLUX 3 lab connecting multimodal generation with robotics and physical-world modeling.
+- [[chai-discovery]] — BioAI company using structural and binding models to design molecules with pharma feedback loops.
 - [[claude-fable-5]] — Anthropic's public Mythos-class model and the corpus's central case study in gated frontier capability.
 - [[claude-opus-4-8]] — Anthropic coding/agent model that prefigured Fable-era workflow orchestration.
 - [[claude-opus-5]] — Anthropic Opus-class model framed as near-Fable coding capability with evaluation caveats.
@@ -17,17 +18,20 @@
 - [[cognition]] — Async coding-agent company around Devin and enterprise engineering value measurement.
 - [[databricks]] — Enterprise data+AI platform and key player in the AI infrastructure and agent ecosystem.
 - [[deepseek-v4-flash]] — Cost/performance open-weight model emphasizing post-training, Codex-compatible serving, and rapid local-runtime support.
+- [[gemini-3-7-flash]] — Google's fast, inexpensive workhorse model for coding, knowledge work, and agentic workflows.
 - [[github]] — Developer collaboration layer adapting to agent-generated software work and trust pressure.
 - [[glm-5-2]] — Breakout open-weight model framed as frontier-adjacent and strategically important for local/open AI.
 - [[google-deepmind]] — Agent-control roadmap and frontier-research context around DeepMind.
 - [[google-gemini]] — Google's model family increasingly split into specialized workhorse, lightweight, and cyber variants.
 - [[grok-4-5]] — xAI/SpaceXAI's July 2026 coding-and-agents-focused frontier model with a coding-agent evaluation harness.
+- [[grok-4-6]] — xAI/SpaceXAI's cost-efficient frontier model for long-running agents, coding, and research.
 - [[gpt-5-6]] — OpenAI's flagship model family (Sol/Terra/Luna), restricted to trusted partners, at the center of access-control and regulatory debates.
 - [[inkling]] — Thinking Machines' open-weight multimodal MoE positioned around customization and private post-training.
 - [[kimi-k3]] — Moonshot AI's 2.8T open-weight frontier-class model and major open-vs-closed policy catalyst.
 - [[meta]] — Large AI platform company anchoring the acceleration/open-distribution side of the current governance split.
 - [[microsoft]] — Enterprise AI platform actor bundling MAI models, GitHub, Windows, Foundry, context, and evals.
 - [[modal]] — AI cloud platform illustrating how infrastructure is being redesigned for agent-native workloads.
+- [[muse-glimmer]] — Meta's open-weight multimodal model aimed at always-on local agents.
 - [[nvidia]] — AI hardware and open-model actor spanning local agent systems, Cosmos, Nemotron, and open AI security tooling.
 - [[openai]] — Product consolidation, GPT-5.6/ChatGPT Work rollout, cyber-incident fallout, health interfaces, and governance pressure around OpenAI.
 - [[openai-jalapeno-chip]] — OpenAI's rumored custom AI hardware chip, part of the infrastructure buildout to reduce dependence on NVIDIA.
@@ -70,6 +74,7 @@
 - [[open-code-data]] — Public, license-aware source-code training data used to build or evaluate code models.
 - [[pacing-the-frontier]] — Proposal to develop mechanisms for slowing frontier AI progress if oversight cannot keep up.
 - [[real-world-agent-evaluations]] — Long-horizon, stateful, economic, and physical-world evals for agent behavior.
+- [[reasoning-trace-security]] — Confidentiality, privacy, monitoring, and replay risks around hidden model reasoning artifacts.
 - [[recursive-self-improvement]] — Model-assisted AI development as a near-term capability, autoresearch, and governance feedback loop.
 - [[reliable-data-pipelines]] — Data-engineering practices for trustworthy, reproducible analytics and AI workflows.
 - [[retrieval-augmented-generation]] — Runtime evidence retrieval, index design, chunking, evaluation, and operational safeguards.
@@ -95,3 +100,4 @@
 - [[weekly-briefing-2026-07-20]] — Weekly synthesis of the 2026-07-13 through 2026-07-19 batch covering Kimi K3, Inkling, OpenAI hardware surfaces, AI-engineering loops, and frontier governance.
 - [[weekly-briefing-2026-07-30]] — Weekly synthesis of the 2026-07-17 through 2026-07-30 batch covering Kimi K3, AI cybersecurity, pacing governance, ChatGPT Work, health data, robotics, and ontology guardrails.
 - [[weekly-briefing-2026-08-10]] — Weekly synthesis of inference economics, Qwen/DeepSeek open models, agent coordination, Astra cyber controls, and data-center politics.
+- [[weekly-briefing-2026-08-17]] — Weekly synthesis of Grok/Gemini price-performance, Muse Glimmer, agent harnesses, reasoning-trace security, and BioAI.

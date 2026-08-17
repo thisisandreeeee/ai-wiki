@@ -1,10 +1,10 @@
 ---
 title: Meta-Harnesses
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-08-17
 type: concept
 tags: [ai, tooling, llm, trend]
-sources: [raw/newsletters/ainews-2026-06-24-ainews-claude-tag-multiplayer-proactive-persistent-agents-in-slack.md, raw/newsletters/ainews-2026-06-25-ainews-it-s-meta-harness-summer.md, raw/newsletters/latent-space-2026-06-24-why-the-frontier-ecosystem-must-be-open-matei-zaharia-and-reynold-xin.md]
+sources: [raw/newsletters/ainews-2026-06-24-ainews-claude-tag-multiplayer-proactive-persistent-agents-in-slack.md, raw/newsletters/ainews-2026-06-25-ainews-it-s-meta-harness-summer.md, raw/newsletters/latent-space-2026-06-24-why-the-frontier-ecosystem-must-be-open-matei-zaharia-and-reynold-xin.md, raw/newsletters/ainews-2026-08-14-ainews-gemini-3-7-flash-brings-gdm-back-to-the-forefront.md, raw/newsletters/latent-space-2026-08-15-react-for-agents-astro-creator-brings-hooks-to-his-meta-harness-flue.md]
 confidence: high
 ---
 
@@ -29,6 +29,10 @@ As teams adopted coding agents, three problems converged:
 - **Conductor, ACP, OpenInspect, Flue, Eve, HarnessAgent**: Earlier experiments that Matei Zaharia cited as the pre-history of meta-harnesses, culminating in Omnigent.
 
 - **Hugging Face Moon Bot**: Self-hosted Slack coding agent emphasizing custom tools, auditable sessions, and zero vendor lock-in — the DIY counter to Claude Tag.
+
+## August 2026: harnesses become composable runtimes
+
+Flue 2 treats the harness as fundamental: an agent is a JavaScript function that re-renders before each model call, with hooks such as `useSkill()`, `useTool()`, and `useSubagent()` controlling dynamic capabilities. DeepSeek Harness makes a parallel open-source bet around plugins, visible trajectories, append-only history, and cache-aware runtime behavior. These systems move the meta-harness question from a common wrapper API toward a runtime that owns state, lifecycle, and resource composition. [raw/newsletters/latent-space-2026-08-15-react-for-agents-astro-creator-brings-hooks-to-his-meta-harness-flue.md][raw/newsletters/ainews-2026-08-14-ainews-gemini-3-7-flash-brings-gdm-back-to-the-forefront.md]
 
 ## Open questions
 

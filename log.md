@@ -66,3 +66,11 @@
 - Created `entities/astra.md`, `entities/baseten.md`, `entities/deepseek-v4-flash.md`, `entities/qwen-3-8-max.md`, `concepts/agent-to-agent-coordination.md`, and `queries/weekly-briefing-2026-08-10.md`.
 - Updated `concepts/ai-cybersecurity.md`, `concepts/ai-infrastructure-economics.md`, `concepts/agent-reliability-and-operations.md`, `concepts/agentic-systems.md`, `concepts/coding-agent-evaluation.md`, `concepts/llm-inference-on-gpus.md`, `concepts/llm-inference-optimization.md`, `concepts/local-llms.md`, `concepts/model-routing.md`, `concepts/recursive-self-improvement.md`, `entities/google-deepmind.md`, `entities/gpt-5-6.md`, `entities/meta.md`, `entities/openai.md`, and `comparisons/closed-vs-open-frontier-models.md`.
 - Updated `index.md`; preserved previously ingested raw newsletter files unchanged after the fetch script refreshed their dates.
+
+## [2026-08-17] synthesize | Weekly newsletter batch
+
+- Ran `python3 scripts/fetch_gmail_newsletters.py`: fetched 27 Gmail newsletter items; 13 were new raw newsletter sources added under `raw/newsletters/`, and `raw/newsletters/manifest.json` was refreshed to 175 total captures.
+- Preserved all previously ingested raw newsletter files unchanged after restoring fetch-script rewrites.
+- Created `entities/chai-discovery.md`, `entities/gemini-3-7-flash.md`, `entities/grok-4-6.md`, `entities/muse-glimmer.md`, `concepts/reasoning-trace-security.md`, and `queries/weekly-briefing-2026-08-17.md`.
+- Updated `entities/google-deepmind.md`, `entities/google-gemini.md`, `entities/meta.md`, `concepts/agent-reliability-and-operations.md`, `concepts/agent-to-agent-coordination.md`, `concepts/ai-cybersecurity.md`, `concepts/ai-infrastructure-economics.md`, `concepts/coding-agent-evaluation.md`, `concepts/local-llms.md`, `concepts/meta-harnesses.md`, `concepts/model-routing.md`, and `concepts/self-driving-labs.md`.
+- Updated `index.md`; validation was run with `python3 scripts/lint_wiki.py` and `python3 -m py_compile scripts/*.py` before delivery.

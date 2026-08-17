@@ -1,10 +1,10 @@
 ---
 title: Model Routing
 created: 2026-07-30
-updated: 2026-08-10
+updated: 2026-08-17
 type: concept
 tags: [ai, llm, tooling, trend]
-sources: [raw/newsletters/ainews-2026-07-21-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-07-23-google-split-gemini-in-three.md, raw/newsletters/ainews-2026-07-29-ainews-ai-is-eating-finance-aie-nyc-now-open.md, raw/newsletters/ainews-2026-08-07-ainews-amd-buys-taalas.md, raw/newsletters/latent-space-2026-08-03-the-inference-engineering-masterclass-philip-kiely-ali-taha-baseten.md, raw/newsletters/latent-space-2026-08-04-unpacking-chatgpt-work-the-agent-for-a-billion-users.md, raw/newsletters/ainews-2026-08-01-ainews-not-much-happened-today.md]
+sources: [raw/newsletters/ainews-2026-07-21-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-07-23-google-split-gemini-in-three.md, raw/newsletters/ainews-2026-07-29-ainews-ai-is-eating-finance-aie-nyc-now-open.md, raw/newsletters/ainews-2026-08-07-ainews-amd-buys-taalas.md, raw/newsletters/latent-space-2026-08-03-the-inference-engineering-masterclass-philip-kiely-ali-taha-baseten.md, raw/newsletters/latent-space-2026-08-04-unpacking-chatgpt-work-the-agent-for-a-billion-users.md, raw/newsletters/ainews-2026-08-01-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-08-13-ainews-spacexai-grok-4-6-and-grok-bot.md, raw/newsletters/the-neuron-2026-08-13-elon-releases-grok-4-6-says-grok-4-7-is-weeks-away.md, raw/newsletters/ainews-2026-08-14-ainews-gemini-3-7-flash-brings-gdm-back-to-the-forefront.md, raw/newsletters/the-neuron-2026-08-14-why-gemini-3-7-flash-just-got-half-price.md]
 confidence: medium
 ---
 
@@ -25,6 +25,10 @@ Kimi K3 harness comparisons add another layer: the same model can show different
 Cursor's reported router was trained on millions of weekly in-product interactions and explicitly assigned different models to routine work, planning, execution, and debugging. Baseten's inference account adds cache locality, prefill capacity, traffic shape, and dedicated-vs-shared deployment as routing inputs. [[deepseek-v4-flash]] and [[qwen-3-8-max]] therefore belong in a policy table with quality, quantization, latency, context reuse, availability, and spend—not in a single “best model” slot.
 
 ChatGPT Work adds another routing dimension: plugins, scheduled tasks, browser profiles, and project context determine which tools and memories are available. A model route without a permission and context policy is incomplete. [raw/newsletters/latent-space-2026-08-04-unpacking-chatgpt-work-the-agent-for-a-billion-users.md]
+
+## August 17 update: price, latency, and trajectory shape the route
+
+Grok 4.6 and Gemini 3.7 Flash sharpen the routing table. Grok is positioned around cost per completed long-running task, while Gemini emphasizes high-throughput workhorse traffic, rapid iteration, and low introductory pricing. GPT-5.6 Sol Ultrafast and DeepSeek V4 Pro add hardware and time-of-day dimensions. The route should therefore include expected turns, cache reuse, tool latency, context length, failure recovery, and total task cost—not only input/output token price. [raw/newsletters/ainews-2026-08-13-ainews-spacexai-grok-4-6-and-grok-bot.md][raw/newsletters/ainews-2026-08-14-ainews-gemini-3-7-flash-brings-gdm-back-to-the-forefront.md][raw/newsletters/the-neuron-2026-08-14-why-gemini-3-7-flash-just-got-half-price.md]
 
 ## Why it matters
 
