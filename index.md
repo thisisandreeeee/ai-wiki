@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.  
-> Last updated: 2026-08-17 | Total pages: 87
+> Last updated: 2026-08-24 | Total pages: 91
 
 ## Entities
 
@@ -21,6 +21,7 @@
 - [[gemini-3-7-flash]] — Google's fast, inexpensive workhorse model for coding, knowledge work, and agentic workflows.
 - [[github]] — Developer collaboration layer adapting to agent-generated software work and trust pressure.
 - [[glm-5-2]] — Breakout open-weight model framed as frontier-adjacent and strategically important for local/open AI.
+- [[glm-5-3]] — Z.ai successor framed as a same-footprint post-training and agent-environment scaling experiment.
 - [[google-deepmind]] — Agent-control roadmap and frontier-research context around DeepMind.
 - [[google-gemini]] — Google's model family increasingly split into specialized workhorse, lightweight, and cyber variants.
 - [[grok-4-5]] — xAI/SpaceXAI's July 2026 coding-and-agents-focused frontier model with a coding-agent evaluation harness.
@@ -35,9 +36,11 @@
 - [[nvidia]] — AI hardware and open-model actor spanning local agent systems, Cosmos, Nemotron, and open AI security tooling.
 - [[openai]] — Product consolidation, GPT-5.6/ChatGPT Work rollout, cyber-incident fallout, health interfaces, and governance pressure around OpenAI.
 - [[openai-jalapeno-chip]] — OpenAI's rumored custom AI hardware chip, part of the infrastructure buildout to reduce dependence on NVIDIA.
+- [[openrouter]] — Multi-provider model gateway whose reported Stripe acquisition makes routing a strategic infrastructure layer.
 - [[poolside]] — Code-model lab using a high-throughput Model Factory and open-weight Laguna releases.
 - [[qwen-3-8-max]] — Alibaba's 2.4T open-weight flagship and 27B companion aimed at coding, multimodal reasoning, and long-horizon agents.
 - [[radical-ai]] — Materials-science company using self-driving labs for closed-loop alloy discovery.
+- [[simile-ai]] — Behavioral-simulation company building digital twins and synthetic populations from interviews, behavior, and causal data.
 
 ## Concepts
 
@@ -101,3 +104,4 @@
 - [[weekly-briefing-2026-07-30]] — Weekly synthesis of the 2026-07-17 through 2026-07-30 batch covering Kimi K3, AI cybersecurity, pacing governance, ChatGPT Work, health data, robotics, and ontology guardrails.
 - [[weekly-briefing-2026-08-10]] — Weekly synthesis of inference economics, Qwen/DeepSeek open models, agent coordination, Astra cyber controls, and data-center politics.
 - [[weekly-briefing-2026-08-17]] — Weekly synthesis of Grok/Gemini price-performance, Muse Glimmer, agent harnesses, reasoning-trace security, and BioAI.
+- [[weekly-briefing-2026-08-24]] — Weekly synthesis of model routing, GLM-5.3 post-training, memory scarcity, agent harness evolution, behavioral simulation, and AI trust.

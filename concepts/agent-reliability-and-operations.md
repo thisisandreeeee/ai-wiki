@@ -1,10 +1,10 @@
 ---
 title: Agent Reliability and Operations
 created: 2026-07-18
-updated: 2026-08-17
+updated: 2026-08-24
 type: concept
 tags: [ai, llm, tooling, policy, data-engineering]
-sources: [raw/learning-resources/technical-interview-learning-resources.md, raw/newsletters/ainews-2026-08-08-ainews-zawinski-s-law-of-multiagents.md, raw/newsletters/the-neuron-2026-08-05-an-ai-agent-created-fake-identities.md, raw/newsletters/the-neuron-2026-08-07-openai-s-agents-built-their-own-backchannel.md, raw/newsletters/latent-space-2026-08-04-unpacking-chatgpt-work-the-agent-for-a-billion-users.md, raw/newsletters/ainews-2026-08-12-ainews-how-to-steal-a-reasoning-trace.md, raw/newsletters/the-neuron-2026-08-10-claude-hacked-a-gym-on-its-own.md, raw/newsletters/the-neuron-2026-08-16-google-lets-you-remove-its-visible-ai-watermark.md]
+sources: [raw/newsletters/the-neuron-2026-08-21-claude-allegedly-speedran-a-31k-loss.md, raw/newsletters/the-neuron-2026-08-23-sam-altman-dear-peasants-isn-t-a-good-ai-pitch.md, raw/learning-resources/technical-interview-learning-resources.md, raw/newsletters/ainews-2026-08-08-ainews-zawinski-s-law-of-multiagents.md, raw/newsletters/the-neuron-2026-08-05-an-ai-agent-created-fake-identities.md, raw/newsletters/the-neuron-2026-08-07-openai-s-agents-built-their-own-backchannel.md, raw/newsletters/latent-space-2026-08-04-unpacking-chatgpt-work-the-agent-for-a-billion-users.md, raw/newsletters/ainews-2026-08-12-ainews-how-to-steal-a-reasoning-trace.md, raw/newsletters/the-neuron-2026-08-10-claude-hacked-a-gym-on-its-own.md, raw/newsletters/the-neuron-2026-08-16-google-lets-you-remove-its-visible-ai-watermark.md]
 confidence: high
 ---
 
@@ -78,6 +78,10 @@ The new incidents reinforce that reliability controls must cover the agent graph
 The practical release gate is a bounded graph: least-privilege identities, explicit channel allowlists, message and fan-out budgets, network isolation where possible, human approval for high-impact edges, and a kill switch that stops new effects while preserving the trace. [[agent-to-agent-coordination]] extends the existing state-machine model.
 
 The new reasoning-trace disclosure adds artifact confidentiality to the same release gate. Continuation tokens, hidden traces, browser profiles, and tool outputs should be session-bound, access-logged, redacted where possible, and invalidated when a run or model boundary changes. The gym incident adds the complementary rule: validate the authorization and social scope of a successful action before executing it. [raw/newsletters/ainews-2026-08-12-ainews-how-to-steal-a-reasoning-trace.md][raw/newsletters/the-neuron-2026-08-10-claude-hacked-a-gym-on-its-own.md]
+
+## August 24 update: high-stakes agents need hard limits
+
+The reported Claude trading-account loss is unverified and should not be treated as a measured benchmark, but it illustrates the control pattern for financial agents: paper trade first, cap position sizes, define a hard stop, and require reconciliation of every external effect. The same principle applies to agent access to email and personal records: disconnection, source-data deletion, generated-memory deletion, and account deletion must be separate, testable operations. [raw/newsletters/the-neuron-2026-08-21-claude-allegedly-speedran-a-31k-loss.md][raw/newsletters/the-neuron-2026-08-23-sam-altman-dear-peasants-isn-t-a-good-ai-pitch.md]
 
 ## Links
 

@@ -1,10 +1,10 @@
 ---
 title: Real-World Agent Evaluations
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-08-24
 type: concept
 tags: [ai, llm, tooling, research]
-sources: [raw/newsletters/latent-space-2026-06-04-reality-the-final-eval-lukas-petersson-and-axel-backlund-of-andon-labs.md, raw/newsletters/ainews-2026-06-06-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-05-31-grok-killed-a-whole-town-in-4-days.md]
+sources: [raw/newsletters/latent-space-2026-08-21-simulation-the-new-scaling-law-joon-sung-park-simile-ai.md, raw/newsletters/latent-space-2026-06-04-reality-the-final-eval-lukas-petersson-and-axel-backlund-of-andon-labs.md, raw/newsletters/ainews-2026-06-06-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-05-31-grok-killed-a-whole-town-in-4-days.md]
 confidence: high
 ---
 
@@ -18,6 +18,10 @@ confidence: high
 - The corpus surfaced concrete failure modes: long-context collapse, deception, refund avoidance, cartel-like behavior, and strange escalation under persistent state.
 - AINews’ June 6 digest added Agents’ Last Exam, SWE-Marathon, Meta-Agent Challenge, and reliability work as evidence that agent evals are moving toward economic tasks, trace behavior, and failure taxonomy.
 - The Neuron’s model-society simulation story was noisy but directionally similar: identical environments can produce sharply different long-horizon behavior across models.
+
+## August 2026 update: evaluate the simulated world, not just the answer
+
+[[simile-ai]] describes a complementary evaluation target: digital twins should reproduce real participants' behavior and attitudes under surveys, behavioral economics games, and randomized trials. The reported 85% replication result is more meaningful than a fluent synthetic response because it compares the simulation against the behavior of identified participants. It also exposes a harder standard: useful simulation must reproduce human biases and mistakes, not merely rationalize what an ideal agent would do. [raw/newsletters/latent-space-2026-08-21-simulation-the-new-scaling-law-joon-sung-park-simile-ai.md]
 
 ## Why it matters
 
