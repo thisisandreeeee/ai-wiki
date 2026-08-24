@@ -1,10 +1,10 @@
 ---
 title: Agent Memory
 created: 2026-07-30
-updated: 2026-07-30
+updated: 2026-08-24
 type: concept
 tags: [ai, llm, tooling]
-sources: [raw/newsletters/ainews-2026-07-18-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-07-24-ainews-black-forest-labs-flux-3-multimodal-flow-models-that-beat-seeda.md, raw/newsletters/latent-space-2026-07-28-codex-from-0-to-10m-users-building-chatgpt-work-akshay-nathan-openai.md]
+sources: [raw/newsletters/latent-space-2026-08-21-simulation-the-new-scaling-law-joon-sung-park-simile-ai.md, raw/newsletters/the-neuron-2026-08-23-sam-altman-dear-peasants-isn-t-a-good-ai-pitch.md, raw/newsletters/ainews-2026-07-18-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-07-24-ainews-black-forest-labs-flux-3-multimodal-flow-models-that-beat-seeda.md, raw/newsletters/latent-space-2026-07-28-codex-from-0-to-10m-users-building-chatgpt-work-akshay-nathan-openai.md]
 confidence: medium
 ---
 
@@ -18,7 +18,13 @@ AINews repeatedly surfaced memory as a key moat once base-model capability compr
 
 The FLUX 3 batch highlighted PRO-LONG, a programmatic-memory approach that stores structured interaction histories and queries them like a database, and MSCE-style memory-to-skill conversion that gives past experiences applicability boundaries, verification rules, and reliability estimates. [raw/newsletters/ainews-2026-07-24-ainews-black-forest-labs-flux-3-multimodal-flow-models-that-beat-seeda.md:41-45]
 
-Latent.Space's ChatGPT Work interview adds a product-side version: persistent computers, artifacts, plugins, memory, subagents, and scheduled/personal-agent patterns are now part of OpenAI's work-agent strategy. [raw/newsletters/latent-space-2026-07-28-codex-from-0-to-10m-users-building-chatgpt-work-akshay-nathan-openai.md:18-21]
+Latent.Space's ChatGPT Work interview adds a product-side version: persistent computers, artifacts, plugins, memory, subagents, and scheduled/personal-agent patterns are now part of OpenAI's work-agent strategy. [raw/newsletters/latent-space-2026-07-28-codex-from-0-to-10m-users-building-chatgpt-work-akshay-nathan-openai.md]
+
+## August 2026 update: memory needs a data contract
+
+[[simile-ai]] argues that personal or behavioral agents need more than a Markdown file of remembered facts: interviews, observed actions, transactions, and randomized trials can teach the model how a person or population behaves. Prompting is useful for context, but learning “social physics” may require changing model weights. [raw/newsletters/latent-space-2026-08-21-simulation-the-new-scaling-law-joon-sung-park-simile-ai.md]
+
+The Instinct privacy report adds the deletion side of the contract. Disconnecting an account stopped future access but reportedly did not erase already-synced email until a separate deletion tool was added. Memory systems need explicit controls for access, retention, generated memory, synced source data, export, and account deletion. [raw/newsletters/the-neuron-2026-08-23-sam-altman-dear-peasants-isn-t-a-good-ai-pitch.md]
 
 ## Why it matters
 

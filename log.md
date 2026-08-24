@@ -74,3 +74,11 @@
 - Created `entities/chai-discovery.md`, `entities/gemini-3-7-flash.md`, `entities/grok-4-6.md`, `entities/muse-glimmer.md`, `concepts/reasoning-trace-security.md`, and `queries/weekly-briefing-2026-08-17.md`.
 - Updated `entities/google-deepmind.md`, `entities/google-gemini.md`, `entities/meta.md`, `concepts/agent-reliability-and-operations.md`, `concepts/agent-to-agent-coordination.md`, `concepts/ai-cybersecurity.md`, `concepts/ai-infrastructure-economics.md`, `concepts/coding-agent-evaluation.md`, `concepts/local-llms.md`, `concepts/meta-harnesses.md`, `concepts/model-routing.md`, and `concepts/self-driving-labs.md`.
 - Updated `index.md`; validation was run with `python3 scripts/lint_wiki.py` and `python3 -m py_compile scripts/*.py` before delivery.
+
+## [2026-08-24] synthesize | Weekly newsletter batch
+
+- Fetched 28 Gmail newsletter items; 15 were new raw newsletter sources added under `raw/newsletters/`, with the manifest refreshed to include the fetched window.
+- Preserved all previously ingested raw newsletter files unchanged after restoring fetch-script rewrites.
+- Created `entities/glm-5-3.md`, `entities/openrouter.md`, `entities/simile-ai.md`, and `queries/weekly-briefing-2026-08-24.md`.
+- Updated `concepts/ai-finance.md`, `concepts/ai-healthcare.md`, `concepts/ai-infrastructure-economics.md`, `concepts/ai-memory-chip-shortage.md`, `concepts/agent-memory.md`, `concepts/agent-reliability-and-operations.md`, `concepts/agentic-robotics.md`, `concepts/frontier-lab-governance.md`, `concepts/meta-harnesses.md`, `concepts/model-routing.md`, `concepts/real-world-agent-evaluations.md`, `concepts/recursive-self-improvement.md`, `concepts/self-driving-labs.md`, `entities/nvidia.md`, `entities/openai.md`, and `entities/poolside.md`.
+- Updated `index.md`; validation and Python syntax checks were run before PR creation.

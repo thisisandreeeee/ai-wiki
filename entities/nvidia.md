@@ -1,10 +1,10 @@
 ---
 title: NVIDIA
 created: 2026-06-23
-updated: 2026-07-30
+updated: 2026-08-24
 type: entity
 tags: [ai, company, model, tooling]
-sources: [raw/newsletters/ainews-2026-06-02-ainews-nvidia-cosmos-3-nemotron-3-ultra-and-rtx-spark.md, raw/newsletters/the-neuron-2026-06-02-nvidia-agents-in-your-laptop.md, raw/newsletters/ainews-2026-06-05-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-07-28-nvidia-s-open-ai-counterpunch.md, raw/newsletters/ainews-2026-07-29-ainews-fearing-rsi-openai-anthropic-gdm-meta-thinky-cosign-letter-to-p.md]
+sources: [raw/newsletters/the-neuron-2026-08-18-why-openai-needed-nvidia-to-co-sign.md, raw/newsletters/ainews-2026-08-21-ainews-poolside-gets-12b-reverse-execuhire-to-nvidia-founders-stay-for.md, raw/newsletters/ainews-2026-06-02-ainews-nvidia-cosmos-3-nemotron-3-ultra-and-rtx-spark.md, raw/newsletters/the-neuron-2026-06-02-nvidia-agents-in-your-laptop.md, raw/newsletters/ainews-2026-06-05-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-07-28-nvidia-s-open-ai-counterpunch.md, raw/newsletters/ainews-2026-07-29-ainews-fearing-rsi-openai-anthropic-gdm-meta-thinky-cosign-letter-to-p.md]
 confidence: high
 ---
 
@@ -25,6 +25,10 @@ NVIDIA ties [[local-llms]] to physical AI and infrastructure economics. The corp
 ## July 30 update: open AI security
 
 The Neuron reports NVIDIA launching the Open Secure AI Alliance with 36 other organizations, including Microsoft, IBM, Cisco, CrowdStrike, Hugging Face, Palantir, Salesforce, and the Linux Foundation. The alliance plans open security tooling for AI agents: identity, safer model formats, scanning, audit tools, red-team infrastructure, and related harness work. This makes NVIDIA a policy actor in [[ai-cybersecurity]], not just a compute supplier. [raw/newsletters/the-neuron-2026-07-28-nvidia-s-open-ai-counterpunch.md:50-78]
+
+## August 2026: financing and talent gravity
+
+New coverage adds two forms of leverage. NVIDIA reportedly backed financing for OpenAI's massive Ohio datacenter and separately licensed Poolside's Model Factory while hiring 109 employees. Together they show NVIDIA shaping not only the hardware supply layer, but also the capital, compute access, and model-development talent around frontier AI. [raw/newsletters/the-neuron-2026-08-18-why-openai-needed-nvidia-to-co-sign.md][raw/newsletters/ainews-2026-08-21-ainews-poolside-gets-12b-reverse-execuhire-to-nvidia-founders-stay-for.md]
 
 ## Links
 

@@ -1,10 +1,10 @@
 ---
 title: AI in Finance
 created: 2026-07-30
-updated: 2026-07-30
+updated: 2026-08-24
 type: concept
 tags: [ai, llm, tooling, trend]
-sources: [raw/newsletters/ainews-2026-07-29-ainews-ai-is-eating-finance-aie-nyc-now-open.md]
+sources: [raw/newsletters/the-neuron-2026-08-21-claude-allegedly-speedran-a-31k-loss.md, raw/newsletters/latent-space-2026-08-18-frontier-model-cost-and-open-weights-popularity-is-driving-demand-for.md, raw/newsletters/ainews-2026-07-29-ainews-ai-is-eating-finance-aie-nyc-now-open.md]
 confidence: medium
 ---
 
@@ -17,6 +17,8 @@ confidence: medium
 AINews framed finance as a broad adoption vertical rather than a single product category: OpenAI appeared around NYC finance events and Codex plugins for equity investing and investment banking, while Anthropic's financial-services team promoted Cowork and Claude Code agent templates across corporate-finance workflows. [raw/newsletters/ainews-2026-07-29-ainews-ai-is-eating-finance-aie-nyc-now-open.md:15-16]
 
 The important pattern is that finance is a natural home for [[software-factories]]: workflows are document-heavy, spreadsheet-heavy, compliance-sensitive, and expensive enough that agent time can be valuable even when token use is nontrivial.
+
+The reported Claude trading-account loss is explicitly unverified, but it gives the domain a concrete release checklist: begin in paper trading, cap positions, define hard stops, and reconcile every external state change. Finance makes the general [[agent-reliability-and-operations]] rule unavoidable because a fluent plan can still be an unauthorized or financially harmful action. [raw/newsletters/the-neuron-2026-08-21-claude-allegedly-speedran-a-31k-loss.md]
 
 ## Practical implications
 

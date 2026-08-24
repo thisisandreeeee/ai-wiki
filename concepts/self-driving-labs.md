@@ -1,10 +1,10 @@
 ---
 title: Self-Driving Labs
 created: 2026-06-21
-updated: 2026-08-17
+updated: 2026-08-24
 type: concept
 tags: [ai, machine-learning, research]
-sources: [raw/newsletters/latent-space-2026-06-17-the-self-driving-lab-joseph-krause-radical-ai.md, raw/newsletters/data-science-weekly-2026-06-11-data-science-weekly-issue-655.md, raw/newsletters/data-science-weekly-2026-06-18-data-science-weekly-issue-656.md, raw/newsletters/latent-space-2026-07-01-the-coolest-diffusion-research-isn-t-in-llms-evan-feinberg-sergey-edun.md, raw/newsletters/latent-space-2026-07-16-the-lab-of-the-future-should-feel-like-a-data-center-andy-beam-rafa-g.md, raw/newsletters/latent-space-2026-08-11-the-bioai-phase-shift-matthew-mcpartlon-neil-patil-chai-discovery.md]
+sources: [raw/newsletters/ainews-2026-08-21-ainews-poolside-gets-12b-reverse-execuhire-to-nvidia-founders-stay-for.md, raw/newsletters/latent-space-2026-08-21-simulation-the-new-scaling-law-joon-sung-park-simile-ai.md, raw/newsletters/latent-space-2026-06-17-the-self-driving-lab-joseph-krause-radical-ai.md, raw/newsletters/data-science-weekly-2026-06-11-data-science-weekly-issue-655.md, raw/newsletters/data-science-weekly-2026-06-18-data-science-weekly-issue-656.md, raw/newsletters/latent-space-2026-07-01-the-coolest-diffusion-research-isn-t-in-llms-evan-feinberg-sergey-edun.md, raw/newsletters/latent-space-2026-07-16-the-lab-of-the-future-should-feel-like-a-data-center-andy-beam-rafa-g.md, raw/newsletters/latent-space-2026-08-11-the-bioai-phase-shift-matthew-mcpartlon-neil-patil-chai-discovery.md]
 confidence: high
 ---
 

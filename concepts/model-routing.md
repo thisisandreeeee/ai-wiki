@@ -1,10 +1,10 @@
 ---
 title: Model Routing
 created: 2026-07-30
-updated: 2026-08-17
+updated: 2026-08-24
 type: concept
 tags: [ai, llm, tooling, trend]
-sources: [raw/newsletters/ainews-2026-07-21-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-07-23-google-split-gemini-in-three.md, raw/newsletters/ainews-2026-07-29-ainews-ai-is-eating-finance-aie-nyc-now-open.md, raw/newsletters/ainews-2026-08-07-ainews-amd-buys-taalas.md, raw/newsletters/latent-space-2026-08-03-the-inference-engineering-masterclass-philip-kiely-ali-taha-baseten.md, raw/newsletters/latent-space-2026-08-04-unpacking-chatgpt-work-the-agent-for-a-billion-users.md, raw/newsletters/ainews-2026-08-01-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-08-13-ainews-spacexai-grok-4-6-and-grok-bot.md, raw/newsletters/the-neuron-2026-08-13-elon-releases-grok-4-6-says-grok-4-7-is-weeks-away.md, raw/newsletters/ainews-2026-08-14-ainews-gemini-3-7-flash-brings-gdm-back-to-the-forefront.md, raw/newsletters/the-neuron-2026-08-14-why-gemini-3-7-flash-just-got-half-price.md]
+sources: [raw/newsletters/ainews-2026-08-17-ainews-stripe-buys-openrouter-for-7b.md, raw/newsletters/latent-space-2026-08-18-frontier-model-cost-and-open-weights-popularity-is-driving-demand-for.md, raw/newsletters/the-neuron-2026-08-21-claude-allegedly-speedran-a-31k-loss.md, raw/newsletters/ainews-2026-07-21-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-07-23-google-split-gemini-in-three.md, raw/newsletters/ainews-2026-07-29-ainews-ai-is-eating-finance-aie-nyc-now-open.md, raw/newsletters/ainews-2026-08-07-ainews-amd-buys-taalas.md, raw/newsletters/latent-space-2026-08-03-the-inference-engineering-masterclass-philip-kiely-ali-taha-baseten.md, raw/newsletters/latent-space-2026-08-04-unpacking-chatgpt-work-the-agent-for-a-billion-users.md, raw/newsletters/ainews-2026-08-01-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-08-13-ainews-spacexai-grok-4-6-and-grok-bot.md, raw/newsletters/the-neuron-2026-08-13-elon-releases-grok-4-6-says-grok-4-7-is-weeks-away.md, raw/newsletters/ainews-2026-08-14-ainews-gemini-3-7-flash-brings-gdm-back-to-the-forefront.md, raw/newsletters/the-neuron-2026-08-14-why-gemini-3-7-flash-just-got-half-price.md]
 confidence: medium
 ---
 
@@ -29,6 +29,10 @@ ChatGPT Work adds another routing dimension: plugins, scheduled tasks, browser p
 ## August 17 update: price, latency, and trajectory shape the route
 
 Grok 4.6 and Gemini 3.7 Flash sharpen the routing table. Grok is positioned around cost per completed long-running task, while Gemini emphasizes high-throughput workhorse traffic, rapid iteration, and low introductory pricing. GPT-5.6 Sol Ultrafast and DeepSeek V4 Pro add hardware and time-of-day dimensions. The route should therefore include expected turns, cache reuse, tool latency, context length, failure recovery, and total task cost—not only input/output token price. [raw/newsletters/ainews-2026-08-13-ainews-spacexai-grok-4-6-and-grok-bot.md][raw/newsletters/ainews-2026-08-14-ainews-gemini-3-7-flash-brings-gdm-back-to-the-forefront.md][raw/newsletters/the-neuron-2026-08-14-why-gemini-3-7-flash-just-got-half-price.md]
+
+## August 24 update: routing becomes the economic control plane
+
+The reported Stripe–[[openrouter]] acquisition, Glean's enterprise router, and AT&T's reported shift toward open models make routing a budget and reliability control plane. Routine work can move to cheaper open models, while difficult or high-stakes tasks escalate; the policy only works when “good enough” is measured on real workloads. [raw/newsletters/ainews-2026-08-17-ainews-stripe-buys-openrouter-for-7b.md][raw/newsletters/latent-space-2026-08-18-frontier-model-cost-and-open-weights-popularity-is-driving-demand-for.md][raw/newsletters/the-neuron-2026-08-21-claude-allegedly-speedran-a-31k-loss.md]
 
 ## Why it matters
 

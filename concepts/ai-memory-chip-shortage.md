@@ -1,10 +1,10 @@
 ---
 title: AI Memory Chip Shortage
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-08-24
 type: concept
 tags: [ai, trend, data-engineering, company]
-sources: [raw/newsletters/the-neuron-2026-06-26-ai-is-making-your-next-apple-device-cost-more.md, raw/newsletters/ainews-2026-06-27-ainews-openai-gpt-5-6-sol-terra-luna-restricted-to-trusted-partners.md]
+sources: [raw/newsletters/ainews-2026-08-19-ainews-memory-prices-up-500-in-12-months.md, raw/newsletters/the-neuron-2026-06-26-ai-is-making-your-next-apple-device-cost-more.md, raw/newsletters/ainews-2026-06-27-ainews-openai-gpt-5-6-sol-terra-luna-restricted-to-trusted-partners.md]
 confidence: high
 ---
 
@@ -38,6 +38,10 @@ Apple said it has "never seen a component price increase this much, this quickly
 ## Cloud compute impact
 
 AWS raised some NVIDIA GPU rental prices by roughly 20%, a downstream effect of the same memory crunch. This feeds the argument that model routing, local deployment, and open ecosystems are becoming economically necessary rather than ideological preferences.
+
+## August 2026 escalation
+
+AINews reported 128GB DDR5 kits at up to ten times historical lows and said hyperscale buyers had reportedly locked in much of 2027 global DRAM production with advance deposits. The figures are source-reported, but the direction is clear: memory is becoming a primary AI-capacity constraint, not a secondary component cost. [raw/newsletters/ainews-2026-08-19-ainews-memory-prices-up-500-in-12-months.md]
 
 ## Broader context
 

@@ -1,10 +1,10 @@
 ---
 title: Poolside
 created: 2026-07-30
-updated: 2026-07-30
+updated: 2026-08-24
 type: entity
 tags: [ai, company, llm, model]
-sources: [raw/newsletters/latent-space-2026-07-23-inside-the-model-factory-eiso-kant-poolside-ai.md, raw/newsletters/ainews-2026-07-23-ainews-laguna-s-2-1-released-cheaper-than-deepseek-v4-flash-better-tha.md, raw/newsletters/ainews-2026-07-22-ainews-ai-cybersecurity-becomes-top-of-mind.md]
+sources: [raw/newsletters/ainews-2026-08-21-ainews-poolside-gets-12b-reverse-execuhire-to-nvidia-founders-stay-for.md, raw/newsletters/latent-space-2026-07-23-inside-the-model-factory-eiso-kant-poolside-ai.md, raw/newsletters/ainews-2026-07-23-ainews-laguna-s-2-1-released-cheaper-than-deepseek-v4-flash-better-tha.md, raw/newsletters/ainews-2026-07-22-ainews-ai-cybersecurity-becomes-top-of-mind.md]
 confidence: medium
 ---
 
@@ -33,6 +33,12 @@ Poolside's recurring themes:
 - harness/model co-design determines agent capability;
 - RL may move earlier into training and become a bottleneck in wall-clock experimentation;
 - smaller or more efficient models may cover more knowledge work than expected.
+
+## August 2026 pivot
+
+AINews reported that NVIDIA licensed Poolside's Model Factory and hired 109 employees while the founders stayed to pursue a new direction. The account describes this as neither a conventional acquisition nor acquihire, but as a response to frontier compute requirements becoming too capital-, datacenter-, and contract-intensive for the original plan. [raw/newsletters/ainews-2026-08-21-ainews-poolside-gets-12b-reverse-execuhire-to-nvidia-founders-stay-for.md]
+
+The founders' distinction between **intelligence-bound** and **experiment-bound** problems is useful: coding and knowledge work may commoditize with open models, while scientific discovery retains a moat in real-world experimental feedback. That connects Poolside to [[self-driving-labs]] as well as [[recursive-self-improvement]].
 
 ## Links
 

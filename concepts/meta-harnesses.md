@@ -1,10 +1,10 @@
 ---
 title: Meta-Harnesses
 created: 2026-06-29
-updated: 2026-08-17
+updated: 2026-08-24
 type: concept
 tags: [ai, tooling, llm, trend]
-sources: [raw/newsletters/ainews-2026-06-24-ainews-claude-tag-multiplayer-proactive-persistent-agents-in-slack.md, raw/newsletters/ainews-2026-06-25-ainews-it-s-meta-harness-summer.md, raw/newsletters/latent-space-2026-06-24-why-the-frontier-ecosystem-must-be-open-matei-zaharia-and-reynold-xin.md, raw/newsletters/ainews-2026-08-14-ainews-gemini-3-7-flash-brings-gdm-back-to-the-forefront.md, raw/newsletters/latent-space-2026-08-15-react-for-agents-astro-creator-brings-hooks-to-his-meta-harness-flue.md]
+sources: [raw/newsletters/latent-space-2026-08-22-the-evolution-of-the-agent-harness.md, raw/newsletters/latent-space-2026-08-20-the-wayfinder-skill-navigating-the-fog-of-war-of-planning.md, raw/newsletters/ainews-2026-06-24-ainews-claude-tag-multiplayer-proactive-persistent-agents-in-slack.md, raw/newsletters/ainews-2026-06-25-ainews-it-s-meta-harness-summer.md, raw/newsletters/latent-space-2026-06-24-why-the-frontier-ecosystem-must-be-open-matei-zaharia-and-reynold-xin.md, raw/newsletters/ainews-2026-08-14-ainews-gemini-3-7-flash-brings-gdm-back-to-the-forefront.md, raw/newsletters/latent-space-2026-08-15-react-for-agents-astro-creator-brings-hooks-to-his-meta-harness-flue.md]
 confidence: high
 ---
 
@@ -33,6 +33,12 @@ As teams adopted coding agents, three problems converged:
 ## August 2026: harnesses become composable runtimes
 
 Flue 2 treats the harness as fundamental: an agent is a JavaScript function that re-renders before each model call, with hooks such as `useSkill()`, `useTool()`, and `useSubagent()` controlling dynamic capabilities. DeepSeek Harness makes a parallel open-source bet around plugins, visible trajectories, append-only history, and cache-aware runtime behavior. These systems move the meta-harness question from a common wrapper API toward a runtime that owns state, lifecycle, and resource composition. [raw/newsletters/latent-space-2026-08-15-react-for-agents-astro-creator-brings-hooks-to-his-meta-harness-flue.md][raw/newsletters/ainews-2026-08-14-ainews-gemini-3-7-flash-brings-gdm-back-to-the-forefront.md]
+
+## August 24: co-training and the attention interface
+
+The agent-harness evolution account describes a loop of **train → absorb → shed → repeat**: capabilities first live in the harness, then models learn them, allowing engineers to delete scaffolding. The remaining durable layer is increasingly human-facing—permissions, identity, trust, legibility, and a policy for when an agent may interrupt scarce human attention. [[agent-reliability-and-operations]] is the operational counterpart. [raw/newsletters/latent-space-2026-08-22-the-evolution-of-the-agent-harness.md]
+
+The `/wayfinder` pattern applies the same systems thinking to ambiguous planning: maintain a shared map of decisions, split research/prototype/grilling/task tickets, and let the orchestrator explore the “fog of war” before committing to a detailed plan. Consistent terminology becomes part of the harness contract. [raw/newsletters/latent-space-2026-08-20-the-wayfinder-skill-navigating-the-fog-of-war-of-planning.md]
 
 ## Open questions
 
