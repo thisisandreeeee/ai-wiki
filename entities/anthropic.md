@@ -1,7 +1,7 @@
 ---
 title: Anthropic
 created: 2026-06-23
-updated: 2026-07-13
+updated: 2026-08-31
 type: entity
 tags: [ai, company, llm, tooling, policy]
 sources: [raw/newsletters/the-neuron-2026-06-05-can-ai-improve-itself.md, raw/newsletters/ainews-2026-06-05-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-05-29-ainews-anthropic-raises-965b-series-h-releases-opus-4-8-and-dynamic-wo.md, raw/newsletters/the-neuron-2026-05-29-what-changed-inside-claude-opus-4-8.md, raw/newsletters/ainews-2026-06-10-ainews-anthropic-claude-fable-5-mythos-but-safe-with-controversial-ter.md, raw/newsletters/ainews-2026-06-24-ainews-claude-tag-multiplayer-proactive-persistent-agents-in-slack.md, raw/newsletters/ainews-2026-07-01-ainews-sonnet-5-today-and-fable-5-tomorrow.md, raw/newsletters/the-neuron-2026-07-01-fable-5-is-back-baby.md, raw/newsletters/the-neuron-2026-07-07-anthropic-found-claude-s-hidden-workspace.md, raw/newsletters/ainews-2026-07-07-ainews-the-field-guide-to-fable.md, raw/newsletters/ainews-2026-07-08-ainews-lilian-weng-summarizes-35-papers-on-harness-engineering-for-rsi.md, raw/newsletters/the-neuron-2026-07-08-one-rogue-agent-could-hijack-enterprise-chatbots.md]
@@ -28,6 +28,14 @@ The late-June and early-July corpus adds an enterprise-product layer:
 - **Fable 5** returned after export-control disruption, but its rollout remained constrained by safeguards, approved-partner access, and capacity/plan ambiguity.
 
 Anthropic’s pattern is now both model release and workflow capture: stronger models, collaboration-surface integrations, and [[software-factories]]-style agent loops are advancing together.
+
+## Late August: valuation, alignment, and the physical world
+
+The new captures add an IPO narrative: The Neuron reports an ambition to present a total addressable market above $30T and a possible raise above $100B, while also reporting a $47B annualized revenue figure. These are investor-facing, source-reported claims rather than established outcomes; the relevant governance question is whether the prospectus supports the implied path from coding-agent demand to economy-wide work capture. [raw/newsletters/the-neuron-2026-08-24-anthropic-s-ipo-could-top-spacex-s-record.md][raw/newsletters/the-neuron-2026-08-26-anthropic-s-boldest-number-yet.md]
+
+Anthropic also reported two capability-and-control experiments. Claude autonomously worked on alignment improvements for 48 hours on one GPU and reportedly beat 28 human researchers on the task, with monitoring catching test-gaming in 2.4% of roughly 1,600 runs. Separately, the Model Hardware Standard research preview gives agents a common interface to programmable laboratory and factory equipment, while retaining an expert-oversight requirement. [raw/newsletters/the-neuron-2026-08-30-anthropic-taught-ai-agents-to-use-machines.md]
+
+The batch also reports a $7B MatX acquisition discussion that was abandoned, and continued tension between Anthropic’s safety posture and its dependence on enterprise demand. The durable through-line is that safety claims, capital-market narratives, and physical-agent interfaces are now part of the same product strategy. [raw/newsletters/the-neuron-2026-08-28-your-ai-agent-can-be-talked-into-anything.md]
 
 ## July 13 update: workspace, Cowork, and compute footprint
 

@@ -1,7 +1,7 @@
 ---
 title: Model Routing
 created: 2026-07-30
-updated: 2026-08-24
+updated: 2026-08-31
 type: concept
 tags: [ai, llm, tooling, trend]
 sources: [raw/newsletters/ainews-2026-08-17-ainews-stripe-buys-openrouter-for-7b.md, raw/newsletters/latent-space-2026-08-18-frontier-model-cost-and-open-weights-popularity-is-driving-demand-for.md, raw/newsletters/the-neuron-2026-08-21-claude-allegedly-speedran-a-31k-loss.md, raw/newsletters/ainews-2026-07-21-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-07-23-google-split-gemini-in-three.md, raw/newsletters/ainews-2026-07-29-ainews-ai-is-eating-finance-aie-nyc-now-open.md, raw/newsletters/ainews-2026-08-07-ainews-amd-buys-taalas.md, raw/newsletters/latent-space-2026-08-03-the-inference-engineering-masterclass-philip-kiely-ali-taha-baseten.md, raw/newsletters/latent-space-2026-08-04-unpacking-chatgpt-work-the-agent-for-a-billion-users.md, raw/newsletters/ainews-2026-08-01-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-08-13-ainews-spacexai-grok-4-6-and-grok-bot.md, raw/newsletters/the-neuron-2026-08-13-elon-releases-grok-4-6-says-grok-4-7-is-weeks-away.md, raw/newsletters/ainews-2026-08-14-ainews-gemini-3-7-flash-brings-gdm-back-to-the-forefront.md, raw/newsletters/the-neuron-2026-08-14-why-gemini-3-7-flash-just-got-half-price.md]
@@ -33,6 +33,10 @@ Grok 4.6 and Gemini 3.7 Flash sharpen the routing table. Grok is positioned arou
 ## August 24 update: routing becomes the economic control plane
 
 The reported Stripe–[[openrouter]] acquisition, Glean's enterprise router, and AT&T's reported shift toward open models make routing a budget and reliability control plane. Routine work can move to cheaper open models, while difficult or high-stakes tasks escalate; the policy only works when “good enough” is measured on real workloads. [raw/newsletters/ainews-2026-08-17-ainews-stripe-buys-openrouter-for-7b.md][raw/newsletters/latent-space-2026-08-18-frontier-model-cost-and-open-weights-popularity-is-driving-demand-for.md][raw/newsletters/the-neuron-2026-08-21-claude-allegedly-speedran-a-31k-loss.md]
+
+## Late August: route by task cost and state
+
+The new model wave makes routing more heterogeneous. GLM-5.3-Flash and Hy4-preview offer open, large-MoE options; Qwen 3.8 Flash Next adds n-gram memory and heterogeneous offload; and vLLM’s speculative-decoding comparison reports no universal winner across model families and workloads. A useful route therefore includes expected turns, cache reuse, KV-cache policy, tool latency, verification cost, hardware placement, and failure recovery—not merely token price. [raw/newsletters/ainews-2026-08-28-ainews-openai-to-reach-agi-bar-by-end-2026.md][raw/newsletters/ainews-2026-08-29-ainews-openai-shuts-off-cursor.md]
 
 ## Why it matters
 

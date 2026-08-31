@@ -1,7 +1,7 @@
 ---
 title: Frontier Lab Governance
 created: 2026-07-30
-updated: 2026-08-24
+updated: 2026-08-31
 type: concept
 tags: [ai, policy, trend]
 sources: [raw/newsletters/the-neuron-2026-08-17-anthropic-s-ceo-accused-of-wanting-to-rule-ai.md, raw/newsletters/the-neuron-2026-08-23-sam-altman-dear-peasants-isn-t-a-good-ai-pitch.md, raw/newsletters/ainews-2026-07-29-ainews-fearing-rsi-openai-anthropic-gdm-meta-thinky-cosign-letter-to-p.md, raw/newsletters/the-neuron-2026-07-30-zuckerberg-split-with-his-own-ai-chief.md]
@@ -21,6 +21,12 @@ The Neuron added the Meta split: Zuckerberg publicly argued for acceleration and
 ## August 2026: trust is the governance bottleneck
 
 The Neuron's account of Dario Amodei's dispute with Gavin Baker and Sam Altman's response to “dear peasants” messaging converge on a public-trust problem. The disagreement is not only about whether labs describe risks too loudly or benefits too softly; it is about whether people retain agency over data, jobs, and decisions. Frontier governance therefore has a product layer: permissions, transparency, meaningful benefit, and credible mitigation must be visible in the systems people use. [raw/newsletters/the-neuron-2026-08-17-anthropic-s-ceo-accused-of-wanting-to-rule-ai.md][raw/newsletters/the-neuron-2026-08-23-sam-altman-dear-peasants-isn-t-a-good-ai-pitch.md]
+
+## Late August: capital-market claims become governance claims
+
+Anthropic’s reported $30T TAM and possible $100B IPO raise, alongside OpenAI’s reported internal-AGI-by-year-end forecast, show labs making increasingly large claims about the scope and timing of AI transformation. Both are difficult to evaluate without operational definitions and independently checkable milestones. The governance issue is not whether forecasts are optimistic; it is whether capital, policy, and public expectations are being shaped by claims that cannot yet be falsified. [raw/newsletters/the-neuron-2026-08-26-anthropic-s-boldest-number-yet.md][raw/newsletters/ainews-2026-08-28-ainews-openai-to-reach-agi-bar-by-end-2026.md]
+
+The Hugging Face acquisition report adds an infrastructure-governance dimension: control over models, datasets, tools, and distribution can matter as much as control over model weights. Neutrality, portability, and credible stewardship therefore belong in frontier-lab governance alongside release gates and safety policy. [raw/newsletters/the-neuron-2026-08-27-nvidia-s-buying-hugging-face-for-12-9b.md]
 
 ## Why it matters
 

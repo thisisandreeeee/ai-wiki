@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.  
-> Last updated: 2026-08-24 | Total pages: 91
+> Last updated: 2026-08-31 | Total pages: 101
 
 ## Entities
 
@@ -16,6 +16,7 @@
 - [[claude-opus-5]] — Anthropic Opus-class model framed as near-Fable coding capability with evaluation caveats.
 - [[claude-tag]] — Anthropic's multiplayer Slack-native agent framework for persistent, proactive AI assistance in teams.
 - [[cognition]] — Async coding-agent company around Devin and enterprise engineering value measurement.
+- [[cursor]] — AI coding environment illustrating provider access controls and social-engineering risk.
 - [[databricks]] — Enterprise data+AI platform and key player in the AI infrastructure and agent ecosystem.
 - [[deepseek-v4-flash]] — Cost/performance open-weight model emphasizing post-training, Codex-compatible serving, and rapid local-runtime support.
 - [[gemini-3-7-flash]] — Google's fast, inexpensive workhorse model for coding, knowledge work, and agentic workflows.
@@ -27,9 +28,13 @@
 - [[grok-4-5]] — xAI/SpaceXAI's July 2026 coding-and-agents-focused frontier model with a coding-agent evaluation harness.
 - [[grok-4-6]] — xAI/SpaceXAI's cost-efficient frontier model for long-running agents, coding, and research.
 - [[gpt-5-6]] — OpenAI's flagship model family (Sol/Terra/Luna), restricted to trusted partners, at the center of access-control and regulatory debates.
+- [[hugging-face]] — Model, dataset, and developer hub reported to be the subject of a major NVIDIA acquisition.
+- [[hy4-preview]] — Tencent's reported 770B/49B-active open-weight frontier MoE for engineering work.
 - [[inkling]] — Thinking Machines' open-weight multimodal MoE positioned around customization and private post-training.
 - [[kimi-k3]] — Moonshot AI's 2.8T open-weight frontier-class model and major open-vs-closed policy catalyst.
+- [[lovable]] — AI app-building platform evolving toward agent-callable capabilities and a shared company interface.
 - [[meta]] — Large AI platform company anchoring the acceleration/open-distribution side of the current governance split.
+- [[microduck]] — Affordable open biped combining simulation, reinforcement learning, and sim-to-real experimentation.
 - [[microsoft]] — Enterprise AI platform actor bundling MAI models, GitHub, Windows, Foundry, context, and evals.
 - [[modal]] — AI cloud platform illustrating how infrastructure is being redesigned for agent-native workloads.
 - [[muse-glimmer]] — Meta's open-weight multimodal model aimed at always-on local agents.
@@ -38,6 +43,7 @@
 - [[openai-jalapeno-chip]] — OpenAI's rumored custom AI hardware chip, part of the infrastructure buildout to reduce dependence on NVIDIA.
 - [[openrouter]] — Multi-provider model gateway whose reported Stripe acquisition makes routing a strategic infrastructure layer.
 - [[poolside]] — Code-model lab using a high-throughput Model Factory and open-weight Laguna releases.
+- [[qwen-3-8-flash-next]] — Open hybrid-attention Qwen model combining a small active path with large n-gram memory tables.
 - [[qwen-3-8-max]] — Alibaba's 2.4T open-weight flagship and 27B companion aimed at coding, multimodal reasoning, and long-horizon agents.
 - [[radical-ai]] — Materials-science company using self-driving labs for closed-loop alloy discovery.
 - [[simile-ai]] — Behavioral-simulation company building digital twins and synthetic populations from interviews, behavior, and causal data.
@@ -54,6 +60,7 @@
 - [[ai-benchmarking]] — Measurement of model and agent capability across static tasks, dynamic environments, cost curves, and workflows.
 - [[ai-control-roadmaps]] — Operational security model for powerful AI agents with permissions, logs, monitors, and brakes.
 - [[ai-cybersecurity]] — AI used for security work and security failures created by agentic AI systems.
+- [[ai-engineering]] — Applied discipline of building, evaluating, deploying, and steering AI systems in real product contexts.
 - [[ai-health-data-interfaces]] — Personal health record and wearable-data interfaces connected to AI assistants.
 - [[ai-healthcare]] — Health-oriented LLM and AI workflows with clinical validation and human-in-the-loop constraints.
 - [[ai-in-finance]] — Domain-specific agent adoption across equity research, banking, corporate finance, and analyst workflows.
@@ -71,11 +78,13 @@
 - [[llm-inference-optimization]] — Serving metrics, batching, cache management, kernel IO, quantization, and optimization choices.
 - [[llm-training-lifecycle]] — Pretraining through post-training, SFT, DPO, RLHF/RLAIF, distillation, and LoRA.
 - [[meta-harnesses]] — Meta's internal evaluation and training harness infrastructure for frontier AI models.
+- [[model-hardware-standard]] — Anthropic/HHMI Janelia interface for agents to operate programmable lab and factory equipment.
 - [[model-labs-vs-agent-labs]] — Strategic split between foundation-model capability and durable agent/application systems.
 - [[model-routing]] — Choosing among models, effort levels, providers, and harness modes by task, cost, latency, and safety.
 - [[ontologies-for-agents]] — Structured domain entities, relationships, and rules used to constrain or validate agent behavior.
 - [[open-code-data]] — Public, license-aware source-code training data used to build or evaluate code models.
 - [[pacing-the-frontier]] — Proposal to develop mechanisms for slowing frontier AI progress if oversight cannot keep up.
+- [[physics-foundation-models]] — Structured AI approaches to simulation and design across physical phenomena.
 - [[real-world-agent-evaluations]] — Long-horizon, stateful, economic, and physical-world evals for agent behavior.
 - [[reasoning-trace-security]] — Confidentiality, privacy, monitoring, and replay risks around hidden model reasoning artifacts.
 - [[recursive-self-improvement]] — Model-assisted AI development as a near-term capability, autoresearch, and governance feedback loop.
@@ -105,3 +114,4 @@
 - [[weekly-briefing-2026-08-10]] — Weekly synthesis of inference economics, Qwen/DeepSeek open models, agent coordination, Astra cyber controls, and data-center politics.
 - [[weekly-briefing-2026-08-17]] — Weekly synthesis of Grok/Gemini price-performance, Muse Glimmer, agent harnesses, reasoning-trace security, and BioAI.
 - [[weekly-briefing-2026-08-24]] — Weekly synthesis of model routing, GLM-5.3 post-training, memory scarcity, agent harness evolution, behavioral simulation, and AI trust.
+- [[weekly-briefing-2026-08-31]] — Weekly synthesis of open-model distribution, agent security, physical interfaces, harness state, and infrastructure economics.
