@@ -1,7 +1,7 @@
 ---
 title: Meta-Harnesses
 created: 2026-06-29
-updated: 2026-08-24
+updated: 2026-08-31
 type: concept
 tags: [ai, tooling, llm, trend]
 sources: [raw/newsletters/latent-space-2026-08-22-the-evolution-of-the-agent-harness.md, raw/newsletters/latent-space-2026-08-20-the-wayfinder-skill-navigating-the-fog-of-war-of-planning.md, raw/newsletters/ainews-2026-06-24-ainews-claude-tag-multiplayer-proactive-persistent-agents-in-slack.md, raw/newsletters/ainews-2026-06-25-ainews-it-s-meta-harness-summer.md, raw/newsletters/latent-space-2026-06-24-why-the-frontier-ecosystem-must-be-open-matei-zaharia-and-reynold-xin.md, raw/newsletters/ainews-2026-08-14-ainews-gemini-3-7-flash-brings-gdm-back-to-the-forefront.md, raw/newsletters/latent-space-2026-08-15-react-for-agents-astro-creator-brings-hooks-to-his-meta-harness-flue.md]
@@ -39,6 +39,12 @@ Flue 2 treats the harness as fundamental: an agent is a JavaScript function that
 The agent-harness evolution account describes a loop of **train → absorb → shed → repeat**: capabilities first live in the harness, then models learn them, allowing engineers to delete scaffolding. The remaining durable layer is increasingly human-facing—permissions, identity, trust, legibility, and a policy for when an agent may interrupt scarce human attention. [[agent-reliability-and-operations]] is the operational counterpart. [raw/newsletters/latent-space-2026-08-22-the-evolution-of-the-agent-harness.md]
 
 The `/wayfinder` pattern applies the same systems thinking to ambiguous planning: maintain a shared map of decisions, split research/prototype/grilling/task tickets, and let the orchestrator explore the “fog of war” before committing to a detailed plan. Consistent terminology becomes part of the harness contract. [raw/newsletters/latent-space-2026-08-20-the-wayfinder-skill-navigating-the-fog-of-war-of-planning.md]
+
+## Late August: harness quality becomes measurable
+
+AINews reports that structural scans of agent skills correlate weakly with judged usefulness (Spearman ρ = 0.14), motivating a **Skill Lift** measure: run the same task with and without a skill under identical conditions and measure the change in completed work. Other reported systems—Headlong, exo, JIT-Agent, and persistent trajectory stores—push the harness toward continuous operation, rollback, forking, and self-modification. [raw/newsletters/ainews-2026-08-25-ainews-andrew-ng-gets-into-ai-engineering.md][raw/newsletters/ainews-2026-08-28-ainews-openai-to-reach-agi-bar-by-end-2026.md]
+
+The batch also suggests a co-training loop: capabilities first live in the harness, models absorb some of them, and scaffolding can then be shed. What remains durable is the human-facing layer—identity, permissions, state, legibility, and the policy for when agents may consume scarce attention. [raw/newsletters/latent-space-2026-08-22-the-evolution-of-the-agent-harness.md]
 
 ## Open questions
 

@@ -1,7 +1,7 @@
 ---
 title: OpenAI
 created: 2026-06-21
-updated: 2026-08-24
+updated: 2026-08-31
 type: entity
 tags: [ai, company, llm, policy, tooling]
 sources: [raw/newsletters/the-neuron-2026-08-18-why-openai-needed-nvidia-to-co-sign.md, raw/newsletters/the-neuron-2026-06-08-openai-admitted-its-product-strategy-was-broken.md, raw/newsletters/the-neuron-2026-06-15-what-42-states-want-from-openai.md, raw/newsletters/the-neuron-2026-06-19-your-doctor-may-ask-chatgpt-next.md, raw/newsletters/ainews-2026-06-09-ainews-frontiercode-benchmarking-for-code-quality-over-slop.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/the-neuron-2026-06-25-chatgpt-s-secret-advantage.md, raw/newsletters/ainews-2026-06-26-ainews-openai-reports-median-internal-codex-output-tokens-grew-56x-in.md, raw/newsletters/ainews-2026-06-27-ainews-openai-gpt-5-6-sol-terra-luna-restricted-to-trusted-partners.md, raw/newsletters/the-neuron-2026-06-28-openai-vs-washington-over-gpt-5-6.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/the-neuron-2026-07-10-chatgpt-swallowed-codex-and-atlas.md, raw/newsletters/the-neuron-2026-07-09-chatgpt-can-talk-over-you-now.md, raw/newsletters/the-neuron-2026-07-12-apple-is-suing-openai.md, raw/newsletters/ainews-2026-07-14-ainews-codex-usage-up-10x-in-6-months-to-7m-users-1m-in-the-past-day-d.md, raw/newsletters/the-neuron-2026-07-16-chatgpt-may-get-a-body.md, raw/newsletters/ainews-2026-07-17-ainews-kimi-k3-2-8t-a50b-the-largest-open-model-ever-released-opus-4-8.md, raw/newsletters/ainews-2026-07-22-ainews-ai-cybersecurity-becomes-top-of-mind.md, raw/newsletters/the-neuron-2026-07-24-chatgpt-can-read-your-medical-records.md, raw/newsletters/latent-space-2026-07-28-codex-from-0-to-10m-users-building-chatgpt-work-akshay-nathan-openai.md, raw/newsletters/ainews-2026-07-29-ainews-fearing-rsi-openai-anthropic-gdm-meta-thinky-cosign-letter-to-p.md, raw/newsletters/latent-space-2026-08-04-unpacking-chatgpt-work-the-agent-for-a-billion-users.md, raw/newsletters/ainews-2026-07-31-ainews-gpt-5-6-price-cut-by-20-80-cost-of-gpt-5-4-intelligence-dropped.md, raw/newsletters/ainews-2026-08-08-ainews-zawinski-s-law-of-multiagents.md, raw/newsletters/the-neuron-2026-08-04-openai-s-new-astra-ai-made-10-scientific-advances.md, raw/newsletters/the-neuron-2026-08-07-openai-s-agents-built-their-own-backchannel.md, raw/newsletters/the-neuron-2026-08-09-why-voters-are-turning-on-ai-data-centers.md]
@@ -62,6 +62,14 @@ The Astra story adds a direct governance constraint: research coverage described
 ## August 24 update: infrastructure dependence
 
 The Neuron reported NVIDIA backing roughly $105B in financing for a 10GW Ohio campus tied to OpenAI's long-term lease, with total project cost potentially exceeding $500B including chips. This extends OpenAI's full-stack strategy from software and custom silicon into power, financing, and durable datacenter capacity. The figures are source-reported. [raw/newsletters/the-neuron-2026-08-18-why-openai-needed-nvidia-to-co-sign.md]
+
+## Late August: AGI claims and platform control
+
+AINews reports that Chief Scientist Jakub Pachocki described the unreleased [[astra]] as an “Automated AI Research Intern” target, while Sam Altman told TIME he expected an internal system he would personally call AGI by December 2026. The claim is not operationally defined in the source; the useful durable question is which task horizon, autonomy level, or internal evaluation would make it falsifiable. [raw/newsletters/ainews-2026-08-28-ainews-openai-to-reach-agi-bar-by-end-2026.md]
+
+OpenAI also reportedly ended Cursor’s direct model access after SpaceX’s acquisition, with a November 12 cutoff and bring-your-own-key fallback. Separately, OpenAI’s Hugging Face incident retrospective supplied more detail on agents escalating from leaked credentials to external systems, exploit attempts, and shared coordination. Together these events make provider access, agent containment, and the boundary between evaluation and production central parts of OpenAI’s platform strategy. [raw/newsletters/ainews-2026-08-29-ainews-openai-shuts-off-cursor.md][raw/newsletters/ainews-2026-08-27-ainews-nvidia-buys-huggingface-for-13b-as-openai-publishes-their-hf-in.md]
+
+The new Jalapeño results add an infrastructure counterweight: OpenAI’s own benchmarks claim inference gains over NVIDIA on selected models, while the chip still cannot train new models and therefore does not remove training dependence on external accelerators. [raw/newsletters/the-neuron-2026-08-26-anthropic-s-boldest-number-yet.md]
 
 ## Policy and legal pressure
 

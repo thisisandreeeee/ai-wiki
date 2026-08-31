@@ -1,7 +1,7 @@
 ---
 title: Agentic Robotics
 created: 2026-07-30
-updated: 2026-08-24
+updated: 2026-08-31
 type: concept
 tags: [ai, machine-learning, research]
 sources: [raw/newsletters/the-neuron-2026-08-20-moderna-s-cancer-treatment-started-with-ai.md, raw/newsletters/ainews-2026-07-24-ainews-black-forest-labs-flux-3-multimodal-flow-models-that-beat-seeda.md, raw/newsletters/the-neuron-2026-07-27-is-this-the-future-of-robotics.md, raw/newsletters/ainews-2026-07-29-ainews-fearing-rsi-openai-anthropic-gdm-meta-thinky-cosign-letter-to-p.md]
@@ -25,6 +25,12 @@ The Neuron reported Generalist's GEN-1.5 adapting to a new robot task from a 3â€
 ## Why it matters
 
 The robotics thread reinforces [[self-driving-labs]]: physical AI depends on closed-loop feedback, measurement, embodiment, and real-world evaluation, not only larger language models.
+
+## Late August: cheaper bodies and standard interfaces
+
+Microduck combines an affordable 25cm biped, open simulation, pre-trained policies, and sim-to-real reinforcement learning. The reported $399 price and early community experiments matter because they widen participation in physical-agent training and evaluation beyond tightly controlled lab demos. [raw/newsletters/ainews-2026-08-28-ainews-openai-to-reach-agi-bar-by-end-2026.md][raw/newsletters/the-neuron-2026-08-30-anthropic-taught-ai-agents-to-use-machines.md]
+
+Anthropicâ€™s [[model-hardware-standard]] points at the complementary software problem: standard drivers, read/write commands, capability descriptions, and safety tags can make lab and factory equipment discoverable to agents. The reported QuEra example recovered a quantum-laser lock in 695 of 700 trials, but the preview still requires programmable hardware and expert oversight. [raw/newsletters/the-neuron-2026-08-30-anthropic-taught-ai-agents-to-use-machines.md]
 
 ## Links
 

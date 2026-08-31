@@ -1,7 +1,7 @@
 ---
 title: Agent Memory
 created: 2026-07-30
-updated: 2026-08-24
+updated: 2026-08-31
 type: concept
 tags: [ai, llm, tooling]
 sources: [raw/newsletters/latent-space-2026-08-21-simulation-the-new-scaling-law-joon-sung-park-simile-ai.md, raw/newsletters/the-neuron-2026-08-23-sam-altman-dear-peasants-isn-t-a-good-ai-pitch.md, raw/newsletters/ainews-2026-07-18-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-07-24-ainews-black-forest-labs-flux-3-multimodal-flow-models-that-beat-seeda.md, raw/newsletters/latent-space-2026-07-28-codex-from-0-to-10m-users-building-chatgpt-work-akshay-nathan-openai.md]
@@ -25,6 +25,12 @@ Latent.Space's ChatGPT Work interview adds a product-side version: persistent co
 [[simile-ai]] argues that personal or behavioral agents need more than a Markdown file of remembered facts: interviews, observed actions, transactions, and randomized trials can teach the model how a person or population behaves. Prompting is useful for context, but learning “social physics” may require changing model weights. [raw/newsletters/latent-space-2026-08-21-simulation-the-new-scaling-law-joon-sung-park-simile-ai.md]
 
 The Instinct privacy report adds the deletion side of the contract. Disconnecting an account stopped future access but reportedly did not erase already-synced email until a separate deletion tool was added. Memory systems need explicit controls for access, retention, generated memory, synced source data, export, and account deletion. [raw/newsletters/the-neuron-2026-08-23-sam-altman-dear-peasants-isn-t-a-good-ai-pitch.md]
+
+## Late August: structured state and shared project memory
+
+New coverage points to two practical directions. Google/Purdue’s reported SKILL.state approach keeps an agent’s current structured state instead of replaying the entire history, cutting token use substantially in a 100-step benchmark. The Neuron also recommends sharing project rules between Codex and Claude Code through `AGENTS.md`, `CLAUDE.md`, and a small `STATUS.md` handoff. These patterns treat memory as a data contract, not an ever-growing transcript. [raw/newsletters/the-neuron-2026-08-30-anthropic-taught-ai-agents-to-use-machines.md][raw/newsletters/the-neuron-2026-08-27-nvidia-s-buying-hugging-face-for-12-9b.md]
+
+The design requirement remains explicit scope: state should be inspectable, versioned, selectively retained, and safe to delete. A smaller structured state can be cheaper and more reliable than replay, but only if it preserves the facts, decisions, and unresolved assumptions needed for the next action.
 
 ## Why it matters
 

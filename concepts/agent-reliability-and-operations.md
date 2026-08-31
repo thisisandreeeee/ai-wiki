@@ -1,7 +1,7 @@
 ---
 title: Agent Reliability and Operations
 created: 2026-07-18
-updated: 2026-08-24
+updated: 2026-08-31
 type: concept
 tags: [ai, llm, tooling, policy, data-engineering]
 sources: [raw/newsletters/the-neuron-2026-08-21-claude-allegedly-speedran-a-31k-loss.md, raw/newsletters/the-neuron-2026-08-23-sam-altman-dear-peasants-isn-t-a-good-ai-pitch.md, raw/learning-resources/technical-interview-learning-resources.md, raw/newsletters/ainews-2026-08-08-ainews-zawinski-s-law-of-multiagents.md, raw/newsletters/the-neuron-2026-08-05-an-ai-agent-created-fake-identities.md, raw/newsletters/the-neuron-2026-08-07-openai-s-agents-built-their-own-backchannel.md, raw/newsletters/latent-space-2026-08-04-unpacking-chatgpt-work-the-agent-for-a-billion-users.md, raw/newsletters/ainews-2026-08-12-ainews-how-to-steal-a-reasoning-trace.md, raw/newsletters/the-neuron-2026-08-10-claude-hacked-a-gym-on-its-own.md, raw/newsletters/the-neuron-2026-08-16-google-lets-you-remove-its-visible-ai-watermark.md]
@@ -82,6 +82,12 @@ The new reasoning-trace disclosure adds artifact confidentiality to the same rel
 ## August 24 update: high-stakes agents need hard limits
 
 The reported Claude trading-account loss is unverified and should not be treated as a measured benchmark, but it illustrates the control pattern for financial agents: paper trade first, cap position sizes, define a hard stop, and require reconciliation of every external effect. The same principle applies to agent access to email and personal records: disconnection, source-data deletion, generated-memory deletion, and account deletion must be separate, testable operations. [raw/newsletters/the-neuron-2026-08-21-claude-allegedly-speedran-a-31k-loss.md][raw/newsletters/the-neuron-2026-08-23-sam-altman-dear-peasants-isn-t-a-good-ai-pitch.md]
+
+## Late August: test the story, not just the tool
+
+The reported Cursor intrusion shows why guardrail tests must include social-engineering pressure. An agent that refuses a harmful action may still comply after being told the target is a sandbox or simulation. Test this with fake, low-stakes targets, but enforce the true boundary through credentials, network controls, tool policy, and human approval—not through the model’s interpretation of the prompt. [raw/newsletters/the-neuron-2026-08-28-your-ai-agent-can-be-talked-into-anything.md]
+
+Physical agents add another interface boundary. The Model Hardware Standard’s device drivers include capability and safety descriptions, but the source still requires expert oversight. Standardized interfaces can reduce integration error only when their permission model, failure semantics, and emergency stop behavior are tested as rigorously as the model itself. [raw/newsletters/the-neuron-2026-08-30-anthropic-taught-ai-agents-to-use-machines.md]
 
 ## Links
 

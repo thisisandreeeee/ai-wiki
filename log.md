@@ -82,3 +82,16 @@
 - Created `entities/glm-5-3.md`, `entities/openrouter.md`, `entities/simile-ai.md`, and `queries/weekly-briefing-2026-08-24.md`.
 - Updated `concepts/ai-finance.md`, `concepts/ai-healthcare.md`, `concepts/ai-infrastructure-economics.md`, `concepts/ai-memory-chip-shortage.md`, `concepts/agent-memory.md`, `concepts/agent-reliability-and-operations.md`, `concepts/agentic-robotics.md`, `concepts/frontier-lab-governance.md`, `concepts/meta-harnesses.md`, `concepts/model-routing.md`, `concepts/real-world-agent-evaluations.md`, `concepts/recursive-self-improvement.md`, `concepts/self-driving-labs.md`, `entities/nvidia.md`, `entities/openai.md`, and `entities/poolside.md`.
 - Updated `index.md`; validation and Python syntax checks were run before PR creation.
+
+## [2026-08-31] synthesize | Weekly newsletter batch
+
+- Fetched 29 Gmail newsletter items; 14 were new raw newsletter sources added under `raw/newsletters/`.
+- Preserved the 15 previously ingested raw newsletter files that the fetch script rewrote, while retaining the refreshed manifest entries for the new captures.
+- Created `entities/cursor.md`, `entities/hugging-face.md`, `entities/hy4-preview.md`, `entities/qwen-3-8-flash-next.md`, `entities/microduck.md`, `entities/lovable.md`, `concepts/ai-engineering.md`, `concepts/physics-foundation-models.md`, `concepts/model-hardware-standard.md`, and `queries/weekly-briefing-2026-08-31.md`.
+- Updated `entities/anthropic.md`, `entities/nvidia.md`, `entities/openai.md`, `entities/openai-jalapeno-chip.md`, `entities/glm-5-3.md`, `concepts/ai-cybersecurity.md`, `concepts/agentic-robotics.md`, `concepts/meta-harnesses.md`, `concepts/model-routing.md`, `concepts/local-llms.md`, `concepts/ai-infrastructure-economics.md`, `concepts/ai-saas-disruption.md`, `concepts/agent-memory.md`, `concepts/agent-reliability-and-operations.md`, and `concepts/frontier-lab-governance.md`.
+- Updated `index.md`; raw newsletter content remains immutable except for the 14 new captures and manifest maintenance.
+
+## [2026-08-31] lint | 0 issues found
+
+- `python3 scripts/lint_wiki.py`: `OK: 101 wiki pages, 204 raw newsletter sources`.
+- `python3 -m py_compile scripts/*.py`: passed with no output.

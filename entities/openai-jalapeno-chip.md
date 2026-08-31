@@ -1,7 +1,7 @@
 ---
 title: OpenAI Jalapeño Chip
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-08-31
 type: entity
 tags: [ai, company, tooling, model]
 sources: [raw/newsletters/ainews-2026-06-25-ainews-it-s-meta-harness-summer.md, raw/newsletters/the-neuron-2026-06-25-chatgpt-s-secret-advantage.md]
@@ -24,6 +24,12 @@ confidence: high
 ## Strategic significance
 
 OpenAI has historically depended on [[nvidia|NVIDIA]] GPUs for inference. Jalapeño represents a vertical-integration play: own the chip, the model, and the product to control compute economics. By designing around exactly how ChatGPT processes tokens, OpenAI can squeeze more efficiency per dollar.
+
+## August 2026 benchmark claims
+
+The Neuron reports OpenAI benchmarks claiming Jalapeño was up to 4.1× faster than the then-current best chip at generating tokens for selected models including DeepSeek R1 and Kimi K2.5, while using less energy. The same source says the chip is inference-only: OpenAI still needs NVIDIA-class hardware to train new models. These are OpenAI-reported results and have not been independently verified in the newsletter corpus. [raw/newsletters/the-neuron-2026-08-26-anthropic-s-boldest-number-yet.md]
+
+This sharpens Jalapeño’s strategic role from a rumored custom ASIC into a measured attempt to control inference economics. The comparison with [[nvidia]] is therefore not “replace GPUs everywhere”; it is selective vertical integration for predictable serving workloads alongside continued dependence on external training capacity.
 
 The same day, Qualcomm announced it's acquiring Modular (the Mojo language company), signaling broader competition in vertically integrated inference stacks beyond NVIDIA/CUDA.
 
