@@ -1,10 +1,10 @@
 ---
 title: Software Factories
 created: 2026-07-06
-updated: 2026-07-20
+updated: 2026-09-07
 type: concept
 tags: [ai, llm, tooling, trend]
-sources: [raw/newsletters/ainews-2026-07-01-aiewf-daily-dispatch-loops-software-factories-forward-deployed-enginee.md, raw/newsletters/ainews-2026-07-01-warp-ceo-zach-lloyd-on-why-software-factories-are-the-next-phase-of-co.md, raw/newsletters/ainews-2026-07-01-how-cursor-deploys-ai-inside-the-enterprise.md, raw/newsletters/ainews-2026-07-01-forward-deployed-engineers-and-the-future-of-software-engineering.md, raw/newsletters/ainews-2026-07-01-autoresearch-the-feedback-loop-behind-self-improving-agents.md, raw/newsletters/ainews-2026-07-03-vercel-s-andrew-qu-on-why-agents-are-a-new-kind-of-software.md, raw/newsletters/ainews-2026-07-03-aiewf-daily-dispatch-the-great-loops-debate-and-the-state-of-ai-engine.md, raw/newsletters/latent-space-2026-07-08-why-ai-infrastructure-must-evolve-for-agent-experience-akshat-bubna-mo.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/ainews-2026-07-11-ainews-not-much-happened-today.md, raw/newsletters/latent-space-2026-07-14-5-trends-that-defined-ai-engineering-at-world-s-fair-2026.md, raw/newsletters/ainews-2026-07-14-ainews-codex-usage-up-10x-in-6-months-to-7m-users-1m-in-the-past-day-d.md, raw/newsletters/the-neuron-2026-07-17-kimi-k3-just-shrank-openai-s-moat.md]
+sources: [raw/newsletters/ainews-2026-07-01-aiewf-daily-dispatch-loops-software-factories-forward-deployed-enginee.md, raw/newsletters/ainews-2026-07-01-warp-ceo-zach-lloyd-on-why-software-factories-are-the-next-phase-of-co.md, raw/newsletters/ainews-2026-07-01-how-cursor-deploys-ai-inside-the-enterprise.md, raw/newsletters/ainews-2026-07-01-forward-deployed-engineers-and-the-future-of-software-engineering.md, raw/newsletters/ainews-2026-07-01-autoresearch-the-feedback-loop-behind-self-improving-agents.md, raw/newsletters/ainews-2026-07-03-vercel-s-andrew-qu-on-why-agents-are-a-new-kind-of-software.md, raw/newsletters/ainews-2026-07-03-aiewf-daily-dispatch-the-great-loops-debate-and-the-state-of-ai-engine.md, raw/newsletters/latent-space-2026-07-08-why-ai-infrastructure-must-evolve-for-agent-experience-akshat-bubna-mo.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/ainews-2026-07-11-ainews-not-much-happened-today.md, raw/newsletters/latent-space-2026-07-14-5-trends-that-defined-ai-engineering-at-world-s-fair-2026.md, raw/newsletters/ainews-2026-07-14-ainews-codex-usage-up-10x-in-6-months-to-7m-users-1m-in-the-past-day-d.md, raw/newsletters/the-neuron-2026-07-17-kimi-k3-just-shrank-openai-s-moat.md, raw/newsletters/latent-space-2026-09-01-prs-not-welcome-how-top-ai-open-source-projects-are-managing-thousands.md, raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/latent-space-2026-09-05-openclaw-power-macbook-simplicity-five-days-with-grok-bot.md, raw/newsletters/data-science-weekly-2026-09-03-data-science-weekly-issue-667.md]
 confidence: high
 ---
 
@@ -53,6 +53,14 @@ This week also adds **skills** as factory infrastructure: reusable markdown proc
 ## Cautions
 
 The same sources emphasize limits: loops can burn tokens, amplify low-quality code, hide subagent costs, and create long-term maintenance debt if verification is weak. The practical lesson is not “remove humans,” but move people to the points where judgment, taste, accountability, and risk review matter most.
+
+## September 2026: the factory owns the queue
+
+Latent.Space reports a sharper open-source pattern: Vercel’s AI SDK factory uses specialized agents for triage, bug reproduction, fixes, and review, and after four weeks reportedly authored 25–35% of merged PRs and closed 70–80% of issues. Astro’s auto-triage similarly turns incoming reports into a prioritized weekly queue. These are source-reported results, but they show the factory moving upstream from code generation into issue selection and evidence gathering. [raw/newsletters/latent-space-2026-09-01-prs-not-welcome-how-top-ai-open-source-projects-are-managing-thousands.md]
+
+Some projects now automatically close external PRs and convert them into issues or discussions, citing AI-generated “slop,” code-security concerns, and greater trust in maintainers’ own agent configurations. That can reduce review cost while weakening the traditional open-source path for teaching contributors and discovering future maintainers. A durable compromise may be to keep reporting, discussion, perspective, and care open while making code production a controlled factory step. [raw/newsletters/latent-space-2026-09-01-prs-not-welcome-how-top-ai-open-source-projects-are-managing-thousands.md]
+
+The workhorse releases reinforce the factory model. Muse Spark, Fable 5.1, Astra, and Gemini 3.8 differ in cost, effort, tool-call efficiency, and long-horizon behavior, so a factory should route by task outcome and maintain explicit intent, definition-of-done, verification, and rollback artifacts. [[agent-experience]], [[model-routing]], and [[coding-agent-evaluation]] are the control surfaces.
 
 ## Links
 

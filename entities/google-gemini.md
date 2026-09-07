@@ -1,10 +1,10 @@
 ---
 title: Google Gemini
 created: 2026-07-30
-updated: 2026-08-17
+updated: 2026-09-07
 type: entity
 tags: [ai, llm, model, company]
-sources: [raw/newsletters/the-neuron-2026-07-23-google-split-gemini-in-three.md, raw/newsletters/ainews-2026-07-22-ainews-ai-cybersecurity-becomes-top-of-mind.md, raw/newsletters/ainews-2026-08-14-ainews-gemini-3-7-flash-brings-gdm-back-to-the-forefront.md, raw/newsletters/the-neuron-2026-08-14-why-gemini-3-7-flash-just-got-half-price.md]
+sources: [raw/newsletters/the-neuron-2026-07-23-google-split-gemini-in-three.md, raw/newsletters/ainews-2026-07-22-ainews-ai-cybersecurity-becomes-top-of-mind.md, raw/newsletters/ainews-2026-08-14-ainews-gemini-3-7-flash-brings-gdm-back-to-the-forefront.md, raw/newsletters/the-neuron-2026-08-14-why-gemini-3-7-flash-just-got-half-price.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md, raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md]
 confidence: medium
 ---
 
@@ -27,6 +27,12 @@ The launch strengthens the model-routing interpretation of Gemini: Flash handles
 ## Why it matters
 
 Gemini's July split reinforces a broader model-routing trend: agent systems increasingly need portfolios of specialized models, not just a single frontier endpoint. That connects [[google-gemini]] to [[ai-cybersecurity]], [[agent-experience]], and [[frontier-model-access-controls]].
+
+## September 2026: Gemini 3.8 Flash
+
+Gemini 3.8 Flash entered the same workhorse tier as [[muse-spark-1-3]], with coverage emphasizing coding, reasoning, long-running tasks, search-heavy work, and agent use at low latency. Reported pricing was $0.75 per million input tokens and $3.75 per million output tokens. Independent coverage said it was faster than the prior Flash release and competitive on several agentic, legal, finance, vision, biology, and reasoning slices, while heavier coding benchmarks still favored premium frontier models. [raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md][raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md]
+
+The useful comparison is completed-task economics. Coverage reported that Gemini’s token price stayed low but its extra work could make cost per completed task about 40% higher than Spark on one comparison. That is a routing signal, not a universal ranking: model choice must include expected turns, tool latency, verification, and failure recovery. [[gemini-3-8-flash]] therefore belongs in [[model-routing]] and [[ai-benchmarking]]. [raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md]
 
 ## Links
 

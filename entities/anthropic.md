@@ -1,10 +1,10 @@
 ---
 title: Anthropic
 created: 2026-06-23
-updated: 2026-08-31
+updated: 2026-09-07
 type: entity
 tags: [ai, company, llm, tooling, policy]
-sources: [raw/newsletters/the-neuron-2026-06-05-can-ai-improve-itself.md, raw/newsletters/ainews-2026-06-05-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-05-29-ainews-anthropic-raises-965b-series-h-releases-opus-4-8-and-dynamic-wo.md, raw/newsletters/the-neuron-2026-05-29-what-changed-inside-claude-opus-4-8.md, raw/newsletters/ainews-2026-06-10-ainews-anthropic-claude-fable-5-mythos-but-safe-with-controversial-ter.md, raw/newsletters/ainews-2026-06-24-ainews-claude-tag-multiplayer-proactive-persistent-agents-in-slack.md, raw/newsletters/ainews-2026-07-01-ainews-sonnet-5-today-and-fable-5-tomorrow.md, raw/newsletters/the-neuron-2026-07-01-fable-5-is-back-baby.md, raw/newsletters/the-neuron-2026-07-07-anthropic-found-claude-s-hidden-workspace.md, raw/newsletters/ainews-2026-07-07-ainews-the-field-guide-to-fable.md, raw/newsletters/ainews-2026-07-08-ainews-lilian-weng-summarizes-35-papers-on-harness-engineering-for-rsi.md, raw/newsletters/the-neuron-2026-07-08-one-rogue-agent-could-hijack-enterprise-chatbots.md]
+sources: [raw/newsletters/the-neuron-2026-06-05-can-ai-improve-itself.md, raw/newsletters/ainews-2026-06-05-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-05-29-ainews-anthropic-raises-965b-series-h-releases-opus-4-8-and-dynamic-wo.md, raw/newsletters/the-neuron-2026-05-29-what-changed-inside-claude-opus-4-8.md, raw/newsletters/ainews-2026-06-10-ainews-anthropic-claude-fable-5-mythos-but-safe-with-controversial-ter.md, raw/newsletters/ainews-2026-06-24-ainews-claude-tag-multiplayer-proactive-persistent-agents-in-slack.md, raw/newsletters/ainews-2026-07-01-ainews-sonnet-5-today-and-fable-5-tomorrow.md, raw/newsletters/the-neuron-2026-07-01-fable-5-is-back-baby.md, raw/newsletters/the-neuron-2026-07-07-anthropic-found-claude-s-hidden-workspace.md, raw/newsletters/ainews-2026-07-07-ainews-the-field-guide-to-fable.md, raw/newsletters/ainews-2026-07-08-ainews-lilian-weng-summarizes-35-papers-on-harness-engineering-for-rsi.md, raw/newsletters/the-neuron-2026-07-08-one-rogue-agent-could-hijack-enterprise-chatbots.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/the-neuron-2026-09-02-fable-5-1-is-here-what-changed.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md]
 confidence: high
 ---
 
@@ -44,6 +44,12 @@ The new batch adds three signals:
 - Anthropic’s J-space/global-workspace work claimed Claude has a small internal signal set that functions like a shared workspace for selected information; The Neuron and AINews both highlight it as potentially useful for inspecting model reasoning, while noting community pushback against consciousness framing. [raw/newsletters/the-neuron-2026-07-07-anthropic-found-claude-s-hidden-workspace.md:47-81]
 - Claude Cowork expanded to mobile and web, reinforcing Anthropic’s move from chat sessions toward long-running background agent work across devices. [raw/newsletters/ainews-2026-07-08-ainews-lilian-weng-summarizes-35-papers-on-harness-engineering-for-rsi.md:21-24]
 - The Neuron reported a 20-year TeraWulf lease tied to Anthropic at a data-campus site, making Anthropic part of the broader [[ai-infrastructure-economics]] story where AI labs reserve long-term power and datacenter capacity. [raw/newsletters/the-neuron-2026-07-08-one-rogue-agent-could-hijack-enterprise-chatbots.md:21-25]
+
+## September 2026: Fable 5.1 and competitive pressure
+
+Anthropic launched Claude Fable 5.1 alongside restricted Mythos 5.1. The update targets long-running agent work with 75% cheaper cache reads, reported typical workload savings of about 25% and highly agentic savings up to roughly 45%, stronger selected science and terminal benchmarks, and fewer benign biology and cyber-safety interruptions. The release guidance makes append-only history, cached context, batched tools, explicit completion, and verification part of the effective product. [raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md][raw/newsletters/the-neuron-2026-09-02-fable-5-1-is-here-what-changed.md]
+
+OpenAI’s Astra launch immediately reframed the competition. Early coverage presents Astra as stronger on several computer-use, science, and broad knowledge-work tasks, while other comparisons still place Fable 5.1 ahead on selected coding or general-intelligence slices. The durable competitive axis is not a settled leaderboard: it is task quality, delegation, token efficiency, monitorability, rollout policy, and total cost. [raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md][raw/newsletters/the-neuron-2026-09-04-openai-launched-gpt-6-astra.md]
 
 ## Links
 

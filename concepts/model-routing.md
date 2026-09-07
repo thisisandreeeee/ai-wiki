@@ -1,10 +1,10 @@
 ---
 title: Model Routing
 created: 2026-07-30
-updated: 2026-08-31
+updated: 2026-09-07
 type: concept
 tags: [ai, llm, tooling, trend]
-sources: [raw/newsletters/ainews-2026-08-17-ainews-stripe-buys-openrouter-for-7b.md, raw/newsletters/latent-space-2026-08-18-frontier-model-cost-and-open-weights-popularity-is-driving-demand-for.md, raw/newsletters/the-neuron-2026-08-21-claude-allegedly-speedran-a-31k-loss.md, raw/newsletters/ainews-2026-07-21-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-07-23-google-split-gemini-in-three.md, raw/newsletters/ainews-2026-07-29-ainews-ai-is-eating-finance-aie-nyc-now-open.md, raw/newsletters/ainews-2026-08-07-ainews-amd-buys-taalas.md, raw/newsletters/latent-space-2026-08-03-the-inference-engineering-masterclass-philip-kiely-ali-taha-baseten.md, raw/newsletters/latent-space-2026-08-04-unpacking-chatgpt-work-the-agent-for-a-billion-users.md, raw/newsletters/ainews-2026-08-01-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-08-13-ainews-spacexai-grok-4-6-and-grok-bot.md, raw/newsletters/the-neuron-2026-08-13-elon-releases-grok-4-6-says-grok-4-7-is-weeks-away.md, raw/newsletters/ainews-2026-08-14-ainews-gemini-3-7-flash-brings-gdm-back-to-the-forefront.md, raw/newsletters/the-neuron-2026-08-14-why-gemini-3-7-flash-just-got-half-price.md]
+sources: [raw/newsletters/ainews-2026-08-17-ainews-stripe-buys-openrouter-for-7b.md, raw/newsletters/latent-space-2026-08-18-frontier-model-cost-and-open-weights-popularity-is-driving-demand-for.md, raw/newsletters/the-neuron-2026-08-21-claude-allegedly-speedran-a-31k-loss.md, raw/newsletters/ainews-2026-07-21-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-07-23-google-split-gemini-in-three.md, raw/newsletters/ainews-2026-07-29-ainews-ai-is-eating-finance-aie-nyc-now-open.md, raw/newsletters/ainews-2026-08-07-ainews-amd-buys-taalas.md, raw/newsletters/latent-space-2026-08-03-the-inference-engineering-masterclass-philip-kiely-ali-taha-baseten.md, raw/newsletters/latent-space-2026-08-04-unpacking-chatgpt-work-the-agent-for-a-billion-users.md, raw/newsletters/ainews-2026-08-01-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-08-13-ainews-spacexai-grok-4-6-and-grok-bot.md, raw/newsletters/the-neuron-2026-08-13-elon-releases-grok-4-6-says-grok-4-7-is-weeks-away.md, raw/newsletters/ainews-2026-08-14-ainews-gemini-3-7-flash-brings-gdm-back-to-the-forefront.md, raw/newsletters/the-neuron-2026-08-14-why-gemini-3-7-flash-just-got-half-price.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md, raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/latent-space-2026-09-05-openclaw-power-macbook-simplicity-five-days-with-grok-bot.md]
 confidence: medium
 ---
 
@@ -41,6 +41,14 @@ The new model wave makes routing more heterogeneous. GLM-5.3-Flash and Hy4-previ
 ## Why it matters
 
 As capability compresses across frontier and open-weight models, the routing layer becomes part of the product. [[software-factories]] need policies for when to use the strongest model, when to use a cheap executor, when to route to a cyber-specialized model, and when to fall back to [[local-llms]].
+
+## September 2026: route by completed work
+
+The new release cycle supplies a clean routing contrast. Gemini 3.8 Flash is positioned for fast, inexpensive workhorse traffic; Muse Spark 1.3 emphasizes fewer tool calls and tokens; Fable 5.1 reduces repeated-context cost for long jobs; Astra brings higher capability and token efficiency but higher nominal prices and staged access. A source-reported comparison found Gemini’s lower token price did not guarantee lower cost per completed task because it did more work. [raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md][raw/newsletters/the-neuron-2026-09-02-fable-5-1-is-here-what-changed.md][raw/newsletters/the-neuron-2026-09-04-openai-launched-gpt-6-astra.md]
+
+[[grok-bot]] demonstrates the convenience side of hidden routing: the user delegates to a named Bot and lets the system select among Claude Code, Codex, and Grok Build for different tasks. The tradeoff is reduced visibility into model choice, effort, context, and capacity consumption. Routing policies need an inspectable audit trail even when the product surface stays simple. [raw/newsletters/latent-space-2026-09-05-openclaw-power-macbook-simplicity-five-days-with-grok-bot.md]
+
+The operational objective is cost per verified outcome: expected turns, cache reuse, tool latency, retries, verification, access policy, and failure recovery belong beside token price. [[ai-benchmarking]] and [[agent-reliability-and-operations]] provide the measurement and control loop.
 
 ## Links
 

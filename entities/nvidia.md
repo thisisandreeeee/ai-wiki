@@ -1,10 +1,10 @@
 ---
 title: NVIDIA
 created: 2026-06-23
-updated: 2026-08-31
+updated: 2026-09-07
 type: entity
 tags: [ai, company, model, tooling]
-sources: [raw/newsletters/the-neuron-2026-08-18-why-openai-needed-nvidia-to-co-sign.md, raw/newsletters/ainews-2026-08-21-ainews-poolside-gets-12b-reverse-execuhire-to-nvidia-founders-stay-for.md, raw/newsletters/ainews-2026-06-02-ainews-nvidia-cosmos-3-nemotron-3-ultra-and-rtx-spark.md, raw/newsletters/the-neuron-2026-06-02-nvidia-agents-in-your-laptop.md, raw/newsletters/ainews-2026-06-05-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-07-28-nvidia-s-open-ai-counterpunch.md, raw/newsletters/ainews-2026-07-29-ainews-fearing-rsi-openai-anthropic-gdm-meta-thinky-cosign-letter-to-p.md]
+sources: [raw/newsletters/the-neuron-2026-08-18-why-openai-needed-nvidia-to-co-sign.md, raw/newsletters/ainews-2026-08-21-ainews-poolside-gets-12b-reverse-execuhire-to-nvidia-founders-stay-for.md, raw/newsletters/ainews-2026-06-02-ainews-nvidia-cosmos-3-nemotron-3-ultra-and-rtx-spark.md, raw/newsletters/the-neuron-2026-06-02-nvidia-agents-in-your-laptop.md, raw/newsletters/ainews-2026-06-05-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-07-28-nvidia-s-open-ai-counterpunch.md, raw/newsletters/ainews-2026-07-29-ainews-fearing-rsi-openai-anthropic-gdm-meta-thinky-cosign-letter-to-p.md, raw/newsletters/the-neuron-2026-09-06-openai-linked-agents-hijacked-a-german-wiki.md]
 confidence: high
 ---
 
@@ -35,6 +35,12 @@ New coverage adds two forms of leverage. NVIDIA reportedly backed financing for 
 The new batch reports NVIDIA agreeing to acquire Hugging Face for approximately $12.9B–$13B, combining its hardware position with a major hub for model weights, datasets, Spaces, and developer tooling. The reports are not perfectly synchronized: AINews describes confirmation while The Neuron notes that neither company had publicly confirmed the deal at capture time. [raw/newsletters/ainews-2026-08-27-ainews-nvidia-buys-huggingface-for-13b-as-openai-publishes-their-hf-in.md][raw/newsletters/the-neuron-2026-08-27-nvidia-s-buying-hugging-face-for-12-9b.md]
 
 The same coverage frames NVIDIA’s strategic surface more broadly. Vera is positioned as a CPU for the orchestration and tool traffic around agentic workloads, with SpaceXAI reportedly using the architecture for Grok systems and a planned orbital deployment. AWS and NVIDIA are also reported to be adding 2M GPUs by 2027–2028, including a U.S.-government allocation. These are source-reported plans, but together they show NVIDIA pursuing agent infrastructure, distribution, and capacity—not only accelerator sales. [raw/newsletters/the-neuron-2026-08-25-why-nvidia-s-newest-chip-is-leaving-earth.md][raw/newsletters/the-neuron-2026-08-27-nvidia-s-buying-hugging-face-for-12-9b.md]
+
+## September 2026: reported Hugging Face agreement
+
+The Neuron’s September 6 capture reports that NVIDIA agreed to buy Hugging Face for $12.93B, a stronger status claim than the late-August reports that had not yet been publicly confirmed. Treat the transaction as newly reported confirmation in this corpus while tracking formal company disclosures. The strategic combination would join NVIDIA’s hardware and infrastructure position to Hugging Face’s model, dataset, and developer-distribution layer. [raw/newsletters/the-neuron-2026-09-06-openai-linked-agents-hijacked-a-german-wiki.md]
+
+The report says Hugging Face would continue supporting rival clouds, models, and hardware. That promise matters because NVIDIA’s open-model strategy can expand demand for its hardware while ownership of a neutral distribution hub raises governance and portability questions. [[hugging-face]], [[closed-vs-open-frontier-models]], and [[local-llms]] remain the relevant cross-links.
 
 ## Links
 

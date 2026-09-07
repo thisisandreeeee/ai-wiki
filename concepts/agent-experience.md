@@ -1,10 +1,10 @@
 ---
 title: Agent Experience
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-09-07
 type: concept
 tags: [ai, tooling, trend]
-sources: [raw/newsletters/latent-space-2026-07-08-why-ai-infrastructure-must-evolve-for-agent-experience-akshat-bubna-mo.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/ainews-2026-07-11-ainews-not-much-happened-today.md]
+sources: [raw/newsletters/latent-space-2026-07-08-why-ai-infrastructure-must-evolve-for-agent-experience-akshat-bubna-mo.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/ainews-2026-07-11-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-09-01-runway-solaris-treats-software-like-video.md, raw/newsletters/latent-space-2026-09-05-openclaw-power-macbook-simplicity-five-days-with-grok-bot.md, raw/newsletters/the-neuron-2026-08-31-openclaw-2-0-rebuilt-the-personal-ai-agent.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md]
 confidence: high
 ---
 
@@ -34,6 +34,14 @@ Agent-oriented systems tend to favor:
 The July 2026 batch shows model capability converging while product experience diverges. [[gpt-5-6]] brought powerful Sol/Terra/Luna options, subagents, Work, and Codex integration, but the rollout also created confusing mode, quota, and navigation problems. [raw/newsletters/ainews-2026-07-11-ainews-not-much-happened-today.md:22-29]
 
 That means AX is not cosmetic. In [[software-factories]], a better model can still fail if it cannot see state, choose the right tool, account for cost, recover from errors, or explain what it changed.
+
+## September 2026: hide machinery, expose consequences
+
+[[grok-bot]] packages connectors, browser sessions, persistent computers, and Bot composition behind sign-in flows and human-readable roles. [[openclaw]] offers more user-owned control and setup visibility. The comparison shows that agent experience is not simply fewer configuration options: managed abstractions reduce cognitive load for administration and delegation, while technical work still benefits from control over models, context, tools, and recovery. [raw/newsletters/latent-space-2026-09-05-openclaw-power-macbook-simplicity-five-days-with-grok-bot.md]
+
+[[runway-solaris]] pushes the interface boundary further by generating software screens frame by frame instead of writing the interface code first. The promise is flexible, on-demand UI; the reliability burden is persistence of meaning across interactions, accessibility, security, saved state, and recovery. [raw/newsletters/the-neuron-2026-09-01-runway-solaris-treats-software-like-video.md][raw/newsletters/ainews-2026-09-01-ainews-fal-s-h3-max-live-breaks-the-infinite-videogen-barrier.md]
+
+Astra and Fable 5.1 make the same design tradeoff visible in long-running coding work: fewer visible turns can feel more natural, but users still need progress, cost, state, and permission signals. Good AX hides incidental machinery without hiding consequential state.
 
 ## Links
 
