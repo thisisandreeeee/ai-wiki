@@ -1,10 +1,10 @@
 ---
 title: Frontier Model Access Controls
 created: 2026-06-21
-updated: 2026-07-20
+updated: 2026-09-07
 type: concept
 tags: [ai, llm, policy, trend]
-sources: [raw/newsletters/the-neuron-2026-06-10-claude-fable-most-controversial-ai-yet.md, raw/newsletters/the-neuron-2026-06-14-us-gov-shuts-down-claude-fable.md, raw/newsletters/the-neuron-2026-06-18-washington-wants-ai-equity.md, raw/newsletters/ainews-2026-06-11-ainews-open-models-model-labs-vs-agent-labs-and-what-s-untrainable-sar.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/ainews-2026-06-27-ainews-openai-gpt-5-6-sol-terra-luna-restricted-to-trusted-partners.md, raw/newsletters/the-neuron-2026-06-28-openai-vs-washington-over-gpt-5-6.md, raw/newsletters/the-neuron-2026-07-01-fable-5-is-back-baby.md, raw/newsletters/the-neuron-2026-07-03-openai-may-give-uncle-sam-5.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/ainews-2026-07-11-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-07-14-nadella-s-blunt-take-on-model-cloning.md, raw/newsletters/the-neuron-2026-07-15-google-wants-an-ai-referee.md, raw/newsletters/the-neuron-2026-07-17-kimi-k3-just-shrank-openai-s-moat.md]
+sources: [raw/newsletters/the-neuron-2026-06-10-claude-fable-most-controversial-ai-yet.md, raw/newsletters/the-neuron-2026-06-14-us-gov-shuts-down-claude-fable.md, raw/newsletters/the-neuron-2026-06-18-washington-wants-ai-equity.md, raw/newsletters/ainews-2026-06-11-ainews-open-models-model-labs-vs-agent-labs-and-what-s-untrainable-sar.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/ainews-2026-06-27-ainews-openai-gpt-5-6-sol-terra-luna-restricted-to-trusted-partners.md, raw/newsletters/the-neuron-2026-06-28-openai-vs-washington-over-gpt-5-6.md, raw/newsletters/the-neuron-2026-07-01-fable-5-is-back-baby.md, raw/newsletters/the-neuron-2026-07-03-openai-may-give-uncle-sam-5.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/ainews-2026-07-11-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-07-14-nadella-s-blunt-take-on-model-cloning.md, raw/newsletters/the-neuron-2026-07-15-google-wants-an-ai-referee.md, raw/newsletters/the-neuron-2026-07-17-kimi-k3-just-shrank-openai-s-moat.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md, raw/newsletters/the-neuron-2026-09-06-openai-linked-agents-hijacked-a-german-wiki.md]
 confidence: high
 ---
 
@@ -52,6 +52,14 @@ Access controls now affect product reliability. A customer may not know whether 
 - Maintain fallback models, including [[local-llms]] and open weights where possible.
 - Assume frontier availability can change for policy, pricing, capacity, or safety-review reasons outside normal product lifecycle planning.
 - Put high-capability models inside auditable [[software-factories]] rather than ad hoc production workflows.
+
+## September 2026: access is staged, priced, and observable
+
+Astra’s rollout began with selected organizations before expanding to paid ChatGPT tiers, the API, and AWS. The launch also paired broad capability claims with Critical cyber classification, staged access, monitoring, red-teaming, and limits on advanced offensive cyber tasks. Fable 5.1 shows a different gate: public availability still varies through plan access, quotas, effort settings, and safety interventions. [raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md][raw/newsletters/the-neuron-2026-09-02-fable-5-1-is-here-what-changed.md]
+
+The workhorse race adds routing and economics to access control. Gemini 3.8 Flash and Muse Spark 1.3 can be attractive for high-volume traffic, but the effective route depends on tool-call count, cache behavior, task success, and provider policy. Users need to know which model, effort, context, and safety layer actually served the task—not merely whether a product was nominally available. [raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md]
+
+The German wiki incident reinforces that access controls must be tested as effective actions. A “read-only” label did not prevent a write through an allowed request path. [[ai-cybersecurity]] and [[agent-reliability-and-operations]] are therefore core parts of access policy, not downstream implementation details. [raw/newsletters/the-neuron-2026-09-06-openai-linked-agents-hijacked-a-german-wiki.md]
 
 ## Links
 

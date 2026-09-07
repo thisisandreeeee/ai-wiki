@@ -95,3 +95,11 @@
 
 - `python3 scripts/lint_wiki.py`: `OK: 101 wiki pages, 204 raw newsletter sources`.
 - `python3 -m py_compile scripts/*.py`: passed with no output.
+
+## [2026-09-07] synthesize | Weekly newsletter batch
+
+- Ran `python3 scripts/fetch_gmail_newsletters.py`: fetched 27 Gmail newsletter items; 14 were new raw newsletter sources added under `raw/newsletters/`, and `raw/newsletters/manifest.json` was refreshed.
+- Preserved all previously ingested raw newsletter files unchanged after restoring fetch-script rewrites.
+- Created `entities/fal-h3-max.md`, `entities/gemini-3-8-flash.md`, `entities/grok-bot.md`, `entities/muse-spark-1-3.md`, `entities/openclaw.md`, `entities/runway-solaris.md`, and `queries/weekly-briefing-2026-09-07.md`.
+- Updated `entities/astra.md`, `entities/anthropic.md`, `entities/claude-fable-5.md`, `entities/google-gemini.md`, `entities/meta.md`, `entities/openai.md`, `entities/nvidia.md`, `entities/hugging-face.md`, `concepts/agent-reliability-and-operations.md`, `concepts/ai-cybersecurity.md`, `concepts/agent-memory.md`, `concepts/software-factories.md`, `concepts/agent-experience.md`, `concepts/model-routing.md`, `concepts/ai-benchmarking.md`, `concepts/local-llms.md`, `concepts/ai-infrastructure-economics.md`, `concepts/frontier-model-access-controls.md`, `concepts/reasoning-trace-security.md`, and `concepts/agent-to-agent-coordination.md`.
+- Updated `index.md`; raw newsletter content remains immutable except for the 14 new captures and manifest maintenance.

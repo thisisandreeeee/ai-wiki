@@ -1,10 +1,10 @@
 ---
 title: Claude Fable 5
 created: 2026-06-21
-updated: 2026-07-13
+updated: 2026-09-07
 type: entity
 tags: [ai, llm, model, policy]
-sources: [raw/newsletters/the-neuron-2026-06-10-claude-fable-most-controversial-ai-yet.md, raw/newsletters/the-neuron-2026-06-14-us-gov-shuts-down-claude-fable.md, raw/newsletters/ainews-2026-06-11-ainews-open-models-model-labs-vs-agent-labs-and-what-s-untrainable-sar.md, raw/newsletters/ainews-2026-06-13-ainews-fable-and-mythos-officially-too-dangerous-to-release.md, raw/newsletters/the-neuron-2026-06-19-your-doctor-may-ask-chatgpt-next.md, raw/newsletters/ainews-2026-07-01-ainews-sonnet-5-today-and-fable-5-tomorrow.md, raw/newsletters/the-neuron-2026-07-01-fable-5-is-back-baby.md, raw/newsletters/the-neuron-2026-07-02-fable-5-first-reviews.md, raw/newsletters/the-neuron-2026-07-05-build-something-real-with-fable.md, raw/newsletters/ainews-2026-07-07-ainews-the-field-guide-to-fable.md, raw/newsletters/ainews-2026-07-08-ainews-lilian-weng-summarizes-35-papers-on-harness-engineering-for-rsi.md, raw/newsletters/ainews-2026-07-11-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-07-10-chatgpt-swallowed-codex-and-atlas.md]
+sources: [raw/newsletters/the-neuron-2026-06-10-claude-fable-most-controversial-ai-yet.md, raw/newsletters/the-neuron-2026-06-14-us-gov-shuts-down-claude-fable.md, raw/newsletters/ainews-2026-06-11-ainews-open-models-model-labs-vs-agent-labs-and-what-s-untrainable-sar.md, raw/newsletters/ainews-2026-06-13-ainews-fable-and-mythos-officially-too-dangerous-to-release.md, raw/newsletters/the-neuron-2026-06-19-your-doctor-may-ask-chatgpt-next.md, raw/newsletters/ainews-2026-07-01-ainews-sonnet-5-today-and-fable-5-tomorrow.md, raw/newsletters/the-neuron-2026-07-01-fable-5-is-back-baby.md, raw/newsletters/the-neuron-2026-07-02-fable-5-first-reviews.md, raw/newsletters/the-neuron-2026-07-05-build-something-real-with-fable.md, raw/newsletters/ainews-2026-07-07-ainews-the-field-guide-to-fable.md, raw/newsletters/ainews-2026-07-08-ainews-lilian-weng-summarizes-35-papers-on-harness-engineering-for-rsi.md, raw/newsletters/ainews-2026-07-11-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-07-10-chatgpt-swallowed-codex-and-atlas.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/the-neuron-2026-09-02-fable-5-1-is-here-what-changed.md]
 confidence: high
 ---
 
@@ -45,6 +45,14 @@ Fable 5 made three themes concrete:
 ## Operating lesson
 
 Treat Fable-class models as unstable strategic dependencies. Teams should keep evals, fallbacks, [[local-llms]], and procurement risk reviews in place before building critical workflows around any one frontier API. Where Fable is available, it fits best into bounded [[software-factories]] with explicit review, cost limits, and rollback plans.
+
+## September 2026: Fable 5.1
+
+Anthropic’s Claude Fable 5.1 update targets the economics and friction of long-running agents. The reported cache-read price fell 75% to $0.25 per million tokens; Anthropic estimated roughly 25% lower typical workload cost and up to 45% lower cost for highly agentic workloads. Reported benchmark gains included 52.6% on Terminal-Bench-Science 0.1 versus 24.7% for Fable 5 and 55.8% on Terminal-Bench 4.0 versus 42.0%. These figures are vendor- or partner-reported and need independent replication. [raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md][raw/newsletters/the-neuron-2026-09-02-fable-5-1-is-here-what-changed.md]
+
+Anthropic also reported fewer false-positive interventions: about 85% fewer biology/medical interruptions and roughly 60% fewer cyber-safety interventions. The same release guidance recommends append-only history, cached context, mid-conversation system messages, batched tool calls, explicit completion criteria, tight scope, and verification at lower effort settings. This turns prompt design and harness configuration into part of the model’s effective capability. [raw/newsletters/the-neuron-2026-09-02-fable-5-1-is-here-what-changed.md]
+
+Partner reports describe unattended experiments, difficult browser tasks, and multimodal game/mod creation, but the corpus also preserves user complaints about prose density, plan access, quota behavior, and remaining relevance problems. The practical comparison with [[astra]] is therefore task-level: quality, delegation, monitorability, latency, and total cost—not a single release ranking.
 
 ## Links
 

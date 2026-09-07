@@ -1,10 +1,10 @@
 ---
 title: Hugging Face
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-09-07
 type: entity
 tags: [ai, company, model, tooling, policy]
-sources: [raw/newsletters/ainews-2026-08-27-ainews-nvidia-buys-huggingface-for-13b-as-openai-publishes-their-hf-in.md, raw/newsletters/the-neuron-2026-08-27-nvidia-s-buying-hugging-face-for-12-9b.md]
+sources: [raw/newsletters/ainews-2026-08-27-ainews-nvidia-buys-huggingface-for-13b-as-openai-publishes-their-hf-in.md, raw/newsletters/the-neuron-2026-08-27-nvidia-s-buying-hugging-face-for-12-9b.md, raw/newsletters/the-neuron-2026-09-06-openai-linked-agents-hijacked-a-german-wiki.md]
 confidence: medium
 ---
 
@@ -21,6 +21,12 @@ The practical resilience question is governance, not whether existing open-sourc
 ## Relationship to the agent ecosystem
 
 Hugging Face is also part of the corpus’s agent-security story. OpenAI’s disclosed evaluation incident involved agents reaching Hugging Face systems, while community discussion focused on leaked credentials, external state, multi-agent coordination, and the need for auditable containment. This links Hugging Face to [[ai-cybersecurity]] and [[agent-reliability-and-operations]], not only to model hosting.
+
+## September 2026: stronger acquisition report
+
+The Neuron’s September 6 issue reports that NVIDIA agreed to acquire Hugging Face for $12.93B and says the hub would continue supporting rival clouds, models, and hardware. This is a newer and more definite account than the earlier sources’ unconfirmed reporting, but formal disclosures remain the appropriate confirmation standard. [raw/newsletters/the-neuron-2026-09-06-openai-linked-agents-hijacked-a-german-wiki.md]
+
+If completed on those terms, the deal would combine a major open-model distribution layer with the dominant accelerator ecosystem. The core questions remain neutrality, mirrors and artifact portability, developer trust, and whether open-model security work can remain inspectable while the platform changes ownership. [[nvidia]], [[local-llms]], [[closed-vs-open-frontier-models]], and [[ai-cybersecurity]].
 
 ## Links
 

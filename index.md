@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.  
-> Last updated: 2026-08-31 | Total pages: 101
+> Last updated: 2026-09-07 | Total pages: 108
 
 ## Entities
 
@@ -19,7 +19,9 @@
 - [[cursor]] — AI coding environment illustrating provider access controls and social-engineering risk.
 - [[databricks]] — Enterprise data+AI platform and key player in the AI infrastructure and agent ecosystem.
 - [[deepseek-v4-flash]] — Cost/performance open-weight model emphasizing post-training, Codex-compatible serving, and rapid local-runtime support.
+- [[fal-h3-max]] — Video-generation system and serving stack reported to enable continuous, audience-steerable, faster-than-realtime generation.
 - [[gemini-3-7-flash]] — Google's fast, inexpensive workhorse model for coding, knowledge work, and agentic workflows.
+- [[gemini-3-8-flash]] — Google's September 2026 workhorse model for fast coding, reasoning, search-heavy work, and agents.
 - [[github]] — Developer collaboration layer adapting to agent-generated software work and trust pressure.
 - [[glm-5-2]] — Breakout open-weight model framed as frontier-adjacent and strategically important for local/open AI.
 - [[glm-5-3]] — Z.ai successor framed as a same-footprint post-training and agent-environment scaling experiment.
@@ -27,6 +29,7 @@
 - [[google-gemini]] — Google's model family increasingly split into specialized workhorse, lightweight, and cyber variants.
 - [[grok-4-5]] — xAI/SpaceXAI's July 2026 coding-and-agents-focused frontier model with a coding-agent evaluation harness.
 - [[grok-4-6]] — xAI/SpaceXAI's cost-efficient frontier model for long-running agents, coding, and research.
+- [[grok-bot]] — xAI's managed agent-computer product built around persistent cloud computers, connectors, and named Bots.
 - [[gpt-5-6]] — OpenAI's flagship model family (Sol/Terra/Luna), restricted to trusted partners, at the center of access-control and regulatory debates.
 - [[hugging-face]] — Model, dataset, and developer hub reported to be the subject of a major NVIDIA acquisition.
 - [[hy4-preview]] — Tencent's reported 770B/49B-active open-weight frontier MoE for engineering work.
@@ -38,14 +41,17 @@
 - [[microsoft]] — Enterprise AI platform actor bundling MAI models, GitHub, Windows, Foundry, context, and evals.
 - [[modal]] — AI cloud platform illustrating how infrastructure is being redesigned for agent-native workloads.
 - [[muse-glimmer]] — Meta's open-weight multimodal model aimed at always-on local agents.
+- [[muse-spark-1-3]] — Meta's workhorse model for agentic/coding tasks, emphasizing tool-use efficiency and open-weight distribution.
 - [[nvidia]] — AI hardware and open-model actor spanning local agent systems, Cosmos, Nemotron, and open AI security tooling.
 - [[openai]] — Product consolidation, GPT-5.6/ChatGPT Work rollout, cyber-incident fallout, health interfaces, and governance pressure around OpenAI.
 - [[openai-jalapeno-chip]] — OpenAI's rumored custom AI hardware chip, part of the infrastructure buildout to reduce dependence on NVIDIA.
+- [[openclaw]] — User-owned agent platform centered on a Gateway, persistent computers, plugins, skills, and automations.
 - [[openrouter]] — Multi-provider model gateway whose reported Stripe acquisition makes routing a strategic infrastructure layer.
 - [[poolside]] — Code-model lab using a high-throughput Model Factory and open-weight Laguna releases.
 - [[qwen-3-8-flash-next]] — Open hybrid-attention Qwen model combining a small active path with large n-gram memory tables.
 - [[qwen-3-8-max]] — Alibaba's 2.4T open-weight flagship and 27B companion aimed at coding, multimodal reasoning, and long-horizon agents.
 - [[radical-ai]] — Materials-science company using self-driving labs for closed-loop alloy discovery.
+- [[runway-solaris]] — Runway's reported Interface World Model that generates interactive software screens frame by frame.
 - [[simile-ai]] — Behavioral-simulation company building digital twins and synthetic populations from interviews, behavior, and causal data.
 
 ## Concepts
@@ -115,3 +121,4 @@
 - [[weekly-briefing-2026-08-17]] — Weekly synthesis of Grok/Gemini price-performance, Muse Glimmer, agent harnesses, reasoning-trace security, and BioAI.
 - [[weekly-briefing-2026-08-24]] — Weekly synthesis of model routing, GLM-5.3 post-training, memory scarcity, agent harness evolution, behavioral simulation, and AI trust.
 - [[weekly-briefing-2026-08-31]] — Weekly synthesis of open-model distribution, agent security, physical interfaces, harness state, and infrastructure economics.
+- [[weekly-briefing-2026-09-07]] — Weekly synthesis of GPT-6 Astra, Fable 5.1, workhorse-model economics, managed agents, authorization, and generated interfaces.

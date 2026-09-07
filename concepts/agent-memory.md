@@ -1,10 +1,10 @@
 ---
 title: Agent Memory
 created: 2026-07-30
-updated: 2026-08-31
+updated: 2026-09-07
 type: concept
 tags: [ai, llm, tooling]
-sources: [raw/newsletters/latent-space-2026-08-21-simulation-the-new-scaling-law-joon-sung-park-simile-ai.md, raw/newsletters/the-neuron-2026-08-23-sam-altman-dear-peasants-isn-t-a-good-ai-pitch.md, raw/newsletters/ainews-2026-07-18-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-07-24-ainews-black-forest-labs-flux-3-multimodal-flow-models-that-beat-seeda.md, raw/newsletters/latent-space-2026-07-28-codex-from-0-to-10m-users-building-chatgpt-work-akshay-nathan-openai.md]
+sources: [raw/newsletters/latent-space-2026-08-21-simulation-the-new-scaling-law-joon-sung-park-simile-ai.md, raw/newsletters/the-neuron-2026-08-23-sam-altman-dear-peasants-isn-t-a-good-ai-pitch.md, raw/newsletters/ainews-2026-07-18-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-07-24-ainews-black-forest-labs-flux-3-multimodal-flow-models-that-beat-seeda.md, raw/newsletters/latent-space-2026-07-28-codex-from-0-to-10m-users-building-chatgpt-work-akshay-nathan-openai.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/latent-space-2026-09-05-openclaw-power-macbook-simplicity-five-days-with-grok-bot.md, raw/newsletters/the-neuron-2026-08-31-openclaw-2-0-rebuilt-the-personal-ai-agent.md, raw/newsletters/the-neuron-2026-09-06-openai-linked-agents-hijacked-a-german-wiki.md]
 confidence: medium
 ---
 
@@ -35,6 +35,14 @@ The design requirement remains explicit scope: state should be inspectable, vers
 ## Why it matters
 
 Memory is where [[agent-experience]], [[software-factories]], and [[agent-reliability-and-operations]] meet. Useful memory must be retrievable, scoped, versioned, auditable, and safe to forget. Otherwise it becomes stale context with extra authority.
+
+## September 2026: memory becomes a managed computer state
+
+Astra’s new context feature reportedly lets the system keep notes and search earlier context windows during long tasks; its strongest evaluations also depended on preserving opaque reasoning state and native compaction. This is evidence that memory and harness state are part of measured capability, not merely convenience features. [raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md]
+
+[[openclaw]] and [[grok-bot]] illustrate two deployment choices. OpenClaw keeps a user-owned Gateway and exposes more of the host, tools, skills, plugins, and persistence machinery. Grok Bot packages the computer and durable state as a managed product, but shared files, browser sessions, and logins mean the abstraction is not a security boundary. State must remain inspectable, scoped, resettable, and safe to delete in either design. [raw/newsletters/latent-space-2026-09-05-openclaw-power-macbook-simplicity-five-days-with-grok-bot.md][raw/newsletters/the-neuron-2026-08-31-openclaw-2-0-rebuilt-the-personal-ai-agent.md]
+
+The new agents also make continuity a cost control. Fable 5.1’s cheaper cache reads and append-only history guidance reduce repeated-context waste, while Astra’s long-running examples show why memory policy affects both performance and monitorability. [[agent-reliability-and-operations]] should treat memory reads, writes, deletion, and cross-session reuse as auditable external effects.
 
 ## Links
 
