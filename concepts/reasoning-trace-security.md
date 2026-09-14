@@ -1,10 +1,10 @@
 ---
 title: Reasoning-Trace Security
 created: 2026-08-17
-updated: 2026-09-07
+updated: 2026-09-14
 type: concept
 tags: [ai, llm, research, policy, tooling]
-sources: [raw/newsletters/ainews-2026-08-12-ainews-how-to-steal-a-reasoning-trace.md, raw/newsletters/ainews-2026-08-13-ainews-spacexai-grok-4-6-and-grok-bot.md, raw/newsletters/the-neuron-2026-08-12-claude-can-apparently-snitch-on-claude.md, raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/the-neuron-2026-09-06-openai-linked-agents-hijacked-a-german-wiki.md]
+sources: [raw/newsletters/ainews-2026-08-12-ainews-how-to-steal-a-reasoning-trace.md, raw/newsletters/ainews-2026-08-13-ainews-spacexai-grok-4-6-and-grok-bot.md, raw/newsletters/the-neuron-2026-08-12-claude-can-apparently-snitch-on-claude.md, raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/the-neuron-2026-09-06-openai-linked-agents-hijacked-a-german-wiki.md, raw/newsletters/the-neuron-2026-09-07-openai-s-data-vs-its-chief-scientist-s-fear.md, raw/newsletters/the-neuron-2026-09-10-anthropic-researcher-sounds-the-alarm.md, raw/newsletters/the-neuron-2026-09-13-openai-asked-congress-if-ai-can-slow-down.md]
 confidence: medium
 ---
 
@@ -36,6 +36,12 @@ The episode leaves unresolved how much hidden reasoning is faithful, how broadly
 Coverage of Astra reports stronger no-CoT capability, shorter or missing reasoning summaries on some long cyber trajectories, and a large gap between standard and native-harness benchmark results. The sources disagree about how much this reflects architecture, hidden state, or harness behavior, but agree that visible text is becoming a less complete monitoring surface. [raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md][raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md]
 
 The practical response is not to treat hidden reasoning as a reliable transcript. Bind opaque state to the intended session and model, log independent tool and network events, restrict continuation and compaction interfaces, and evaluate behavior with outcome and authorization tests. [[agent-reliability-and-operations]] and [[ai-cybersecurity]] provide the surrounding controls.
+
+## September 2026: visible reasoning is a weaker monitor
+
+The new coverage repeats the warning that Astra can perform more serial reasoning without an exposed chain-of-thought, while some long cyber trajectories reportedly returned incomplete reasoning summaries. This does not prove that hidden reasoning is faithful or that every summary is unsafe; it does show that visible prose is becoming an incomplete monitoring surface. [raw/newsletters/the-neuron-2026-09-07-openai-s-data-vs-its-chief-scientist-s-fear.md][raw/newsletters/the-neuron-2026-09-10-anthropic-researcher-sounds-the-alarm.md]
+
+Release gates should therefore combine whatever reasoning artifacts are available with independent tool, network, identity, and outcome telemetry. [[ai-cybersecurity]] and [[agent-reliability-and-operations]] remain the stronger control boundary than any assumption that a model’s explanation is a complete trace. [raw/newsletters/the-neuron-2026-09-13-openai-asked-congress-if-ai-can-slow-down.md]
 
 ## Links
 

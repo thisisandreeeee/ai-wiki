@@ -9,22 +9,22 @@
     "chars": 19828
   },
   {
-    "id": "1a04737ac90cfea3",
-    "newsletter": "ainews",
-    "subject": "[AINews] OpenAI to reach AGI bar by end-2026",
-    "date": "Fri, 28 Aug 2026 07:12:10 +0000",
-    "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-08-28-ainews-openai-to-reach-agi-bar-by-end-2026.md",
-    "chars": 51978
+    "id": "1a090060f25d7f7c",
+    "newsletter": "the-neuron",
+    "subject": "😺 OpenAI advances ANOTHER Millennium problem?",
+    "date": "Fri, 11 Sep 2026 10:31:43 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-09-11-openai-advances-another-millennium-problem.md",
+    "chars": 20387
   },
   {
-    "id": "1a047ed8df434ec5",
+    "id": "1a09069444a5ef61",
     "newsletter": "the-neuron",
-    "subject": "🙀 Your AI Agent Can Be Talked Into Anything",
-    "date": "Fri, 28 Aug 2026 10:31:45 +0000 (UTC)",
+    "subject": "😿 We're not being clingy, but... we miss you",
+    "date": "Fri, 11 Sep 2026 12:20:11 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-08-28-your-ai-agent-can-be-talked-into-anything.md",
-    "chars": 17893
+    "path": "raw/newsletters/the-neuron-2026-09-11-we-re-not-being-clingy-but-we-miss-you.md",
+    "chars": 1815
   },
   {
     "id": "1a06add6cecef69f",
@@ -36,13 +36,13 @@
     "chars": 87591
   },
   {
-    "id": "1a03353eb1c95226",
+    "id": "1a07b6c605ca0940",
     "newsletter": "the-neuron",
-    "subject": "😺 Anthropic's IPO could top SpaceX's record",
-    "date": "Mon, 24 Aug 2026 10:32:04 +0000 (UTC)",
+    "subject": "😺 OpenAI's data vs. its chief scientist's fear",
+    "date": "Mon, 07 Sep 2026 10:31:31 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-08-24-anthropic-s-ipo-could-top-spacex-s-record.md",
-    "chars": 17451
+    "path": "raw/newsletters/the-neuron-2026-09-07-openai-s-data-vs-its-chief-scientist-s-fear.md",
+    "chars": 17282
   },
   {
     "id": "1a0593286af862e7",
@@ -54,13 +54,31 @@
     "chars": 18573
   },
   {
-    "id": "1a04bf1b5d81795d",
+    "id": "1a07dcb8d6604730",
+    "newsletter": "latent-space",
+    "subject": "The Frontier AEO Tracker: What Astra Chooses (and every other frontier model, and what you can do about it)",
+    "date": "Mon, 7 Sep 2026 21:32:37 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-09-07-the-frontier-aeo-tracker-what-astra-chooses-and-every-other-frontier-m.md",
+    "chars": 9673
+  },
+  {
+    "id": "1a094330a9eaa2eb",
     "newsletter": "ainews",
-    "subject": "[AINews] OpenAI shuts off Cursor",
-    "date": "Sat, 29 Aug 2026 05:11:53 +0000",
+    "subject": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return…",
+    "date": "Sat, 12 Sep 2026 05:56:05 +0000",
     "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-08-29-ainews-openai-shuts-off-cursor.md",
-    "chars": 54961
+    "path": "raw/newsletters/ainews-2026-09-12-ainews-deepseek-v4-1-flash-763b-p8b-d16b-novel-causal-encoder-decoder.md",
+    "chars": 66097
+  },
+  {
+    "id": "1a09626fd3f29db5",
+    "newsletter": "latent-space",
+    "subject": "The Rise of the Forward Deployed Engineer — and How To Do the Job Right",
+    "date": "Sat, 12 Sep 2026 15:01:20 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-09-12-the-rise-of-the-forward-deployed-engineer-and-how-to-do-the-job-right.md",
+    "chars": 22620
   },
   {
     "id": "1a07218dee99f1d6",
@@ -81,13 +99,13 @@
     "chars": 21214
   },
   {
-    "id": "1a0536bccfd83cf1",
+    "id": "1a09bd333166e82e",
     "newsletter": "the-neuron",
-    "subject": "😺 Anthropic taught AI agents to use machines",
-    "date": "Sun, 30 Aug 2026 16:06:07 +0000 (UTC)",
+    "subject": "😺 OpenAI asked Congress if AI can slow down",
+    "date": "Sun, 13 Sep 2026 17:31:31 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-08-30-anthropic-taught-ai-agents-to-use-machines.md",
-    "chars": 18037
+    "path": "raw/newsletters/the-neuron-2026-09-13-openai-asked-congress-if-ai-can-slow-down.md",
+    "chars": 19377
   },
   {
     "id": "1a066d385bfd869e",
@@ -99,31 +117,22 @@
     "chars": 18878
   },
   {
-    "id": "1a040ec7747060e8",
-    "newsletter": "ainews",
-    "subject": "[AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro",
-    "date": "Thu, 27 Aug 2026 01:50:55 +0000",
-    "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-08-27-ainews-nvidia-buys-huggingface-for-13b-as-openai-publishes-their-hf-in.md",
-    "chars": 77206
-  },
-  {
-    "id": "1a042c743988f932",
+    "id": "1a08adf9d00f25be",
     "newsletter": "the-neuron",
-    "subject": "😺 Nvidia's buying Hugging Face for $12.9B",
-    "date": "Thu, 27 Aug 2026 10:32:22 +0000 (UTC)",
+    "subject": "😺 Anthropic researcher sounds the alarm",
+    "date": "Thu, 10 Sep 2026 10:31:38 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-08-27-nvidia-s-buying-hugging-face-for-12-9b.md",
-    "chars": 17451
+    "path": "raw/newsletters/the-neuron-2026-09-10-anthropic-researcher-sounds-the-alarm.md",
+    "chars": 21356
   },
   {
-    "id": "1a0457e1fc6ea182",
+    "id": "1a08b718e04ad16e",
     "newsletter": "data-science-weekly",
-    "subject": "Data Science Weekly - Issue 666",
-    "date": "Thu, 27 Aug 2026 23:09:58 +0000",
+    "subject": "Data Science Weekly - Issue 668",
+    "date": "Thu, 10 Sep 2026 13:03:29 +0000",
     "from": "Data Science Weekly Newsletter <datascienceweekly@substack.com>",
-    "path": "raw/newsletters/data-science-weekly-2026-08-27-data-science-weekly-issue-666.md",
-    "chars": 14760
+    "path": "raw/newsletters/data-science-weekly-2026-09-10-data-science-weekly-issue-668.md",
+    "chars": 14461
   },
   {
     "id": "1a06593051cdb37f",
@@ -162,6 +171,15 @@
     "chars": 16295
   },
   {
+    "id": "1a0809c5365f9692",
+    "newsletter": "the-neuron",
+    "subject": "😺 AI drug reversed aging markers",
+    "date": "Tue, 08 Sep 2026 10:41:15 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-09-08-ai-drug-reversed-aging-markers.md",
+    "chars": 16804
+  },
+  {
     "id": "1a05b45612a67ef2",
     "newsletter": "ainews",
     "subject": "[AINews] Fal’s H3 Max Live breaks the infinite videogen barrier",
@@ -180,24 +198,6 @@
     "chars": 9653
   },
   {
-    "id": "1a036d681e54a979",
-    "newsletter": "ainews",
-    "subject": "[AINews] Andrew Ng gets into AI Engineering",
-    "date": "Tue, 25 Aug 2026 02:50:57 +0000",
-    "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-08-25-ainews-andrew-ng-gets-into-ai-engineering.md",
-    "chars": 57426
-  },
-  {
-    "id": "1a0388349dc94f35",
-    "newsletter": "the-neuron",
-    "subject": "😺 Why NVIDIA's newest chip is leaving Earth",
-    "date": "Tue, 25 Aug 2026 10:41:54 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-08-25-why-nvidia-s-newest-chip-is-leaving-earth.md",
-    "chars": 17811
-  },
-  {
     "id": "1a061aca62bc8870",
     "newsletter": "the-neuron",
     "subject": "😺 Fable 5.1 is here. What changed?",
@@ -205,6 +205,15 @@
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
     "path": "raw/newsletters/the-neuron-2026-09-02-fable-5-1-is-here-what-changed.md",
     "chars": 26027
+  },
+  {
+    "id": "1a085817b517624c",
+    "newsletter": "the-neuron",
+    "subject": "😺 OpenAI's $1M math breakthrough sparked a fight with Anthropic",
+    "date": "Wed, 09 Sep 2026 09:30:49 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-09-09-openai-s-1m-math-breakthrough-sparked-a-fight-with-anthropic.md",
+    "chars": 21959
   },
   {
     "id": "1a06117ad7a20edd",
@@ -216,30 +225,12 @@
     "chars": 86997
   },
   {
-    "id": "1a03e0eec42ce1d2",
-    "newsletter": "the-neuron",
-    "subject": "😺 Anthropic's Boldest Number Yet",
-    "date": "Wed, 26 Aug 2026 12:32:32 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-08-26-anthropic-s-boldest-number-yet.md",
-    "chars": 18560
-  },
-  {
-    "id": "1a03ea5ad08bd80e",
-    "newsletter": "latent-space",
-    "subject": "🔬“We have foundation models for language, not for physics” — Anima Anandkumar, Bren Professor of Computing",
-    "date": "Wed, 26 Aug 2026 15:15:39 +0000",
-    "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/latent-space-2026-08-26-we-have-foundation-models-for-language-not-for-physics-anima-anandkuma.md",
-    "chars": 7524
-  },
-  {
-    "id": "1a03ede23780eeba",
-    "newsletter": "latent-space",
-    "subject": "The Future of SaaS Is Apps That Agents Can Use",
-    "date": "Wed, 26 Aug 2026 16:16:26 +0000",
-    "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/latent-space-2026-08-26-the-future-of-saas-is-apps-that-agents-can-use.md",
-    "chars": 10488
+    "id": "1a084906b69101e2",
+    "newsletter": "ainews",
+    "subject": "[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130…",
+    "date": "Wed, 9 Sep 2026 05:04:51 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-09-09-ainews-openai-reports-navier-stokes-singularity-find-in-88-hours-using.md",
+    "chars": 43206
   }
 ]

@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.  
-> Last updated: 2026-09-07 | Total pages: 108
+> Last updated: 2026-09-14 | Total pages: 112
 
 ## Entities
 
@@ -18,6 +18,7 @@
 - [[cognition]] — Async coding-agent company around Devin and enterprise engineering value measurement.
 - [[cursor]] — AI coding environment illustrating provider access controls and social-engineering risk.
 - [[databricks]] — Enterprise data+AI platform and key player in the AI infrastructure and agent ecosystem.
+- [[deepseek-v4-1-flash]] — Open-weight multimodal model emphasizing asymmetric prefill/decode, KV-cache efficiency, and long-context serving.
 - [[deepseek-v4-flash]] — Cost/performance open-weight model emphasizing post-training, Codex-compatible serving, and rapid local-runtime support.
 - [[fal-h3-max]] — Video-generation system and serving stack reported to enable continuous, audience-steerable, faster-than-realtime generation.
 - [[gemini-3-7-flash]] — Google's fast, inexpensive workhorse model for coding, knowledge work, and agentic workflows.
@@ -76,6 +77,7 @@
 - [[attention-and-transformer-architecture]] — The attention equation, Transformer blocks, masking, encoder/decoder structure, MoE, and tensor-shape mental models.
 - [[browser-agents]] — Agents that operate graphical or web interfaces through browser/computer-use environments.
 - [[coding-agent-evaluation]] — Shift from test-passing code benchmarks to mergeability, trace safety, cost-aware loops, and risk-aware review.
+- [[forward-deployed-engineering]] — Customer-embedded engineering that turns production workflow knowledge into reusable platform capabilities.
 - [[frontier-lab-governance]] — Internal and external mechanisms steering frontier labs, including employee petitions, release gates, and government coordination.
 - [[frontier-model-access-controls]] — Policy, product, safety, and trusted-partner gates that determine who receives frontier model capability.
 - [[local-llms]] — Local/open model deployment as a resilience, privacy, cost-control, and agent-system portability layer.
@@ -100,6 +102,7 @@
 - [[self-driving-labs]] — Closed-loop AI/robotics labs and science workflows that generate, test, and learn from physical experiments.
 - [[semantic-layer-for-ai]] — Shared graph, metadata, and rule substrate for enterprise agents over data sources and traces.
 - [[software-factories]] — Agent-orchestrated engineering loops for triage, implementation, review, verification, shipping, and monitoring.
+- [[test-time-compute-scaling]] — Inference-time capability scaling through parallel agents, longer search, tools, and verification.
 - [[workplace-ai-adoption]] — Spread of AI tools across ordinary job functions, cross-occupation tasks, and agentic work products.
 
 ## Comparisons
@@ -122,3 +125,4 @@
 - [[weekly-briefing-2026-08-24]] — Weekly synthesis of model routing, GLM-5.3 post-training, memory scarcity, agent harness evolution, behavioral simulation, and AI trust.
 - [[weekly-briefing-2026-08-31]] — Weekly synthesis of open-model distribution, agent security, physical interfaces, harness state, and infrastructure economics.
 - [[weekly-briefing-2026-09-07]] — Weekly synthesis of GPT-6 Astra, Fable 5.1, workhorse-model economics, managed agents, authorization, and generated interfaces.
+- [[weekly-briefing-2026-09-14]] — Weekly synthesis of DeepSeek V4.1 Flash, multi-agent mathematical search, recursive-improvement pressure, FDEs, and AI-for-science validation.

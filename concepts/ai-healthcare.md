@@ -1,10 +1,10 @@
 ---
 title: AI Healthcare
 created: 2026-06-21
-updated: 2026-08-24
+updated: 2026-09-14
 type: concept
 tags: [ai, llm, research]
-sources: [raw/newsletters/the-neuron-2026-08-20-moderna-s-cancer-treatment-started-with-ai.md, raw/newsletters/ainews-2026-08-20-ainews-death-of-params-z-ai-ceo-jie-tang-on-glm-5-3-and-the-new-post-t.md, raw/newsletters/the-neuron-2026-06-19-your-doctor-may-ask-chatgpt-next.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/latent-space-2026-06-18-the-professor-of-outputmaxxing-anjney-midha-amp.md, raw/newsletters/data-science-weekly-2026-06-11-data-science-weekly-issue-655.md]
+sources: [raw/newsletters/the-neuron-2026-08-20-moderna-s-cancer-treatment-started-with-ai.md, raw/newsletters/ainews-2026-08-20-ainews-death-of-params-z-ai-ceo-jie-tang-on-glm-5-3-and-the-new-post-t.md, raw/newsletters/the-neuron-2026-06-19-your-doctor-may-ask-chatgpt-next.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/latent-space-2026-06-18-the-professor-of-outputmaxxing-anjney-midha-amp.md, raw/newsletters/data-science-weekly-2026-06-11-data-science-weekly-issue-655.md, raw/newsletters/the-neuron-2026-09-08-ai-drug-reversed-aging-markers.md]
 confidence: high
 ---
 
@@ -27,6 +27,12 @@ The Neuron reported Merck and Moderna's positive Phase 3 result for an individua
 ## Caution
 
 The key distinction is clinical decision support vs autonomous care. The most credible examples still keep physicians, validation, and follow-up testing in the loop.
+
+## September 2026: AI-designed drug and biological-age signals
+
+Insilico Medicine’s AI-assisted experimental IPF drug rentosertib was analyzed against six proteomic aging clocks using samples from a 12-week Phase 2a trial. The clocks consistently estimated lower biological age in treated patients; the strongest effects appeared around week four, with some averages around 3–4 years and one estimate near six years. The dose with the strongest aging-clock signal was not the dose with the best lung-function result. [raw/newsletters/the-neuron-2026-09-08-ai-drug-reversed-aging-markers.md]
+
+This is not evidence of a general anti-aging therapy. Proteomic clocks can improve when IPF improves, and the study did not establish that healthy people would age more slowly. The durable lesson is methodological: trials for disease treatment may also measure aging-related biomarkers, but those signals require independent endpoints and healthy-population validation before broad claims. [[self-driving-labs]] and [[ai-benchmarking]] provide the relevant validation frame.
 
 ## Links
 

@@ -1,10 +1,10 @@
 ---
 title: Frontier Lab Governance
 created: 2026-07-30
-updated: 2026-08-31
+updated: 2026-09-14
 type: concept
 tags: [ai, policy, trend]
-sources: [raw/newsletters/the-neuron-2026-08-17-anthropic-s-ceo-accused-of-wanting-to-rule-ai.md, raw/newsletters/the-neuron-2026-08-23-sam-altman-dear-peasants-isn-t-a-good-ai-pitch.md, raw/newsletters/ainews-2026-07-29-ainews-fearing-rsi-openai-anthropic-gdm-meta-thinky-cosign-letter-to-p.md, raw/newsletters/the-neuron-2026-07-30-zuckerberg-split-with-his-own-ai-chief.md]
+sources: [raw/newsletters/the-neuron-2026-08-17-anthropic-s-ceo-accused-of-wanting-to-rule-ai.md, raw/newsletters/the-neuron-2026-08-23-sam-altman-dear-peasants-isn-t-a-good-ai-pitch.md, raw/newsletters/ainews-2026-07-29-ainews-fearing-rsi-openai-anthropic-gdm-meta-thinky-cosign-letter-to-p.md, raw/newsletters/the-neuron-2026-07-30-zuckerberg-split-with-his-own-ai-chief.md, raw/newsletters/the-neuron-2026-09-07-openai-s-data-vs-its-chief-scientist-s-fear.md, raw/newsletters/the-neuron-2026-09-10-anthropic-researcher-sounds-the-alarm.md, raw/newsletters/the-neuron-2026-09-13-openai-asked-congress-if-ai-can-slow-down.md]
 confidence: medium
 ---
 
@@ -31,6 +31,12 @@ The Hugging Face acquisition report adds an infrastructure-governance dimension:
 ## Why it matters
 
 Frontier labs are no longer governed only by product launch calendars. Employee coalitions, public letters, government relationships, open-weight policy, and incident disclosures are becoming part of the operating environment for [[frontier-model-access-controls]] and [[closed-vs-open-frontier-models]].
+
+## September 2026: safety coordination meets antitrust
+
+OpenAI reportedly asked Congress whether an industry-wide slowdown on the most capable systems could violate antitrust rules. This is an unusual governance problem: labs may need to coordinate on safety thresholds or compute limits, but coordination among competitors can resemble an agreement to restrict output. The source does not establish a legal answer; it establishes the policy question. [raw/newsletters/the-neuron-2026-09-13-openai-asked-congress-if-ai-can-slow-down.md]
+
+The same batch supplies pressure from inside the labs. OpenAI’s data shows growing agent use in research, while its chief scientist warned that alignment and monitoring may not keep pace. Anthropic researcher Jacob Coxon separately resigned over the risk of self-improving systems. Together these signals make “pause” less a slogan than a question about measurable release gates, intervention authority, and who can trigger them. [raw/newsletters/the-neuron-2026-09-07-openai-s-data-vs-its-chief-scientist-s-fear.md][raw/newsletters/the-neuron-2026-09-10-anthropic-researcher-sounds-the-alarm.md]
 
 ## Links
 
