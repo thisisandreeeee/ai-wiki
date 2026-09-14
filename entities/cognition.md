@@ -1,10 +1,10 @@
 ---
 title: Cognition
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-09-14
 type: entity
 tags: [ai, company, tooling]
-sources: [raw/newsletters/latent-space-2026-05-28-the-age-of-async-agents-cognition-s-walden-yan-openinspect-s-cole-murr.md, raw/newsletters/ainews-2026-05-28-ainews-cognition-raises-1b-in-26b-series-d.md, raw/newsletters/the-neuron-2026-06-05-can-ai-improve-itself.md]
+sources: [raw/newsletters/latent-space-2026-05-28-the-age-of-async-agents-cognition-s-walden-yan-openinspect-s-cole-murr.md, raw/newsletters/ainews-2026-05-28-ainews-cognition-raises-1b-in-26b-series-d.md, raw/newsletters/the-neuron-2026-06-05-can-ai-improve-itself.md, raw/newsletters/the-neuron-2026-09-09-openai-s-1m-math-breakthrough-sparked-a-fight-with-anthropic.md]
 confidence: high
 ---
 
@@ -21,6 +21,10 @@ confidence: high
 ## Why it matters
 
 Cognition is evidence for [[model-labs-vs-agent-labs]]: durable advantage may come from harnesses, product loops, and enterprise workflow integration as much as from foundation-model capability.
+
+## September 2026: financing and voice-enabled coding agents
+
+The Neuron reports that Cognition raised more than $2B at a $48B valuation to continue scaling Devin and its software-engineering platform. The same batch mentions Devin Voice, which pairs a coding model with a conversational interface for handing off engineering work. These are source-reported company claims, but they reinforce Cognition’s position in the [[software-factories]] and [[forward-deployed-engineering]] transition. [raw/newsletters/the-neuron-2026-09-09-openai-s-1m-math-breakthrough-sparked-a-fight-with-anthropic.md]
 
 ## Links
 

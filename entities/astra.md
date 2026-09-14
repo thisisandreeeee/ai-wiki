@@ -1,10 +1,10 @@
 ---
 title: Astra
 created: 2026-08-10
-updated: 2026-09-07
+updated: 2026-09-14
 type: entity
 tags: [ai, model, research, policy, company]
-sources: [raw/newsletters/the-neuron-2026-08-04-openai-s-new-astra-ai-made-10-scientific-advances.md, raw/newsletters/ainews-2026-08-08-ainews-zawinski-s-law-of-multiagents.md, raw/newsletters/the-neuron-2026-08-09-why-voters-are-turning-on-ai-data-centers.md, raw/newsletters/ainews-2026-08-07-ainews-amd-buys-taalas.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/latent-space-2026-09-03-gpt-6-astra-an-automated-ai-engineer-you-can-hire-for-6-an-hour.md, raw/newsletters/the-neuron-2026-09-04-openai-launched-gpt-6-astra.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md, raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md, raw/newsletters/the-neuron-2026-09-06-openai-linked-agents-hijacked-a-german-wiki.md]
+sources: [raw/newsletters/the-neuron-2026-08-04-openai-s-new-astra-ai-made-10-scientific-advances.md, raw/newsletters/ainews-2026-08-08-ainews-zawinski-s-law-of-multiagents.md, raw/newsletters/the-neuron-2026-08-09-why-voters-are-turning-on-ai-data-centers.md, raw/newsletters/ainews-2026-08-07-ainews-amd-buys-taalas.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/latent-space-2026-09-03-gpt-6-astra-an-automated-ai-engineer-you-can-hire-for-6-an-hour.md, raw/newsletters/the-neuron-2026-09-04-openai-launched-gpt-6-astra.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md, raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md, raw/newsletters/the-neuron-2026-09-06-openai-linked-agents-hijacked-a-german-wiki.md, raw/newsletters/ainews-2026-09-09-ainews-openai-reports-navier-stokes-singularity-find-in-88-hours-using.md, raw/newsletters/the-neuron-2026-09-09-openai-s-1m-math-breakthrough-sparked-a-fight-with-anthropic.md, raw/newsletters/the-neuron-2026-09-11-openai-advances-another-millennium-problem.md, raw/newsletters/the-neuron-2026-09-07-openai-s-data-vs-its-chief-scientist-s-fear.md]
 confidence: low
 ---
 
@@ -31,6 +31,14 @@ The benchmark picture is strong but harness-sensitive. OpenAI reported 99.9% on 
 The most consequential caveat is monitorability. The deployment discussion reports stronger no-CoT capability and reduced visibility into reasoning summaries, including missing summaries on some long simulated cyber trajectories. That makes [[reasoning-trace-security]] and [[agent-reliability-and-operations]] part of Astra’s release story: capability gains cannot be evaluated separately from the harness, retained state, and safety observability. [raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md]
 
 The “AGI” label remains an executive and commentator claim, not a standardized measurement. The durable signal is a broader frontier around computer use, spatial/3D work, scientific reasoning, business operations, and autonomous orchestration—not a settled conclusion that one benchmark or label establishes general intelligence.
+
+## Mid-September 2026: swarm research and measurement discipline
+
+The new reports place Astra inside a larger research system rather than describing it as the sole discoverer. OpenAI reportedly used roughly 10,000 agents for about 88 hours on a proposed Navier–Stokes result, then used Astra to help formalize and verify the proof in Lean. The claim remains entangled with unresolved authorship, data-use, and independent-review questions. [raw/newsletters/ainews-2026-09-09-ainews-openai-reports-navier-stokes-singularity-find-in-88-hours-using.md][raw/newsletters/the-neuron-2026-09-09-openai-s-1m-math-breakthrough-sparked-a-fight-with-anthropic.md]
+
+The same batch reports OpenAI’s internal research acceleration at 3.1 agent-workdays per human workday, while more than half of successful 4–8 hour agent tasks still needed human intervention. This reinforces Astra’s central caveat: capability, orchestration, verification, and monitorability must be evaluated together. [raw/newsletters/the-neuron-2026-09-07-openai-s-data-vs-its-chief-scientist-s-fear.md]
+
+OpenAI later said it had made substantial progress on a second Millennium Prize problem, but the problem and proof were not named. Rumors about the Hodge Conjecture or an unreleased model are not confirmed by the source. [raw/newsletters/the-neuron-2026-09-11-openai-advances-another-millennium-problem.md]
 
 ## Links
 

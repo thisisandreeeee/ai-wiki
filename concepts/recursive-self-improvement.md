@@ -1,10 +1,10 @@
 ---
 title: Recursive Self-Improvement
 created: 2026-06-23
-updated: 2026-08-24
+updated: 2026-09-14
 type: concept
 tags: [ai, llm, research, policy]
-sources: [raw/newsletters/ainews-2026-08-20-ainews-death-of-params-z-ai-ceo-jie-tang-on-glm-5-3-and-the-new-post-t.md, raw/newsletters/ainews-2026-08-21-ainews-poolside-gets-12b-reverse-execuhire-to-nvidia-founders-stay-for.md, raw/newsletters/the-neuron-2026-06-05-can-ai-improve-itself.md, raw/newsletters/ainews-2026-06-05-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-06-06-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-06-07-chatgpt-admitted-it-misremembers-you.md, raw/newsletters/ainews-2026-06-26-ainews-openai-reports-median-internal-codex-output-tokens-grew-56x-in.md, raw/newsletters/ainews-2026-07-01-autoresearch-the-feedback-loop-behind-self-improving-agents.md, raw/newsletters/ainews-2026-07-02-aiewf-daily-dispatch-autoresearch-and-the-tension-between-ai-and-human.md, raw/newsletters/ainews-2026-07-08-ainews-lilian-weng-summarizes-35-papers-on-harness-engineering-for-rsi.md, raw/newsletters/the-neuron-2026-07-08-one-rogue-agent-could-hijack-enterprise-chatbots.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/ainews-2026-07-31-ainews-gpt-5-6-price-cut-by-20-80-cost-of-gpt-5-4-intelligence-dropped.md, raw/newsletters/ainews-2026-08-04-ainews-qwen-3-8-max-2-4t-and-27b-new-open-weights-models-for-coding-an.md, raw/newsletters/the-neuron-2026-08-04-openai-s-new-astra-ai-made-10-scientific-advances.md, raw/newsletters/ainews-2026-08-06-ainews-jeff-sanjay-oriol-and-quoc-depart-deepmind-demis-to-chair-koray.md]
+sources: [raw/newsletters/ainews-2026-08-20-ainews-death-of-params-z-ai-ceo-jie-tang-on-glm-5-3-and-the-new-post-t.md, raw/newsletters/ainews-2026-08-21-ainews-poolside-gets-12b-reverse-execuhire-to-nvidia-founders-stay-for.md, raw/newsletters/the-neuron-2026-06-05-can-ai-improve-itself.md, raw/newsletters/ainews-2026-06-05-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-06-06-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-06-07-chatgpt-admitted-it-misremembers-you.md, raw/newsletters/ainews-2026-06-26-ainews-openai-reports-median-internal-codex-output-tokens-grew-56x-in.md, raw/newsletters/ainews-2026-07-01-autoresearch-the-feedback-loop-behind-self-improving-agents.md, raw/newsletters/ainews-2026-07-02-aiewf-daily-dispatch-autoresearch-and-the-tension-between-ai-and-human.md, raw/newsletters/ainews-2026-07-08-ainews-lilian-weng-summarizes-35-papers-on-harness-engineering-for-rsi.md, raw/newsletters/the-neuron-2026-07-08-one-rogue-agent-could-hijack-enterprise-chatbots.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/ainews-2026-07-31-ainews-gpt-5-6-price-cut-by-20-80-cost-of-gpt-5-4-intelligence-dropped.md, raw/newsletters/ainews-2026-08-04-ainews-qwen-3-8-max-2-4t-and-27b-new-open-weights-models-for-coding-an.md, raw/newsletters/the-neuron-2026-08-04-openai-s-new-astra-ai-made-10-scientific-advances.md, raw/newsletters/ainews-2026-08-06-ainews-jeff-sanjay-oriol-and-quoc-depart-deepmind-demis-to-chair-koray.md, raw/newsletters/the-neuron-2026-09-07-openai-s-data-vs-its-chief-scientist-s-fear.md, raw/newsletters/ainews-2026-09-09-ainews-openai-reports-navier-stokes-singularity-find-in-88-hours-using.md, raw/newsletters/the-neuron-2026-09-10-anthropic-researcher-sounds-the-alarm.md, raw/newsletters/the-neuron-2026-09-11-openai-advances-another-millennium-problem.md]
 confidence: medium
 ---
 
@@ -41,6 +41,14 @@ The GLM-5.3 and Poolside reports sharpen the bounded version of this thesis. GLM
 ## Read carefully
 
 The corpus does not prove an autonomous runaway loop. It does show a more practical near-term version: models increasingly improve the tools, code, evals, and research workflows that produce the next model or agent system.
+
+## September 2026: the loop is now measurable—and contested
+
+OpenAI’s reported 3.1 agent-workdays per human workday and plan for a fully automated AI researcher are concrete near-term RSI signals. Human intervention remained necessary in more than half of successful 4–8 hour tasks, so the current evidence supports acceleration of research workflows rather than autonomous end-to-end improvement. [raw/newsletters/the-neuron-2026-09-07-openai-s-data-vs-its-chief-scientist-s-fear.md]
+
+The reported Navier–Stokes effort shows a second mechanism: thousands of agents search in parallel, then formal verification filters the result. This is a bounded, compute-heavy research loop whose value depends on checkability, orchestration, and independent review. [[test-time-compute-scaling]] separates that mechanism from claims about recursive model self-modification. [raw/newsletters/ainews-2026-09-09-ainews-openai-reports-navier-stokes-singularity-find-in-88-hours-using.md]
+
+Anthropic researcher Jacob Coxon’s resignation frames the governance concern directly: if models help build the next models, each generation may arrive faster while alignment and monitoring lag. OpenAI’s reported progress on a second Millennium problem remains unnamed and unverified, so repeatability—not a single dramatic claim—is the key watchpoint. [raw/newsletters/the-neuron-2026-09-10-anthropic-researcher-sounds-the-alarm.md][raw/newsletters/the-neuron-2026-09-11-openai-advances-another-millennium-problem.md]
 
 ## Links
 

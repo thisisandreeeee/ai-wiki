@@ -1,10 +1,10 @@
 ---
 title: Agentic Systems
 created: 2026-07-18
-updated: 2026-08-10
+updated: 2026-09-14
 type: concept
 tags: [ai, llm, tooling, data-engineering]
-sources: [raw/learning-resources/technical-interview-learning-resources.md, raw/newsletters/ainews-2026-08-08-ainews-zawinski-s-law-of-multiagents.md, raw/newsletters/ainews-2026-08-06-ainews-jeff-sanjay-oriol-and-quoc-depart-deepmind-demis-to-chair-koray.md, raw/newsletters/latent-space-2026-08-04-unpacking-chatgpt-work-the-agent-for-a-billion-users.md]
+sources: [raw/learning-resources/technical-interview-learning-resources.md, raw/newsletters/ainews-2026-08-08-ainews-zawinski-s-law-of-multiagents.md, raw/newsletters/ainews-2026-08-06-ainews-jeff-sanjay-oriol-and-quoc-depart-deepmind-demis-to-chair-koray.md, raw/newsletters/latent-space-2026-08-04-unpacking-chatgpt-work-the-agent-for-a-billion-users.md, raw/newsletters/ainews-2026-09-09-ainews-openai-reports-navier-stokes-singularity-find-in-88-hours-using.md, raw/newsletters/the-neuron-2026-09-09-openai-s-1m-math-breakthrough-sparked-a-fight-with-anthropic.md, raw/newsletters/the-neuron-2026-09-13-openai-asked-congress-if-ai-can-slow-down.md]
 confidence: high
 ---
 
@@ -79,6 +79,12 @@ A successful tool call does not prove a good action. Verify:
 5. **policy validity** — was it authorized and safe.
 
 Evaluate both the trajectory and outcome. Strong evidence comes from external-world confirmation, deterministic assertions, trusted data, or independent evaluators—not merely the agent declaring success.
+
+## September 2026: orchestration can be the capability
+
+The reported Navier–Stokes effort is an extreme orchestrator-worker system: thousands of agents explored in parallel, shared useful discoveries, and handed a candidate to a formal-verification stage. It demonstrates why agent evaluation must include topology, communication, deduplication, budgets, and verification rather than treating a swarm as one model call. [[test-time-compute-scaling]] develops the scaling frame. [raw/newsletters/ainews-2026-09-09-ainews-openai-reports-navier-stokes-singularity-find-in-88-hours-using.md][raw/newsletters/the-neuron-2026-09-09-openai-s-1m-math-breakthrough-sparked-a-fight-with-anthropic.md]
+
+The practical product version is less dramatic but equally structural: Agents APIs, persistent project coordinators, memory curators, and scheduled jobs make state and authorization first-class runtime objects. More agents are not automatically better; independence, permission separation, checkability, and recovery justify the graph. [raw/newsletters/the-neuron-2026-09-13-openai-asked-congress-if-ai-can-slow-down.md]
 
 ## Links
 

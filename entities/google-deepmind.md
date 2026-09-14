@@ -1,10 +1,10 @@
 ---
 title: Google DeepMind
 created: 2026-06-21
-updated: 2026-08-17
+updated: 2026-09-14
 type: entity
 tags: [ai, company, research, policy]
-sources: [raw/newsletters/the-neuron-2026-06-21-how-deepmind-would-stop-rogue-agents.md, raw/newsletters/ainews-2026-06-11-ainews-open-models-model-labs-vs-agent-labs-and-what-s-untrainable-sar.md, raw/newsletters/latent-space-2026-06-18-the-professor-of-outputmaxxing-anjney-midha-amp.md, raw/newsletters/the-neuron-2026-06-25-chatgpt-s-secret-advantage.md, raw/newsletters/ainews-2026-06-26-ainews-openai-reports-median-internal-codex-output-tokens-grew-56x-in.md, raw/newsletters/the-neuron-2026-06-26-ai-is-making-your-next-apple-device-cost-more.md, raw/newsletters/the-neuron-2026-06-28-openai-vs-washington-over-gpt-5-6.md, raw/newsletters/ainews-2026-08-06-ainews-jeff-sanjay-oriol-and-quoc-depart-deepmind-demis-to-chair-koray.md, raw/newsletters/ainews-2026-08-14-ainews-gemini-3-7-flash-brings-gdm-back-to-the-forefront.md]
+sources: [raw/newsletters/the-neuron-2026-06-21-how-deepmind-would-stop-rogue-agents.md, raw/newsletters/ainews-2026-06-11-ainews-open-models-model-labs-vs-agent-labs-and-what-s-untrainable-sar.md, raw/newsletters/latent-space-2026-06-18-the-professor-of-outputmaxxing-anjney-midha-amp.md, raw/newsletters/the-neuron-2026-06-25-chatgpt-s-secret-advantage.md, raw/newsletters/ainews-2026-06-26-ainews-openai-reports-median-internal-codex-output-tokens-grew-56x-in.md, raw/newsletters/the-neuron-2026-06-26-ai-is-making-your-next-apple-device-cost-more.md, raw/newsletters/the-neuron-2026-06-28-openai-vs-washington-over-gpt-5-6.md, raw/newsletters/ainews-2026-08-06-ainews-jeff-sanjay-oriol-and-quoc-depart-deepmind-demis-to-chair-koray.md, raw/newsletters/ainews-2026-08-14-ainews-gemini-3-7-flash-brings-gdm-back-to-the-forefront.md, raw/newsletters/the-neuron-2026-09-13-openai-asked-congress-if-ai-can-slow-down.md, raw/newsletters/the-neuron-2026-09-08-ai-drug-reversed-aging-markers.md]
 confidence: high
 ---
 
@@ -61,6 +61,12 @@ NVIDIA released its BioNeMo Agent Toolkit for life sciences: a framework for bui
 The new batch reports Demis Hassabis moving to Chair and Chief Scientist of Alphabet while Koray Kavukcuoglu takes day-to-day control of Google DeepMind. Jeff Dean, Sanjay Ghemawat, Oriol Vinyals, and Quoc Le were reported as departing to build Discovery Loop around automated science. The durable signal is organizational: frontier research talent and infrastructure may increasingly move into specialized, automation-first labs rather than a single vertically integrated research group. [raw/newsletters/ainews-2026-08-06-ainews-jeff-sanjay-oriol-and-quoc-depart-deepmind-demis-to-chair-koray.md]
 
 The August Gemini 3.7 Flash launch is the product-side counterpoint: Google is using a rapidly iterated, broadly deployed Flash workhorse to regain momentum while DeepMind's organizational structure changes. The batch also highlights DeepMind's SL2T sign-language system, with on-device pose tracking and server-side translation as an example of research reaching constrained real-world interfaces. [raw/newsletters/ainews-2026-08-14-ainews-gemini-3-7-flash-brings-gdm-back-to-the-forefront.md]
+
+## September 2026: biological maps as AI substrates
+
+The new captures report Google DeepMind’s AlphaGenome Atlas predicting the molecular effects of all 9 billion possible single-letter changes in the human genome. They also describe the complete male fruit-fly connectome—more than 166,000 neurons—being wired into experimental game, trading, and robotics environments. A connectome is a wiring diagram, not a digital mind; the downstream behavior still depends on chosen inputs, outputs, rewards, and training. [raw/newsletters/the-neuron-2026-09-13-openai-asked-congress-if-ai-can-slow-down.md]
+
+These projects extend the lab’s existing science-and-control identity: biological structure becomes a predictive substrate, while agent behavior still needs careful evaluation and safety boundaries. [[self-driving-labs]] and [[agentic-robotics]] are the closest conceptual links.
 
 ## Links
 
