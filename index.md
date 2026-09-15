@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.  
-> Last updated: 2026-09-14 | Total pages: 112
+> Last updated: 2026-09-15 | Total pages: 113
 
 ## Entities
 
@@ -89,6 +89,7 @@
 - [[model-hardware-standard]] — Anthropic/HHMI Janelia interface for agents to operate programmable lab and factory equipment.
 - [[model-labs-vs-agent-labs]] — Strategic split between foundation-model capability and durable agent/application systems.
 - [[model-routing]] — Choosing among models, effort levels, providers, and harness modes by task, cost, latency, and safety.
+- [[multimodal-tokenization]] — How text, images, audio, video, 3D, and robotic inputs become [N×D] token sequences for a Transformer.
 - [[ontologies-for-agents]] — Structured domain entities, relationships, and rules used to constrain or validate agent behavior.
 - [[open-code-data]] — Public, license-aware source-code training data used to build or evaluate code models.
 - [[pacing-the-frontier]] — Proposal to develop mechanisms for slowing frontier AI progress if oversight cannot keep up.
