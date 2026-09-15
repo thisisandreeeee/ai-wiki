@@ -1,7 +1,7 @@
 ---
 title: Attention and Transformer Architecture
 created: 2026-07-18
-updated: 2026-07-18
+updated: 2026-09-15
 type: concept
 tags: [ai, machine-learning, llm, research]
 sources: [raw/learning-resources/technical-interview-learning-resources.md]
@@ -83,9 +83,14 @@ Trainable parameters include embedding tables; Q/K/V/output projections; FFN, no
 
 During training, causal masking lets the model process shifted target tokens in parallel. During autoregressive inference, it must produce one token at a time; this shift explains the prefill/decode split in [[llm-inference-on-gpus]] and [[llm-inference-optimization]].
 
+## Every input becomes tokens
+
+Transformers consume `[N × D]` vector sequences regardless of source modality. Text is tokenized and embedded; images are split into 16×16 patches; audio becomes spectrogram features extracted from a 16 kHz waveform; video is sampled into frames and tubelets; 3D data is organized as points, voxels, or patches; robotics systems preprocess vision, state, tactile, and action streams. Each modality runs through a dedicated encoder that emits the same `[N × D]` shape, and the sequences are either fed directly into a Transformer or fused into one unified token sequence. [[multimodal-tokenization]] details each recipe and the fusion step.
+
 ## Links
 
 - [[llm-training-lifecycle]] describes how these parameters are adapted.
+- [[multimodal-tokenization]] explains how non-text inputs become token sequences.
 - [[llm-inference-on-gpus]] explains the memory and compute consequences of attention.
 - [[retrieval-augmented-generation]] is the external-retrieval counterpart.
 - [[technical-interview-study-guide]] maps this note to answerable questions.
