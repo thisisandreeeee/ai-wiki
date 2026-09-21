@@ -119,3 +119,11 @@
 - Created `concepts/multimodal-tokenization.md` covering text/image/audio/video/3D/robotics preprocessing, the `[N × D]` encoder interface, and fusion into a unified token sequence.
 - Updated `concepts/attention-and-transformer-architecture.md` with a cross-link to the new page.
 - Updated `index.md` and ran wiki validation before PR creation.
+
+## [2026-09-21] synthesize | Weekly newsletter batch
+
+- Ran `python3 scripts/fetch_gmail_newsletters.py`: fetched 26 Gmail newsletter items; 14 were new raw newsletter sources added under `raw/newsletters/`, with `raw/newsletters/manifest.json` refreshed.
+- Preserved previously ingested raw newsletter files unchanged after restoring fetch-script rewrites; retained the refreshed manifest and the 14 new captures.
+- Created `entities/aiuc.md`, `entities/jev.md`, `entities/recursive.md`, `concepts/game-based-capability-training.md`, `concepts/third-party-ai-evaluation.md`, and `queries/weekly-briefing-2026-09-21.md`.
+- Updated `entities/anthropic.md`, `entities/astra.md`, `entities/openai.md`, `concepts/ai-benchmarking.md`, `concepts/ai-control-roadmaps.md`, `concepts/ai-cybersecurity.md`, `concepts/agent-reliability-and-operations.md`, `concepts/frontier-lab-governance.md`, `concepts/real-world-agent-evaluations.md`, `concepts/recursive-self-improvement.md`, and `concepts/software-factories.md`.
+- Updated `index.md`; raw newsletter content remains immutable except for the 14 new captures and manifest maintenance.

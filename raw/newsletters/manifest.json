@@ -1,14 +1,5 @@
 [
   {
-    "id": "1a06bf54b6eb5836",
-    "newsletter": "the-neuron",
-    "subject": "😺 OpenAI launched GPT-6 Astra",
-    "date": "Fri, 04 Sep 2026 10:26:57 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-09-04-openai-launched-gpt-6-astra.md",
-    "chars": 19828
-  },
-  {
     "id": "1a090060f25d7f7c",
     "newsletter": "the-neuron",
     "subject": "😺 OpenAI advances ANOTHER Millennium problem?",
@@ -27,13 +18,13 @@
     "chars": 1815
   },
   {
-    "id": "1a06add6cecef69f",
-    "newsletter": "ainews",
-    "subject": "[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time",
-    "date": "Fri, 4 Sep 2026 05:18:11 +0000",
-    "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md",
-    "chars": 87591
+    "id": "1a0b415f960f93f4",
+    "newsletter": "the-neuron",
+    "subject": "😺 AI Agents Just Out-Mathed Us",
+    "date": "Fri, 18 Sep 2026 10:34:06 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-09-18-ai-agents-just-out-mathed-us.md",
+    "chars": 17839
   },
   {
     "id": "1a07b6c605ca0940",
@@ -45,13 +36,22 @@
     "chars": 17282
   },
   {
-    "id": "1a0593286af862e7",
+    "id": "1a09f80358738f60",
     "newsletter": "the-neuron",
-    "subject": "😺 OpenClaw 2.0 rebuilt the personal AI agent",
-    "date": "Mon, 31 Aug 2026 19:00:53 +0000 (UTC)",
+    "subject": "Congress asked if slowing down is legal",
+    "date": "Mon, 14 Sep 2026 10:39:28 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-08-31-openclaw-2-0-rebuilt-the-personal-ai-agent.md",
-    "chars": 18573
+    "path": "raw/newsletters/the-neuron-2026-09-14-congress-asked-if-slowing-down-is-legal.md",
+    "chars": 17158
+  },
+  {
+    "id": "1a0a0b03951e1bdc",
+    "newsletter": "latent-space",
+    "subject": "Why you should work on AI for AI Research — Richard Socher of Recursive",
+    "date": "Mon, 14 Sep 2026 16:04:16 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-09-14-why-you-should-work-on-ai-for-ai-research-richard-socher-of-recursive.md",
+    "chars": 115895
   },
   {
     "id": "1a07dcb8d6604730",
@@ -81,22 +81,13 @@
     "chars": 22620
   },
   {
-    "id": "1a07218dee99f1d6",
-    "newsletter": "latent-space",
-    "subject": "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
-    "date": "Sat, 5 Sep 2026 15:01:02 +0000",
-    "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/latent-space-2026-09-05-openclaw-power-macbook-simplicity-five-days-with-grok-bot.md",
-    "chars": 14073
-  },
-  {
-    "id": "1a077e590a17155a",
-    "newsletter": "the-neuron",
-    "subject": "😿 OpenAI-linked agents hijacked a German wiki",
-    "date": "Sun, 06 Sep 2026 18:05:20 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-09-06-openai-linked-agents-hijacked-a-german-wiki.md",
-    "chars": 21214
+    "id": "1a0b838306e41bb8",
+    "newsletter": "ainews",
+    "subject": "[AINews] Here are 6 Clones of Jev in 2 days",
+    "date": "Sat, 19 Sep 2026 05:48:29 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-09-19-ainews-here-are-6-clones-of-jev-in-2-days.md",
+    "chars": 43828
   },
   {
     "id": "1a09bd333166e82e",
@@ -108,13 +99,13 @@
     "chars": 19377
   },
   {
-    "id": "1a066d385bfd869e",
+    "id": "1a0c016dff8ebb46",
     "newsletter": "the-neuron",
-    "subject": "😺 New Google, Meta, and (maybe) OpenAI models",
-    "date": "Thu, 03 Sep 2026 10:31:53 +0000 (UTC)",
+    "subject": "😺 How Google’s Gemini breached 3 real companies",
+    "date": "Sun, 20 Sep 2026 18:31:54 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md",
-    "chars": 18878
+    "path": "raw/newsletters/the-neuron-2026-09-20-how-google-s-gemini-breached-3-real-companies.md",
+    "chars": 18899
   },
   {
     "id": "1a08adf9d00f25be",
@@ -135,40 +126,31 @@
     "chars": 14461
   },
   {
-    "id": "1a06593051cdb37f",
+    "id": "1a0ae477fe19e07b",
     "newsletter": "ainews",
-    "subject": "[AINews] Muse Spark 1.3 matches GPT-5.6-Sol, confirming Meta Superintelligence as the newest Frontier Lab, >90% di…",
-    "date": "Thu, 3 Sep 2026 04:38:33 +0000",
+    "subject": "[AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks’ +60% Astra cost)",
+    "date": "Thu, 17 Sep 2026 07:28:25 +0000",
     "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md",
-    "chars": 41168
+    "path": "raw/newsletters/ainews-2026-09-17-ainews-reality-checks-on-ai-news-yegge-shuts-down-gas-town-databricks.md",
+    "chars": 62815
   },
   {
-    "id": "1a0677021c3ff22e",
-    "newsletter": "data-science-weekly",
-    "subject": "Data Science Weekly - Issue 667",
-    "date": "Thu, 3 Sep 2026 13:19:43 +0000",
-    "from": "Data Science Weekly Newsletter <datascienceweekly@substack.com>",
-    "path": "raw/newsletters/data-science-weekly-2026-09-03-data-science-weekly-issue-667.md",
-    "chars": 12946
-  },
-  {
-    "id": "1a0691ceba181f3d",
-    "newsletter": "latent-space",
-    "subject": "GPT-6 Astra: an automated AI Engineer you can hire for <$6 an hour",
-    "date": "Thu, 3 Sep 2026 21:09:41 +0000",
-    "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/latent-space-2026-09-03-gpt-6-astra-an-automated-ai-engineer-you-can-hire-for-6-an-hour.md",
-    "chars": 7767
-  },
-  {
-    "id": "1a05c874fd0396d7",
+    "id": "1a0aeed1c97a3a44",
     "newsletter": "the-neuron",
-    "subject": "😺 Runway Solaris treats software like video",
-    "date": "Tue, 01 Sep 2026 10:31:56 +0000 (UTC)",
+    "subject": "🙀OpenAI: but wait, there’s more (rogue agent behavior)!",
+    "date": "Thu, 17 Sep 2026 10:32:16 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-09-01-runway-solaris-treats-software-like-video.md",
-    "chars": 16295
+    "path": "raw/newsletters/the-neuron-2026-09-17-openai-but-wait-there-s-more-rogue-agent-behavior.md",
+    "chars": 16862
+  },
+  {
+    "id": "1a0b184ce7613a1a",
+    "newsletter": "data-science-weekly",
+    "subject": "Data Science Weekly - Issue 669",
+    "date": "Thu, 17 Sep 2026 22:37:23 +0000",
+    "from": "Data Science Weekly Newsletter <datascienceweekly@substack.com>",
+    "path": "raw/newsletters/data-science-weekly-2026-09-17-data-science-weekly-issue-669.md",
+    "chars": 12909
   },
   {
     "id": "1a0809c5365f9692",
@@ -180,31 +162,31 @@
     "chars": 16804
   },
   {
-    "id": "1a05b45612a67ef2",
+    "id": "1a0a3699084ab6ad",
     "newsletter": "ainews",
-    "subject": "[AINews] Fal’s H3 Max Live breaks the infinite videogen barrier",
-    "date": "Tue, 1 Sep 2026 04:36:55 +0000",
+    "subject": "[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign",
+    "date": "Tue, 15 Sep 2026 04:50:36 +0000",
     "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-09-01-ainews-fal-s-h3-max-live-breaks-the-infinite-videogen-barrier.md",
-    "chars": 52485
+    "path": "raw/newsletters/ainews-2026-09-15-ainews-aef-1-standard-emerges-for-third-party-evaluators-as-xai-openai.md",
+    "chars": 59062
   },
   {
-    "id": "1a05dc42a98e6c86",
-    "newsletter": "latent-space",
-    "subject": "PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors",
-    "date": "Tue, 1 Sep 2026 16:17:15 +0000",
-    "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/latent-space-2026-09-01-prs-not-welcome-how-top-ai-open-source-projects-are-managing-thousands.md",
-    "chars": 9653
-  },
-  {
-    "id": "1a061aca62bc8870",
+    "id": "1a0a4a03c1b15aad",
     "newsletter": "the-neuron",
-    "subject": "😺 Fable 5.1 is here. What changed?",
-    "date": "Wed, 02 Sep 2026 10:31:37 +0000 (UTC)",
+    "subject": "😺Microsoft: Maybe we still put humans first??",
+    "date": "Tue, 15 Sep 2026 10:32:12 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-09-02-fable-5-1-is-here-what-changed.md",
-    "chars": 26027
+    "path": "raw/newsletters/the-neuron-2026-09-15-microsoft-maybe-we-still-put-humans-first.md",
+    "chars": 20235
+  },
+  {
+    "id": "1a0a6b4e8fed5a51",
+    "newsletter": "latent-space",
+    "subject": "Can Skills Learned in Games Transfer to Real-World Work?",
+    "date": "Tue, 15 Sep 2026 20:11:54 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-09-15-can-skills-learned-in-games-transfer-to-real-world-work.md",
+    "chars": 10959
   },
   {
     "id": "1a085817b517624c",
@@ -216,13 +198,31 @@
     "chars": 21959
   },
   {
-    "id": "1a06117ad7a20edd",
+    "id": "1a0a98e24a6dae73",
+    "newsletter": "the-neuron",
+    "subject": "😺 $42 per BILLION tokens?!",
+    "date": "Wed, 16 Sep 2026 09:30:59 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-09-16-42-per-billion-tokens.md",
+    "chars": 20958
+  },
+  {
+    "id": "1a0a9ed73270e872",
     "newsletter": "ainews",
-    "subject": "[AINews] Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens",
-    "date": "Wed, 2 Sep 2026 07:46:08 +0000",
+    "subject": "[AINews] Jev: a “System One Model” that only decides/classifies/routes/scores — >100x faster, >200x cheaper than s…",
+    "date": "Wed, 16 Sep 2026 11:09:53 +0000",
     "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md",
-    "chars": 86997
+    "path": "raw/newsletters/ainews-2026-09-16-ainews-jev-a-system-one-model-that-only-decides-classifies-routes-scor.md",
+    "chars": 51706
+  },
+  {
+    "id": "1a0ab68c2bf695d0",
+    "newsletter": "latent-space",
+    "subject": "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
+    "date": "Wed, 16 Sep 2026 18:07:46 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-09-16-underwriting-superintelligence-backing-agents-you-can-sue-rune-kvist-a.md",
+    "chars": 113098
   },
   {
     "id": "1a084906b69101e2",

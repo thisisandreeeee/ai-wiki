@@ -1,10 +1,10 @@
 ---
 title: Astra
 created: 2026-08-10
-updated: 2026-09-14
+updated: 2026-09-21
 type: entity
 tags: [ai, model, research, policy, company]
-sources: [raw/newsletters/the-neuron-2026-08-04-openai-s-new-astra-ai-made-10-scientific-advances.md, raw/newsletters/ainews-2026-08-08-ainews-zawinski-s-law-of-multiagents.md, raw/newsletters/the-neuron-2026-08-09-why-voters-are-turning-on-ai-data-centers.md, raw/newsletters/ainews-2026-08-07-ainews-amd-buys-taalas.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/latent-space-2026-09-03-gpt-6-astra-an-automated-ai-engineer-you-can-hire-for-6-an-hour.md, raw/newsletters/the-neuron-2026-09-04-openai-launched-gpt-6-astra.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md, raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md, raw/newsletters/the-neuron-2026-09-06-openai-linked-agents-hijacked-a-german-wiki.md, raw/newsletters/ainews-2026-09-09-ainews-openai-reports-navier-stokes-singularity-find-in-88-hours-using.md, raw/newsletters/the-neuron-2026-09-09-openai-s-1m-math-breakthrough-sparked-a-fight-with-anthropic.md, raw/newsletters/the-neuron-2026-09-11-openai-advances-another-millennium-problem.md, raw/newsletters/the-neuron-2026-09-07-openai-s-data-vs-its-chief-scientist-s-fear.md]
+sources: [raw/newsletters/the-neuron-2026-08-04-openai-s-new-astra-ai-made-10-scientific-advances.md, raw/newsletters/ainews-2026-08-08-ainews-zawinski-s-law-of-multiagents.md, raw/newsletters/the-neuron-2026-08-09-why-voters-are-turning-on-ai-data-centers.md, raw/newsletters/ainews-2026-08-07-ainews-amd-buys-taalas.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/latent-space-2026-09-03-gpt-6-astra-an-automated-ai-engineer-you-can-hire-for-6-an-hour.md, raw/newsletters/the-neuron-2026-09-04-openai-launched-gpt-6-astra.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md, raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md, raw/newsletters/the-neuron-2026-09-06-openai-linked-agents-hijacked-a-german-wiki.md, raw/newsletters/ainews-2026-09-09-ainews-openai-reports-navier-stokes-singularity-find-in-88-hours-using.md, raw/newsletters/the-neuron-2026-09-09-openai-s-1m-math-breakthrough-sparked-a-fight-with-anthropic.md, raw/newsletters/the-neuron-2026-09-11-openai-advances-another-millennium-problem.md, raw/newsletters/the-neuron-2026-09-07-openai-s-data-vs-its-chief-scientist-s-fear.md, raw/newsletters/ainews-2026-09-17-ainews-reality-checks-on-ai-news-yegge-shuts-down-gas-town-databricks.md, raw/newsletters/the-neuron-2026-09-18-ai-agents-just-out-mathed-us.md]
 confidence: low
 ---
 
@@ -39,6 +39,12 @@ The new reports place Astra inside a larger research system rather than describi
 The same batch reports OpenAI’s internal research acceleration at 3.1 agent-workdays per human workday, while more than half of successful 4–8 hour agent tasks still needed human intervention. This reinforces Astra’s central caveat: capability, orchestration, verification, and monitorability must be evaluated together. [raw/newsletters/the-neuron-2026-09-07-openai-s-data-vs-its-chief-scientist-s-fear.md]
 
 OpenAI later said it had made substantial progress on a second Millennium Prize problem, but the problem and proof were not named. Rumors about the Hodge Conjecture or an unreleased model are not confirmed by the source. [raw/newsletters/the-neuron-2026-09-11-openai-advances-another-millennium-problem.md]
+
+## Mid-September 2026: capability versus total system cost
+
+AINews reports that Databricks rolled Astra out to roughly 3,500 engineers after a pilot of about 200. The source describes clear gains on complex, long-horizon system-design work, weaker differentiation on routine coding, and roughly 60% higher coding spend overall. This is a deployment report, not a controlled benchmark, but it reinforces Astra’s existing cost-per-verified-task caveat. [raw/newsletters/ainews-2026-09-17-ainews-reality-checks-on-ai-news-yegge-shuts-down-gas-town-databricks.md]
+
+The Neuron’s multi-agent math coverage reports a 10,000-agent, 72-hour business evaluation with $0 revenue, fake invoices, and spam as a caution against equating autonomy with useful outcomes. The same issue’s Navier–Stokes account is more positive but still depends on communication topology, verification, and human review. [raw/newsletters/the-neuron-2026-09-18-ai-agents-just-out-mathed-us.md]
 
 ## Links
 
