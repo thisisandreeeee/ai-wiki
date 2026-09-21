@@ -1,10 +1,10 @@
 ---
 title: AI Benchmarking
 created: 2026-07-30
-updated: 2026-09-14
+updated: 2026-09-21
 type: concept
 tags: [ai, research, model]
-sources: [raw/newsletters/ainews-2026-07-25-ainews-claude-opus-5-fable-level-performance-at-opus-price-half-fable.md, raw/newsletters/ainews-2026-07-29-ainews-ai-is-eating-finance-aie-nyc-now-open.md, raw/newsletters/ainews-2026-07-24-ainews-black-forest-labs-flux-3-multimodal-flow-models-that-beat-seeda.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md, raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/ainews-2026-09-01-ainews-fal-s-h3-max-live-breaks-the-infinite-videogen-barrier.md, raw/newsletters/the-neuron-2026-09-07-openai-s-data-vs-its-chief-scientist-s-fear.md, raw/newsletters/the-neuron-2026-09-09-openai-s-1m-math-breakthrough-sparked-a-fight-with-anthropic.md, raw/newsletters/the-neuron-2026-09-11-openai-advances-another-millennium-problem.md]
+sources: [raw/newsletters/ainews-2026-07-25-ainews-claude-opus-5-fable-level-performance-at-opus-price-half-fable.md, raw/newsletters/ainews-2026-07-29-ainews-ai-is-eating-finance-aie-nyc-now-open.md, raw/newsletters/ainews-2026-07-24-ainews-black-forest-labs-flux-3-multimodal-flow-models-that-beat-seeda.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md, raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/ainews-2026-09-01-ainews-fal-s-h3-max-live-breaks-the-infinite-videogen-barrier.md, raw/newsletters/the-neuron-2026-09-07-openai-s-data-vs-its-chief-scientist-s-fear.md, raw/newsletters/the-neuron-2026-09-09-openai-s-1m-math-breakthrough-sparked-a-fight-with-anthropic.md, raw/newsletters/the-neuron-2026-09-11-openai-advances-another-millennium-problem.md, raw/newsletters/ainews-2026-09-16-ainews-jev-a-system-one-model-that-only-decides-classifies-routes-scor.md, raw/newsletters/ainews-2026-09-17-ainews-reality-checks-on-ai-news-yegge-shuts-down-gas-town-databricks.md, raw/newsletters/latent-space-2026-09-15-can-skills-learned-in-games-transfer-to-real-world-work.md, raw/newsletters/the-neuron-2026-09-18-ai-agents-just-out-mathed-us.md]
 confidence: medium
 ---
 
@@ -36,7 +36,15 @@ The new coverage recommends turning recurring corrections into a personal benchm
 
 The reported Navier–Stokes effort adds a higher-order benchmark problem. A 10,000-agent, 88-hour run should disclose aggregate compute, communication topology, tool and Lean-verification setup, human contribution, cost, and independent replication—not only the final proof claim. The reported second Millennium-problem progress is not yet independently assessable because the problem and artifact are unnamed. [[test-time-compute-scaling]] captures this evidence-chain requirement. [raw/newsletters/ainews-2026-09-09-ainews-openai-reports-navier-stokes-singularity-find-in-88-hours-using.md][raw/newsletters/the-neuron-2026-09-09-openai-s-1m-math-breakthrough-sparked-a-fight-with-anthropic.md][raw/newsletters/the-neuron-2026-09-11-openai-advances-another-millennium-problem.md]
 
+## September 2026: specialist models and outcome metrics
+
+JEV reframes benchmarking around bounded decisions. TypeSafe’s reported speed and cost figures are attractive, but the relevant evaluation is calibration, abstention, downstream error, and cost per verified decision—not token-equivalent pricing alone. Community reproductions such as Laya and Bespoke Nimble make the category testable, while their results remain non-standardized. [[jev]] [raw/newsletters/ainews-2026-09-16-ainews-jev-a-system-one-model-that-only-decides-classifies-routes-scor.md][raw/newsletters/ainews-2026-09-19-ainews-here-are-6-clones-of-jev-in-2-days.md]
+
+The Databricks Astra rollout is a useful counterexample to simplistic cost claims: the source reports stronger performance on high-complexity tasks but roughly 60% higher total coding spend across about 3,500 engineers. Benchmarking should therefore report user adoption, task mix, intervention, and total spend, not only benchmark score or per-token price. [raw/newsletters/ainews-2026-09-17-ainews-reality-checks-on-ai-news-yegge-shuts-down-gas-town-databricks.md]
+
+Game-based training adds a transfer dimension. Improvement inside an RL environment is not enough; the benchmark must show whether a task interface and trajectory improve an external workload, under comparable tools and verification. [[game-based-capability-training]] [raw/newsletters/latent-space-2026-09-15-can-skills-learned-in-games-transfer-to-real-world-work.md]
+
 ## Links
 
-- Related concepts: [[coding-agent-evaluation]], [[real-world-agent-evaluations]], [[software-factories]], [[model-routing]]
+- Related concepts: [[coding-agent-evaluation]], [[real-world-agent-evaluations]], [[software-factories]], [[model-routing]], [[third-party-ai-evaluation]]
 - Related entities: [[claude-opus-5]], [[kimi-k3]], [[gpt-5-6]]

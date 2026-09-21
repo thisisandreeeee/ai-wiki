@@ -1,10 +1,11 @@
 # Wiki Index
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.  
-> Last updated: 2026-09-15 | Total pages: 113
+> Last updated: 2026-09-21 | Total pages: 119
 
 ## Entities
 
+- [[aiuc]] — AI underwriting and assurance company developing standards, testing, and insurance infrastructure for agent deployment.
 - [[amp]] — AI compute-grid company focused on utilization, scheduling, and infrastructure reliability.
 - [[anthropic]] — Frontier AI lab linking Claude coding agents, Slack-native delegation, Fable/Sonnet/Opus releases, and access-control policy debates.
 - [[astra]] — OpenAI model program linked to proof-producing scientific research and heightened cyber-capability controls.
@@ -35,6 +36,7 @@
 - [[hugging-face]] — Model, dataset, and developer hub reported to be the subject of a major NVIDIA acquisition.
 - [[hy4-preview]] — Tencent's reported 770B/49B-active open-weight frontier MoE for engineering work.
 - [[inkling]] — Thinking Machines' open-weight multimodal MoE positioned around customization and private post-training.
+- [[jev]] — TypeSafe decision-oriented model for fast, typed, calibrated classification and routing.
 - [[kimi-k3]] — Moonshot AI's 2.8T open-weight frontier-class model and major open-vs-closed policy catalyst.
 - [[lovable]] — AI app-building platform evolving toward agent-callable capabilities and a shared company interface.
 - [[meta]] — Large AI platform company anchoring the acceleration/open-distribution side of the current governance split.
@@ -52,6 +54,7 @@
 - [[qwen-3-8-flash-next]] — Open hybrid-attention Qwen model combining a small active path with large n-gram memory tables.
 - [[qwen-3-8-max]] — Alibaba's 2.4T open-weight flagship and 27B companion aimed at coding, multimodal reasoning, and long-horizon agents.
 - [[radical-ai]] — Materials-science company using self-driving labs for closed-loop alloy discovery.
+- [[recursive]] — Richard Socher's AI-research company focused on automating parts of invention and AI research.
 - [[runway-solaris]] — Runway's reported Interface World Model that generates interactive software screens frame by frame.
 - [[simile-ai]] — Behavioral-simulation company building digital twins and synthetic populations from interviews, behavior, and causal data.
 
@@ -80,6 +83,7 @@
 - [[forward-deployed-engineering]] — Customer-embedded engineering that turns production workflow knowledge into reusable platform capabilities.
 - [[frontier-lab-governance]] — Internal and external mechanisms steering frontier labs, including employee petitions, release gates, and government coordination.
 - [[frontier-model-access-controls]] — Policy, product, safety, and trusted-partner gates that determine who receives frontier model capability.
+- [[game-based-capability-training]] — Using verifiable games and RL environments to teach capabilities and test transfer to real work.
 - [[local-llms]] — Local/open model deployment as a resilience, privacy, cost-control, and agent-system portability layer.
 - [[llm-application-interface]] — Model requests, structured output, tool calling, MCP, context management, and workflow selection.
 - [[llm-inference-on-gpus]] — GPU compute and memory constraints, KV cache, prefill/decode, and multi-GPU parallelism.
@@ -104,6 +108,7 @@
 - [[semantic-layer-for-ai]] — Shared graph, metadata, and rule substrate for enterprise agents over data sources and traces.
 - [[software-factories]] — Agent-orchestrated engineering loops for triage, implementation, review, verification, shipping, and monitoring.
 - [[test-time-compute-scaling]] — Inference-time capability scaling through parallel agents, longer search, tools, and verification.
+- [[third-party-ai-evaluation]] — Independent evaluation, embedded evaluators, standards, and assurance for frontier AI systems.
 - [[workplace-ai-adoption]] — Spread of AI tools across ordinary job functions, cross-occupation tasks, and agentic work products.
 
 ## Comparisons
@@ -127,3 +132,4 @@
 - [[weekly-briefing-2026-08-31]] — Weekly synthesis of open-model distribution, agent security, physical interfaces, harness state, and infrastructure economics.
 - [[weekly-briefing-2026-09-07]] — Weekly synthesis of GPT-6 Astra, Fable 5.1, workhorse-model economics, managed agents, authorization, and generated interfaces.
 - [[weekly-briefing-2026-09-14]] — Weekly synthesis of DeepSeek V4.1 Flash, multi-agent mathematical search, recursive-improvement pressure, FDEs, and AI-for-science validation.
+- [[weekly-briefing-2026-09-21]] — Weekly synthesis of specialist decision models, agent authorization failures, third-party evaluation, recursive improvement, and assurance infrastructure.

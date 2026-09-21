@@ -68,8 +68,16 @@ The FDE account gives software factories a customer-facing operating loop: obser
 
 The new hosted-agent surfaces reinforce the same architecture. OpenAI’s Agents API packages long-lived cloud agents, Codex’s harness, context compaction, tools, and subagents, while Cursor Projects and Devin Voice point toward persistent project state and conversational handoff. Factories should preserve intent, definition-of-done, verification, provenance, and rollback artifacts across those handoffs. [raw/newsletters/the-neuron-2026-09-09-openai-s-1m-math-breakthrough-sparked-a-fight-with-anthropic.md][raw/newsletters/the-neuron-2026-09-13-openai-asked-congress-if-ai-can-slow-down.md]
 
+## September 2026 update: specialized workers and durable conventions
+
+The new AINews coverage describes a factory with more specialized workers: decision models such as JEV can classify and route large queues, while larger language models handle explanations and exceptions. That suggests a factory should route by task shape and confidence, not send every step to the largest model. [[jev]] [raw/newsletters/ainews-2026-09-16-ainews-jev-a-system-one-model-that-only-decides-classifies-routes-scor.md]
+
+The same batch reports Claude Code checking `AGENTS.md` when no `CLAUDE.md` exists. This is a small but useful sign that durable repository instructions are becoming cross-tool factory infrastructure: they preserve policy, conventions, and verification expectations across agent clients. [raw/newsletters/ainews-2026-09-19-ainews-here-are-6-clones-of-jev-in-2-days.md]
+
+The broader reliability lesson is negative as well as positive. Steve Yegge reportedly shut down Gas Town after high recurring costs and limited reusable output, while Databricks reportedly saw coding spend rise after Astra adoption. A factory is successful only when its completed, verified outcomes justify the model and coordination cost. [raw/newsletters/ainews-2026-09-17-ainews-reality-checks-on-ai-news-yegge-shuts-down-gas-town-databricks.md]
+
 ## Links
 
-- Related concepts: [[coding-agent-evaluation]], [[recursive-self-improvement]], [[ai-infrastructure-economics]], [[agent-experience]]
+- Related concepts: [[coding-agent-evaluation]], [[recursive-self-improvement]], [[ai-infrastructure-economics]], [[agent-experience]], [[agent-reliability-and-operations]]
 - Related entities: [[anthropic]], [[openai]], [[gpt-5-6]], [[grok-4-5]], [[github]], [[modal]], [[kimi-k3]], [[inkling]]
 - Related governance: [[frontier-model-access-controls]], [[ai-control-roadmaps]]
