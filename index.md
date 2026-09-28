@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.  
-> Last updated: 2026-09-21 | Total pages: 119
+> Last updated: 2026-09-28 | Total pages: 125
 
 ## Entities
 
@@ -15,6 +15,7 @@
 - [[claude-fable-5]] — Anthropic's public Mythos-class model and the corpus's central case study in gated frontier capability.
 - [[claude-opus-4-8]] — Anthropic coding/agent model that prefigured Fable-era workflow orchestration.
 - [[claude-opus-5]] — Anthropic Opus-class model framed as near-Fable coding capability with evaluation caveats.
+- [[claude-opus-5-5]] — Anthropic's September 2026 Opus model positioned as a cheaper, highly capable workhorse for coding, agents, and creative production.
 - [[claude-tag]] — Anthropic's multiplayer Slack-native agent framework for persistent, proactive AI assistance in teams.
 - [[cognition]] — Async coding-agent company around Devin and enterprise engineering value measurement.
 - [[cursor]] — AI coding environment illustrating provider access controls and social-engineering risk.
@@ -42,7 +43,9 @@
 - [[meta]] — Large AI platform company anchoring the acceleration/open-distribution side of the current governance split.
 - [[microduck]] — Affordable open biped combining simulation, reinforcement learning, and sim-to-real experimentation.
 - [[microsoft]] — Enterprise AI platform actor bundling MAI models, GitHub, Windows, Foundry, context, and evals.
+- [[mimo-v2-6-pro]] — Xiaomi's reported trillion-parameter open-weight omnimodal model emphasizing long context and open post-training environments.
 - [[modal]] — AI cloud platform illustrating how infrastructure is being redesigned for agent-native workloads.
+- [[muse-charm]] — Meta's reported pocket-sized personal-agent interface connecting glasses, voice, and authorized cloud actions.
 - [[muse-glimmer]] — Meta's open-weight multimodal model aimed at always-on local agents.
 - [[muse-spark-1-3]] — Meta's workhorse model for agentic/coding tasks, emphasizing tool-use efficiency and open-weight distribution.
 - [[nvidia]] — AI hardware and open-model actor spanning local agent systems, Cosmos, Nemotron, and open AI security tooling.
@@ -56,6 +59,7 @@
 - [[radical-ai]] — Materials-science company using self-driving labs for closed-loop alloy discovery.
 - [[recursive]] — Richard Socher's AI-research company focused on automating parts of invention and AI research.
 - [[runway-solaris]] — Runway's reported Interface World Model that generates interactive software screens frame by frame.
+- [[runway-worldprompt]] — Runway's interactive audiovisual world-model interface for timestamped events and persistent generated state.
 - [[simile-ai]] — Behavioral-simulation company building digital twins and synthetic populations from interviews, behavior, and causal data.
 
 ## Concepts
@@ -71,6 +75,7 @@
 - [[ai-control-roadmaps]] — Operational security model for powerful AI agents with permissions, logs, monitors, and brakes.
 - [[ai-cybersecurity]] — AI used for security work and security failures created by agentic AI systems.
 - [[ai-engineering]] — Applied discipline of building, evaluating, deploying, and steering AI systems in real product contexts.
+- [[ai-for-science]] — Scientific hypothesis generation and experimental verification accelerated by models, search, software, and agents.
 - [[ai-health-data-interfaces]] — Personal health record and wearable-data interfaces connected to AI assistants.
 - [[ai-healthcare]] — Health-oriented LLM and AI workflows with clinical validation and human-in-the-loop constraints.
 - [[ai-in-finance]] — Domain-specific agent adoption across equity research, banking, corporate finance, and analyst workflows.
@@ -133,3 +138,4 @@
 - [[weekly-briefing-2026-09-07]] — Weekly synthesis of GPT-6 Astra, Fable 5.1, workhorse-model economics, managed agents, authorization, and generated interfaces.
 - [[weekly-briefing-2026-09-14]] — Weekly synthesis of DeepSeek V4.1 Flash, multi-agent mathematical search, recursive-improvement pressure, FDEs, and AI-for-science validation.
 - [[weekly-briefing-2026-09-21]] — Weekly synthesis of specialist decision models, agent authorization failures, third-party evaluation, recursive improvement, and assurance infrastructure.
+- [[weekly-briefing-2026-09-28]] — Weekly synthesis of model economics, agent permission boundaries, AI for science, physical safety, and incident-scale security signals.

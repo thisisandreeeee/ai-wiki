@@ -1,7 +1,7 @@
 ---
 title: AI Benchmarking
 created: 2026-07-30
-updated: 2026-09-21
+updated: 2026-09-28
 type: concept
 tags: [ai, research, model]
 sources: [raw/newsletters/ainews-2026-07-25-ainews-claude-opus-5-fable-level-performance-at-opus-price-half-fable.md, raw/newsletters/ainews-2026-07-29-ainews-ai-is-eating-finance-aie-nyc-now-open.md, raw/newsletters/ainews-2026-07-24-ainews-black-forest-labs-flux-3-multimodal-flow-models-that-beat-seeda.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md, raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/ainews-2026-09-01-ainews-fal-s-h3-max-live-breaks-the-infinite-videogen-barrier.md, raw/newsletters/the-neuron-2026-09-07-openai-s-data-vs-its-chief-scientist-s-fear.md, raw/newsletters/the-neuron-2026-09-09-openai-s-1m-math-breakthrough-sparked-a-fight-with-anthropic.md, raw/newsletters/the-neuron-2026-09-11-openai-advances-another-millennium-problem.md, raw/newsletters/ainews-2026-09-16-ainews-jev-a-system-one-model-that-only-decides-classifies-routes-scor.md, raw/newsletters/ainews-2026-09-17-ainews-reality-checks-on-ai-news-yegge-shuts-down-gas-town-databricks.md, raw/newsletters/latent-space-2026-09-15-can-skills-learned-in-games-transfer-to-real-world-work.md, raw/newsletters/the-neuron-2026-09-18-ai-agents-just-out-mathed-us.md]
@@ -43,6 +43,12 @@ JEV reframes benchmarking around bounded decisions. TypeSafe’s reported speed 
 The Databricks Astra rollout is a useful counterexample to simplistic cost claims: the source reports stronger performance on high-complexity tasks but roughly 60% higher total coding spend across about 3,500 engineers. Benchmarking should therefore report user adoption, task mix, intervention, and total spend, not only benchmark score or per-token price. [raw/newsletters/ainews-2026-09-17-ainews-reality-checks-on-ai-news-yegge-shuts-down-gas-town-databricks.md]
 
 Game-based training adds a transfer dimension. Improvement inside an RL environment is not enough; the benchmark must show whether a task interface and trajectory improve an external workload, under comparable tools and verification. [[game-based-capability-training]] [raw/newsletters/latent-space-2026-09-15-can-skills-learned-in-games-transfer-to-real-world-work.md]
+
+## September 28 update: benchmark the completed system
+
+The Opus 5.5 versus GPT-6 Sol coverage makes cost-per-success explicit: report quality together with reasoning effort, elapsed time, retries, tool calls, and human rescue. JEV adds calibration and abstention for bounded decisions; MiMo-V2.6-Pro adds the need to disclose RL environments, graders, and missing task data. [[model-routing]], [[jev]], and [[mimo-v2-6-pro]] are part of the same evidence chain. [raw/newsletters/the-neuron-2026-09-23-new-gpt-6-and-claude-models-start-a-price-war.md][raw/newsletters/ainews-2026-09-25-ainews-the-future-of-latent-space.md][raw/newsletters/ainews-2026-09-22-ainews-xiaomi-mimo-v2-6-pro-1t-a42b-the-new-top-open-weights-model-tra.md]
+
+Physical and scientific systems need outcome tests too. RoboHarm tests whether a robot-control model refuses dangerous actions in embodiment, while ERA and agentic biology workflows require independent verification that a score or candidate corresponds to a real scientific result. [[agentic-robotics]] and [[ai-for-science]] extend benchmarking beyond static answer accuracy. [raw/newsletters/the-neuron-2026-09-21-claude-failed-kitchen-safety-101.md][raw/newsletters/latent-space-2026-09-22-an-oscar-two-asteroids-and-the-algorithm-in-your-sklearn-john-platt-on.md]
 
 ## Links
 

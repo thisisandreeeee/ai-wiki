@@ -1,7 +1,7 @@
 ---
 title: JEV
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-09-28
 type: entity
 tags: [ai, llm, model, tooling, research]
 sources: [raw/newsletters/ainews-2026-09-16-ainews-jev-a-system-one-model-that-only-decides-classifies-routes-scor.md, raw/newsletters/ainews-2026-09-19-ainews-here-are-6-clones-of-jev-in-2-days.md, raw/newsletters/the-neuron-2026-09-16-42-per-billion-tokens.md, raw/newsletters/the-neuron-2026-09-20-how-google-s-gemini-breached-3-real-companies.md]
@@ -25,6 +25,12 @@ Open reproductions appeared within days, including Laya, Bespoke Nimble, Diffusi
 ## Limits and use
 
 JEV-like models fit a workflow where the answer space is known in advance and uncertainty can trigger human review. They are less suitable when the task requires explanation, novel composition, or unconstrained tool planning. Evaluation should measure calibration, abstention quality, task-level cost, and downstream error—not only latency or a vendor-reported token-equivalent price. [[ai-benchmarking]] and [[agent-reliability-and-operations]] provide the relevant release criteria.
+
+## September 28 update: from model launch to software primitive
+
+The TypeSafe interview frames JEV as a System One model designed to disappear into software: typed decisions, calibrated probabilities, small decision boundaries, and explicit confidence rather than chat prose. Proposed use cases include routing, judging, linting, computer control, analytics, and coding-agent tool selection. The source reports RL for Calibrated Decisions as a different objective from RLHF or purely verifiable reward, but the method is unpublished and the product claims need independent validation. [raw/newsletters/latent-space-2026-09-21-jev-system-one-models-for-prod-not-god-with-diogo-almeida-ceo-typesafe.md]
+
+The wider batch adds a practical benchmark pattern: use JEV for routine choices, escalate uncertain cases to a frontier model, and measure the full workflow. AINews also reports that JEV-like models are spreading through judges, rerankers, WebMCP selection, and open reproductions. The key question is not whether the architecture is novel; it is whether calibration, latency, and downstream error make the specialist cheaper and safer than a general model on the actual decision surface. [raw/newsletters/ainews-2026-09-25-ainews-the-future-of-latent-space.md]
 
 ## Links
 
