@@ -1,7 +1,7 @@
 ---
 title: Meta
 created: 2026-07-30
-updated: 2026-09-07
+updated: 2026-09-28
 type: entity
 tags: [ai, company, policy, model]
 sources: [raw/newsletters/the-neuron-2026-07-30-zuckerberg-split-with-his-own-ai-chief.md, raw/newsletters/ainews-2026-07-29-ainews-fearing-rsi-openai-anthropic-gdm-meta-thinky-cosign-letter-to-p.md, raw/newsletters/ainews-2026-08-06-ainews-jeff-sanjay-oriol-and-quoc-depart-deepmind-demis-to-chair-koray.md, raw/newsletters/ainews-2026-08-07-ainews-amd-buys-taalas.md, raw/newsletters/ainews-2026-08-11-ainews-muse-glimmer-and-spark-open-weights-return-personal-superintell.md, raw/newsletters/the-neuron-2026-08-11-zuckerberg-s-superintelligence-bargain.md, raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md, raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md]
@@ -33,6 +33,12 @@ Meta anchors the pro-open/pro-acceleration side of the corpus's current policy s
 Meta launched Muse Spark 1.3 into the workhorse-model race alongside Google’s Gemini 3.8 Flash. The sources position Spark around agentic and coding work, complex instruction following, tool use, and long-context tasks. Meta reported roughly 20% fewer tool calls and 25% fewer tokens than its predecessor; community and benchmark coverage placed it near or above GPT-5.6 Sol on selected evaluations, while the model’s open-weight roadmap remained a major part of its appeal. [raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md][raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md]
 
 The important strategic shift is from open weights as a slogan to open workhorse systems with agent policies, tool-use efficiency, and possible local or self-hosted deployment. Reported comparisons remain workload- and harness-dependent; Spark’s practical advantage may be fewer wasted steps rather than a universal intelligence lead. This strengthens the links among [[muse-spark-1-3]], [[model-routing]], [[coding-agent-evaluation]], and [[local-llms]].
+
+## September 2026: Muse becomes a personal-agent stack
+
+Meta Connect expanded Muse beyond a model release into an interaction and authorization stack: glasses, a pocket-sized Muse Charm, a realtime avatar, work connectors, and a cloud computer protected by Sentinel. The product bet is that camera context plus voice and authorized tools can turn everyday observations into delegated work. [[muse-charm]] captures the device layer. [raw/newsletters/ainews-2026-09-24-ainews-meta-connect-2026-muse-glasses-voice-video-and-charm.md][raw/newsletters/the-neuron-2026-09-25-meta-is-bringing-tomogotchi-back.md]
+
+Amazon's block of Muse exposes the platform conflict. Meta can provide a secure execution environment, but a third-party service still controls whether an agent may identify itself, use credentials, and transact. The result is a new access-control and aggregation problem, not just a computer-use benchmark. [[agent-experience]], [[ai-cybersecurity]], and [[frontier-model-access-controls]] are now central to Meta's product story. [raw/newsletters/the-neuron-2026-09-22-why-amazon-blocked-meta-s-muse.md]
 
 ## Links
 

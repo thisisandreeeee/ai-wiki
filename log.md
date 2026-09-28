@@ -127,3 +127,15 @@
 - Created `entities/aiuc.md`, `entities/jev.md`, `entities/recursive.md`, `concepts/game-based-capability-training.md`, `concepts/third-party-ai-evaluation.md`, and `queries/weekly-briefing-2026-09-21.md`.
 - Updated `entities/anthropic.md`, `entities/astra.md`, `entities/openai.md`, `concepts/ai-benchmarking.md`, `concepts/ai-control-roadmaps.md`, `concepts/ai-cybersecurity.md`, `concepts/agent-reliability-and-operations.md`, `concepts/frontier-lab-governance.md`, `concepts/real-world-agent-evaluations.md`, `concepts/recursive-self-improvement.md`, and `concepts/software-factories.md`.
 - Updated `index.md`; raw newsletter content remains immutable except for the 14 new captures and manifest maintenance.
+
+## [2026-09-28] synthesize | Weekly newsletter batch
+
+- Ran `/home/janet/.hermes/venvs/ai-wiki/bin/python scripts/fetch_gmail_newsletters.py`: fetched 28 Gmail newsletter items; 18 were new raw newsletter sources added under `raw/newsletters/`, and `raw/newsletters/manifest.json` was refreshed.
+- Created `entities/claude-opus-5-5.md`, `entities/mimo-v2-6-pro.md`, `entities/muse-charm.md`, `entities/runway-worldprompt.md`, `concepts/ai-for-science.md`, and `queries/weekly-briefing-2026-09-28.md`.
+- Updated `entities/anthropic.md`, `entities/jev.md`, `entities/meta.md`, `entities/openai.md`, `entities/openrouter.md`, `concepts/agent-reliability-and-operations.md`, `concepts/ai-benchmarking.md`, `concepts/ai-cybersecurity.md`, `concepts/model-routing.md`, `concepts/recursive-self-improvement.md`, `concepts/self-driving-labs.md`, and `index.md`.
+- Preserved previously ingested raw newsletter files unchanged; retained the 18 new captures and refreshed manifest.
+
+## [2026-09-28] lint | 0 issues found
+
+- `/home/janet/.hermes/venvs/ai-wiki/bin/python scripts/lint_wiki.py`: `OK: 125 wiki pages, 262 raw newsletter sources`.
+- `/home/janet/.hermes/venvs/ai-wiki/bin/python -m py_compile scripts/*.py`: passed with no output.

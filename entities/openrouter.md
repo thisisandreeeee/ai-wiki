@@ -1,7 +1,7 @@
 ---
 title: OpenRouter
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-09-28
 type: entity
 tags: [ai, company, llm, tooling, trend]
 sources: [raw/newsletters/ainews-2026-08-17-ainews-stripe-buys-openrouter-for-7b.md, raw/newsletters/latent-space-2026-08-18-frontier-model-cost-and-open-weights-popularity-is-driving-demand-for.md, raw/newsletters/the-neuron-2026-08-21-claude-allegedly-speedran-a-31k-loss.md]
@@ -21,6 +21,12 @@ The reported deal makes the routing layer a strategic asset in its own right. [[
 ## Strategic tension
 
 OpenRouter's aggregation position benefits from rapid model competition and open-weight adoption, but the same competition can compress gateway markups. The acquisition therefore raises a durable question for [[ai-infrastructure-economics]]: does value accrue to neutral brokerage, to the best model, or to the product that owns the user's workflow and payment relationship?
+
+## September 2026: distribution becomes control infrastructure
+
+The new Latent.Space interview presents OpenRouter as a neutral multi-model distribution layer serving more than 10 million developers and over 10 trillion tokens per day. The durable product insight is that agents consume inference continuously and can switch model SKUs, so routing and marketplace telemetry become part of the application surface rather than a one-time SDK choice. [raw/newsletters/latent-space-2026-09-25-openrouter-from-seed-to-stripe-with-openrouter-s-alex-atallah-amp-s-an.md]
+
+The same interview highlights token fraud and autonomous agents attacking valuable inference flows as an emerging security problem. This extends the acquisition thesis beyond payments: Stripe's fraud controls could become part of the infrastructure protecting a model marketplace. [[model-routing]] and [[ai-cybersecurity]] are now linked through identity, spend, and provider choice.
 
 ## Links
 

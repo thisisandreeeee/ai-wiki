@@ -1,7 +1,7 @@
 ---
 title: Self-Driving Labs
 created: 2026-06-21
-updated: 2026-08-24
+updated: 2026-09-28
 type: concept
 tags: [ai, machine-learning, research]
 sources: [raw/newsletters/ainews-2026-08-21-ainews-poolside-gets-12b-reverse-execuhire-to-nvidia-founders-stay-for.md, raw/newsletters/latent-space-2026-08-21-simulation-the-new-scaling-law-joon-sung-park-simile-ai.md, raw/newsletters/latent-space-2026-06-17-the-self-driving-lab-joseph-krause-radical-ai.md, raw/newsletters/data-science-weekly-2026-06-11-data-science-weekly-issue-655.md, raw/newsletters/data-science-weekly-2026-06-18-data-science-weekly-issue-656.md, raw/newsletters/latent-space-2026-07-01-the-coolest-diffusion-research-isn-t-in-llms-evan-feinberg-sergey-edun.md, raw/newsletters/latent-space-2026-07-16-the-lab-of-the-future-should-feel-like-a-data-center-andy-beam-rafa-g.md, raw/newsletters/latent-space-2026-08-11-the-bioai-phase-shift-matthew-mcpartlon-neil-patil-chai-discovery.md]
@@ -45,6 +45,12 @@ Chai Discovery adds a product and business layer to this architecture. Its accou
 ## Why it matters
 
 The lab and the experimental data become the moat. In physical sciences, AI value is not just prediction accuracy; it is faster iteration against ground truth. This makes [[reliable-data-pipelines]], [[recursive-self-improvement]], and careful [[coding-agent-evaluation]] relevant even outside classic software agents.
+
+## September 2026: faster thought, slower experiments
+
+The new AI-for-science coverage separates two bottlenecks. Foundries accelerate measurement through sequencing, multiplexing, microscopy, and physical automation; navigators use agents to analyze results, build bespoke tools, and triage far more hypotheses than a small expert team could read. Endura's reported 500-target and 100-target triage workflow is an example of the latter, with human diligence retained for primary-source checks and selected programs. [[ai-for-science]] [raw/newsletters/newsletter-2026-09-24-foundries-vs-navigators-lowering-the-cost-of-science.md]
+
+Google's ERA and Anthropic's ART search suggest that scoreable search and agent swarms can widen the hypothesis funnel. They do not remove reward hacking, verification, wet-lab delay, or biosecurity review. The useful metric remains experimentally verified progress per unit time and cost, not the number of candidates generated. [raw/newsletters/latent-space-2026-09-22-an-oscar-two-asteroids-and-the-algorithm-in-your-sklearn-john-platt-on.md][raw/newsletters/the-neuron-2026-09-24-what-950-claude-agents-found.md]
 
 ## Links
 

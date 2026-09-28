@@ -1,7 +1,7 @@
 ---
 title: Model Routing
 created: 2026-07-30
-updated: 2026-09-14
+updated: 2026-09-28
 type: concept
 tags: [ai, llm, tooling, trend]
 sources: [raw/newsletters/ainews-2026-08-17-ainews-stripe-buys-openrouter-for-7b.md, raw/newsletters/latent-space-2026-08-18-frontier-model-cost-and-open-weights-popularity-is-driving-demand-for.md, raw/newsletters/the-neuron-2026-08-21-claude-allegedly-speedran-a-31k-loss.md, raw/newsletters/ainews-2026-07-21-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-07-23-google-split-gemini-in-three.md, raw/newsletters/ainews-2026-07-29-ainews-ai-is-eating-finance-aie-nyc-now-open.md, raw/newsletters/ainews-2026-08-07-ainews-amd-buys-taalas.md, raw/newsletters/latent-space-2026-08-03-the-inference-engineering-masterclass-philip-kiely-ali-taha-baseten.md, raw/newsletters/latent-space-2026-08-04-unpacking-chatgpt-work-the-agent-for-a-billion-users.md, raw/newsletters/ainews-2026-08-01-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-08-13-ainews-spacexai-grok-4-6-and-grok-bot.md, raw/newsletters/the-neuron-2026-08-13-elon-releases-grok-4-6-says-grok-4-7-is-weeks-away.md, raw/newsletters/ainews-2026-08-14-ainews-gemini-3-7-flash-brings-gdm-back-to-the-forefront.md, raw/newsletters/the-neuron-2026-08-14-why-gemini-3-7-flash-just-got-half-price.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md, raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/latent-space-2026-09-05-openclaw-power-macbook-simplicity-five-days-with-grok-bot.md, raw/newsletters/ainews-2026-09-12-ainews-deepseek-v4-1-flash-763b-p8b-d16b-novel-causal-encoder-decoder.md, raw/newsletters/the-neuron-2026-09-10-anthropic-researcher-sounds-the-alarm.md]
@@ -55,6 +55,12 @@ The operational objective is cost per verified outcome: expected turns, cache re
 DeepSeek V4.1 Flash adds a route for long-context workloads where cache footprint, active prefill/decode parameters, offload topology, and total task cost matter more than the headline parameter count. Reported benchmarks combine strong cost-adjusted results with unusually verbose outputs, so routing should record output length, effort, cache behavior, and verification cost. [[deepseek-v4-1-flash]] captures the model-specific evidence. [raw/newsletters/ainews-2026-09-12-ainews-deepseek-v4-1-flash-763b-p8b-d16b-novel-causal-encoder-decoder.md]
 
 For high-risk workloads, routing also needs a safety capability profile. Anthropic’s disclosed misuse cases and Astra’s monitorability concerns mean that a nominally capable route may be inappropriate if identity, network, audit, or escalation controls are weaker than the task requires. [raw/newsletters/the-neuron-2026-09-10-anthropic-researcher-sounds-the-alarm.md]
+
+## September 28 update: route by role and distribution
+
+The Opus 5.5, GPT-6 Sol/Luna, and MiMo-V2.6-Pro releases reinforce a two-tier or multi-tier stack: reserve expensive frontier judgment for planning, review, and hard synthesis; route bounded implementation, classification, and high-volume work to cheaper or specialized models. The relevant objective is cost per verified outcome after reasoning effort, retries, tool calls, and human rescue. [raw/newsletters/ainews-2026-09-23-ainews-claude-opus-5-5-the-new-default-model-for-ainews-and-everybody.md][raw/newsletters/the-neuron-2026-09-23-new-gpt-6-and-claude-models-start-a-price-war.md]
+
+OpenRouter's new interview adds the distribution layer: agents are continuous consumers that can change model providers and SKUs, making an inference gateway both a marketplace and a policy surface. Specialist JEV-style models add another route for typed decisions and judging. [[openrouter]], [[jev]], and [[ai-infrastructure-economics]] now belong in the same control-plane discussion. [raw/newsletters/latent-space-2026-09-25-openrouter-from-seed-to-stripe-with-openrouter-s-alex-atallah-amp-s-an.md][raw/newsletters/latent-space-2026-09-21-jev-system-one-models-for-prod-not-god-with-diogo-almeida-ceo-typesafe.md]
 
 ## Links
 

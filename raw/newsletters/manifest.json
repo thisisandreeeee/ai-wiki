@@ -1,23 +1,5 @@
 [
   {
-    "id": "1a090060f25d7f7c",
-    "newsletter": "the-neuron",
-    "subject": "😺 OpenAI advances ANOTHER Millennium problem?",
-    "date": "Fri, 11 Sep 2026 10:31:43 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-09-11-openai-advances-another-millennium-problem.md",
-    "chars": 20387
-  },
-  {
-    "id": "1a09069444a5ef61",
-    "newsletter": "the-neuron",
-    "subject": "😿 We're not being clingy, but... we miss you",
-    "date": "Fri, 11 Sep 2026 12:20:11 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-09-11-we-re-not-being-clingy-but-we-miss-you.md",
-    "chars": 1815
-  },
-  {
     "id": "1a0b415f960f93f4",
     "newsletter": "the-neuron",
     "subject": "😺 AI Agents Just Out-Mathed Us",
@@ -27,13 +9,40 @@
     "chars": 17839
   },
   {
-    "id": "1a07b6c605ca0940",
+    "id": "1a0d6356d7390196",
+    "newsletter": "latent-space",
+    "subject": "Runway’s WorldPrompt and the Engineering of Real-Time Worlds",
+    "date": "Fri, 25 Sep 2026 01:30:57 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-09-25-runway-s-worldprompt-and-the-engineering-of-real-time-worlds.md",
+    "chars": 112070
+  },
+  {
+    "id": "1a0d71307dbe6608",
+    "newsletter": "ainews",
+    "subject": "[AINews] The Future of Latent Space",
+    "date": "Fri, 25 Sep 2026 05:37:01 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-09-25-ainews-the-future-of-latent-space.md",
+    "chars": 49656
+  },
+  {
+    "id": "1a0d81ef1389db2f",
     "newsletter": "the-neuron",
-    "subject": "😺 OpenAI's data vs. its chief scientist's fear",
-    "date": "Mon, 07 Sep 2026 10:31:31 +0000 (UTC)",
+    "subject": "😺 Meta is bringing Tomogotchi back",
+    "date": "Fri, 25 Sep 2026 10:31:39 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-09-07-openai-s-data-vs-its-chief-scientist-s-fear.md",
-    "chars": 17282
+    "path": "raw/newsletters/the-neuron-2026-09-25-meta-is-bringing-tomogotchi-back.md",
+    "chars": 19729
+  },
+  {
+    "id": "1a0dadd0a5e22768",
+    "newsletter": "latent-space",
+    "subject": "OpenRouter: from Seed to Stripe — with OpenRouter’s Alex Atallah & AMP’s Anjney Midha",
+    "date": "Fri, 25 Sep 2026 23:14:41 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-09-25-openrouter-from-seed-to-stripe-with-openrouter-s-alex-atallah-amp-s-an.md",
+    "chars": 99847
   },
   {
     "id": "1a09f80358738f60",
@@ -54,31 +63,22 @@
     "chars": 115895
   },
   {
-    "id": "1a07dcb8d6604730",
-    "newsletter": "latent-space",
-    "subject": "The Frontier AEO Tracker: What Astra Chooses (and every other frontier model, and what you can do about it)",
-    "date": "Mon, 7 Sep 2026 21:32:37 +0000",
-    "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/latent-space-2026-09-07-the-frontier-aeo-tracker-what-astra-chooses-and-every-other-frontier-m.md",
-    "chars": 9673
+    "id": "1a0c393edfb3a383",
+    "newsletter": "the-neuron",
+    "subject": "😺 Claude failed Kitchen Safety 101",
+    "date": "Mon, 21 Sep 2026 10:46:44 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-09-21-claude-failed-kitchen-safety-101.md",
+    "chars": 17243
   },
   {
-    "id": "1a094330a9eaa2eb",
-    "newsletter": "ainews",
-    "subject": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return…",
-    "date": "Sat, 12 Sep 2026 05:56:05 +0000",
-    "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-09-12-ainews-deepseek-v4-1-flash-763b-p8b-d16b-novel-causal-encoder-decoder.md",
-    "chars": 66097
-  },
-  {
-    "id": "1a09626fd3f29db5",
+    "id": "1a0c609dafd91377",
     "newsletter": "latent-space",
-    "subject": "The Rise of the Forward Deployed Engineer — and How To Do the Job Right",
-    "date": "Sat, 12 Sep 2026 15:01:20 +0000",
+    "subject": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
+    "date": "Mon, 21 Sep 2026 22:13:49 +0000",
     "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/latent-space-2026-09-12-the-rise-of-the-forward-deployed-engineer-and-how-to-do-the-job-right.md",
-    "chars": 22620
+    "path": "raw/newsletters/latent-space-2026-09-21-jev-system-one-models-for-prod-not-god-with-diogo-almeida-ceo-typesafe.md",
+    "chars": 197449
   },
   {
     "id": "1a0b838306e41bb8",
@@ -90,13 +90,13 @@
     "chars": 43828
   },
   {
-    "id": "1a09bd333166e82e",
+    "id": "1a0df8a4601c2b2b",
     "newsletter": "the-neuron",
-    "subject": "😺 OpenAI asked Congress if AI can slow down",
-    "date": "Sun, 13 Sep 2026 17:31:31 +0000 (UTC)",
+    "subject": "What your AI usage data is missing.",
+    "date": "Sat, 26 Sep 2026 21:06:05 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-09-13-openai-asked-congress-if-ai-can-slow-down.md",
-    "chars": 19377
+    "path": "raw/newsletters/the-neuron-2026-09-26-what-your-ai-usage-data-is-missing.md",
+    "chars": 20707
   },
   {
     "id": "1a0c016dff8ebb46",
@@ -108,22 +108,13 @@
     "chars": 18899
   },
   {
-    "id": "1a08adf9d00f25be",
+    "id": "1a0e42325036d2e7",
     "newsletter": "the-neuron",
-    "subject": "😺 Anthropic researcher sounds the alarm",
-    "date": "Thu, 10 Sep 2026 10:31:38 +0000 (UTC)",
+    "subject": "😺 OpenAI + Anthropic: tens of thousands of AI incidents?",
+    "date": "Sun, 27 Sep 2026 18:31:42 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-09-10-anthropic-researcher-sounds-the-alarm.md",
-    "chars": 21356
-  },
-  {
-    "id": "1a08b718e04ad16e",
-    "newsletter": "data-science-weekly",
-    "subject": "Data Science Weekly - Issue 668",
-    "date": "Thu, 10 Sep 2026 13:03:29 +0000",
-    "from": "Data Science Weekly Newsletter <datascienceweekly@substack.com>",
-    "path": "raw/newsletters/data-science-weekly-2026-09-10-data-science-weekly-issue-668.md",
-    "chars": 14461
+    "path": "raw/newsletters/the-neuron-2026-09-27-openai-anthropic-tens-of-thousands-of-ai-incidents.md",
+    "chars": 21778
   },
   {
     "id": "1a0ae477fe19e07b",
@@ -153,13 +144,40 @@
     "chars": 12909
   },
   {
-    "id": "1a0809c5365f9692",
+    "id": "1a0d27e837511de1",
+    "newsletter": "ainews",
+    "subject": "[AINews] Meta Connect 2026: Muse glasses, voice, video, and Charm",
+    "date": "Thu, 24 Sep 2026 08:12:59 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-09-24-ainews-meta-connect-2026-muse-glasses-voice-video-and-charm.md",
+    "chars": 62686
+  },
+  {
+    "id": "1a0d2f8c8c854f40",
     "newsletter": "the-neuron",
-    "subject": "😺 AI drug reversed aging markers",
-    "date": "Tue, 08 Sep 2026 10:41:15 +0000 (UTC)",
+    "subject": "😺 What 950 Claude agents found",
+    "date": "Thu, 24 Sep 2026 10:31:48 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-09-08-ai-drug-reversed-aging-markers.md",
-    "chars": 16804
+    "path": "raw/newsletters/the-neuron-2026-09-24-what-950-claude-agents-found.md",
+    "chars": 20788
+  },
+  {
+    "id": "1a0d3777bf30dcd6",
+    "newsletter": "data-science-weekly",
+    "subject": "Data Science Weekly - Issue 670",
+    "date": "Thu, 24 Sep 2026 12:49:24 +0000",
+    "from": "Data Science Weekly Newsletter <datascienceweekly@substack.com>",
+    "path": "raw/newsletters/data-science-weekly-2026-09-24-data-science-weekly-issue-670.md",
+    "chars": 14858
+  },
+  {
+    "id": "1a0d3f7a44729d50",
+    "newsletter": "newsletter",
+    "subject": "Foundries vs Navigators: Lowering the Cost of Science",
+    "date": "Thu, 24 Sep 2026 15:03:16 +0000",
+    "from": "Latent Space Science <swyx+cience@substack.com>",
+    "path": "raw/newsletters/newsletter-2026-09-24-foundries-vs-navigators-lowering-the-cost-of-science.md",
+    "chars": 14055
   },
   {
     "id": "1a0a3699084ab6ad",
@@ -189,13 +207,31 @@
     "chars": 10959
   },
   {
-    "id": "1a085817b517624c",
+    "id": "1a0c7d422d963e41",
+    "newsletter": "ainews",
+    "subject": "[AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
+    "date": "Tue, 22 Sep 2026 06:30:57 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-09-22-ainews-xiaomi-mimo-v2-6-pro-1t-a42b-the-new-top-open-weights-model-tra.md",
+    "chars": 54839
+  },
+  {
+    "id": "1a0c8ac35667f577",
     "newsletter": "the-neuron",
-    "subject": "😺 OpenAI's $1M math breakthrough sparked a fight with Anthropic",
-    "date": "Wed, 09 Sep 2026 09:30:49 +0000 (UTC)",
+    "subject": "😺 Why Amazon blocked Meta’s Muse",
+    "date": "Tue, 22 Sep 2026 10:31:54 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-09-09-openai-s-1m-math-breakthrough-sparked-a-fight-with-anthropic.md",
-    "chars": 21959
+    "path": "raw/newsletters/the-neuron-2026-09-22-why-amazon-blocked-meta-s-muse.md",
+    "chars": 16992
+  },
+  {
+    "id": "1a0caf75ba5d72ef",
+    "newsletter": "latent-space",
+    "subject": "🔬 An Oscar, Two Asteroids, and the Algorithm in Your sklearn: John Platt on AI for Science",
+    "date": "Tue, 22 Sep 2026 21:07:39 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-09-22-an-oscar-two-asteroids-and-the-algorithm-in-your-sklearn-john-platt-on.md",
+    "chars": 13032
   },
   {
     "id": "1a0a98e24a6dae73",
@@ -225,12 +261,30 @@
     "chars": 113098
   },
   {
-    "id": "1a084906b69101e2",
+    "id": "1a0cd02c689a2431",
     "newsletter": "ainews",
-    "subject": "[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130…",
-    "date": "Wed, 9 Sep 2026 05:04:51 +0000",
+    "subject": "[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
+    "date": "Wed, 23 Sep 2026 06:41:41 +0000",
     "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-09-09-ainews-openai-reports-navier-stokes-singularity-find-in-88-hours-using.md",
-    "chars": 43206
+    "path": "raw/newsletters/ainews-2026-09-23-ainews-claude-opus-5-5-the-new-default-model-for-ainews-and-everybody.md",
+    "chars": 84761
+  },
+  {
+    "id": "1a0cdd2e2fd332f9",
+    "newsletter": "the-neuron",
+    "subject": "😺 New GPT-6 and Claude models start a price war",
+    "date": "Wed, 23 Sep 2026 10:32:21 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-09-23-new-gpt-6-and-claude-models-start-a-price-war.md",
+    "chars": 18031
+  },
+  {
+    "id": "1a0ce7530ebe1918",
+    "newsletter": "latent-space",
+    "subject": "🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)",
+    "date": "Wed, 23 Sep 2026 13:27:18 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-09-23-bio-security-is-an-ai-arms-race-eric-nguyen-ceo-radical-numerics.md",
+    "chars": 5017
   }
 ]
