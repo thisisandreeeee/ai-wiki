@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.  
-> Last updated: 2026-09-28 | Total pages: 125
+> Last updated: 2026-10-05 | Total pages: 130
 
 ## Entities
 
@@ -25,6 +25,7 @@
 - [[fal-h3-max]] — Video-generation system and serving stack reported to enable continuous, audience-steerable, faster-than-realtime generation.
 - [[gemini-3-7-flash]] — Google's fast, inexpensive workhorse model for coding, knowledge work, and agentic workflows.
 - [[gemini-3-8-flash]] — Google's September 2026 workhorse model for fast coding, reasoning, search-heavy work, and agents.
+- [[gemini-4-argon]] — Google's restricted October 2026 frontier model for coding, enterprise work, and cyber defense, reported with up to 1M-token output.
 - [[github]] — Developer collaboration layer adapting to agent-generated software work and trust pressure.
 - [[glm-5-2]] — Breakout open-weight model framed as frontier-adjacent and strategically important for local/open AI.
 - [[glm-5-3]] — Z.ai successor framed as a same-footprint post-training and agent-environment scaling experiment.
@@ -50,6 +51,7 @@
 - [[muse-spark-1-3]] — Meta's workhorse model for agentic/coding tasks, emphasizing tool-use efficiency and open-weight distribution.
 - [[nvidia]] — AI hardware and open-model actor spanning local agent systems, Cosmos, Nemotron, and open AI security tooling.
 - [[openai]] — Product consolidation, GPT-5.6/ChatGPT Work rollout, cyber-incident fallout, health interfaces, and governance pressure around OpenAI.
+- [[openai-dots]] — OpenAI's always-on agent with a cloud computer, browser, integrations, persistent projects, and approval gates.
 - [[openai-jalapeno-chip]] — OpenAI's rumored custom AI hardware chip, part of the infrastructure buildout to reduce dependence on NVIDIA.
 - [[openclaw]] — User-owned agent platform centered on a Gateway, persistent computers, plugins, skills, and automations.
 - [[openrouter]] — Multi-provider model gateway whose reported Stripe acquisition makes routing a strategic infrastructure layer.
@@ -85,6 +87,7 @@
 - [[attention-and-transformer-architecture]] — The attention equation, Transformer blocks, masking, encoder/decoder structure, MoE, and tensor-shape mental models.
 - [[browser-agents]] — Agents that operate graphical or web interfaces through browser/computer-use environments.
 - [[coding-agent-evaluation]] — Shift from test-passing code benchmarks to mergeability, trace safety, cost-aware loops, and risk-aware review.
+- [[decision-models]] — Bounded, calibrated models for fast classification, routing, judging, and escalation.
 - [[forward-deployed-engineering]] — Customer-embedded engineering that turns production workflow knowledge into reusable platform capabilities.
 - [[frontier-lab-governance]] — Internal and external mechanisms steering frontier labs, including employee petitions, release gates, and government coordination.
 - [[frontier-model-access-controls]] — Policy, product, safety, and trusted-partner gates that determine who receives frontier model capability.
@@ -99,6 +102,7 @@
 - [[model-labs-vs-agent-labs]] — Strategic split between foundation-model capability and durable agent/application systems.
 - [[model-routing]] — Choosing among models, effort levels, providers, and harness modes by task, cost, latency, and safety.
 - [[multimodal-tokenization]] — How text, images, audio, video, 3D, and robotic inputs become [N×D] token sequences for a Transformer.
+- [[mutable-software]] — Agent systems whose harness, tools, interfaces, or behavior can be changed while running.
 - [[ontologies-for-agents]] — Structured domain entities, relationships, and rules used to constrain or validate agent behavior.
 - [[open-code-data]] — Public, license-aware source-code training data used to build or evaluate code models.
 - [[pacing-the-frontier]] — Proposal to develop mechanisms for slowing frontier AI progress if oversight cannot keep up.
@@ -139,3 +143,4 @@
 - [[weekly-briefing-2026-09-14]] — Weekly synthesis of DeepSeek V4.1 Flash, multi-agent mathematical search, recursive-improvement pressure, FDEs, and AI-for-science validation.
 - [[weekly-briefing-2026-09-21]] — Weekly synthesis of specialist decision models, agent authorization failures, third-party evaluation, recursive improvement, and assurance infrastructure.
 - [[weekly-briefing-2026-09-28]] — Weekly synthesis of model economics, agent permission boundaries, AI for science, physical safety, and incident-scale security signals.
+- [[weekly-briefing-2026-10-05]] — Weekly synthesis of agent operating systems, decision models, Gemini 4 Argon, mutable harnesses, enterprise deployment, and AI infrastructure economics.

@@ -1,7 +1,7 @@
 ---
 title: Software Factories
 created: 2026-07-06
-updated: 2026-09-14
+updated: 2026-10-05
 type: concept
 tags: [ai, llm, tooling, trend]
 sources: [raw/newsletters/ainews-2026-07-01-aiewf-daily-dispatch-loops-software-factories-forward-deployed-enginee.md, raw/newsletters/ainews-2026-07-01-warp-ceo-zach-lloyd-on-why-software-factories-are-the-next-phase-of-co.md, raw/newsletters/ainews-2026-07-01-how-cursor-deploys-ai-inside-the-enterprise.md, raw/newsletters/ainews-2026-07-01-forward-deployed-engineers-and-the-future-of-software-engineering.md, raw/newsletters/ainews-2026-07-01-autoresearch-the-feedback-loop-behind-self-improving-agents.md, raw/newsletters/ainews-2026-07-03-vercel-s-andrew-qu-on-why-agents-are-a-new-kind-of-software.md, raw/newsletters/ainews-2026-07-03-aiewf-daily-dispatch-the-great-loops-debate-and-the-state-of-ai-engine.md, raw/newsletters/latent-space-2026-07-08-why-ai-infrastructure-must-evolve-for-agent-experience-akshat-bubna-mo.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/ainews-2026-07-11-ainews-not-much-happened-today.md, raw/newsletters/latent-space-2026-07-14-5-trends-that-defined-ai-engineering-at-world-s-fair-2026.md, raw/newsletters/ainews-2026-07-14-ainews-codex-usage-up-10x-in-6-months-to-7m-users-1m-in-the-past-day-d.md, raw/newsletters/the-neuron-2026-07-17-kimi-k3-just-shrank-openai-s-moat.md, raw/newsletters/latent-space-2026-09-01-prs-not-welcome-how-top-ai-open-source-projects-are-managing-thousands.md, raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/latent-space-2026-09-05-openclaw-power-macbook-simplicity-five-days-with-grok-bot.md, raw/newsletters/data-science-weekly-2026-09-03-data-science-weekly-issue-667.md, raw/newsletters/latent-space-2026-09-12-the-rise-of-the-forward-deployed-engineer-and-how-to-do-the-job-right.md, raw/newsletters/the-neuron-2026-09-09-openai-s-1m-math-breakthrough-sparked-a-fight-with-anthropic.md, raw/newsletters/the-neuron-2026-09-13-openai-asked-congress-if-ai-can-slow-down.md]
@@ -75,6 +75,12 @@ The new AINews coverage describes a factory with more specialized workers: decis
 The same batch reports Claude Code checking `AGENTS.md` when no `CLAUDE.md` exists. This is a small but useful sign that durable repository instructions are becoming cross-tool factory infrastructure: they preserve policy, conventions, and verification expectations across agent clients. [raw/newsletters/ainews-2026-09-19-ainews-here-are-6-clones-of-jev-in-2-days.md]
 
 The broader reliability lesson is negative as well as positive. Steve Yegge reportedly shut down Gas Town after high recurring costs and limited reusable output, while Databricks reportedly saw coding spend rise after Astra adoption. A factory is successful only when its completed, verified outcomes justify the model and coordination cost. [raw/newsletters/ainews-2026-09-17-ainews-reality-checks-on-ai-news-yegge-shuts-down-gas-town-databricks.md]
+
+## October 2026: production factories become organizational infrastructure
+
+Airbnb's reported AI-native transition moves the factory beyond code generation: product, design, and engineering work directly from prototypes; an Everest context graph transfers organizational knowledge; and asynchronous agents triage on-call alerts and propose or close incidents. The source reports roughly 60% AI-authored code, higher feature throughput, and about 1.6x pull-request throughput, but also stresses that engineers must explain and test AI-generated work. [[semantic-layer-for-ai]] [[agentic-knowledge-work]] [raw/newsletters/latent-space-2026-10-02-inside-out-ai-rebuilding-airbnb-behind-the-scenes-and-across-the-guest.md]
+
+Claude Mods and Pi Durable add a second factory dimension: the harness itself can be customized, checkpointed, extended, and in some cases hot-swapped. That can make factories more adaptable, but release controls must version permissions and evaluation gates alongside prompts and tools. [[mutable-software]] [raw/newsletters/latent-space-2026-09-29-claude-code-s-next-era-thariq-shihipar-anthropic.md][raw/newsletters/ainews-2026-10-02-pi-1-0-pi-durable-and-aie-nyc.md]
 
 ## Links
 

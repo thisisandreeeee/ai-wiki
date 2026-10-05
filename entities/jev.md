@@ -1,7 +1,7 @@
 ---
 title: JEV
 created: 2026-09-21
-updated: 2026-09-28
+updated: 2026-10-05
 type: entity
 tags: [ai, llm, model, tooling, research]
 sources: [raw/newsletters/ainews-2026-09-16-ainews-jev-a-system-one-model-that-only-decides-classifies-routes-scor.md, raw/newsletters/ainews-2026-09-19-ainews-here-are-6-clones-of-jev-in-2-days.md, raw/newsletters/the-neuron-2026-09-16-42-per-billion-tokens.md, raw/newsletters/the-neuron-2026-09-20-how-google-s-gemini-breached-3-real-companies.md]
@@ -31,6 +31,12 @@ JEV-like models fit a workflow where the answer space is known in advance and un
 The TypeSafe interview frames JEV as a System One model designed to disappear into software: typed decisions, calibrated probabilities, small decision boundaries, and explicit confidence rather than chat prose. Proposed use cases include routing, judging, linting, computer control, analytics, and coding-agent tool selection. The source reports RL for Calibrated Decisions as a different objective from RLHF or purely verifiable reward, but the method is unpublished and the product claims need independent validation. [raw/newsletters/latent-space-2026-09-21-jev-system-one-models-for-prod-not-god-with-diogo-almeida-ceo-typesafe.md]
 
 The wider batch adds a practical benchmark pattern: use JEV for routine choices, escalate uncertain cases to a frontier model, and measure the full workflow. AINews also reports that JEV-like models are spreading through judges, rerankers, WebMCP selection, and open reproductions. The key question is not whether the architecture is novel; it is whether calibration, latency, and downstream error make the specialist cheaper and safer than a general model on the actual decision surface. [raw/newsletters/ainews-2026-09-25-ainews-the-future-of-latent-space.md]
+
+## October 2026 update: decision models become a platform primitive
+
+OpenAI launched Decisions API after an internal sprint that reportedly produced a Luna-based decision-model wrapper in about a week. The API is positioned for fast classification, routing, judging, and real-time tool or computer control, with vision inherited from Luna. This is a product adoption signal for the category, not independent evidence that the implementation matches JEV's training objective or calibration. [[decision-models]] [raw/newsletters/latent-space-2026-09-30-why-dwarkesh-is-wrong-about-computer-use-how-openai-shipped-its-jev-co.md][raw/newsletters/ainews-2026-09-30-ainews-openai-devday-2026-dots-6-1-sol-ultrafast-decisions-api-agents.md]
+
+New coverage also describes JEV being used as a router, with swarms of JEVs voting per step, and as a retrieval component. These are promising source-reported directions, but the evaluation target should remain calibrated decisions and cost per verified downstream outcome rather than headline similarity to a frontier model. [raw/newsletters/ainews-2026-09-29-ainews-amd-buys-world-labs-for-8-2b-as-atlas-solves-sparse-reconstruct.md]
 
 ## Links
 

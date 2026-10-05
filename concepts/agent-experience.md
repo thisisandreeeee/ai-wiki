@@ -1,7 +1,7 @@
 ---
 title: Agent Experience
 created: 2026-07-13
-updated: 2026-09-07
+updated: 2026-10-05
 type: concept
 tags: [ai, tooling, trend]
 sources: [raw/newsletters/latent-space-2026-07-08-why-ai-infrastructure-must-evolve-for-agent-experience-akshat-bubna-mo.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/ainews-2026-07-11-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-09-01-runway-solaris-treats-software-like-video.md, raw/newsletters/latent-space-2026-09-05-openclaw-power-macbook-simplicity-five-days-with-grok-bot.md, raw/newsletters/the-neuron-2026-08-31-openclaw-2-0-rebuilt-the-personal-ai-agent.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md]
@@ -42,6 +42,12 @@ That means AX is not cosmetic. In [[software-factories]], a better model can sti
 [[runway-solaris]] pushes the interface boundary further by generating software screens frame by frame instead of writing the interface code first. The promise is flexible, on-demand UI; the reliability burden is persistence of meaning across interactions, accessibility, security, saved state, and recovery. [raw/newsletters/the-neuron-2026-09-01-runway-solaris-treats-software-like-video.md][raw/newsletters/ainews-2026-09-01-ainews-fal-s-h3-max-live-breaks-the-infinite-videogen-barrier.md]
 
 Astra and Fable 5.1 make the same design tradeoff visible in long-running coding work: fewer visible turns can feel more natural, but users still need progress, cost, state, and permission signals. Good AX hides incidental machinery without hiding consequential state.
+
+## October 2026: expose consequences, hide incidental machinery
+
+Dots, hosted computer use, and Claude Projects move agent experience toward persistent workspaces: users need to see progress, permissions, approvals, cost, and external effects without managing every model call. Pi Durable makes the same requirement explicit through checkpoints, concurrent branches, shared documents, and state synchronization. [[openai-dots]] [[mutable-software]] [raw/newsletters/the-neuron-2026-09-30-dots-is-here-openai-s-bigger-bet.md][raw/newsletters/ainews-2026-10-02-pi-1-0-pi-durable-and-aie-nyc.md]
+
+The latest speed claims also clarify the AX bottleneck. Even when generation is several times faster, tool execution, environment latency, and human supervision can dominate end-to-end time. Interfaces should therefore present scannable artifacts, clear handoffs, and actionable failure states rather than only a faster transcript. [[ai-benchmarking]] [raw/newsletters/latent-space-2026-09-30-why-dwarkesh-is-wrong-about-computer-use-how-openai-shipped-its-jev-co.md][raw/newsletters/the-neuron-2026-10-02-would-tavus-s-ai-fool-you.md]
 
 ## Links
 

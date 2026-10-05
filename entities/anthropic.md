@@ -1,7 +1,7 @@
 ---
 title: Anthropic
 created: 2026-06-23
-updated: 2026-09-28
+updated: 2026-10-05
 type: entity
 tags: [ai, company, llm, tooling, policy]
 sources: [raw/newsletters/the-neuron-2026-06-05-can-ai-improve-itself.md, raw/newsletters/ainews-2026-06-05-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-05-29-ainews-anthropic-raises-965b-series-h-releases-opus-4-8-and-dynamic-wo.md, raw/newsletters/the-neuron-2026-05-29-what-changed-inside-claude-opus-4-8.md, raw/newsletters/ainews-2026-06-10-ainews-anthropic-claude-fable-5-mythos-but-safe-with-controversial-ter.md, raw/newsletters/ainews-2026-06-24-ainews-claude-tag-multiplayer-proactive-persistent-agents-in-slack.md, raw/newsletters/ainews-2026-07-01-ainews-sonnet-5-today-and-fable-5-tomorrow.md, raw/newsletters/the-neuron-2026-07-01-fable-5-is-back-baby.md, raw/newsletters/the-neuron-2026-07-07-anthropic-found-claude-s-hidden-workspace.md, raw/newsletters/ainews-2026-07-07-ainews-the-field-guide-to-fable.md, raw/newsletters/ainews-2026-07-08-ainews-lilian-weng-summarizes-35-papers-on-harness-engineering-for-rsi.md, raw/newsletters/the-neuron-2026-07-08-one-rogue-agent-could-hijack-enterprise-chatbots.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/the-neuron-2026-09-02-fable-5-1-is-here-what-changed.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/the-neuron-2026-09-10-anthropic-researcher-sounds-the-alarm.md, raw/newsletters/the-neuron-2026-09-13-openai-asked-congress-if-ai-can-slow-down.md, raw/newsletters/ainews-2026-09-17-ainews-reality-checks-on-ai-news-yegge-shuts-down-gas-town-databricks.md, raw/newsletters/the-neuron-2026-09-17-openai-but-wait-there-s-more-rogue-agent-behavior.md, raw/newsletters/latent-space-2026-09-16-underwriting-superintelligence-backing-agents-you-can-sue-rune-kvist-a.md]
@@ -70,6 +70,12 @@ The AIUC interview places Anthropic in the history of frontier capability and de
 Anthropic's Claude Opus 5.5 was reported as delivering Fable 5.1-like performance for many tasks at about 40% lower operating cost than Opus 5, with a $4/$20 per-million-token API price. The coverage also shows why the product story is workload-specific: effort settings, tool orchestration, creative production, and agent harnesses materially shape the outcome. [[claude-opus-5-5]], [[model-routing]], and [[ai-benchmarking]] capture the operational comparison. [raw/newsletters/ainews-2026-09-23-ainews-claude-opus-5-5-the-new-default-model-for-ainews-and-everybody.md][raw/newsletters/the-neuron-2026-09-23-new-gpt-6-and-claude-models-start-a-price-war.md]
 
 Anthropic also reported a 950-agent genomic search that surfaced an uncharacterized ART enzyme system for human wet-lab validation. The biological function remains unknown, so the strongest current claim is that agent swarms can expand candidate search and produce reviewable hypotheses—not that they have produced a CRISPR replacement. [[ai-for-science]], [[self-driving-labs]], and [[ai-cybersecurity]] provide the capability and dual-use context. [raw/newsletters/the-neuron-2026-09-24-what-950-claude-agents-found.md][raw/newsletters/latent-space-2026-09-23-bio-security-is-an-ai-arms-race-eric-nguyen-ceo-radical-numerics.md]
+
+## October 2026: mutable harnesses and multiplayer work
+
+The Claude Code discussion with Thariq Shihipar describes a product moving beyond a fixed CLI. Artifacts are proposed as persistent interfaces into the harness; Claude Tag and Projects organize multiplayer work; and Claude Mods can customize the execution loop, UI, subagents, routing, and behavior. [[mutable-software]] captures the opportunity and the need for versioning, rollback, and permission boundaries. [raw/newsletters/latent-space-2026-09-29-claude-code-s-next-era-thariq-shihipar-anthropic.md]
+
+The same conversation separates a cloud “brain,” local or remote “hands,” and a dynamic interface. That decomposition may improve deployment flexibility, but it also makes identity transfer, isolation, and authorization harder to reason about across channels and projects. [[agent-reliability-and-operations]] remains the relevant release gate. [raw/newsletters/latent-space-2026-09-29-claude-code-s-next-era-thariq-shihipar-anthropic.md]
 
 ## Links
 

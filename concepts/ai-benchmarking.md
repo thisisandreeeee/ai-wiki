@@ -1,7 +1,7 @@
 ---
 title: AI Benchmarking
 created: 2026-07-30
-updated: 2026-09-28
+updated: 2026-10-05
 type: concept
 tags: [ai, research, model]
 sources: [raw/newsletters/ainews-2026-07-25-ainews-claude-opus-5-fable-level-performance-at-opus-price-half-fable.md, raw/newsletters/ainews-2026-07-29-ainews-ai-is-eating-finance-aie-nyc-now-open.md, raw/newsletters/ainews-2026-07-24-ainews-black-forest-labs-flux-3-multimodal-flow-models-that-beat-seeda.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md, raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/ainews-2026-09-01-ainews-fal-s-h3-max-live-breaks-the-infinite-videogen-barrier.md, raw/newsletters/the-neuron-2026-09-07-openai-s-data-vs-its-chief-scientist-s-fear.md, raw/newsletters/the-neuron-2026-09-09-openai-s-1m-math-breakthrough-sparked-a-fight-with-anthropic.md, raw/newsletters/the-neuron-2026-09-11-openai-advances-another-millennium-problem.md, raw/newsletters/ainews-2026-09-16-ainews-jev-a-system-one-model-that-only-decides-classifies-routes-scor.md, raw/newsletters/ainews-2026-09-17-ainews-reality-checks-on-ai-news-yegge-shuts-down-gas-town-databricks.md, raw/newsletters/latent-space-2026-09-15-can-skills-learned-in-games-transfer-to-real-world-work.md, raw/newsletters/the-neuron-2026-09-18-ai-agents-just-out-mathed-us.md]
@@ -49,6 +49,12 @@ Game-based training adds a transfer dimension. Improvement inside an RL environm
 The Opus 5.5 versus GPT-6 Sol coverage makes cost-per-success explicit: report quality together with reasoning effort, elapsed time, retries, tool calls, and human rescue. JEV adds calibration and abstention for bounded decisions; MiMo-V2.6-Pro adds the need to disclose RL environments, graders, and missing task data. [[model-routing]], [[jev]], and [[mimo-v2-6-pro]] are part of the same evidence chain. [raw/newsletters/the-neuron-2026-09-23-new-gpt-6-and-claude-models-start-a-price-war.md][raw/newsletters/ainews-2026-09-25-ainews-the-future-of-latent-space.md][raw/newsletters/ainews-2026-09-22-ainews-xiaomi-mimo-v2-6-pro-1t-a42b-the-new-top-open-weights-model-tra.md]
 
 Physical and scientific systems need outcome tests too. RoboHarm tests whether a robot-control model refuses dangerous actions in embodiment, while ERA and agentic biology workflows require independent verification that a score or candidate corresponds to a real scientific result. [[agentic-robotics]] and [[ai-for-science]] extend benchmarking beyond static answer accuracy. [raw/newsletters/the-neuron-2026-09-21-claude-failed-kitchen-safety-101.md][raw/newsletters/latent-space-2026-09-22-an-oscar-two-asteroids-and-the-algorithm-in-your-sklearn-john-platt-on.md]
+
+## October 2026: benchmark the full execution system
+
+The new model comparisons make harness disclosure even more important. Argon, Sol, Astra, Opus, and Sonnet trade places across coding, agent, hallucination, and knowledge-work suites; some figures are provider-reported or disputed. Report model version, harness, effort, cache behavior, tool latency, retries, output length, environment, and evaluator protocol before treating a ranking as portable. [[gemini-4-argon]] [raw/newsletters/ainews-2026-10-01-ainews-gemini-4-argon-gdm-s-answer-to-astra-fable-with-1m-output.md][raw/newsletters/ainews-2026-09-30-ainews-openai-devday-2026-dots-6-1-sol-ultrafast-decisions-api-agents.md]
+
+CUA-speedrun and the anecdotal Ultrafast reports reinforce a completed-task metric: faster generation does not imply proportionally faster work when tools, environment startup, verification, or human supervision dominate. Decision models require an additional calibration and abstention layer. [[decision-models]] [raw/newsletters/ainews-2026-10-02-pi-1-0-pi-durable-and-aie-nyc.md][raw/newsletters/latent-space-2026-09-30-why-dwarkesh-is-wrong-about-computer-use-how-openai-shipped-its-jev-co.md]
 
 ## Links
 

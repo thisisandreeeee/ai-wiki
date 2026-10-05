@@ -1,12 +1,39 @@
 [
   {
-    "id": "1a0b415f960f93f4",
+    "id": "1a0fc2d78ca90fe4",
     "newsletter": "the-neuron",
-    "subject": "😺 AI Agents Just Out-Mathed Us",
-    "date": "Fri, 18 Sep 2026 10:34:06 +0000 (UTC)",
+    "subject": "😺 Would Tavus’s AI fool you?",
+    "date": "Fri, 02 Oct 2026 10:33:52 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-09-18-ai-agents-just-out-mathed-us.md",
-    "chars": 17839
+    "path": "raw/newsletters/the-neuron-2026-10-02-would-tavus-s-ai-fool-you.md",
+    "chars": 19982
+  },
+  {
+    "id": "1a0fa0539f0975f3",
+    "newsletter": "latent-space",
+    "subject": "Academia is for Ambition — Alex Zhang, MIT",
+    "date": "Fri, 2 Oct 2026 00:28:05 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-10-02-academia-is-for-ambition-alex-zhang-mit.md",
+    "chars": 129898
+  },
+  {
+    "id": "1a0fb5bdef64657f",
+    "newsletter": "ainews",
+    "subject": "[AINews] Pi 1.0, Pi Durable, and AIE NYC",
+    "date": "Fri, 2 Oct 2026 06:40:53 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-10-02-ainews-pi-1-0-pi-durable-and-aie-nyc.md",
+    "chars": 43037
+  },
+  {
+    "id": "1a0fcf5fa978c82b",
+    "newsletter": "latent-space",
+    "subject": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
+    "date": "Fri, 2 Oct 2026 14:04:49 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-10-02-inside-out-ai-rebuilding-airbnb-behind-the-scenes-and-across-the-guest.md",
+    "chars": 11270
   },
   {
     "id": "1a0d6356d7390196",
@@ -45,24 +72,6 @@
     "chars": 99847
   },
   {
-    "id": "1a09f80358738f60",
-    "newsletter": "the-neuron",
-    "subject": "Congress asked if slowing down is legal",
-    "date": "Mon, 14 Sep 2026 10:39:28 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-09-14-congress-asked-if-slowing-down-is-legal.md",
-    "chars": 17158
-  },
-  {
-    "id": "1a0a0b03951e1bdc",
-    "newsletter": "latent-space",
-    "subject": "Why you should work on AI for AI Research — Richard Socher of Recursive",
-    "date": "Mon, 14 Sep 2026 16:04:16 +0000",
-    "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/latent-space-2026-09-14-why-you-should-work-on-ai-for-ai-research-richard-socher-of-recursive.md",
-    "chars": 115895
-  },
-  {
     "id": "1a0c393edfb3a383",
     "newsletter": "the-neuron",
     "subject": "😺 Claude failed Kitchen Safety 101",
@@ -81,13 +90,13 @@
     "chars": 197449
   },
   {
-    "id": "1a0b838306e41bb8",
-    "newsletter": "ainews",
-    "subject": "[AINews] Here are 6 Clones of Jev in 2 days",
-    "date": "Sat, 19 Sep 2026 05:48:29 +0000",
-    "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-09-19-ainews-here-are-6-clones-of-jev-in-2-days.md",
-    "chars": 43828
+    "id": "1a0e75ad5a76175a",
+    "newsletter": "the-neuron",
+    "subject": "😺 Should you fear AI agents?",
+    "date": "Mon, 28 Sep 2026 09:31:24 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-09-28-should-you-fear-ai-agents.md",
+    "chars": 17955
   },
   {
     "id": "1a0df8a4601c2b2b",
@@ -99,13 +108,13 @@
     "chars": 20707
   },
   {
-    "id": "1a0c016dff8ebb46",
+    "id": "1a10830a8449d396",
     "newsletter": "the-neuron",
-    "subject": "😺 How Google’s Gemini breached 3 real companies",
-    "date": "Sun, 20 Sep 2026 18:31:54 +0000 (UTC)",
+    "subject": "😺 a16z: Only 2% disclose tracked AI metrics",
+    "date": "Sun, 04 Oct 2026 18:32:25 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-09-20-how-google-s-gemini-breached-3-real-companies.md",
-    "chars": 18899
+    "path": "raw/newsletters/the-neuron-2026-10-04-a16z-only-2-disclose-tracked-ai-metrics.md",
+    "chars": 18590
   },
   {
     "id": "1a0e42325036d2e7",
@@ -117,31 +126,31 @@
     "chars": 21778
   },
   {
-    "id": "1a0ae477fe19e07b",
-    "newsletter": "ainews",
-    "subject": "[AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks’ +60% Astra cost)",
-    "date": "Thu, 17 Sep 2026 07:28:25 +0000",
-    "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-09-17-ainews-reality-checks-on-ai-news-yegge-shuts-down-gas-town-databricks.md",
-    "chars": 62815
-  },
-  {
-    "id": "1a0aeed1c97a3a44",
+    "id": "1a0f70e8b0cf6ecc",
     "newsletter": "the-neuron",
-    "subject": "🙀OpenAI: but wait, there’s more (rogue agent behavior)!",
-    "date": "Thu, 17 Sep 2026 10:32:16 +0000 (UTC)",
+    "subject": "😸 Trump renamed AI \"Super Intelligence\"",
+    "date": "Thu, 01 Oct 2026 10:41:55 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-09-17-openai-but-wait-there-s-more-rogue-agent-behavior.md",
-    "chars": 16862
+    "path": "raw/newsletters/the-neuron-2026-10-01-trump-renamed-ai-super-intelligence.md",
+    "chars": 17921
   },
   {
-    "id": "1a0b184ce7613a1a",
+    "id": "1a0f638275f3e79c",
+    "newsletter": "ainews",
+    "subject": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
+    "date": "Thu, 1 Oct 2026 06:45:06 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-10-01-ainews-gemini-4-argon-gdm-s-answer-to-astra-fable-with-1m-output.md",
+    "chars": 49470
+  },
+  {
+    "id": "1a0f753b1de65d81",
     "newsletter": "data-science-weekly",
-    "subject": "Data Science Weekly - Issue 669",
-    "date": "Thu, 17 Sep 2026 22:37:23 +0000",
+    "subject": "Data Science Weekly - Issue 671",
+    "date": "Thu, 1 Oct 2026 11:56:01 +0000",
     "from": "Data Science Weekly Newsletter <datascienceweekly@substack.com>",
-    "path": "raw/newsletters/data-science-weekly-2026-09-17-data-science-weekly-issue-669.md",
-    "chars": 12909
+    "path": "raw/newsletters/data-science-weekly-2026-10-01-data-science-weekly-issue-671.md",
+    "chars": 14012
   },
   {
     "id": "1a0d27e837511de1",
@@ -180,33 +189,6 @@
     "chars": 14055
   },
   {
-    "id": "1a0a3699084ab6ad",
-    "newsletter": "ainews",
-    "subject": "[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign",
-    "date": "Tue, 15 Sep 2026 04:50:36 +0000",
-    "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-09-15-ainews-aef-1-standard-emerges-for-third-party-evaluators-as-xai-openai.md",
-    "chars": 59062
-  },
-  {
-    "id": "1a0a4a03c1b15aad",
-    "newsletter": "the-neuron",
-    "subject": "😺Microsoft: Maybe we still put humans first??",
-    "date": "Tue, 15 Sep 2026 10:32:12 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-09-15-microsoft-maybe-we-still-put-humans-first.md",
-    "chars": 20235
-  },
-  {
-    "id": "1a0a6b4e8fed5a51",
-    "newsletter": "latent-space",
-    "subject": "Can Skills Learned in Games Transfer to Real-World Work?",
-    "date": "Tue, 15 Sep 2026 20:11:54 +0000",
-    "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/latent-space-2026-09-15-can-skills-learned-in-games-transfer-to-real-world-work.md",
-    "chars": 10959
-  },
-  {
     "id": "1a0c7d422d963e41",
     "newsletter": "ainews",
     "subject": "[AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
@@ -234,31 +216,31 @@
     "chars": 13032
   },
   {
-    "id": "1a0a98e24a6dae73",
-    "newsletter": "the-neuron",
-    "subject": "😺 $42 per BILLION tokens?!",
-    "date": "Wed, 16 Sep 2026 09:30:59 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-09-16-42-per-billion-tokens.md",
-    "chars": 20958
-  },
-  {
-    "id": "1a0a9ed73270e872",
-    "newsletter": "ainews",
-    "subject": "[AINews] Jev: a “System One Model” that only decides/classifies/routes/scores — >100x faster, >200x cheaper than s…",
-    "date": "Wed, 16 Sep 2026 11:09:53 +0000",
-    "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-09-16-ainews-jev-a-system-one-model-that-only-decides-classifies-routes-scor.md",
-    "chars": 51706
-  },
-  {
-    "id": "1a0ab68c2bf695d0",
+    "id": "1a0eadbe3cbcf8a0",
     "newsletter": "latent-space",
-    "subject": "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
-    "date": "Wed, 16 Sep 2026 18:07:46 +0000",
+    "subject": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
+    "date": "Tue, 29 Sep 2026 01:48:18 +0000",
     "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/latent-space-2026-09-16-underwriting-superintelligence-backing-agents-you-can-sue-rune-kvist-a.md",
-    "chars": 113098
+    "path": "raw/newsletters/latent-space-2026-09-29-claude-code-s-next-era-thariq-shihipar-anthropic.md",
+    "chars": 117437
+  },
+  {
+    "id": "1a0eb1a995aa467e",
+    "newsletter": "ainews",
+    "subject": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
+    "date": "Tue, 29 Sep 2026 02:55:27 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-09-29-ainews-amd-buys-world-labs-for-8-2b-as-atlas-solves-sparse-reconstruct.md",
+    "chars": 68148
+  },
+  {
+    "id": "1a0ecb9388ff329c",
+    "newsletter": "the-neuron",
+    "subject": "😺 Your AI agent needs an agent",
+    "date": "Tue, 29 Sep 2026 10:32:36 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-09-29-your-ai-agent-needs-an-agent.md",
+    "chars": 19197
   },
   {
     "id": "1a0cd02c689a2431",
@@ -286,5 +268,32 @@
     "from": "\"Latent.Space\" <swyx@substack.com>",
     "path": "raw/newsletters/latent-space-2026-09-23-bio-security-is-an-ai-arms-race-eric-nguyen-ceo-radical-numerics.md",
     "chars": 5017
+  },
+  {
+    "id": "1a0f0e252bfcaa75",
+    "newsletter": "ainews",
+    "subject": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Bil…",
+    "date": "Wed, 30 Sep 2026 05:53:10 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-09-30-ainews-openai-devday-2026-dots-6-1-sol-ultrafast-decisions-api-agents.md",
+    "chars": 52339
+  },
+  {
+    "id": "1a0f1e12e718e890",
+    "newsletter": "the-neuron",
+    "subject": "😺 Dots is here. OpenAI's bigger bet",
+    "date": "Wed, 30 Sep 2026 10:34:18 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-09-30-dots-is-here-openai-s-bigger-bet.md",
+    "chars": 16620
+  },
+  {
+    "id": "1a0f46ed804b9a14",
+    "newsletter": "latent-space",
+    "subject": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
+    "date": "Wed, 30 Sep 2026 22:23:40 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-09-30-why-dwarkesh-is-wrong-about-computer-use-how-openai-shipped-its-jev-co.md",
+    "chars": 60063
   }
 ]
