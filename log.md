@@ -139,3 +139,15 @@
 
 - `/home/janet/.hermes/venvs/ai-wiki/bin/python scripts/lint_wiki.py`: `OK: 125 wiki pages, 262 raw newsletter sources`.
 - `/home/janet/.hermes/venvs/ai-wiki/bin/python -m py_compile scripts/*.py`: passed with no output.
+
+## [2026-10-05] synthesize | Weekly newsletter batch
+
+- Ran `/home/janet/.hermes/venvs/ai-wiki/bin/python scripts/fetch_gmail_newsletters.py`: fetched 15 new raw newsletter sources dated 2026-09-28 through 2026-10-04; `raw/newsletters/manifest.json` was refreshed.
+- Created `entities/openai-dots.md`, `entities/gemini-4-argon.md`, `concepts/decision-models.md`, `concepts/mutable-software.md`, and `queries/weekly-briefing-2026-10-05.md`.
+- Updated `entities/openai.md`, `entities/anthropic.md`, `entities/google-gemini.md`, `entities/jev.md`, `concepts/agentic-systems.md`, `concepts/agent-reliability-and-operations.md`, `concepts/ai-benchmarking.md`, `concepts/model-routing.md`, `concepts/frontier-lab-governance.md`, `concepts/ai-infrastructure-economics.md`, `concepts/software-factories.md`, `concepts/agentic-knowledge-work.md`, `concepts/agent-experience.md`, and `index.md`.
+- Preserved existing raw newsletter files unchanged; retained the 15 new captures and refreshed manifest.
+
+## [2026-10-05] lint | 0 issues found
+
+- `/home/janet/.hermes/venvs/ai-wiki/bin/python scripts/lint_wiki.py`: `OK: 130 wiki pages, 277 raw newsletter sources`.
+- `/home/janet/.hermes/venvs/ai-wiki/bin/python -m py_compile scripts/*.py`: passed with no output.

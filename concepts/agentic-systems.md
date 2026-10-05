@@ -1,7 +1,7 @@
 ---
 title: Agentic Systems
 created: 2026-07-18
-updated: 2026-09-14
+updated: 2026-10-05
 type: concept
 tags: [ai, llm, tooling, data-engineering]
 sources: [raw/learning-resources/technical-interview-learning-resources.md, raw/newsletters/ainews-2026-08-08-ainews-zawinski-s-law-of-multiagents.md, raw/newsletters/ainews-2026-08-06-ainews-jeff-sanjay-oriol-and-quoc-depart-deepmind-demis-to-chair-koray.md, raw/newsletters/latent-space-2026-08-04-unpacking-chatgpt-work-the-agent-for-a-billion-users.md, raw/newsletters/ainews-2026-09-09-ainews-openai-reports-navier-stokes-singularity-find-in-88-hours-using.md, raw/newsletters/the-neuron-2026-09-09-openai-s-1m-math-breakthrough-sparked-a-fight-with-anthropic.md, raw/newsletters/the-neuron-2026-09-13-openai-asked-congress-if-ai-can-slow-down.md]
@@ -85,6 +85,12 @@ Evaluate both the trajectory and outcome. Strong evidence comes from external-wo
 The reported Navier–Stokes effort is an extreme orchestrator-worker system: thousands of agents explored in parallel, shared useful discoveries, and handed a candidate to a formal-verification stage. It demonstrates why agent evaluation must include topology, communication, deduplication, budgets, and verification rather than treating a swarm as one model call. [[test-time-compute-scaling]] develops the scaling frame. [raw/newsletters/ainews-2026-09-09-ainews-openai-reports-navier-stokes-singularity-find-in-88-hours-using.md][raw/newsletters/the-neuron-2026-09-09-openai-s-1m-math-breakthrough-sparked-a-fight-with-anthropic.md]
 
 The practical product version is less dramatic but equally structural: Agents APIs, persistent project coordinators, memory curators, and scheduled jobs make state and authorization first-class runtime objects. More agents are not automatically better; independence, permission separation, checkability, and recovery justify the graph. [raw/newsletters/the-neuron-2026-09-13-openai-asked-congress-if-ai-can-slow-down.md]
+
+## October 2026: persistent and mutable execution
+
+The new agent products make persistence concrete. OpenAI Dots gives an agent a cloud computer, browser, integrations, and ongoing projects; Pi Durable checkpoints every step, externalizes state, supports concurrent branches, and resumes after process failure. The shared design principle is that a long-running agent needs durable intent and recoverable external state, not just a larger context window. [[openai-dots]] [[mutable-software]] [raw/newsletters/the-neuron-2026-09-30-dots-is-here-openai-s-bigger-bet.md][raw/newsletters/ainews-2026-10-02-ainews-pi-1-0-pi-durable-and-aie-nyc.md]
+
+Decision models add a specialist branch to the loop: classify or route routine cases quickly, then escalate uncertainty to a stronger model or human. The architecture is useful when the answer space is bounded, but confidence must control escalation rather than serve as a substitute for outcome verification. [[decision-models]] [raw/newsletters/latent-space-2026-09-30-why-dwarkesh-is-wrong-about-computer-use-how-openai-shipped-its-jev-co.md]
 
 ## Links
 
