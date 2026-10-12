@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.  
-> Last updated: 2026-10-05 | Total pages: 130
+> Last updated: 2026-10-12 | Total pages: 137
 
 ## Entities
 
@@ -13,6 +13,7 @@
 - [[black-forest-labs]] — FLUX 3 lab connecting multimodal generation with robotics and physical-world modeling.
 - [[chai-discovery]] — BioAI company using structural and binding models to design molecules with pharma feedback loops.
 - [[claude-fable-5]] — Anthropic's public Mythos-class model and the corpus's central case study in gated frontier capability.
+- [[claude-haiku-5-5]] — Anthropic's low-cost, long-context worker model for summaries, subagents, and high-volume agentic work.
 - [[claude-opus-4-8]] — Anthropic coding/agent model that prefigured Fable-era workflow orchestration.
 - [[claude-opus-5]] — Anthropic Opus-class model framed as near-Fable coding capability with evaluation caveats.
 - [[claude-opus-5-5]] — Anthropic's September 2026 Opus model positioned as a cheaper, highly capable workhorse for coding, agents, and creative production.
@@ -45,6 +46,7 @@
 - [[microduck]] — Affordable open biped combining simulation, reinforcement learning, and sim-to-real experimentation.
 - [[microsoft]] — Enterprise AI platform actor bundling MAI models, GitHub, Windows, Foundry, context, and evals.
 - [[mimo-v2-6-pro]] — Xiaomi's reported trillion-parameter open-weight omnimodal model emphasizing long context and open post-training environments.
+- [[mistral-large-4]] — Reported large multimodal open-weight MoE with 1T total and 49B active parameters.
 - [[modal]] — AI cloud platform illustrating how infrastructure is being redesigned for agent-native workloads.
 - [[muse-charm]] — Meta's reported pocket-sized personal-agent interface connecting glasses, voice, and authorized cloud actions.
 - [[muse-glimmer]] — Meta's open-weight multimodal model aimed at always-on local agents.
@@ -55,14 +57,18 @@
 - [[openai-jalapeno-chip]] — OpenAI's rumored custom AI hardware chip, part of the infrastructure buildout to reduce dependence on NVIDIA.
 - [[openclaw]] — User-owned agent platform centered on a Gateway, persistent computers, plugins, skills, and automations.
 - [[openrouter]] — Multi-provider model gateway whose reported Stripe acquisition makes routing a strategic infrastructure layer.
+- [[periodic-labs]] — AI-for-materials lab pursuing closed-loop “synthesis superintelligence” with experiments and characterization.
 - [[poolside]] — Code-model lab using a high-throughput Model Factory and open-weight Laguna releases.
 - [[qwen-3-8-flash-next]] — Open hybrid-attention Qwen model combining a small active path with large n-gram memory tables.
 - [[qwen-3-8-max]] — Alibaba's 2.4T open-weight flagship and 27B companion aimed at coding, multimodal reasoning, and long-horizon agents.
 - [[radical-ai]] — Materials-science company using self-driving labs for closed-loop alloy discovery.
 - [[recursive]] — Richard Socher's AI-research company focused on automating parts of invention and AI research.
+- [[reflection-beam]] — Reported 501B-total/23B-active open-weight MoE from Reflection AI.
 - [[runway-solaris]] — Runway's reported Interface World Model that generates interactive software screens frame by frame.
 - [[runway-worldprompt]] — Runway's interactive audiovisual world-model interface for timestamped events and persistent generated state.
 - [[simile-ai]] — Behavioral-simulation company building digital twins and synthetic populations from interviews, behavior, and causal data.
+- [[stacklok]] — Cloud-native agent infrastructure company separating orchestration, execution, state, identity, and MCP governance.
+- [[standard-bots]] — Industrial robotics company combining learned perception with conventional control and local inference.
 
 ## Concepts
 
@@ -144,3 +150,4 @@
 - [[weekly-briefing-2026-09-21]] — Weekly synthesis of specialist decision models, agent authorization failures, third-party evaluation, recursive improvement, and assurance infrastructure.
 - [[weekly-briefing-2026-09-28]] — Weekly synthesis of model economics, agent permission boundaries, AI for science, physical safety, and incident-scale security signals.
 - [[weekly-briefing-2026-10-05]] — Weekly synthesis of agent operating systems, decision models, Gemini 4 Argon, mutable harnesses, enterprise deployment, and AI infrastructure economics.
+- [[weekly-briefing-2026-10-12]] — Weekly synthesis of interactive artifacts, cloud-native agent operations, open models, AI-for-science, robotics, and evaluation.

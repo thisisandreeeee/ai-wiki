@@ -1,7 +1,7 @@
 ---
 title: Agent Experience
 created: 2026-07-13
-updated: 2026-10-05
+updated: 2026-10-12
 type: concept
 tags: [ai, tooling, trend]
 sources: [raw/newsletters/latent-space-2026-07-08-why-ai-infrastructure-must-evolve-for-agent-experience-akshat-bubna-mo.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/ainews-2026-07-11-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-09-01-runway-solaris-treats-software-like-video.md, raw/newsletters/latent-space-2026-09-05-openclaw-power-macbook-simplicity-five-days-with-grok-bot.md, raw/newsletters/the-neuron-2026-08-31-openclaw-2-0-rebuilt-the-personal-ai-agent.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md]
@@ -48,6 +48,12 @@ Astra and Fable 5.1 make the same design tradeoff visible in long-running coding
 Dots, hosted computer use, and Claude Projects move agent experience toward persistent workspaces: users need to see progress, permissions, approvals, cost, and external effects without managing every model call. Pi Durable makes the same requirement explicit through checkpoints, concurrent branches, shared documents, and state synchronization. [[openai-dots]] [[mutable-software]] [raw/newsletters/the-neuron-2026-09-30-dots-is-here-openai-s-bigger-bet.md][raw/newsletters/ainews-2026-10-02-pi-1-0-pi-durable-and-aie-nyc.md]
 
 The latest speed claims also clarify the AX bottleneck. Even when generation is several times faster, tool execution, environment latency, and human supervision can dominate end-to-end time. Interfaces should therefore present scannable artifacts, clear handoffs, and actionable failure states rather than only a faster transcript. [[ai-benchmarking]] [raw/newsletters/latent-space-2026-09-30-why-dwarkesh-is-wrong-about-computer-use-how-openai-shipped-its-jev-co.md][raw/newsletters/the-neuron-2026-10-02-would-tavus-s-ai-fool-you.md]
+
+## October 2026: artifacts and inspectable decisions
+
+GPT-6 Intelligent UI and Claude Dashboards/Motion push agent experience from “answer” toward editable artifacts: interactive calculators, live dashboards, animations, documents, and designs. Good AX should expose definitions, queries, formulas, thresholds, provenance, and correction paths so a polished artifact does not hide uncertainty. [[openai]] [[anthropic]] [raw/newsletters/the-neuron-2026-10-08-gpt-6-builds-your-calculator-check-its-math.md][raw/newsletters/the-neuron-2026-10-09-new-claude-dashboards-use-your-live-data.md]
+
+[[stacklok]] provides the infrastructure counterpart: move the agent loop, state, memory, identity, and execution into manageable cloud-native services rather than treating one desktop process as the runtime. This should reduce operational coupling, but it raises the importance of explicit control-plane ownership and permission boundaries. [[agentic-systems]] [raw/newsletters/latent-space-2026-10-07-can-a-cloud-native-harness-make-agents-reliable-beyond-the-desktop.md]
 
 ## Links
 

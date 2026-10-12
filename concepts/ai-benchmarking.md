@@ -1,7 +1,7 @@
 ---
 title: AI Benchmarking
 created: 2026-07-30
-updated: 2026-10-05
+updated: 2026-10-12
 type: concept
 tags: [ai, research, model]
 sources: [raw/newsletters/ainews-2026-07-25-ainews-claude-opus-5-fable-level-performance-at-opus-price-half-fable.md, raw/newsletters/ainews-2026-07-29-ainews-ai-is-eating-finance-aie-nyc-now-open.md, raw/newsletters/ainews-2026-07-24-ainews-black-forest-labs-flux-3-multimodal-flow-models-that-beat-seeda.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md, raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/ainews-2026-09-01-ainews-fal-s-h3-max-live-breaks-the-infinite-videogen-barrier.md, raw/newsletters/the-neuron-2026-09-07-openai-s-data-vs-its-chief-scientist-s-fear.md, raw/newsletters/the-neuron-2026-09-09-openai-s-1m-math-breakthrough-sparked-a-fight-with-anthropic.md, raw/newsletters/the-neuron-2026-09-11-openai-advances-another-millennium-problem.md, raw/newsletters/ainews-2026-09-16-ainews-jev-a-system-one-model-that-only-decides-classifies-routes-scor.md, raw/newsletters/ainews-2026-09-17-ainews-reality-checks-on-ai-news-yegge-shuts-down-gas-town-databricks.md, raw/newsletters/latent-space-2026-09-15-can-skills-learned-in-games-transfer-to-real-world-work.md, raw/newsletters/the-neuron-2026-09-18-ai-agents-just-out-mathed-us.md]
@@ -55,6 +55,14 @@ Physical and scientific systems need outcome tests too. RoboHarm tests whether a
 The new model comparisons make harness disclosure even more important. Argon, Sol, Astra, Opus, and Sonnet trade places across coding, agent, hallucination, and knowledge-work suites; some figures are provider-reported or disputed. Report model version, harness, effort, cache behavior, tool latency, retries, output length, environment, and evaluator protocol before treating a ranking as portable. [[gemini-4-argon]] [raw/newsletters/ainews-2026-10-01-ainews-gemini-4-argon-gdm-s-answer-to-astra-fable-with-1m-output.md][raw/newsletters/ainews-2026-09-30-ainews-openai-devday-2026-dots-6-1-sol-ultrafast-decisions-api-agents.md]
 
 CUA-speedrun and the anecdotal Ultrafast reports reinforce a completed-task metric: faster generation does not imply proportionally faster work when tools, environment startup, verification, or human supervision dominate. Decision models require an additional calibration and abstention layer. [[decision-models]] [raw/newsletters/ainews-2026-10-02-pi-1-0-pi-durable-and-aie-nyc.md][raw/newsletters/latent-space-2026-09-30-why-dwarkesh-is-wrong-about-computer-use-how-openai-shipped-its-jev-co.md]
+
+## October 2026: verify the artifact and the research claim
+
+The OpenAI math release reinforces evidence-chain benchmarking. Report corpus size, problem selection, compute, formalization status, independent review, and reusable artifacts; do not treat 722 manuscripts as 722 validated discoveries. [[ai-for-science]] [raw/newsletters/ainews-2026-10-07-ainews-quasi-riemann-hypothesis-openai-publishes-722-math-papers-solvi.md][raw/newsletters/the-neuron-2026-10-07-722-math-manuscripts-one-openai-model.md]
+
+Haiku 5.5 and Mistral Large 4 show why model rankings need token use, context tier, refusal behavior, task cost, and openness status alongside headline scores. Early reports can disagree because evaluators use different harnesses, effort settings, and cost models. [[claude-haiku-5-5]] [[mistral-large-4]] [raw/newsletters/ainews-2026-10-08-ainews-claude-haiku-5-5-better-than-gpt-6-luna-at-the-same-pricing.md][raw/newsletters/ainews-2026-10-07-ainews-quasi-riemann-hypothesis-openai-publishes-722-math-papers-solvi.md]
+
+For generated work artifacts, evaluate formula correctness, source/query traceability, editability, and user recovery—not only visual quality. For clinical and physical systems, add comparison groups, human-oversight transitions, safety failures, uptime, and authorized outcomes. [[agent-experience]] [[real-world-agent-evaluations]] [raw/newsletters/the-neuron-2026-10-09-new-claude-dashboards-use-your-live-data.md][raw/newsletters/the-neuron-2026-10-11-a-chatbot-interviewed-98-patients-then-what.md]
 
 ## Links
 

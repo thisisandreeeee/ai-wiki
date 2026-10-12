@@ -1,7 +1,7 @@
 ---
 title: JEV
 created: 2026-09-21
-updated: 2026-10-05
+updated: 2026-10-12
 type: entity
 tags: [ai, llm, model, tooling, research]
 sources: [raw/newsletters/ainews-2026-09-16-ainews-jev-a-system-one-model-that-only-decides-classifies-routes-scor.md, raw/newsletters/ainews-2026-09-19-ainews-here-are-6-clones-of-jev-in-2-days.md, raw/newsletters/the-neuron-2026-09-16-42-per-billion-tokens.md, raw/newsletters/the-neuron-2026-09-20-how-google-s-gemini-breached-3-real-companies.md]
@@ -37,6 +37,14 @@ The wider batch adds a practical benchmark pattern: use JEV for routine choices,
 OpenAI launched Decisions API after an internal sprint that reportedly produced a Luna-based decision-model wrapper in about a week. The API is positioned for fast classification, routing, judging, and real-time tool or computer control, with vision inherited from Luna. This is a product adoption signal for the category, not independent evidence that the implementation matches JEV's training objective or calibration. [[decision-models]] [raw/newsletters/latent-space-2026-09-30-why-dwarkesh-is-wrong-about-computer-use-how-openai-shipped-its-jev-co.md][raw/newsletters/ainews-2026-09-30-ainews-openai-devday-2026-dots-6-1-sol-ultrafast-decisions-api-agents.md]
 
 New coverage also describes JEV being used as a router, with swarms of JEVs voting per step, and as a retrieval component. These are promising source-reported directions, but the evaluation target should remain calibrated decisions and cost per verified downstream outcome rather than headline similarity to a frontier model. [raw/newsletters/ainews-2026-09-29-ainews-amd-buys-world-labs-for-8-2b-as-atlas-solves-sparse-reconstruct.md]
+
+## October 2026 update: category formation and economics
+
+New coverage presents decision models as a product category rather than a single TypeSafe launch. OpenAI Decisions API, Perplexity's decider, Cloudflare Clef, Liquid d1, vLLM Semantic Router, and LangSmith judge integrations all use typed choices, probabilities, or scores for classification, routing, and evaluation. [[decision-models]] [raw/newsletters/ainews-2026-10-10-ainews-typesafe-jev-at-100m-arr-7-5b-valuation-3-weeks-after-launch.md]
+
+The same issue reports that TypeSafe crossed $100M ARR and a $7.5B valuation shortly after launch, while explicitly noting cynicism and possible astroturfing. Treat those figures as company- and investor-reported market signals, not verified financial facts. The durable question remains whether calibrated decisions reduce cost per verified outcome after abstention and escalation. [[ai-benchmarking]] [[agent-reliability-and-operations]] [raw/newsletters/ainews-2026-10-10-ainews-typesafe-jev-at-100m-arr-7-5b-valuation-3-weeks-after-launch.md]
+
+A Data Elixir issue adds a useful teaching frame: Jev sits on a continuum from classic classifiers to general-purpose LLMs, so the correct comparison depends on the task's label space, calibration requirement, and error cost. [raw/newsletters/data-elixir-2026-10-06-data-elixir-issue-592.md]
 
 ## Links
 
