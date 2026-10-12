@@ -1,7 +1,7 @@
 ---
 title: Agentic Robotics
 created: 2026-07-30
-updated: 2026-08-31
+updated: 2026-10-12
 type: concept
 tags: [ai, machine-learning, research]
 sources: [raw/newsletters/the-neuron-2026-08-20-moderna-s-cancer-treatment-started-with-ai.md, raw/newsletters/ainews-2026-07-24-ainews-black-forest-labs-flux-3-multimodal-flow-models-that-beat-seeda.md, raw/newsletters/the-neuron-2026-07-27-is-this-the-future-of-robotics.md, raw/newsletters/ainews-2026-07-29-ainews-fearing-rsi-openai-anthropic-gdm-meta-thinky-cosign-letter-to-p.md]
@@ -31,6 +31,12 @@ The robotics thread reinforces [[self-driving-labs]]: physical AI depends on clo
 Microduck combines an affordable 25cm biped, open simulation, pre-trained policies, and sim-to-real reinforcement learning. The reported $399 price and early community experiments matter because they widen participation in physical-agent training and evaluation beyond tightly controlled lab demos. [raw/newsletters/ainews-2026-08-28-ainews-openai-to-reach-agi-bar-by-end-2026.md][raw/newsletters/the-neuron-2026-08-30-anthropic-taught-ai-agents-to-use-machines.md]
 
 Anthropic’s [[model-hardware-standard]] points at the complementary software problem: standard drivers, read/write commands, capability descriptions, and safety tags can make lab and factory equipment discoverable to agents. The reported QuEra example recovered a quantum-laser lock in 695 of 700 trials, but the preview still requires programmable hardware and expert oversight. [raw/newsletters/the-neuron-2026-08-30-anthropic-taught-ai-agents-to-use-machines.md]
+
+## October 2026: reliable execution in factories
+
+[[standard-bots]] reports a practical division of labor: learned perception identifies parts, while conventional programs handle motion and cell logic. Models are trained in the cloud but run on-premise, using targeted demonstrations and human corrections to fix deployment edge cases. [[agent-reliability-and-operations]] [raw/newsletters/latent-space-2026-10-10-building-ai-for-reliable-execution-lessons-from-industrial-robotics.md]
+
+This is a useful counterweight to humanoid demos. Reliability comes from controlling the full hardware/software stack, keeping the action horizon short, preserving local uptime, and making air-gapped or customer-controlled data boundaries explicit. [[self-driving-labs]] [raw/newsletters/latent-space-2026-10-10-building-ai-for-reliable-execution-lessons-from-industrial-robotics.md]
 
 ## Links
 

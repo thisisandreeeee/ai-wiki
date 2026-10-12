@@ -1,7 +1,7 @@
 ---
 title: AI for Science
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-12
 type: concept
 tags: [ai, machine-learning, data-science, research, tooling, trend]
 sources: [raw/newsletters/latent-space-2026-09-22-an-oscar-two-asteroids-and-the-algorithm-in-your-sklearn-john-platt-on.md, raw/newsletters/newsletter-2026-09-24-foundries-vs-navigators-lowering-the-cost-of-science.md, raw/newsletters/the-neuron-2026-09-24-what-950-claude-agents-found.md, raw/newsletters/latent-space-2026-09-23-bio-security-is-an-ai-arms-race-eric-nguyen-ceo-radical-numerics.md]
@@ -34,6 +34,14 @@ Genomic language-model coverage adds a dual-use warning. Long-context DNA models
 - How should agent-generated hypotheses be attributed, reproduced, and independently reviewed?
 - Does faster hypothesis generation overcome slow wet-lab and clinical feedback loops?
 - Which biological capabilities require staged access, monitoring, or dual-use restrictions?
+
+## October 2026 update: experiment, verification, and absorption
+
+OpenAI's reported 722 mathematical manuscripts show a new bottleneck shape: generation can produce a large corpus quickly, but only some results are formalized and independent reviewers still need to verify, understand, and connect them. The relevant unit is verified and reusable knowledge, not raw output volume. [[ai-benchmarking]] [raw/newsletters/ainews-2026-10-07-ainews-quasi-riemann-hypothesis-openai-publishes-722-math-papers-solvi.md][raw/newsletters/the-neuron-2026-10-07-722-math-manuscripts-one-openai-model.md]
+
+[[periodic-labs]] describes the physical analogue. Materials discovery needs synthesis, characterization, multimodal measurements, negative results, and reasoning under noisy and incomplete observations. Experiments are the ground truth because a model can otherwise exploit memorized answers or an imperfect simulator. [[self-driving-labs]] [raw/newsletters/latent-space-2026-10-08-synthesis-superintelligence-from-semiconductors-to-superconductors-per.md]
+
+The AlphaFold discussion adds a scope warning: useful structure prediction is not the same as solving protein dynamics, function, whole-cell biology, or disease. A good scientific model therefore needs calibrated uncertainty and behavioral characterization even when internal interpretability is incomplete. [raw/newsletters/latent-space-2026-10-10-why-alphafold-didn-t-solve-protein-folding-pushmeet-kohli-google-deepm.md]
 
 ## Links
 
