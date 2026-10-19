@@ -133,6 +133,12 @@ Physical deployment adds a parallel pattern. [[standard-bots]] keeps perception 
 
 Interactive artifacts need the same controls: verify dashboard definitions and calculator formulas, record source data, and make correction and escalation paths visible. [[agent-experience]] [raw/newsletters/the-neuron-2026-10-08-gpt-6-builds-your-calculator-check-its-math.md][raw/newsletters/the-neuron-2026-10-09-new-claude-dashboards-use-your-live-data.md]
 
+## October 2026: persistence, trust, and physical/scientific agents
+
+The new coverage reinforces that long-horizon capability is inseparable from operational controls. Muse Wonder's Active Memory and Active Focus make retention, deletion, training settings, recovery, and quota behavior part of the reliability surface; a persistent agent should not be judged only by whether it eventually produces an answer. [[muse-wonder]] [raw/newsletters/the-neuron-2026-10-13-meta-s-muse-wonder-is-here-priced-like-opus.md][raw/newsletters/ainews-2026-10-13-ainews-meta-muse-wonder-wonder-full-msl-s-claude-5-5-tier-frontier-mod.md]
+
+Physical and scientific agents add different forms of external verification. [[dyna-2]] emphasizes sustained recovery in a real deployment, while [[leash-bio]] uses a lab-grounded sandbox so experimental feedback can constrain agent reasoning. Both require outcome evidence, authorization boundaries, and independent checks outside the model. [raw/newsletters/latent-space-2026-10-13-dyna-2-general-purpose-physical-agents-with-hour-long-autonomy-jason-m.md][raw/newsletters/latent-space-2026-10-14-lab-in-the-loop-at-compute-speed-ian-quigley-leash-bio.md]
+
 ## Links
 
 - [[agentic-systems]] defines the runtime, harness, state, and verification loop.

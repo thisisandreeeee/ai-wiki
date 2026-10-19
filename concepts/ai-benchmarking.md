@@ -64,6 +64,12 @@ Haiku 5.5 and Mistral Large 4 show why model rankings need token use, context ti
 
 For generated work artifacts, evaluate formula correctness, source/query traceability, editability, and user recovery—not only visual quality. For clinical and physical systems, add comparison groups, human-oversight transitions, safety failures, uptime, and authorized outcomes. [[agent-experience]] [[real-world-agent-evaluations]] [raw/newsletters/the-neuron-2026-10-09-new-claude-dashboards-use-your-live-data.md][raw/newsletters/the-neuron-2026-10-11-a-chatbot-interviewed-98-patients-then-what.md]
 
+## October 2026: benchmark openness and physical persistence
+
+Muse Spark Open adds a useful distinction between open weights and practical openness: deployment artifacts and local runtimes widen experimentation, but model size, license terms, safety tuning, and weaker reported agentic results still shape who can use it and for what. [[muse-spark-open]] [raw/newsletters/ainews-2026-10-16-ainews-agents-disprove-polysemanticity-greatly-improve-interpretabilit.md]
+
+Dyna-2 and Leash Bio point to two under-measured evaluation surfaces. Physical agents need long-horizon recovery and authorized execution; scientific agents need reproducible experimental feedback and independent verification rather than only benchmark scores. [[dyna-2]] [[leash-bio]] [raw/newsletters/latent-space-2026-10-13-dyna-2-general-purpose-physical-agents-with-hour-long-autonomy-jason-m.md][raw/newsletters/latent-space-2026-10-14-lab-in-the-loop-at-compute-speed-ian-quigley-leash-bio.md]
+
 ## Links
 
 - Related concepts: [[coding-agent-evaluation]], [[real-world-agent-evaluations]], [[software-factories]], [[model-routing]], [[third-party-ai-evaluation]]
