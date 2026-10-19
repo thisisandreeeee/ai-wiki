@@ -38,7 +38,11 @@ Anthropic’s [[model-hardware-standard]] points at the complementary software p
 
 This is a useful counterweight to humanoid demos. Reliability comes from controlling the full hardware/software stack, keeping the action horizon short, preserving local uptime, and making air-gapped or customer-controlled data boundaries explicit. [[self-driving-labs]] [raw/newsletters/latent-space-2026-10-10-building-ai-for-reliable-execution-lessons-from-industrial-robotics.md]
 
+## October 2026: world-action models and sustained execution
+
+[[dyna-2]] frames physical agents as a world-action modeling problem: combine video, robot state, language, future-state prediction, and executable actions, then adapt across embodiments with a mix of human video, robot demonstrations, synthetic data, and self-generated world-model data. The reported napkin-folding deployment is company-reported, but its 24-hour duration highlights a more useful target than a short demo: recoverable execution over long horizons. [[real-world-agent-evaluations]] [raw/newsletters/latent-space-2026-10-13-dyna-2-general-purpose-physical-agents-with-hour-long-autonomy-jason-m.md]
+
 ## Links
 
-- Related entities: [[black-forest-labs]], [[nvidia]], [[radical-ai]]
+- Related entities: [[black-forest-labs]], [[nvidia]], [[radical-ai]], [[dyna-2]]
 - Related concepts: [[self-driving-labs]], [[real-world-agent-evaluations]], [[recursive-self-improvement]]

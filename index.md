@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.  
-> Last updated: 2026-10-12 | Total pages: 137
+> Last updated: 2026-10-19 | Total pages: 142
 
 ## Entities
 
@@ -22,6 +22,7 @@
 - [[cursor]] — AI coding environment illustrating provider access controls and social-engineering risk.
 - [[databricks]] — Enterprise data+AI platform and key player in the AI infrastructure and agent ecosystem.
 - [[deepseek-v4-1-flash]] — Open-weight multimodal model emphasizing asymmetric prefill/decode, KV-cache efficiency, and long-context serving.
+- [[dyna-2]] — Dyna Robotics world-action model for physical agents, cross-embodiment transfer, and sustained robot execution.
 - [[deepseek-v4-flash]] — Cost/performance open-weight model emphasizing post-training, Codex-compatible serving, and rapid local-runtime support.
 - [[fal-h3-max]] — Video-generation system and serving stack reported to enable continuous, audience-steerable, faster-than-realtime generation.
 - [[gemini-3-7-flash]] — Google's fast, inexpensive workhorse model for coding, knowledge work, and agentic workflows.
@@ -41,6 +42,7 @@
 - [[inkling]] — Thinking Machines' open-weight multimodal MoE positioned around customization and private post-training.
 - [[jev]] — TypeSafe decision-oriented model for fast, typed, calibrated classification and routing.
 - [[kimi-k3]] — Moonshot AI's 2.8T open-weight frontier-class model and major open-vs-closed policy catalyst.
+- [[leash-bio]] — Biotechnology company using high-throughput experimental data and a lab sandbox for grounded scientific agents.
 - [[lovable]] — AI app-building platform evolving toward agent-callable capabilities and a shared company interface.
 - [[meta]] — Large AI platform company anchoring the acceleration/open-distribution side of the current governance split.
 - [[microduck]] — Affordable open biped combining simulation, reinforcement learning, and sim-to-real experimentation.
@@ -51,6 +53,8 @@
 - [[muse-charm]] — Meta's reported pocket-sized personal-agent interface connecting glasses, voice, and authorized cloud actions.
 - [[muse-glimmer]] — Meta's open-weight multimodal model aimed at always-on local agents.
 - [[muse-spark-1-3]] — Meta's workhorse model for agentic/coding tasks, emphasizing tool-use efficiency and open-weight distribution.
+- [[muse-spark-open]] — Meta's reported open-weight multimodal MoE for coding, long-horizon agents, and local deployment.
+- [[muse-wonder]] — Meta's reported frontier model for persistent coding, assistance, and multi-step agentic work.
 - [[nvidia]] — AI hardware and open-model actor spanning local agent systems, Cosmos, Nemotron, and open AI security tooling.
 - [[openai]] — Product consolidation, GPT-5.6/ChatGPT Work rollout, cyber-incident fallout, health interfaces, and governance pressure around OpenAI.
 - [[openai-dots]] — OpenAI's always-on agent with a cloud computer, browser, integrations, persistent projects, and approval gates.
@@ -151,3 +155,4 @@
 - [[weekly-briefing-2026-09-28]] — Weekly synthesis of model economics, agent permission boundaries, AI for science, physical safety, and incident-scale security signals.
 - [[weekly-briefing-2026-10-05]] — Weekly synthesis of agent operating systems, decision models, Gemini 4 Argon, mutable harnesses, enterprise deployment, and AI infrastructure economics.
 - [[weekly-briefing-2026-10-12]] — Weekly synthesis of interactive artifacts, cloud-native agent operations, open models, AI-for-science, robotics, and evaluation.
+- [[weekly-briefing-2026-10-19]] — Weekly synthesis of frontier models, agent orchestration, physical/scientific agents, workplace trust, and infrastructure economics.
