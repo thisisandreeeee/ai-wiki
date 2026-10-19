@@ -1,14 +1,5 @@
 [
   {
-    "id": "1a0fc2d78ca90fe4",
-    "newsletter": "the-neuron",
-    "subject": "😺 Would Tavus’s AI fool you?",
-    "date": "Fri, 02 Oct 2026 10:33:52 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-10-02-would-tavus-s-ai-fool-you.md",
-    "chars": 19982
-  },
-  {
     "id": "1a1203a623ba6286",
     "newsletter": "the-neuron",
     "subject": "😺 New Claude Dashboards use your live data",
@@ -18,31 +9,22 @@
     "chars": 18102
   },
   {
-    "id": "1a0fa0539f0975f3",
-    "newsletter": "latent-space",
-    "subject": "Academia is for Ambition — Alex Zhang, MIT",
-    "date": "Fri, 2 Oct 2026 00:28:05 +0000",
-    "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/latent-space-2026-10-02-academia-is-for-ambition-alex-zhang-mit.md",
-    "chars": 129898
-  },
-  {
-    "id": "1a0fb5bdef64657f",
+    "id": "1a142eec01184669",
     "newsletter": "ainews",
-    "subject": "[AINews] Pi 1.0, Pi Durable, and AIE NYC",
-    "date": "Fri, 2 Oct 2026 06:40:53 +0000",
+    "subject": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
+    "date": "Fri, 16 Oct 2026 04:16:46 +0000",
     "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-10-02-ainews-pi-1-0-pi-durable-and-aie-nyc.md",
-    "chars": 43037
+    "path": "raw/newsletters/ainews-2026-10-16-ainews-agents-disprove-polysemanticity-greatly-improve-interpretabilit.md",
+    "chars": 55598
   },
   {
-    "id": "1a0fcf5fa978c82b",
-    "newsletter": "latent-space",
-    "subject": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
-    "date": "Fri, 2 Oct 2026 14:04:49 +0000",
-    "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/latent-space-2026-10-02-inside-out-ai-rebuilding-airbnb-behind-the-scenes-and-across-the-guest.md",
-    "chars": 11270
+    "id": "1a144462412adc3e",
+    "newsletter": "the-neuron",
+    "subject": "😺 Advertisers can target ChatGPT by prompt",
+    "date": "Fri, 16 Oct 2026 10:33:27 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-10-16-advertisers-can-target-chatgpt-by-prompt.md",
+    "chars": 19347
   },
   {
     "id": "1a10b9e9d21da56c",
@@ -54,13 +36,22 @@
     "chars": 17323
   },
   {
-    "id": "1a0e75ad5a76175a",
+    "id": "1a12fe3fa889dc8f",
     "newsletter": "the-neuron",
-    "subject": "😺 Should you fear AI agents?",
-    "date": "Mon, 28 Sep 2026 09:31:24 +0000 (UTC)",
+    "subject": "😺 White House orders AI incident reporting",
+    "date": "Mon, 12 Oct 2026 11:33:50 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-09-28-should-you-fear-ai-agents.md",
-    "chars": 17955
+    "path": "raw/newsletters/the-neuron-2026-10-12-white-house-orders-ai-incident-reporting.md",
+    "chars": 19140
+  },
+  {
+    "id": "1a13158e13c611e5",
+    "newsletter": "latent-space",
+    "subject": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
+    "date": "Mon, 12 Oct 2026 18:18:17 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-10-12-how-anthropic-s-dynamic-workflows-coordinate-claude-agents.md",
+    "chars": 8478
   },
   {
     "id": "1a1233a5d4bfe9b3",
@@ -99,13 +90,22 @@
     "chars": 3991
   },
   {
-    "id": "1a10830a8449d396",
+    "id": "1a148d7d082d0b7d",
+    "newsletter": "ainews",
+    "subject": "[AINews] High Taste Testers Ep. 1",
+    "date": "Sat, 17 Oct 2026 07:47:38 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-10-17-ainews-high-taste-testers-ep-1.md",
+    "chars": 55630
+  },
+  {
+    "id": "1a149f9a0cce8ab4",
     "newsletter": "the-neuron",
-    "subject": "😺 a16z: Only 2% disclose tracked AI metrics",
-    "date": "Sun, 04 Oct 2026 18:32:25 +0000 (UTC)",
+    "subject": "😸 DEEP DIVE: The 32-language workplace is here",
+    "date": "Sat, 17 Oct 2026 13:07:36 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-10-04-a16z-only-2-disclose-tracked-ai-metrics.md",
-    "chars": 18590
+    "path": "raw/newsletters/the-neuron-2026-10-17-deep-dive-the-32-language-workplace-is-here.md",
+    "chars": 18186
   },
   {
     "id": "1a12ae885d4eaa6e",
@@ -126,13 +126,13 @@
     "chars": 18914
   },
   {
-    "id": "1a0f70e8b0cf6ecc",
+    "id": "1a1501191e705403",
     "newsletter": "the-neuron",
-    "subject": "😸 Trump renamed AI \"Super Intelligence\"",
-    "date": "Thu, 01 Oct 2026 10:41:55 +0000 (UTC)",
+    "subject": "😺 How far do Meta’s scraping terms reach?",
+    "date": "Sun, 18 Oct 2026 17:31:30 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-10-01-trump-renamed-ai-super-intelligence.md",
-    "chars": 17921
+    "path": "raw/newsletters/the-neuron-2026-10-18-how-far-do-meta-s-scraping-terms-reach.md",
+    "chars": 16543
   },
   {
     "id": "1a11b1a98a20cf0b",
@@ -144,22 +144,31 @@
     "chars": 19150
   },
   {
-    "id": "1a0f638275f3e79c",
+    "id": "1a13f13085079cd6",
     "newsletter": "ainews",
-    "subject": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
-    "date": "Thu, 1 Oct 2026 06:45:06 +0000",
+    "subject": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 mo…",
+    "date": "Thu, 15 Oct 2026 10:08:08 +0000",
     "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-10-01-ainews-gemini-4-argon-gdm-s-answer-to-astra-fable-with-1m-output.md",
-    "chars": 49470
+    "path": "raw/newsletters/ainews-2026-10-15-ainews-modal-s-1b-arr-16b-series-d-makes-it-nyc-s-newest-ai-infra-deca.md",
+    "chars": 61922
   },
   {
-    "id": "1a0f753b1de65d81",
+    "id": "1a13f1f12b0ed399",
+    "newsletter": "the-neuron",
+    "subject": "😸 Gemini on scam patrol",
+    "date": "Thu, 15 Oct 2026 10:32:37 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-10-15-gemini-on-scam-patrol.md",
+    "chars": 18844
+  },
+  {
+    "id": "1a141dac4ce59c37",
     "newsletter": "data-science-weekly",
-    "subject": "Data Science Weekly - Issue 671",
-    "date": "Thu, 1 Oct 2026 11:56:01 +0000",
+    "subject": "Data Science Weekly - Issue 673",
+    "date": "Thu, 15 Oct 2026 23:16:31 +0000",
     "from": "Data Science Weekly Newsletter <datascienceweekly@substack.com>",
-    "path": "raw/newsletters/data-science-weekly-2026-10-01-data-science-weekly-issue-671.md",
-    "chars": 14012
+    "path": "raw/newsletters/data-science-weekly-2026-10-15-data-science-weekly-issue-673.md",
+    "chars": 14684
   },
   {
     "id": "1a11a6bfe82e33f4",
@@ -216,31 +225,40 @@
     "chars": 6214
   },
   {
-    "id": "1a0eadbe3cbcf8a0",
-    "newsletter": "latent-space",
-    "subject": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
-    "date": "Tue, 29 Sep 2026 01:48:18 +0000",
-    "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/latent-space-2026-09-29-claude-code-s-next-era-thariq-shihipar-anthropic.md",
-    "chars": 117437
-  },
-  {
-    "id": "1a0eb1a995aa467e",
+    "id": "1a134a117a369337",
     "newsletter": "ainews",
-    "subject": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
-    "date": "Tue, 29 Sep 2026 02:55:27 +0000",
+    "subject": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
+    "date": "Tue, 13 Oct 2026 09:37:04 +0000",
     "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-09-29-ainews-amd-buys-world-labs-for-8-2b-as-atlas-solves-sparse-reconstruct.md",
-    "chars": 68148
+    "path": "raw/newsletters/ainews-2026-10-13-ainews-meta-muse-wonder-wonder-full-msl-s-claude-5-5-tier-frontier-mod.md",
+    "chars": 77221
   },
   {
-    "id": "1a0ecb9388ff329c",
+    "id": "1a134a2e25028573",
     "newsletter": "the-neuron",
-    "subject": "😺 Your AI agent needs an agent",
-    "date": "Tue, 29 Sep 2026 10:32:36 +0000 (UTC)",
+    "subject": "😺 Meta’s Muse Wonder is here, priced like Opus",
+    "date": "Tue, 13 Oct 2026 09:40:50 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-09-29-your-ai-agent-needs-an-agent.md",
-    "chars": 19197
+    "path": "raw/newsletters/the-neuron-2026-10-13-meta-s-muse-wonder-is-here-priced-like-opus.md",
+    "chars": 19237
+  },
+  {
+    "id": "1a13675698e56997",
+    "newsletter": "data-elixir",
+    "subject": "Data Elixir - Issue 593",
+    "date": "Tue, 13 Oct 2026 18:10:26 +0000 (UTC)",
+    "from": "Data Elixir <lon@dataelixir.com>",
+    "path": "raw/newsletters/data-elixir-2026-10-13-data-elixir-issue-593.md",
+    "chars": 7949
+  },
+  {
+    "id": "1a13760e5c2557c6",
+    "newsletter": "latent-space",
+    "subject": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
+    "date": "Tue, 13 Oct 2026 22:25:55 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-10-13-dyna-2-general-purpose-physical-agents-with-hour-long-autonomy-jason-m.md",
+    "chars": 85538
   },
   {
     "id": "1a10fe94d54802eb",
@@ -261,31 +279,40 @@
     "chars": 18716
   },
   {
-    "id": "1a0f0e252bfcaa75",
+    "id": "1a138ef67c50c066",
     "newsletter": "ainews",
-    "subject": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Bil…",
-    "date": "Wed, 30 Sep 2026 05:53:10 +0000",
+    "subject": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
+    "date": "Wed, 14 Oct 2026 05:40:28 +0000",
     "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-09-30-ainews-openai-devday-2026-dots-6-1-sol-ultrafast-decisions-api-agents.md",
-    "chars": 52339
+    "path": "raw/newsletters/ainews-2026-10-14-ainews-ai-engineer-nyc-gemini-4-argon-vals-ai-benchmarks.md",
+    "chars": 56511
   },
   {
-    "id": "1a0f1e12e718e890",
+    "id": "1a139dd65a08ff9d",
     "newsletter": "the-neuron",
-    "subject": "😺 Dots is here. OpenAI's bigger bet",
-    "date": "Wed, 30 Sep 2026 10:34:18 +0000 (UTC)",
+    "subject": "😸 Google launched Gemini 4 Argon, tying GPT-6",
+    "date": "Wed, 14 Oct 2026 10:02:51 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-09-30-dots-is-here-openai-s-bigger-bet.md",
-    "chars": 16620
+    "path": "raw/newsletters/the-neuron-2026-10-14-google-launched-gemini-4-argon-tying-gpt-6.md",
+    "chars": 20756
   },
   {
-    "id": "1a0f46ed804b9a14",
+    "id": "1a13c22f1f811954",
     "newsletter": "latent-space",
-    "subject": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
-    "date": "Wed, 30 Sep 2026 22:23:40 +0000",
+    "subject": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
+    "date": "Wed, 14 Oct 2026 20:35:09 +0000",
     "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/latent-space-2026-09-30-why-dwarkesh-is-wrong-about-computer-use-how-openai-shipped-its-jev-co.md",
-    "chars": 60063
+    "path": "raw/newsletters/latent-space-2026-10-14-lab-in-the-loop-at-compute-speed-ian-quigley-leash-bio.md",
+    "chars": 7012
+  },
+  {
+    "id": "1a13c5de068d68eb",
+    "newsletter": "latent-space",
+    "subject": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
+    "date": "Wed, 14 Oct 2026 21:40:52 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-10-14-crossing-the-threshold-how-openai-and-anthropic-approach-autonomy-and.md",
+    "chars": 7608
   },
   {
     "id": "1a114ba9356e644f",
