@@ -163,3 +163,11 @@
 
 - `/home/janet/.hermes/venvs/ai-wiki/bin/python scripts/lint_wiki.py`: `OK: 137 wiki pages, 296 raw newsletter sources`.
 - `/home/janet/.hermes/venvs/ai-wiki/bin/python -m py_compile scripts/*.py`: passed with no output.
+
+## [2026-10-19] synthesize | Weekly newsletter batch
+
+- Fetched 18 new raw newsletter sources dated 2026-10-12 through 2026-10-18; `raw/newsletters/manifest.json` was refreshed.
+- Created `entities/dyna-2.md`, `entities/leash-bio.md`, `entities/muse-spark-open.md`, `entities/muse-wonder.md`, and `queries/weekly-briefing-2026-10-19.md`.
+- Updated `concepts/agentic-robotics.md`, `concepts/ai-benchmarking.md`, `concepts/agent-reliability-and-operations.md`, `concepts/workplace-ai-adoption.md`, and `index.md`.
+- Preserved existing raw newsletter files unchanged; retained the 18 new captures and refreshed manifest.
+
