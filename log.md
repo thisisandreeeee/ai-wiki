@@ -183,3 +183,8 @@
 - Updated `entities/anthropic.md`, `entities/deepseek-v4-1-flash.md`, `entities/microsoft.md`, `entities/modal.md`, `entities/openai.md`, `concepts/agent-experience.md`, `concepts/agent-reliability-and-operations.md`, `concepts/ai-cybersecurity.md`, `concepts/ai-healthcare.md`, `concepts/ai-in-finance.md`, `concepts/ai-infrastructure-economics.md`, `concepts/mutable-software.md`, `concepts/software-factories.md`, and `index.md`.
 - Preserved existing raw newsletter files unchanged; retained the 15 new captures and refreshed manifest.
 
+## [2026-10-26] lint | 0 issues found
+
+- `/home/janet/.hermes/venvs/ai-wiki/bin/python scripts/lint_wiki.py`: `OK: 148 wiki pages, 329 raw newsletter sources`.
+- `/home/janet/.hermes/venvs/ai-wiki/bin/python -m py_compile scripts/*.py`: passed with no output.
+
