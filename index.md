@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.  
-> Last updated: 2026-10-19 | Total pages: 142
+> Last updated: 2026-10-26 | Total pages: 148
 
 ## Entities
 
@@ -12,7 +12,8 @@
 - [[baseten]] — Inference platform illustrating cache-aware routing, speculative decoding, model serving, and dedicated deployments.
 - [[black-forest-labs]] — FLUX 3 lab connecting multimodal generation with robotics and physical-world modeling.
 - [[chai-discovery]] — BioAI company using structural and binding models to design molecules with pharma feedback loops.
-- [[claude-fable-5]] — Anthropic's public Mythos-class model and the corpus's central case study in gated frontier capability.
+- [[claude-duet]] — Anthropic's proactive cloud agent for background checks, connected apps, and approval-gated external actions.
+- [[claude-fable-5]] — Anthropic's public Mythos-class model and the corpus’s central case study in gated frontier capability.
 - [[claude-haiku-5-5]] — Anthropic's low-cost, long-context worker model for summaries, subagents, and high-volume agentic work.
 - [[claude-opus-4-8]] — Anthropic coding/agent model that prefigured Fable-era workflow orchestration.
 - [[claude-opus-5]] — Anthropic Opus-class model framed as near-Fable coding capability with evaluation caveats.
@@ -21,6 +22,7 @@
 - [[cognition]] — Async coding-agent company around Devin and enterprise engineering value measurement.
 - [[cursor]] — AI coding environment illustrating provider access controls and social-engineering risk.
 - [[databricks]] — Enterprise data+AI platform and key player in the AI infrastructure and agent ecosystem.
+- [[deepinfer]] — DeepSeek's open-source production inference engine illustrating cache-heavy serving, distributed inference, and the boundary between open code and closed infrastructure.
 - [[deepseek-v4-1-flash]] — Open-weight multimodal model emphasizing asymmetric prefill/decode, KV-cache efficiency, and long-context serving.
 - [[dyna-2]] — Dyna Robotics world-action model for physical agents, cross-embodiment transfer, and sustained robot execution.
 - [[deepseek-v4-flash]] — Cost/performance open-weight model emphasizing post-training, Codex-compatible serving, and rapid local-runtime support.
@@ -49,7 +51,9 @@
 - [[microsoft]] — Enterprise AI platform actor bundling MAI models, GitHub, Windows, Foundry, context, and evals.
 - [[mimo-v2-6-pro]] — Xiaomi's reported trillion-parameter open-weight omnimodal model emphasizing long context and open post-training environments.
 - [[mistral-large-4]] — Reported large multimodal open-weight MoE with 1T total and 49B active parameters.
+- [[mai-dxo]] — Microsoft's multi-agent diagnostic orchestrator reported to outperform physicians on simulated sequential medical cases.
 - [[modal]] — AI cloud platform illustrating how infrastructure is being redesigned for agent-native workloads.
+- [[moshi]] — Commodity-trading recommendation engine combining market data, private sources, document extraction, and portfolio-specific signals.
 - [[muse-charm]] — Meta's reported pocket-sized personal-agent interface connecting glasses, voice, and authorized cloud actions.
 - [[muse-glimmer]] — Meta's open-weight multimodal model aimed at always-on local agents.
 - [[muse-spark-1-3]] — Meta's workhorse model for agentic/coding tasks, emphasizing tool-use efficiency and open-weight distribution.
@@ -73,6 +77,7 @@
 - [[simile-ai]] — Behavioral-simulation company building digital twins and synthetic populations from interviews, behavior, and causal data.
 - [[stacklok]] — Cloud-native agent infrastructure company separating orchestration, execution, state, identity, and MCP governance.
 - [[standard-bots]] — Industrial robotics company combining learned perception with conventional control and local inference.
+- [[tenex]] — Applied-AI company using an output-oriented, repository-centered MetaHarness to deliver enterprise AI transformation.
 
 ## Concepts
 
@@ -156,3 +161,4 @@
 - [[weekly-briefing-2026-10-05]] — Weekly synthesis of agent operating systems, decision models, Gemini 4 Argon, mutable harnesses, enterprise deployment, and AI infrastructure economics.
 - [[weekly-briefing-2026-10-12]] — Weekly synthesis of interactive artifacts, cloud-native agent operations, open models, AI-for-science, robotics, and evaluation.
 - [[weekly-briefing-2026-10-19]] — Weekly synthesis of frontier models, agent orchestration, physical/scientific agents, workplace trust, and infrastructure economics.
+- [[weekly-briefing-2026-10-26]] — Weekly synthesis of inference economics, programmable compute, attention interfaces, enterprise diffusion, cyber defense, and high-stakes evaluation.
