@@ -1,7 +1,7 @@
 ---
 title: Modal
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-10-26
 type: entity
 tags: [ai, company, tooling]
 sources: [raw/newsletters/latent-space-2026-07-08-why-ai-infrastructure-must-evolve-for-agent-experience-akshat-bubna-mo.md]
@@ -31,6 +31,12 @@ The Modal discussion emphasizes infrastructure that fits agent loops:
 Modal's CTO described the SDK team as shifting from developer experience to agent experience: an agent should not have to read hundreds of Kubernetes files or write untyped YAML when it can alter typed, co-located infrastructure declarations and observe the result. [raw/newsletters/latent-space-2026-07-08-why-ai-infrastructure-must-evolve-for-agent-experience-akshat-bubna-mo.md:114-123]
 
 The infrastructure bet is that agents need fast, observable loops: write code, run it, inspect output, change environments, debug failures, and try again. That is why Modal connects naturally to [[software-factories]] and [[ai-infrastructure-economics]].
+
+## October 2026: programmable compute markets
+
+A later Latent.Space interview with SF Compute frames GPU infrastructure as a programmable, tradeable substrate. SF Compute describes physical settlement: customers receive usable capacity with constraints around GPU generation, networking, storage recovery, interruption, and software configuration, rather than a cash-settled index. The company reports building cloud-like operating capacity around an order book that matches heterogeneous compute contracts. [raw/newsletters/latent-space-2026-10-20-the-programmable-data-center-evan-conrad-sf-compute.md]
+
+The connection to Modal is structural rather than corporate: agent-native clouds still need programmable capacity, fast reconfiguration, and transparent economics. SF Compute's ability to subdivide InfiniBand fabric on demand illustrates how infrastructure abstractions can expose the physical substrate without forcing every customer to operate a datacenter. [[ai-infrastructure-economics]] [[agent-experience]] [raw/newsletters/latent-space-2026-10-20-the-programmable-data-center-evan-conrad-sf-compute.md]
 
 ## Links
 

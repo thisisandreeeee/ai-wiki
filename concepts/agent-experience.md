@@ -1,7 +1,7 @@
 ---
 title: Agent Experience
 created: 2026-07-13
-updated: 2026-10-12
+updated: 2026-10-26
 type: concept
 tags: [ai, tooling, trend]
 sources: [raw/newsletters/latent-space-2026-07-08-why-ai-infrastructure-must-evolve-for-agent-experience-akshat-bubna-mo.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/ainews-2026-07-11-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-09-01-runway-solaris-treats-software-like-video.md, raw/newsletters/latent-space-2026-09-05-openclaw-power-macbook-simplicity-five-days-with-grok-bot.md, raw/newsletters/the-neuron-2026-08-31-openclaw-2-0-rebuilt-the-personal-ai-agent.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md]
@@ -54,6 +54,14 @@ The latest speed claims also clarify the AX bottleneck. Even when generation is 
 GPT-6 Intelligent UI and Claude Dashboards/Motion push agent experience from “answer” toward editable artifacts: interactive calculators, live dashboards, animations, documents, and designs. Good AX should expose definitions, queries, formulas, thresholds, provenance, and correction paths so a polished artifact does not hide uncertainty. [[openai]] [[anthropic]] [raw/newsletters/the-neuron-2026-10-08-gpt-6-builds-your-calculator-check-its-math.md][raw/newsletters/the-neuron-2026-10-09-new-claude-dashboards-use-your-live-data.md]
 
 [[stacklok]] provides the infrastructure counterpart: move the agent loop, state, memory, identity, and execution into manageable cloud-native services rather than treating one desktop process as the runtime. This should reduce operational coupling, but it raises the importance of explicit control-plane ownership and permission boundaries. [[agentic-systems]] [raw/newsletters/latent-space-2026-10-07-can-a-cloud-native-harness-make-agents-reliable-beyond-the-desktop.md]
+
+## October 2026: the attention interface
+
+Claude Mods make the human-facing layer of an agent harness programmable. Mods can observe prompts, tool calls, and renders, then modify how the loop behaves or what the operator sees. The benefit is a workflow shaped around the user's real friction; the risk is notification noise, extra token spend, and code running with the user's permissions. [[mutable-software]] [[agent-reliability-and-operations]] [raw/newsletters/latent-space-2026-10-21-claude-mods-flipping-the-harness-inside-out.md]
+
+[[claude-duet]] shows the managed alternative: a cloud computer, connected apps, background checks, and approval screens hide incidental machinery while exposing selected consequential actions. The open design question is how to make urgency, browser state, quota use, and pending side effects legible without requiring the user to inspect every tool call. [raw/newsletters/the-neuron-2026-10-22-claude-duet-just-launched-what-s-the-catch.md]
+
+Moshi supplies a domain-specific version of the same principle: push portfolio-relevant signals to a trader, but expose trusted sources, divergent evidence, confidence, and document provenance so relevance does not become opaque persuasion. [[moshi]] [[semantic-layer-for-ai]] [raw/newsletters/latent-space-2026-10-22-the-recommendation-engine-for-commodity-traders-anekha-sokhal-moshi.md]
 
 ## Links
 

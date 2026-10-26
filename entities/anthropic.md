@@ -1,7 +1,7 @@
 ---
 title: Anthropic
 created: 2026-06-23
-updated: 2026-10-12
+updated: 2026-10-26
 type: entity
 tags: [ai, company, llm, tooling, policy]
 sources: [raw/newsletters/the-neuron-2026-06-05-can-ai-improve-itself.md, raw/newsletters/ainews-2026-06-05-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-05-29-ainews-anthropic-raises-965b-series-h-releases-opus-4-8-and-dynamic-wo.md, raw/newsletters/the-neuron-2026-05-29-what-changed-inside-claude-opus-4-8.md, raw/newsletters/ainews-2026-06-10-ainews-anthropic-claude-fable-5-mythos-but-safe-with-controversial-ter.md, raw/newsletters/ainews-2026-06-24-ainews-claude-tag-multiplayer-proactive-persistent-agents-in-slack.md, raw/newsletters/ainews-2026-07-01-ainews-sonnet-5-today-and-fable-5-tomorrow.md, raw/newsletters/the-neuron-2026-07-01-fable-5-is-back-baby.md, raw/newsletters/the-neuron-2026-07-07-anthropic-found-claude-s-hidden-workspace.md, raw/newsletters/ainews-2026-07-07-ainews-the-field-guide-to-fable.md, raw/newsletters/ainews-2026-07-08-ainews-lilian-weng-summarizes-35-papers-on-harness-engineering-for-rsi.md, raw/newsletters/the-neuron-2026-07-08-one-rogue-agent-could-hijack-enterprise-chatbots.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/the-neuron-2026-09-02-fable-5-1-is-here-what-changed.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/the-neuron-2026-09-10-anthropic-researcher-sounds-the-alarm.md, raw/newsletters/the-neuron-2026-09-13-openai-asked-congress-if-ai-can-slow-down.md, raw/newsletters/ainews-2026-09-17-ainews-reality-checks-on-ai-news-yegge-shuts-down-gas-town-databricks.md, raw/newsletters/the-neuron-2026-09-17-openai-but-wait-there-s-more-rogue-agent-behavior.md, raw/newsletters/latent-space-2026-09-16-underwriting-superintelligence-backing-agents-you-can-sue-rune-kvist-a.md]
@@ -84,6 +84,12 @@ Anthropic released [[claude-haiku-5-5]] as a low-cost worker for summaries, comp
 Claude Dashboards and Motion extend the product from answers to editable work artifacts. Dashboards connect to live business data; Motion generates editable code-based animations and can hand off to Adobe. This makes data definitions, query provenance, correction, and external effects part of the product boundary. [[agent-experience]] [[agent-reliability-and-operations]] [raw/newsletters/the-neuron-2026-10-09-new-claude-dashboards-use-your-live-data.md]
 
 Coverage also reports managed-agent workflows with large fan-out and an upcoming usage-policy change concerning sustained abusive behavior toward models. Both are governance signals: more autonomous orchestration increases the need for budgets, traceability, and explicit behavior policy. [raw/newsletters/ainews-2026-10-10-ainews-typesafe-jev-at-100m-arr-7-5b-valuation-3-weeks-after-launch.md][raw/newsletters/ainews-2026-10-08-ainews-claude-haiku-5-5-better-than-gpt-6-luna-at-the-same-pricing.md]
+
+## October 2026: proactive work and programmable attention
+
+Anthropic's [[claude-duet]] extends the platform from background workspaces into a proactive agent that runs on a cloud computer, monitors connected applications, and asks for approval before high-impact actions. Managed credentials, sensitive-data classifiers, and explicit prohibitions on securities trading and account transfers are the reported control pattern; urgency calibration, browser visibility, and usage spent while unattended remain open questions. [raw/newsletters/the-neuron-2026-10-22-claude-duet-just-launched-what-s-the-catch.md]
+
+The Claude Mods discussion adds a programmable human-facing layer to Claude Code. Mods can observe prompts, tool calls, and renders; alter execution or presentation; and let users build their own “attention interface.” That flexibility is paired with cost, noise, and permission risks because mods run with the user's access and are not sandboxed. [[mutable-software]] [[agent-experience]] [raw/newsletters/latent-space-2026-10-21-claude-mods-flipping-the-harness-inside-out.md]
 
 ## Links
 

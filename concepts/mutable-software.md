@@ -1,7 +1,7 @@
 ---
 title: Mutable Software
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-26
 type: concept
 tags: [ai, llm, tooling, trend]
 sources: [raw/newsletters/latent-space-2026-09-29-claude-code-s-next-era-thariq-shihipar-anthropic.md, raw/newsletters/ainews-2026-10-02-ainews-pi-1-0-pi-durable-and-aie-nyc.md]
@@ -31,6 +31,12 @@ The concept also changes the software artifact. In [[software-factories]], the d
 - Which changes can be applied live, and which require a new version or human approval?
 - How can a mutable harness prove that its safety and evaluation gates were not weakened?
 - Does self-modification improve general task performance, or mostly overfit to the current benchmark and workflow?
+
+## October 2026: attention interfaces and user-built middleware
+
+Claude Mods sharpen the mutable-software idea by making the human-facing harness programmable. A mod can observe prompts, tool calls, and interface renders, modify execution or presentation, and expose a user-defined “attention interface.” Anthropic ships built-in mods for project instructions, diff views, authoring, policy, telemetry, and side-agent notices; users can also ask Claude to build their own. [raw/newsletters/latent-space-2026-10-21-claude-mods-flipping-the-harness-inside-out.md]
+
+The flexibility has concrete costs. A supervisor that runs after most tool-heavy turns can create noise and spend thousands of input-equivalent tokens per check, while mods run with the user's permissions and are not sandboxed. Mutable harnesses therefore need versioned changes, clear disable controls, permission review, and tests that prove a customization did not weaken safety or observability. [[agent-experience]] [[agent-reliability-and-operations]]
 
 ## Links
 

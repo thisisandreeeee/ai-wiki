@@ -1,7 +1,7 @@
 ---
 title: AI in Finance
 created: 2026-07-30
-updated: 2026-08-24
+updated: 2026-10-26
 type: concept
 tags: [ai, llm, tooling, trend]
 sources: [raw/newsletters/the-neuron-2026-08-21-claude-allegedly-speedran-a-31k-loss.md, raw/newsletters/latent-space-2026-08-18-frontier-model-cost-and-open-weights-popularity-is-driving-demand-for.md, raw/newsletters/ainews-2026-07-29-ainews-ai-is-eating-finance-aie-nyc-now-open.md]
@@ -25,6 +25,12 @@ The reported Claude trading-account loss is explicitly unverified, but it gives 
 - Analyst work will likely blend retrieval, spreadsheet generation, code execution, slide/site artifacts, and source provenance.
 - The same features that make agents valuable—connected files, market data, internal documents, and tool use—make [[agent-reliability-and-operations]] and auditability mandatory.
 - Domain-specific templates may matter as much as model choice because finance tasks require repeatable judgment, evidence, permissions, and review.
+
+## October 2026: recommendation systems as domain infrastructure
+
+[[moshi]] shows a finance workflow built around relevance rather than a generic chatbot. The reported system combines market time series, fundamentals, news, social and audio data, and a trader's private sources into an ontology-backed graph that pushes portfolio-specific second-order signals. The interview emphasizes trusted-source handling, confidence scores, divergent evidence, document extraction, and data-boundary choices. [raw/newsletters/latent-space-2026-10-22-the-recommendation-engine-for-commodity-traders-anekha-sokhal-moshi.md]
+
+The product pattern is a reminder that finance agents need auditability and fit with existing workflows, not only model quality. [[agent-reliability-and-operations]] [[semantic-layer-for-ai]]
 
 ## Links
 
