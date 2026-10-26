@@ -1,7 +1,7 @@
 ---
 title: DeepSeek V4.1 Flash
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-10-26
 type: entity
 tags: [ai, llm, model, tooling, research]
 sources: [raw/newsletters/ainews-2026-09-12-ainews-deepseek-v4-1-flash-763b-p8b-d16b-novel-causal-encoder-decoder.md, raw/newsletters/the-neuron-2026-09-09-openai-s-1m-math-breakthrough-sparked-a-fight-with-anthropic.md, raw/newsletters/the-neuron-2026-09-10-anthropic-researcher-sounds-the-alarm.md]
@@ -24,9 +24,15 @@ Independent coverage reported an Artificial Analysis Intelligence Index score of
 
 Community reports describe 200–300+ tokens/second on specialized multi-GPU or SSD-assisted setups, and successful operation through local runtimes. The total stored footprint still makes ordinary local deployment difficult; offload topology, NVMe behavior, memory capacity, and runtime support remain first-order constraints. [[local-llms]] captures that distinction between open weights and easy local use.
 
+## October 2026 update
+
+DeepSeek's open-sourced [[deepinfer]] serving stack adds production evidence to the earlier model-design story. The accompanying report describes distributed inference, speculative decoding, SWA Bounded Replay, structured output, and long-lived block KV caching. DeepSeek reports a 96% input-cache hit rate and 155T served tokens per day from one cluster; these are first-party, cache-heavy production claims rather than independent measurements. [raw/newsletters/ainews-2026-10-21-ainews-deepseek-deepinfer-open-source-sota-inference-running-155t-toks.md]
+
+The release also clarifies the open-weight tradeoff: the engine is public, but important cache-management, load-balancing, and storage orchestration remain tied to DeepSeek's internal infrastructure. vLLM reported decode results within 6% under a matched setup, without reproducing the full service. [[llm-inference-optimization]] [[ai-infrastructure-economics]] [raw/newsletters/ainews-2026-10-21-ainews-deepseek-deepinfer-open-source-sota-inference-running-155t-toks.md]
+
 ## Why it matters
 
-V4.1 Flash makes **servability** a model feature. Splitting prefill and decode economics, shrinking KV state, and externalizing large lookup structures can make long-running agents cheaper even when the total parameter count is enormous. That connects the model to [[llm-inference-optimization]], [[model-routing]], and [[ai-infrastructure-economics]].
+V4.1 Flash makes **servability** a model feature. Splitting prefill and decode economics, shrinking KV state, and externalizing large lookup structures can make long-running agents cheaper even when the total parameter count is enormous. That connects to [[llm-inference-optimization]], [[model-routing]], and [[ai-infrastructure-economics]].
 
 It also complicates evaluation: a verbose, low-token-price model may have excellent cost per task but poor user experience or high latency under a different harness. Compare it with [[deepseek-v4-flash]], [[kimi-k3]], and closed models through completed-task measurements rather than parameter counts.
 

@@ -1,7 +1,7 @@
 ---
 title: AI Healthcare
 created: 2026-06-21
-updated: 2026-09-14
+updated: 2026-10-26
 type: concept
 tags: [ai, llm, research]
 sources: [raw/newsletters/the-neuron-2026-08-20-moderna-s-cancer-treatment-started-with-ai.md, raw/newsletters/ainews-2026-08-20-ainews-death-of-params-z-ai-ceo-jie-tang-on-glm-5-3-and-the-new-post-t.md, raw/newsletters/the-neuron-2026-06-19-your-doctor-may-ask-chatgpt-next.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/latent-space-2026-06-18-the-professor-of-outputmaxxing-anjney-midha-amp.md, raw/newsletters/data-science-weekly-2026-06-11-data-science-weekly-issue-655.md, raw/newsletters/the-neuron-2026-09-08-ai-drug-reversed-aging-markers.md]
@@ -33,6 +33,12 @@ The key distinction is clinical decision support vs autonomous care. The most cr
 Insilico Medicine’s AI-assisted experimental IPF drug rentosertib was analyzed against six proteomic aging clocks using samples from a 12-week Phase 2a trial. The clocks consistently estimated lower biological age in treated patients; the strongest effects appeared around week four, with some averages around 3–4 years and one estimate near six years. The dose with the strongest aging-clock signal was not the dose with the best lung-function result. [raw/newsletters/the-neuron-2026-09-08-ai-drug-reversed-aging-markers.md]
 
 This is not evidence of a general anti-aging therapy. Proteomic clocks can improve when IPF improves, and the study did not establish that healthy people would age more slowly. The durable lesson is methodological: trials for disease treatment may also measure aging-related biomarkers, but those signals require independent endpoints and healthy-population validation before broad claims. [[self-driving-labs]] and [[ai-benchmarking]] provide the relevant validation frame.
+
+## October 2026: multi-agent diagnosis
+
+[[mai-dxo]] illustrates a more demanding medical-AI evaluation than static question answering. Microsoft reports that a panel of virtual clinicians chose what information to gather next, challenged candidate diagnoses, and accounted for test cost. Its SDBench evaluation used 304 difficult NEJM cases and typical ER cases, but the reported comparison used a simulation and physicians working alone. [raw/newsletters/the-neuron-2026-10-23-microsoft-ai-scored-83-where-doctors-got-36.md]
+
+The reported headline—83% versus 36% on hard NEJM cases—should therefore be read as a workflow result with meaningful caveats. GPT-5 alone reportedly scored 78.9%, and the decisive next step is the planned study against standard care with real patients. [[ai-benchmarking]] [[agentic-systems]]
 
 ## Links
 

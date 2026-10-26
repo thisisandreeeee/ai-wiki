@@ -1,14 +1,5 @@
 [
   {
-    "id": "1a1203a623ba6286",
-    "newsletter": "the-neuron",
-    "subject": "😺 New Claude Dashboards use your live data",
-    "date": "Fri, 09 Oct 2026 10:33:54 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-10-09-new-claude-dashboards-use-your-live-data.md",
-    "chars": 18102
-  },
-  {
     "id": "1a142eec01184669",
     "newsletter": "ainews",
     "subject": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
@@ -27,13 +18,13 @@
     "chars": 19347
   },
   {
-    "id": "1a10b9e9d21da56c",
+    "id": "1a1685427fb886f8",
     "newsletter": "the-neuron",
-    "subject": "😺 What Trump's AI czar means for you",
-    "date": "Mon, 05 Oct 2026 10:31:43 +0000 (UTC)",
+    "subject": "😺 Microsoft AI scored 83% where doctors got 36%",
+    "date": "Fri, 23 Oct 2026 10:35:00 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-10-05-what-trump-s-ai-czar-means-for-you.md",
-    "chars": 17323
+    "path": "raw/newsletters/the-neuron-2026-10-23-microsoft-ai-scored-83-where-doctors-got-36.md",
+    "chars": 22652
   },
   {
     "id": "1a12fe3fa889dc8f",
@@ -54,40 +45,13 @@
     "chars": 8478
   },
   {
-    "id": "1a1233a5d4bfe9b3",
-    "newsletter": "latent-space",
-    "subject": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
-    "date": "Sat, 10 Oct 2026 00:31:26 +0000",
-    "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/latent-space-2026-10-10-why-alphafold-didn-t-solve-protein-folding-pushmeet-kohli-google-deepm.md",
-    "chars": 28047
-  },
-  {
-    "id": "1a124912654aafb9",
-    "newsletter": "ainews",
-    "subject": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
-    "date": "Sat, 10 Oct 2026 06:45:57 +0000",
-    "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-10-10-ainews-typesafe-jev-at-100m-arr-7-5b-valuation-3-weeks-after-launch.md",
-    "chars": 57220
-  },
-  {
-    "id": "1a12628bd64230e0",
-    "newsletter": "latent-space",
-    "subject": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
-    "date": "Sat, 10 Oct 2026 14:04:11 +0000",
-    "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/latent-space-2026-10-10-building-ai-for-reliable-execution-lessons-from-industrial-robotics.md",
-    "chars": 9481
-  },
-  {
-    "id": "1a127dccb660f29c",
-    "newsletter": "latent-space",
-    "subject": "[Subscriber Exclusive] NYC Subscriber Meetups!",
-    "date": "Sat, 10 Oct 2026 22:07:17 +0000",
-    "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/latent-space-2026-10-10-subscriber-exclusive-nyc-subscriber-meetups.md",
-    "chars": 3991
+    "id": "1a153d60446c843b",
+    "newsletter": "the-neuron",
+    "subject": "😺 DeepSeek's free model edged Opus 5 at coding",
+    "date": "Mon, 19 Oct 2026 11:04:51 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-10-19-deepseek-s-free-model-edged-opus-5-at-coding.md",
+    "chars": 22023
   },
   {
     "id": "1a148d7d082d0b7d",
@@ -108,24 +72,6 @@
     "chars": 18186
   },
   {
-    "id": "1a12ae885d4eaa6e",
-    "newsletter": "the-neuron",
-    "subject": "Are you still out there, or did AI replace you?",
-    "date": "Sun, 11 Oct 2026 12:20:42 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-10-11-are-you-still-out-there-or-did-ai-replace-you.md",
-    "chars": 1224
-  },
-  {
-    "id": "1a12c3e31d30fba0",
-    "newsletter": "the-neuron",
-    "subject": "😺 A chatbot interviewed 98 patients. Then what?",
-    "date": "Sun, 11 Oct 2026 18:33:45 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-10-11-a-chatbot-interviewed-98-patients-then-what.md",
-    "chars": 18914
-  },
-  {
     "id": "1a1501191e705403",
     "newsletter": "the-neuron",
     "subject": "😺 How far do Meta’s scraping terms reach?",
@@ -135,13 +81,13 @@
     "chars": 16543
   },
   {
-    "id": "1a11b1a98a20cf0b",
+    "id": "1a17456fc4f2130a",
     "newsletter": "the-neuron",
-    "subject": "😺 GPT-6 builds your calculator. Check its math",
-    "date": "Thu, 08 Oct 2026 10:41:13 +0000 (UTC)",
+    "subject": "😺 Walmart wants AI shoppers on an allowance",
+    "date": "Sun, 25 Oct 2026 18:33:37 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-10-08-gpt-6-builds-your-calculator-check-its-math.md",
-    "chars": 19150
+    "path": "raw/newsletters/the-neuron-2026-10-25-walmart-wants-ai-shoppers-on-an-allowance.md",
+    "chars": 17949
   },
   {
     "id": "1a13f13085079cd6",
@@ -171,58 +117,49 @@
     "chars": 14684
   },
   {
-    "id": "1a11a6bfe82e33f4",
+    "id": "1a1629320769e2de",
     "newsletter": "ainews",
-    "subject": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
-    "date": "Thu, 8 Oct 2026 07:27:51 +0000",
+    "subject": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP aff…",
+    "date": "Thu, 22 Oct 2026 07:42:45 +0000",
     "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-10-08-ainews-claude-haiku-5-5-better-than-gpt-6-luna-at-the-same-pricing.md",
-    "chars": 67125
+    "path": "raw/newsletters/ainews-2026-10-22-ainews-openai-s-patch-the-planet-program-is-1-of-2-parties-to-discover.md",
+    "chars": 84804
   },
   {
-    "id": "1a11bae038949fde",
-    "newsletter": "data-science-weekly",
-    "subject": "Data Science Weekly - Issue 672",
-    "date": "Thu, 8 Oct 2026 13:08:31 +0000",
-    "from": "Data Science Weekly Newsletter <datascienceweekly@substack.com>",
-    "path": "raw/newsletters/data-science-weekly-2026-10-08-data-science-weekly-issue-672.md",
-    "chars": 13734
-  },
-  {
-    "id": "1a11c59a7e2eebd9",
-    "newsletter": "latent-space",
-    "subject": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cub…",
-    "date": "Thu, 8 Oct 2026 16:27:54 +0000",
-    "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/latent-space-2026-10-08-synthesis-superintelligence-from-semiconductors-to-superconductors-per.md",
-    "chars": 107026
-  },
-  {
-    "id": "1a11ddc9157485e7",
-    "newsletter": "ainews",
-    "subject": "[AINews] not much happened today",
-    "date": "Thu, 8 Oct 2026 23:29:43 +0000",
-    "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-10-08-ainews-not-much-happened-today.md",
-    "chars": 59825
-  },
-  {
-    "id": "1a110cf85419ce48",
+    "id": "1a1632b6b24e7f1c",
     "newsletter": "the-neuron",
-    "subject": "😸 OpenAI's watermark has a weak spot",
-    "date": "Tue, 06 Oct 2026 10:42:26 +0000 (UTC)",
+    "subject": "😺 Claude Duet just launched. What's the catch?",
+    "date": "Thu, 22 Oct 2026 10:32:30 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-10-06-openai-s-watermark-has-a-weak-spot.md",
-    "chars": 17357
+    "path": "raw/newsletters/the-neuron-2026-10-22-claude-duet-just-launched-what-s-the-catch.md",
+    "chars": 21554
   },
   {
-    "id": "1a11302b4a80f5f5",
-    "newsletter": "data-elixir",
-    "subject": "Data Elixir - Issue 592",
-    "date": "Tue, 06 Oct 2026 20:58:25 +0000 (UTC)",
-    "from": "Data Elixir <lon@dataelixir.com>",
-    "path": "raw/newsletters/data-elixir-2026-10-06-data-elixir-issue-592.md",
-    "chars": 6214
+    "id": "1a163af6f495ee42",
+    "newsletter": "data-science-weekly",
+    "subject": "Data Science Weekly - Issue 674",
+    "date": "Thu, 22 Oct 2026 12:56:22 +0000",
+    "from": "Data Science Weekly Newsletter <datascienceweekly@substack.com>",
+    "path": "raw/newsletters/data-science-weekly-2026-10-22-data-science-weekly-issue-674.md",
+    "chars": 14213
+  },
+  {
+    "id": "1a163f604617b9d5",
+    "newsletter": "latent-space",
+    "subject": "The Recommendation Engine for Commodity Traders — Anekha Sokhal, Moshi",
+    "date": "Thu, 22 Oct 2026 14:03:40 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-10-22-the-recommendation-engine-for-commodity-traders-anekha-sokhal-moshi.md",
+    "chars": 30955
+  },
+  {
+    "id": "1a164b6277890b0b",
+    "newsletter": "latent-space",
+    "subject": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
+    "date": "Thu, 22 Oct 2026 17:40:57 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-10-22-why-ai-compute-comes-in-rectangles-erik-bernhardsson-modal-ceo.md",
+    "chars": 112706
   },
   {
     "id": "1a134a117a369337",
@@ -261,22 +198,31 @@
     "chars": 85538
   },
   {
-    "id": "1a10fe94d54802eb",
+    "id": "1a157c4c36b0991d",
     "newsletter": "ainews",
-    "subject": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-    "date": "Tue, 6 Oct 2026 06:28:43 +0000",
+    "subject": "[AINews] not much happened today",
+    "date": "Tue, 20 Oct 2026 05:21:52 +0000",
     "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-10-06-ainews-reflection-beam-501b-a23b-american-open-model.md",
-    "chars": 53495
+    "path": "raw/newsletters/ainews-2026-10-20-ainews-not-much-happened-today.md",
+    "chars": 60898
   },
   {
-    "id": "1a115ebb1ddedb87",
+    "id": "1a159038c4cc22e4",
     "newsletter": "the-neuron",
-    "subject": "😺 722 math manuscripts. One OpenAI model.",
-    "date": "Wed, 07 Oct 2026 10:31:47 +0000 (UTC)",
+    "subject": "😸 AI hackers left the door open",
+    "date": "Tue, 20 Oct 2026 11:12:08 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-10-07-722-math-manuscripts-one-openai-model.md",
-    "chars": 18716
+    "path": "raw/newsletters/the-neuron-2026-10-20-ai-hackers-left-the-door-open.md",
+    "chars": 23771
+  },
+  {
+    "id": "1a15ace4c418688e",
+    "newsletter": "latent-space",
+    "subject": "The Programmable Data Center — Evan Conrad, SF Compute",
+    "date": "Tue, 20 Oct 2026 19:31:57 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-10-20-the-programmable-data-center-evan-conrad-sf-compute.md",
+    "chars": 45481
   },
   {
     "id": "1a138ef67c50c066",
@@ -315,21 +261,39 @@
     "chars": 7608
   },
   {
-    "id": "1a114ba9356e644f",
-    "newsletter": "ainews",
-    "subject": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; …",
-    "date": "Wed, 7 Oct 2026 04:55:44 +0000",
-    "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-10-07-ainews-quasi-riemann-hypothesis-openai-publishes-722-math-papers-solvi.md",
-    "chars": 52253
+    "id": "1a15cdcca41169f8",
+    "newsletter": "latent-space",
+    "subject": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
+    "date": "Wed, 21 Oct 2026 05:01:26 +0000",
+    "from": "\"Latent.Space\" <swyx@substack.com>",
+    "path": "raw/newsletters/latent-space-2026-10-21-ai-for-the-fortune-2000-how-tenex-builds-an-ai-native-sdlc-alex-lieber.md",
+    "chars": 55127
   },
   {
-    "id": "1a116b6285816562",
+    "id": "1a15d40ce82a2c31",
+    "newsletter": "ainews",
+    "subject": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% marg…",
+    "date": "Wed, 21 Oct 2026 06:54:09 +0000",
+    "from": "AINews <swyx+ainews@substack.com>",
+    "path": "raw/newsletters/ainews-2026-10-21-ainews-deepseek-deepinfer-open-source-sota-inference-running-155t-toks.md",
+    "chars": 79742
+  },
+  {
+    "id": "1a15e06cf212e2cf",
+    "newsletter": "the-neuron",
+    "subject": "😺 6,800+ Meta Muse chats were findable",
+    "date": "Wed, 21 Oct 2026 10:34:24 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-10-21-6-800-meta-muse-chats-were-findable.md",
+    "chars": 19731
+  },
+  {
+    "id": "1a15e9bef544a316",
     "newsletter": "latent-space",
-    "subject": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
-    "date": "Wed, 7 Oct 2026 14:10:45 +0000",
+    "subject": "Claude Mods: Flipping the Harness Inside Out",
+    "date": "Wed, 21 Oct 2026 13:04:19 +0000",
     "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/latent-space-2026-10-07-can-a-cloud-native-harness-make-agents-reliable-beyond-the-desktop.md",
-    "chars": 10751
+    "path": "raw/newsletters/latent-space-2026-10-21-claude-mods-flipping-the-harness-inside-out.md",
+    "chars": 14316
   }
 ]

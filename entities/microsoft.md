@@ -1,7 +1,7 @@
 ---
 title: Microsoft
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-10-26
 type: entity
 tags: [ai, company, llm, tooling]
 sources: [raw/newsletters/the-neuron-2026-06-03-new-codex-copilot-hermes-microst-build-2026-ai.md, raw/newsletters/ainews-2026-06-03-ainews-microsoft-build-mai-thinking-1-and-mai-family-models.md, raw/newsletters/ainews-2026-06-03-satya-nadella-no-priors-x-latent-space-crossover-special-at-microsoft.md]
@@ -21,6 +21,10 @@ confidence: high
 ## Why it matters
 
 Microsoft is a useful counterweight to single-lab model narratives: the strategic asset is the distribution and control plane for agents across work surfaces.
+
+## October 2026: diagnostic orchestration
+
+[[mai-dxo]] extends Microsoft's enterprise-stack story into medical decision support. Microsoft reports a multi-agent diagnostic panel reaching 83% on difficult NEJM cases versus 36% for primary-care physicians in a simulation, with the system choosing follow-up questions and tests while accounting for cost. The result is model- and workflow-dependent, and real-patient validation is still pending. [[ai-healthcare]] [[ai-benchmarking]] [raw/newsletters/the-neuron-2026-10-23-microsoft-ai-scored-83-where-doctors-got-36.md]
 
 ## Links
 
