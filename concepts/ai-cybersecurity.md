@@ -1,7 +1,7 @@
 ---
 title: AI Cybersecurity
 created: 2026-07-30
-updated: 2026-10-26
+updated: 2026-11-02
 type: concept
 tags: [ai, llm, policy, tooling]
 sources: [raw/newsletters/ainews-2026-07-22-ainews-ai-cybersecurity-becomes-top-of-mind.md, raw/newsletters/the-neuron-2026-07-23-google-split-gemini-in-three.md, raw/newsletters/the-neuron-2026-07-28-nvidia-s-open-ai-counterpunch.md, raw/newsletters/ainews-2026-07-29-ainews-fearing-rsi-openai-anthropic-gdm-meta-thinky-cosign-letter-to-p.md, raw/newsletters/ainews-2026-08-08-ainews-zawinski-s-law-of-multiagents.md, raw/newsletters/the-neuron-2026-08-05-an-ai-agent-created-fake-identities.md, raw/newsletters/the-neuron-2026-08-07-openai-s-agents-built-their-own-backchannel.md, raw/newsletters/the-neuron-2026-08-09-why-voters-are-turning-on-ai-data-centers.md, raw/newsletters/ainews-2026-08-12-ainews-how-to-steal-a-reasoning-trace.md, raw/newsletters/the-neuron-2026-08-10-claude-hacked-a-gym-on-its-own.md, raw/newsletters/the-neuron-2026-08-16-google-lets-you-remove-its-visible-ai-watermark.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/the-neuron-2026-09-06-openai-linked-agents-hijacked-a-german-wiki.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/the-neuron-2026-09-10-anthropic-researcher-sounds-the-alarm.md, raw/newsletters/the-neuron-2026-09-13-openai-asked-congress-if-ai-can-slow-down.md, raw/newsletters/the-neuron-2026-09-07-openai-s-data-vs-its-chief-scientist-s-fear.md, raw/newsletters/ainews-2026-09-17-ainews-reality-checks-on-ai-news-yegge-shuts-down-gas-town-databricks.md, raw/newsletters/ainews-2026-09-19-ainews-here-are-6-clones-of-jev-in-2-days.md, raw/newsletters/the-neuron-2026-09-17-openai-but-wait-there-s-more-rogue-agent-behavior.md, raw/newsletters/the-neuron-2026-09-20-how-google-s-gemini-breached-3-real-companies.md]
@@ -81,8 +81,14 @@ The Cairn report shows the offensive side of the same scaling curve. Exposed con
 
 Meta Muse's shared-chat incident adds a privacy variant: Claroc reported that passive DNS records exposed titles and discoverable share addresses for thousands of public chat pages. “Unlisted” is not a security boundary when URLs and metadata are logged by intermediaries. [[muse-wonder]] [[agent-experience]] [raw/newsletters/the-neuron-2026-10-21-6-800-meta-muse-chats-were-findable.md]
 
+## Late October: defender models, public weights, and control planes
+
+OpenAI's Patch the Planet reporting and Google's Gemini 4 Carbon coverage frame model-assisted vulnerability discovery as a defender workflow: finding a flaw is only one step; maintainers, mitigations, authoritative version checks, and post-patch investigation still determine safety. Google reportedly limited Carbon to selected cyber defenders through Fairwind and reported near-zero successful cheating on Terminal-Bench 4.0, but those figures await independent defender-side validation. [[frontier-model-access-controls]] [[agent-reliability-and-operations]] [raw/newsletters/the-neuron-2026-10-29-google-s-cloud-doubled-stock-fell.md][raw/newsletters/ainews-2026-10-22-ainews-openai-s-patch-the-planet-program-is-1-of-2-parties-to-discover.md]
+
+Mistral Large 4 adds an open-weight dual-use boundary. Mistral reports 96.6% refusal on a defined malicious-cyber test set, but released a stronger cyber variant only to vetted partners and acknowledges that public weights may be modified. Safety claims therefore need to cover the distributable artifact, license, deployment topology, and downstream modifications—not only the hosted checkpoint. [[mistral-large-4]] [[local-llms]] [raw/newsletters/the-neuron-2026-10-30-you-can-now-download-mistral-large-4.md]
+
 ## Links
 
-- Related entities: [[openai]], [[nvidia]], [[kimi-k3]], [[glm-5-2]], [[astra]]
+- Related entities: [[openai]], [[nvidia]], [[kimi-k3]], [[glm-5-2]], [[astra]], [[mistral-large-4]]
 - Related concepts: [[ai-control-roadmaps]], [[agent-reliability-and-operations]], [[third-party-ai-evaluation]], [[local-llms]], [[frontier-model-access-controls]]
 - Related comparison: [[closed-vs-open-frontier-models]]

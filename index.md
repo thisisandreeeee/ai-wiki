@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.  
-> Last updated: 2026-10-26 | Total pages: 148
+> Last updated: 2026-11-02 | Total pages: 151
 
 ## Entities
 
@@ -82,6 +82,7 @@
 ## Concepts
 
 - [[agent-memory]] — Durable state for agents across facts, procedures, traces, skills, and persistent work contexts.
+- [[agent-mediated-advertising]] — Advertising designed for AI agents, with provenance and sponsorship-label risks across agent summaries.
 - [[agent-reliability-and-operations]] — Production controls for agent quality, recovery, security, evaluation, incidents, and safe releases.
 - [[agent-to-agent-coordination]] — Communication, shared state, and security boundaries across persistent agent runs and workers.
 - [[agent-experience]] — Infrastructure, tools, APIs, observability, and guardrails designed for AI agents as first-class users.
@@ -89,6 +90,7 @@
 - [[agentic-robotics]] — Multimodal models, world models, policies, and agent-style reasoning loops for physical systems.
 - [[agentic-systems]] — Controlled LLM decision loops, durable state, harnesses, runtimes, and verification.
 - [[ai-benchmarking]] — Measurement of model and agent capability across static tasks, dynamic environments, cost curves, and workflows.
+- [[ai-chatbot-child-safety]] — Product, policy, and enforcement controls for harmful or manipulative chatbot behavior around minors.
 - [[ai-control-roadmaps]] — Operational security model for powerful AI agents with permissions, logs, monitors, and brakes.
 - [[ai-cybersecurity]] — AI used for security work and security failures created by agentic AI systems.
 - [[ai-engineering]] — Applied discipline of building, evaluating, deploying, and steering AI systems in real product contexts.
@@ -162,3 +164,4 @@
 - [[weekly-briefing-2026-10-12]] — Weekly synthesis of interactive artifacts, cloud-native agent operations, open models, AI-for-science, robotics, and evaluation.
 - [[weekly-briefing-2026-10-19]] — Weekly synthesis of frontier models, agent orchestration, physical/scientific agents, workplace trust, and infrastructure economics.
 - [[weekly-briefing-2026-10-26]] — Weekly synthesis of inference economics, programmable compute, attention interfaces, enterprise diffusion, cyber defense, and high-stakes evaluation.
+- [[weekly-briefing-2026-11-02]] — Weekly synthesis of computer-use models, open-weight cyber controls, interactive worlds, agent authorization, semantic layers, and agent-mediated advertising.

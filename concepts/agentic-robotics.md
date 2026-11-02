@@ -1,7 +1,7 @@
 ---
 title: Agentic Robotics
 created: 2026-07-30
-updated: 2026-10-12
+updated: 2026-11-02
 type: concept
 tags: [ai, machine-learning, research]
 sources: [raw/newsletters/the-neuron-2026-08-20-moderna-s-cancer-treatment-started-with-ai.md, raw/newsletters/ainews-2026-07-24-ainews-black-forest-labs-flux-3-multimodal-flow-models-that-beat-seeda.md, raw/newsletters/the-neuron-2026-07-27-is-this-the-future-of-robotics.md, raw/newsletters/ainews-2026-07-29-ainews-fearing-rsi-openai-anthropic-gdm-meta-thinky-cosign-letter-to-p.md]
@@ -42,7 +42,13 @@ This is a useful counterweight to humanoid demos. Reliability comes from control
 
 [[dyna-2]] frames physical agents as a world-action modeling problem: combine video, robot state, language, future-state prediction, and executable actions, then adapt across embodiments with a mix of human video, robot demonstrations, synthetic data, and self-generated world-model data. The reported napkin-folding deployment is company-reported, but its 24-hour duration highlights a more useful target than a short demo: recoverable execution over long horizons. [[real-world-agent-evaluations]] [raw/newsletters/latent-space-2026-10-13-dyna-2-general-purpose-physical-agents-with-hour-long-autonomy-jason-m.md]
 
+## October 2026: interactive worlds as training environments
+
+Google DeepMind's Genie 4 is reported as a research-preview world model that generates navigable environments with sound, physical interactions, and plain-language edits. Gemini can observe the simulated world, choose what should happen next, and instruct Genie to continue, suggesting a model-plus-simulator loop for robot practice and other multi-step tasks. The source also reports inconsistent objects, physics, and spatial details in longer sessions, so the central evaluation target is persistent state and reliable consequences rather than visual realism. [[google-gemini]] [[real-world-agent-evaluations]] [raw/newsletters/the-neuron-2026-10-28-what-google-s-new-genie-4-can-simulate.md]
+
+This extends the sim-to-real thread without proving transfer. A simulated kitchen can make exploration cheaper, but a robot policy still needs embodiment-specific tests, recovery behavior, and safety controls outside the simulator. [[agent-reliability-and-operations]] [[self-driving-labs]] [raw/newsletters/the-neuron-2026-10-28-what-google-s-new-genie-4-can-simulate.md]
+
 ## Links
 
-- Related entities: [[black-forest-labs]], [[nvidia]], [[radical-ai]], [[dyna-2]]
-- Related concepts: [[self-driving-labs]], [[real-world-agent-evaluations]], [[recursive-self-improvement]]
+- Related entities: [[black-forest-labs]], [[nvidia]], [[radical-ai]], [[dyna-2]], [[google-gemini]]
+- Related concepts: [[self-driving-labs]], [[real-world-agent-evaluations]], [[recursive-self-improvement]], [[agent-reliability-and-operations]]
