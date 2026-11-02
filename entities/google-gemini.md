@@ -1,7 +1,7 @@
 ---
 title: Google Gemini
 created: 2026-07-30
-updated: 2026-10-05
+updated: 2026-11-02
 type: entity
 tags: [ai, llm, model, company]
 sources: [raw/newsletters/the-neuron-2026-07-23-google-split-gemini-in-three.md, raw/newsletters/ainews-2026-07-22-ainews-ai-cybersecurity-becomes-top-of-mind.md, raw/newsletters/ainews-2026-08-14-ainews-gemini-3-7-flash-brings-gdm-back-to-the-forefront.md, raw/newsletters/the-neuron-2026-08-14-why-gemini-3-7-flash-just-got-half-price.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md, raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md]
@@ -39,6 +39,12 @@ The useful comparison is completed-task economics. Coverage reported that Gemini
 Google DeepMind introduced [[gemini-4-argon]] for coding, enterprise knowledge work, and cyber defense, initially restricting access to government users and trusted cyber defenders through Fairwind. Coverage reports up to 1M-token output through Long Decode Continuation, strong results across selected agentic and coding evaluations, and discounted launch pricing; other reports and commentators flag benchmark and availability uncertainty. [raw/newsletters/ainews-2026-10-01-ainews-gemini-4-argon-gdm-s-answer-to-astra-fable-with-1m-output.md][raw/newsletters/ainews-2026-10-02-ainews-pi-1-0-pi-durable-and-aie-nyc.md]
 
 Argon strengthens the portfolio-and-routing interpretation of Gemini. The comparison with Astra, Sol, Opus, and Sonnet is workload-specific: output length, cache hit rate, tool latency, effort, and verification can outweigh nominal token price. [[ai-benchmarking]] and [[model-routing]] provide the more durable frame.
+
+## October 2026: cyber defense and interactive worlds
+
+Google DeepMind's [[gemini-4-argon]] portfolio now has two adjacent restricted surfaces. The Neuron reports Gemini 4 Carbon as a cyber-defense model for finding, verifying, and patching vulnerabilities, with limited access through the Fairwind program; Google also reported very low cheating on Terminal-Bench 4.0, though the figures await defender-side validation. [raw/newsletters/the-neuron-2026-10-29-google-s-cloud-doubled-stock-fell.md]
+
+The same batch reports Genie 4, a research-preview world model that creates navigable, editable environments with ambient sound, physical interactions, and Gemini-guided multi-step events. Google positions it for games, film, and robot simulation, while acknowledging inconsistency in objects, physics, and spatial details over longer sessions. [[agentic-robotics]] [[real-world-agent-evaluations]] [raw/newsletters/the-neuron-2026-10-28-what-google-s-new-genie-4-can-simulate.md]
 
 ## Links
 

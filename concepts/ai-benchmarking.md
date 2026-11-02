@@ -1,7 +1,7 @@
 ---
 title: AI Benchmarking
 created: 2026-07-30
-updated: 2026-10-12
+updated: 2026-11-02
 type: concept
 tags: [ai, research, model]
 sources: [raw/newsletters/ainews-2026-07-25-ainews-claude-opus-5-fable-level-performance-at-opus-price-half-fable.md, raw/newsletters/ainews-2026-07-29-ainews-ai-is-eating-finance-aie-nyc-now-open.md, raw/newsletters/ainews-2026-07-24-ainews-black-forest-labs-flux-3-multimodal-flow-models-that-beat-seeda.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md, raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/ainews-2026-09-01-ainews-fal-s-h3-max-live-breaks-the-infinite-videogen-barrier.md, raw/newsletters/the-neuron-2026-09-07-openai-s-data-vs-its-chief-scientist-s-fear.md, raw/newsletters/the-neuron-2026-09-09-openai-s-1m-math-breakthrough-sparked-a-fight-with-anthropic.md, raw/newsletters/the-neuron-2026-09-11-openai-advances-another-millennium-problem.md, raw/newsletters/ainews-2026-09-16-ainews-jev-a-system-one-model-that-only-decides-classifies-routes-scor.md, raw/newsletters/ainews-2026-09-17-ainews-reality-checks-on-ai-news-yegge-shuts-down-gas-town-databricks.md, raw/newsletters/latent-space-2026-09-15-can-skills-learned-in-games-transfer-to-real-world-work.md, raw/newsletters/the-neuron-2026-09-18-ai-agents-just-out-mathed-us.md]
@@ -70,7 +70,15 @@ Muse Spark Open adds a useful distinction between open weights and practical ope
 
 Dyna-2 and Leash Bio point to two under-measured evaluation surfaces. Physical agents need long-horizon recovery and authorized execution; scientific agents need reproducible experimental feedback and independent verification rather than only benchmark scores. [[dyna-2]] [[leash-bio]] [raw/newsletters/latent-space-2026-10-13-dyna-2-general-purpose-physical-agents-with-hour-long-autonomy-jason-m.md][raw/newsletters/latent-space-2026-10-14-lab-in-the-loop-at-compute-speed-ian-quigley-leash-bio.md]
 
+## Late October: benchmark claims need independent replay
+
+OpenAI's Terra coverage gives a compact example of benchmark drift: OpenAI claims a 15-point gain on Agents' Last Exam and more than threefold speed at roughly one-third the cost, while an independent three-run form test found a smaller speed gap and showed both models completing the fields correctly. The useful comparison is task-specific accuracy, elapsed time, retries, and cost—not a vendor headline detached from the harness. [[gpt-5-6]] [[model-routing]] [raw/newsletters/the-neuron-2026-10-27-openai-s-terra-can-enter-your-invoices.md]
+
+The same discipline applies to OpenAI's reported Exponential Time Hypothesis disproof. Lean checking is a valuable artifact-level test, but expert review still needs to establish whether the formal result means what the announcement claims and whether any software consequence follows. [[ai-for-science]] [raw/newsletters/the-neuron-2026-10-27-openai-s-terra-can-enter-your-invoices.md]
+
+Mistral Large 4 adds openness and safety dimensions to model comparison: reported coding-agent results, token use, context size, refusal rates, licensing, and the behavior of modified public weights all matter. The comparison is not portable until the model, harness, test set, deployment, and evaluator are independently reproducible. [[mistral-large-4]] [[closed-vs-open-frontier-models]] [raw/newsletters/the-neuron-2026-10-30-you-can-now-download-mistral-large-4.md]
+
 ## Links
 
 - Related concepts: [[coding-agent-evaluation]], [[real-world-agent-evaluations]], [[software-factories]], [[model-routing]], [[third-party-ai-evaluation]]
-- Related entities: [[claude-opus-5]], [[kimi-k3]], [[gpt-5-6]]
+- Related entities: [[claude-opus-5]], [[kimi-k3]], [[gpt-5-6]], [[mistral-large-4]]

@@ -1,7 +1,7 @@
 ---
 title: Frontier Model Access Controls
 created: 2026-06-21
-updated: 2026-09-07
+updated: 2026-11-02
 type: concept
 tags: [ai, llm, policy, trend]
 sources: [raw/newsletters/the-neuron-2026-06-10-claude-fable-most-controversial-ai-yet.md, raw/newsletters/the-neuron-2026-06-14-us-gov-shuts-down-claude-fable.md, raw/newsletters/the-neuron-2026-06-18-washington-wants-ai-equity.md, raw/newsletters/ainews-2026-06-11-ainews-open-models-model-labs-vs-agent-labs-and-what-s-untrainable-sar.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/ainews-2026-06-27-ainews-openai-gpt-5-6-sol-terra-luna-restricted-to-trusted-partners.md, raw/newsletters/the-neuron-2026-06-28-openai-vs-washington-over-gpt-5-6.md, raw/newsletters/the-neuron-2026-07-01-fable-5-is-back-baby.md, raw/newsletters/the-neuron-2026-07-03-openai-may-give-uncle-sam-5.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/ainews-2026-07-11-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-07-14-nadella-s-blunt-take-on-model-cloning.md, raw/newsletters/the-neuron-2026-07-15-google-wants-an-ai-referee.md, raw/newsletters/the-neuron-2026-07-17-kimi-k3-just-shrank-openai-s-moat.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md, raw/newsletters/the-neuron-2026-09-06-openai-linked-agents-hijacked-a-german-wiki.md]
@@ -61,8 +61,14 @@ The workhorse race adds routing and economics to access control. Gemini 3.8 Flas
 
 The German wiki incident reinforces that access controls must be tested as effective actions. A “read-only” label did not prevent a write through an allowed request path. [[ai-cybersecurity]] and [[agent-reliability-and-operations]] are therefore core parts of access policy, not downstream implementation details. [raw/newsletters/the-neuron-2026-09-06-openai-linked-agents-hijacked-a-german-wiki.md]
 
+## October 2026: specialized gates and open-weight caveats
+
+Google's Gemini 4 Carbon was reportedly restricted to selected cyber defenders through Fairwind, while Genie 4 remained a research preview with limited tester access. The controls reflect different risk profiles: restricted access for vulnerability discovery and staged access for an interactive simulator whose physical consistency is not yet reliable. [[google-gemini]] [[ai-cybersecurity]] [raw/newsletters/the-neuron-2026-10-28-what-google-s-new-genie-4-can-simulate.md][raw/newsletters/the-neuron-2026-10-29-google-s-cloud-doubled-stock-fell.md]
+
+Mistral's Large 4 release shows that access control does not end when weights are downloadable. The general 1T/49B-active model is open-weight, but the stronger cyber variant is partner-gated; the license separately distinguishes internal self-hosting from commercial model-as-a-service. Public weights shift the control problem toward deployment, modification, licensing, and downstream monitoring. [[mistral-large-4]] [[closed-vs-open-frontier-models]] [raw/newsletters/the-neuron-2026-10-30-you-can-now-download-mistral-large-4.md]
+
 ## Links
 
-- Related entities: [[claude-fable-5]], [[gpt-5-6]], [[grok-4-5]], [[glm-5-2]], [[kimi-k3]], [[inkling]], [[openai]]
+- Related entities: [[claude-fable-5]], [[gpt-5-6]], [[grok-4-5]], [[glm-5-2]], [[kimi-k3]], [[inkling]], [[openai]], [[google-gemini]], [[mistral-large-4]]
 - Related comparisons: [[closed-vs-open-frontier-models]]
 - Related concepts: [[coding-agent-evaluation]], [[ai-control-roadmaps]], [[agent-experience]]

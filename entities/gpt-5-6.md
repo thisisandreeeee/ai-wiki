@@ -1,7 +1,7 @@
 ---
 title: GPT-5.6
 created: 2026-06-29
-updated: 2026-08-10
+updated: 2026-11-02
 type: entity
 tags: [ai, llm, model, policy, company]
 sources: [raw/newsletters/ainews-2026-06-27-ainews-openai-gpt-5-6-sol-terra-luna-restricted-to-trusted-partners.md, raw/newsletters/the-neuron-2026-06-26-ai-is-making-your-next-apple-device-cost-more.md, raw/newsletters/the-neuron-2026-06-28-openai-vs-washington-over-gpt-5-6.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/ainews-2026-07-14-ainews-codex-usage-up-10x-in-6-months-to-7m-users-1m-in-the-past-day-d.md, raw/newsletters/ainews-2026-07-17-ainews-kimi-k3-2-8t-a50b-the-largest-open-model-ever-released-opus-4-8.md, raw/newsletters/ainews-2026-07-31-ainews-gpt-5-6-price-cut-by-20-80-cost-of-gpt-5-4-intelligence-dropped.md, raw/newsletters/ainews-2026-08-07-ainews-amd-buys-taalas.md]
@@ -62,9 +62,15 @@ OpenAI explicitly stated the constrained rollout was "at the request of the U.S.
 
 This launch intersects with the broader [[frontier-model-access-controls]] debate. The same week, Anthropic restored [[claude-fable-5|Mythos 5]] to 100+ trusted U.S. institutions while Fable 5 remained TBD.
 
+## October 27 update: Terra as a computer-use workhorse
+
+The Neuron reports GPT-6.1 Terra as a cheaper computer-use model for clicking through office software, including reading invoices and entering them into accounting systems. OpenAI claims a 15-point improvement on Agents' Last Exam at roughly one-third the cost of its predecessor, with pricing of $1/$5 per million input/output tokens; an independent small form test reported every field correct across three runs and a 9.4-second median versus 17.3 seconds for Sol, while noting the gap was smaller than OpenAI's headline. [[openai]] [[ai-benchmarking]] [raw/newsletters/the-neuron-2026-10-27-openai-s-terra-can-enter-your-invoices.md]
+
+The same source reports OpenAI claims that its models found a disproof of the Exponential Time Hypothesis, with Lean checking the result, alongside a mathematical and physics proof program. These are raw research claims pending expert review; the result should not be treated as settled or as an immediate software speedup. [[ai-for-science]] [raw/newsletters/the-neuron-2026-10-27-openai-s-terra-can-enter-your-invoices.md]
+
 ## Links
 
 - Related entities: [[openai]], [[claude-fable-5]], [[glm-5-2]], [[kimi-k3]], [[inkling]]
-- Related concepts: [[frontier-model-access-controls]], [[meta-harnesses]], [[coding-agent-evaluation]]
+- Related concepts: [[frontier-model-access-controls]], [[meta-harnesses]], [[coding-agent-evaluation]], [[ai-benchmarking]], [[ai-for-science]]
 - Related comparisons: [[closed-vs-open-frontier-models]]
 - See also: [[weekly-briefing-2026-06-24-to-2026-06-28]]
