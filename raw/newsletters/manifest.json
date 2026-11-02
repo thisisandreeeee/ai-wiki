@@ -1,23 +1,5 @@
 [
   {
-    "id": "1a142eec01184669",
-    "newsletter": "ainews",
-    "subject": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
-    "date": "Fri, 16 Oct 2026 04:16:46 +0000",
-    "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-10-16-ainews-agents-disprove-polysemanticity-greatly-improve-interpretabilit.md",
-    "chars": 55598
-  },
-  {
-    "id": "1a144462412adc3e",
-    "newsletter": "the-neuron",
-    "subject": "😺 Advertisers can target ChatGPT by prompt",
-    "date": "Fri, 16 Oct 2026 10:33:27 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-10-16-advertisers-can-target-chatgpt-by-prompt.md",
-    "chars": 19347
-  },
-  {
     "id": "1a1685427fb886f8",
     "newsletter": "the-neuron",
     "subject": "😺 Microsoft AI scored 83% where doctors got 36%",
@@ -27,22 +9,13 @@
     "chars": 22652
   },
   {
-    "id": "1a12fe3fa889dc8f",
+    "id": "1a18c6587f7d0731",
     "newsletter": "the-neuron",
-    "subject": "😺 White House orders AI incident reporting",
-    "date": "Mon, 12 Oct 2026 11:33:50 +0000 (UTC)",
+    "subject": "😸 You can now download Mistral Large 4",
+    "date": "Fri, 30 Oct 2026 10:39:58 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-10-12-white-house-orders-ai-incident-reporting.md",
-    "chars": 19140
-  },
-  {
-    "id": "1a13158e13c611e5",
-    "newsletter": "latent-space",
-    "subject": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
-    "date": "Mon, 12 Oct 2026 18:18:17 +0000",
-    "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/latent-space-2026-10-12-how-anthropic-s-dynamic-workflows-coordinate-claude-agents.md",
-    "chars": 8478
+    "path": "raw/newsletters/the-neuron-2026-10-30-you-can-now-download-mistral-large-4.md",
+    "chars": 21322
   },
   {
     "id": "1a153d60446c843b",
@@ -54,31 +27,31 @@
     "chars": 22023
   },
   {
-    "id": "1a148d7d082d0b7d",
-    "newsletter": "ainews",
-    "subject": "[AINews] High Taste Testers Ep. 1",
-    "date": "Sat, 17 Oct 2026 07:47:38 +0000",
-    "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-10-17-ainews-high-taste-testers-ep-1.md",
-    "chars": 55630
+    "id": "1a177b5730ace3d8",
+    "newsletter": "the-neuron",
+    "subject": "😺 Anthropic's unexpected paywall breach",
+    "date": "Mon, 26 Oct 2026 10:15:41 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-10-26-anthropic-s-unexpected-paywall-breach.md",
+    "chars": 20043
   },
   {
-    "id": "1a149f9a0cce8ab4",
+    "id": "1a1918666caae622",
     "newsletter": "the-neuron",
-    "subject": "😸 DEEP DIVE: The 32-language workplace is here",
-    "date": "Sat, 17 Oct 2026 13:07:36 +0000 (UTC)",
+    "subject": "A Neuron reader tried our AI courses. His take?",
+    "date": "Sat, 31 Oct 2026 10:34:25 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-10-17-deep-dive-the-32-language-workplace-is-here.md",
-    "chars": 18186
+    "path": "raw/newsletters/the-neuron-2026-10-31-a-neuron-reader-tried-our-ai-courses-his-take.md",
+    "chars": 2210
   },
   {
-    "id": "1a1501191e705403",
+    "id": "1a1989a09497e4f9",
     "newsletter": "the-neuron",
-    "subject": "😺 How far do Meta’s scraping terms reach?",
-    "date": "Sun, 18 Oct 2026 17:31:30 +0000 (UTC)",
+    "subject": "😺 Publishers sell ads only AI agents see",
+    "date": "Sun, 01 Nov 2026 19:33:08 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-10-18-how-far-do-meta-s-scraping-terms-reach.md",
-    "chars": 16543
+    "path": "raw/newsletters/the-neuron-2026-11-01-publishers-sell-ads-only-ai-agents-see.md",
+    "chars": 16696
   },
   {
     "id": "1a17456fc4f2130a",
@@ -88,33 +61,6 @@
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
     "path": "raw/newsletters/the-neuron-2026-10-25-walmart-wants-ai-shoppers-on-an-allowance.md",
     "chars": 17949
-  },
-  {
-    "id": "1a13f13085079cd6",
-    "newsletter": "ainews",
-    "subject": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 mo…",
-    "date": "Thu, 15 Oct 2026 10:08:08 +0000",
-    "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-10-15-ainews-modal-s-1b-arr-16b-series-d-makes-it-nyc-s-newest-ai-infra-deca.md",
-    "chars": 61922
-  },
-  {
-    "id": "1a13f1f12b0ed399",
-    "newsletter": "the-neuron",
-    "subject": "😸 Gemini on scam patrol",
-    "date": "Thu, 15 Oct 2026 10:32:37 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-10-15-gemini-on-scam-patrol.md",
-    "chars": 18844
-  },
-  {
-    "id": "1a141dac4ce59c37",
-    "newsletter": "data-science-weekly",
-    "subject": "Data Science Weekly - Issue 673",
-    "date": "Thu, 15 Oct 2026 23:16:31 +0000",
-    "from": "Data Science Weekly Newsletter <datascienceweekly@substack.com>",
-    "path": "raw/newsletters/data-science-weekly-2026-10-15-data-science-weekly-issue-673.md",
-    "chars": 14684
   },
   {
     "id": "1a1629320769e2de",
@@ -162,40 +108,22 @@
     "chars": 112706
   },
   {
-    "id": "1a134a117a369337",
-    "newsletter": "ainews",
-    "subject": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
-    "date": "Tue, 13 Oct 2026 09:37:04 +0000",
-    "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-10-13-ainews-meta-muse-wonder-wonder-full-msl-s-claude-5-5-tier-frontier-mod.md",
-    "chars": 77221
-  },
-  {
-    "id": "1a134a2e25028573",
+    "id": "1a18746f0bf9f083",
     "newsletter": "the-neuron",
-    "subject": "😺 Meta’s Muse Wonder is here, priced like Opus",
-    "date": "Tue, 13 Oct 2026 09:40:50 +0000 (UTC)",
+    "subject": "😸 Google's cloud doubled. Stock fell.",
+    "date": "Thu, 29 Oct 2026 10:48:13 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-10-13-meta-s-muse-wonder-is-here-priced-like-opus.md",
-    "chars": 19237
+    "path": "raw/newsletters/the-neuron-2026-10-29-google-s-cloud-doubled-stock-fell.md",
+    "chars": 19528
   },
   {
-    "id": "1a13675698e56997",
-    "newsletter": "data-elixir",
-    "subject": "Data Elixir - Issue 593",
-    "date": "Tue, 13 Oct 2026 18:10:26 +0000 (UTC)",
-    "from": "Data Elixir <lon@dataelixir.com>",
-    "path": "raw/newsletters/data-elixir-2026-10-13-data-elixir-issue-593.md",
-    "chars": 7949
-  },
-  {
-    "id": "1a13760e5c2557c6",
-    "newsletter": "latent-space",
-    "subject": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
-    "date": "Tue, 13 Oct 2026 22:25:55 +0000",
-    "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/latent-space-2026-10-13-dyna-2-general-purpose-physical-agents-with-hour-long-autonomy-jason-m.md",
-    "chars": 85538
+    "id": "1a18a09d1fcef130",
+    "newsletter": "data-science-weekly",
+    "subject": "Data Science Weekly - Issue 675",
+    "date": "Thu, 29 Oct 2026 23:40:40 +0000",
+    "from": "Data Science Weekly Newsletter <datascienceweekly@substack.com>",
+    "path": "raw/newsletters/data-science-weekly-2026-10-29-data-science-weekly-issue-675.md",
+    "chars": 15624
   },
   {
     "id": "1a157c4c36b0991d",
@@ -225,40 +153,22 @@
     "chars": 45481
   },
   {
-    "id": "1a138ef67c50c066",
-    "newsletter": "ainews",
-    "subject": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
-    "date": "Wed, 14 Oct 2026 05:40:28 +0000",
-    "from": "AINews <swyx+ainews@substack.com>",
-    "path": "raw/newsletters/ainews-2026-10-14-ainews-ai-engineer-nyc-gemini-4-argon-vals-ai-benchmarks.md",
-    "chars": 56511
-  },
-  {
-    "id": "1a139dd65a08ff9d",
+    "id": "1a17ceb7909a58fd",
     "newsletter": "the-neuron",
-    "subject": "😸 Google launched Gemini 4 Argon, tying GPT-6",
-    "date": "Wed, 14 Oct 2026 10:02:51 +0000 (UTC)",
+    "subject": "😺 OpenAI's Terra can enter your invoices",
+    "date": "Tue, 27 Oct 2026 10:32:43 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-10-14-google-launched-gemini-4-argon-tying-gpt-6.md",
-    "chars": 20756
+    "path": "raw/newsletters/the-neuron-2026-10-27-openai-s-terra-can-enter-your-invoices.md",
+    "chars": 21637
   },
   {
-    "id": "1a13c22f1f811954",
-    "newsletter": "latent-space",
-    "subject": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
-    "date": "Wed, 14 Oct 2026 20:35:09 +0000",
-    "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/latent-space-2026-10-14-lab-in-the-loop-at-compute-speed-ian-quigley-leash-bio.md",
-    "chars": 7012
-  },
-  {
-    "id": "1a13c5de068d68eb",
-    "newsletter": "latent-space",
-    "subject": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
-    "date": "Wed, 14 Oct 2026 21:40:52 +0000",
-    "from": "\"Latent.Space\" <swyx@substack.com>",
-    "path": "raw/newsletters/latent-space-2026-10-14-crossing-the-threshold-how-openai-and-anthropic-approach-autonomy-and.md",
-    "chars": 7608
+    "id": "1a17efbf9870e7ff",
+    "newsletter": "data-elixir",
+    "subject": "Data Elixir - Issue 595",
+    "date": "Tue, 27 Oct 2026 20:10:03 +0000 (UTC)",
+    "from": "Data Elixir <lon@dataelixir.com>",
+    "path": "raw/newsletters/data-elixir-2026-10-27-data-elixir-issue-595.md",
+    "chars": 8392
   },
   {
     "id": "1a15cdcca41169f8",
@@ -295,5 +205,14 @@
     "from": "\"Latent.Space\" <swyx@substack.com>",
     "path": "raw/newsletters/latent-space-2026-10-21-claude-mods-flipping-the-harness-inside-out.md",
     "chars": 14316
+  },
+  {
+    "id": "1a18211476405647",
+    "newsletter": "the-neuron",
+    "subject": "😺 What Google's new Genie 4 can simulate",
+    "date": "Wed, 28 Oct 2026 10:32:05 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-10-28-what-google-s-new-genie-4-can-simulate.md",
+    "chars": 20057
   }
 ]
