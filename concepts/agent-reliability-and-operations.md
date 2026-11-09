@@ -1,7 +1,7 @@
 ---
 title: Agent Reliability and Operations
 created: 2026-07-18
-updated: 2026-11-02
+updated: 2026-11-09
 type: concept
 tags: [ai, llm, tooling, policy, data-engineering]
 sources: [raw/newsletters/the-neuron-2026-08-21-claude-allegedly-speedran-a-31k-loss.md, raw/newsletters/the-neuron-2026-08-23-sam-altman-dear-peasants-isn-t-a-good-ai-pitch.md, raw/learning-resources/technical-interview-learning-resources.md, raw/newsletters/ainews-2026-08-08-ainews-zawinski-s-law-of-multiagents.md, raw/newsletters/the-neuron-2026-08-05-an-ai-agent-created-fake-identities.md, raw/newsletters/the-neuron-2026-08-07-openai-s-agents-built-their-own-backchannel.md, raw/newsletters/latent-space-2026-08-04-unpacking-chatgpt-work-the-agent-for-a-billion-users.md, raw/newsletters/ainews-2026-08-12-ainews-how-to-steal-a-reasoning-trace.md, raw/newsletters/the-neuron-2026-08-10-claude-hacked-a-gym-on-its-own.md, raw/newsletters/the-neuron-2026-08-16-google-lets-you-remove-its-visible-ai-watermark.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/latent-space-2026-09-05-openclaw-power-macbook-simplicity-five-days-with-grok-bot.md, raw/newsletters/the-neuron-2026-09-06-openai-linked-agents-hijacked-a-german-wiki.md, raw/newsletters/the-neuron-2026-08-31-openclaw-2-0-rebuilt-the-personal-ai-agent.md, raw/newsletters/the-neuron-2026-09-13-openai-asked-congress-if-ai-can-slow-down.md, raw/newsletters/the-neuron-2026-09-10-anthropic-researcher-sounds-the-alarm.md, raw/newsletters/latent-space-2026-09-16-underwriting-superintelligence-backing-agents-you-can-sue-rune-kvist-a.md, raw/newsletters/the-neuron-2026-09-15-microsoft-maybe-we-still-put-humans-first.md, raw/newsletters/the-neuron-2026-09-17-openai-but-wait-there-s-more-rogue-agent-behavior.md, raw/newsletters/the-neuron-2026-09-20-how-google-s-gemini-breached-3-real-companies.md, raw/newsletters/the-neuron-2026-09-18-ai-agents-just-out-mathed-us.md]
@@ -153,6 +153,12 @@ Anthropic's reported Georgia election-data incident is a concrete authorization 
 
 Publisher-facing agent ads add an information-integrity boundary. Machine-readable sponsored blocks may be invisible to human readers but visible to agents, and a later agent could lose the sponsorship label while reusing the claim. Provenance, disclosure, source checking, and a rule that repeated agent summaries do not count as independent evidence belong in the execution trace. [[agentic-knowledge-work]] [[llm-application-interface]] [raw/newsletters/the-neuron-2026-11-01-publishers-sell-ads-only-ai-agents-see.md]
 
+## November 2026: measure outcomes, then turn failures into tests
+
+A Proton episode illustrates why AI-use volume is a weak reliability metric. The CEO reportedly planned to re-interview nearly the whole company about AI usage, employees feared low usage could affect jobs, and the plan was canceled after backlash. The same reporting described pressure to use AI even when staff wanted time for penetration testing. Activity counts can reward visible compliance while obscuring whether work is correct, secure, or worth shipping. [[workplace-ai-adoption]] [raw/newsletters/the-neuron-2026-11-03-anthropic-s-895b-receipts.md]
+
+Data Elixir highlights a more reliable loop: capture an AI agent’s wrong answer as a regression test, update shared business definitions, and check future answers against known results. The pattern turns incidents into durable evaluation cases, while the source is a sponsored webinar and should be treated as a practice recommendation rather than independent evidence. [[ai-benchmarking]] [[semantic-layer-for-ai]] [raw/newsletters/data-elixir-2026-11-03-data-elixir-issue-596.md]
+
 ## Links
 
 - [[agentic-systems]] defines the runtime, harness, state, and verification loop.
@@ -161,3 +167,4 @@ Publisher-facing agent ads add an information-integrity boundary. Machine-readab
 - [[llm-inference-optimization]] connects model-serving SLOs to agent-level task latency and cost.
 - Existing [[ai-control-roadmaps]] and [[real-world-agent-evaluations]] supply broader safety and evaluation context.
 - [[frontier-model-access-controls]] tracks staged access, public weights, and policy gates.
+- [[ai-benchmarking]] turns failures and outcomes into repeatable tests.

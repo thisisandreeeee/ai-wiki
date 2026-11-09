@@ -1,7 +1,7 @@
 ---
 title: Frontier Model Access Controls
 created: 2026-06-21
-updated: 2026-11-02
+updated: 2026-11-09
 type: concept
 tags: [ai, llm, policy, trend]
 sources: [raw/newsletters/the-neuron-2026-06-10-claude-fable-most-controversial-ai-yet.md, raw/newsletters/the-neuron-2026-06-14-us-gov-shuts-down-claude-fable.md, raw/newsletters/the-neuron-2026-06-18-washington-wants-ai-equity.md, raw/newsletters/ainews-2026-06-11-ainews-open-models-model-labs-vs-agent-labs-and-what-s-untrainable-sar.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/ainews-2026-06-27-ainews-openai-gpt-5-6-sol-terra-luna-restricted-to-trusted-partners.md, raw/newsletters/the-neuron-2026-06-28-openai-vs-washington-over-gpt-5-6.md, raw/newsletters/the-neuron-2026-07-01-fable-5-is-back-baby.md, raw/newsletters/the-neuron-2026-07-03-openai-may-give-uncle-sam-5.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/ainews-2026-07-11-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-07-14-nadella-s-blunt-take-on-model-cloning.md, raw/newsletters/the-neuron-2026-07-15-google-wants-an-ai-referee.md, raw/newsletters/the-neuron-2026-07-17-kimi-k3-just-shrank-openai-s-moat.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md, raw/newsletters/the-neuron-2026-09-06-openai-linked-agents-hijacked-a-german-wiki.md]
@@ -67,8 +67,16 @@ Google's Gemini 4 Carbon was reportedly restricted to selected cyber defenders t
 
 Mistral's Large 4 release shows that access control does not end when weights are downloadable. The general 1T/49B-active model is open-weight, but the stronger cyber variant is partner-gated; the license separately distinguishes internal self-hosting from commercial model-as-a-service. Public weights shift the control problem toward deployment, modification, licensing, and downstream monitoring. [[mistral-large-4]] [[closed-vs-open-frontier-models]] [raw/newsletters/the-neuron-2026-10-30-you-can-now-download-mistral-large-4.md]
 
+## November 2026: cyber gates and procurement contracts
+
+GPT-6 Cyber adds a specialized access gate: OpenAI restricted access through Daybreak Red with separate approval and additional security controls, while the reported honeypot results show why deployment instructions and environment boundaries still need testing. Capability classification is becoming a combination of model tier, trusted access, tool permissions, network reachability, and monitoring. [[openai]] [[ai-cybersecurity]] [raw/newsletters/the-neuron-2026-11-06-openai-launched-gpt-6-cyber-the-catch.md]
+
+Microsoft’s school standard shows the same pattern outside frontier cyber models. A district can add enforceable privacy and safety terms to an agreement, including no training on student data, no advertising or tracking, human review for high-risk decisions, audit rights, and breach deadlines. This makes procurement and contract remedies part of access control, not merely legal commentary. [[microsoft]] [[ai-in-education]] [raw/newsletters/the-neuron-2026-11-02-microsoft-s-binding-ai-school-deal.md]
+
+Google’s school controls add a product-level gate: Gemini products and Search are reported to start off for K-12 student accounts until administrators enable them, with Guided Learning pilots and transcript visibility for teachers. The unresolved setting—whether schools can keep Gemini off while retaining Search—illustrates why access claims need configuration-level verification. [[google-gemini]] [[ai-in-education]] [raw/newsletters/the-neuron-2026-11-04-google-s-school-search-ultimatum.md]
+
 ## Links
 
-- Related entities: [[claude-fable-5]], [[gpt-5-6]], [[grok-4-5]], [[glm-5-2]], [[kimi-k3]], [[inkling]], [[openai]], [[google-gemini]], [[mistral-large-4]]
+- Related entities: [[claude-fable-5]], [[gpt-5-6]], [[grok-4-5]], [[glm-5-2]], [[kimi-k3]], [[inkling]], [[openai]], [[google-gemini]], [[mistral-large-4]], [[microsoft]]
 - Related comparisons: [[closed-vs-open-frontier-models]]
-- Related concepts: [[coding-agent-evaluation]], [[ai-control-roadmaps]], [[agent-experience]]
+- Related concepts: [[coding-agent-evaluation]], [[ai-control-roadmaps]], [[agent-experience]], [[ai-cybersecurity]], [[ai-in-education]]

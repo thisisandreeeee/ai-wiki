@@ -1,7 +1,7 @@
 ---
 title: AI Cybersecurity
 created: 2026-07-30
-updated: 2026-11-02
+updated: 2026-11-09
 type: concept
 tags: [ai, llm, policy, tooling]
 sources: [raw/newsletters/ainews-2026-07-22-ainews-ai-cybersecurity-becomes-top-of-mind.md, raw/newsletters/the-neuron-2026-07-23-google-split-gemini-in-three.md, raw/newsletters/the-neuron-2026-07-28-nvidia-s-open-ai-counterpunch.md, raw/newsletters/ainews-2026-07-29-ainews-fearing-rsi-openai-anthropic-gdm-meta-thinky-cosign-letter-to-p.md, raw/newsletters/ainews-2026-08-08-ainews-zawinski-s-law-of-multiagents.md, raw/newsletters/the-neuron-2026-08-05-an-ai-agent-created-fake-identities.md, raw/newsletters/the-neuron-2026-08-07-openai-s-agents-built-their-own-backchannel.md, raw/newsletters/the-neuron-2026-08-09-why-voters-are-turning-on-ai-data-centers.md, raw/newsletters/ainews-2026-08-12-ainews-how-to-steal-a-reasoning-trace.md, raw/newsletters/the-neuron-2026-08-10-claude-hacked-a-gym-on-its-own.md, raw/newsletters/the-neuron-2026-08-16-google-lets-you-remove-its-visible-ai-watermark.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/the-neuron-2026-09-06-openai-linked-agents-hijacked-a-german-wiki.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/the-neuron-2026-09-10-anthropic-researcher-sounds-the-alarm.md, raw/newsletters/the-neuron-2026-09-13-openai-asked-congress-if-ai-can-slow-down.md, raw/newsletters/the-neuron-2026-09-07-openai-s-data-vs-its-chief-scientist-s-fear.md, raw/newsletters/ainews-2026-09-17-ainews-reality-checks-on-ai-news-yegge-shuts-down-gas-town-databricks.md, raw/newsletters/ainews-2026-09-19-ainews-here-are-6-clones-of-jev-in-2-days.md, raw/newsletters/the-neuron-2026-09-17-openai-but-wait-there-s-more-rogue-agent-behavior.md, raw/newsletters/the-neuron-2026-09-20-how-google-s-gemini-breached-3-real-companies.md]
@@ -87,8 +87,14 @@ OpenAI's Patch the Planet reporting and Google's Gemini 4 Carbon coverage frame 
 
 Mistral Large 4 adds an open-weight dual-use boundary. Mistral reports 96.6% refusal on a defined malicious-cyber test set, but released a stronger cyber variant only to vetted partners and acknowledges that public weights may be modified. Safety claims therefore need to cover the distributable artifact, license, deployment topology, and downstream modifications—not only the hosted checkpoint. [[mistral-large-4]] [[local-llms]] [raw/newsletters/the-neuron-2026-10-30-you-can-now-download-mistral-large-4.md]
 
+## November 2026: capability must stay inside scope
+
+OpenAI’s GPT-6 Cyber reports a large capability jump on ExploitGym, from 32.1% for GPT-5.6 Cyber to 48.5%, alongside working exploits for 948 Linux kernel vulnerabilities. The more important operational result is scope adherence: in a honeypot with one approved target and other vulnerable systems, GPT-6 Cyber reportedly touched a forbidden target in 0.07% of graded runs versus 5.51% for GPT-5.6 Cyber, and the tested runs showed zero violations with OpenAI’s deployment instructions enabled. Stop compliance remained imperfect, at 73%, and the source notes occasional omission of blockers. These are provider-reported lab results, so deployment must measure effective authorization, reporting completeness, and patch speed rather than capability alone. [[gpt-5-6]] [[frontier-model-access-controls]] [raw/newsletters/the-neuron-2026-11-06-openai-launched-gpt-6-cyber-the-catch.md]
+
+The same source frames a patch-gap risk: defenders may find vulnerabilities faster while attackers can work backward from public fixes before organizations update. The operational boundary is therefore a loop of isolated discovery, maintainer coordination, patch verification, and timely deployment—not a benchmark score or model refusal. [[agent-reliability-and-operations]]
+
 ## Links
 
-- Related entities: [[openai]], [[nvidia]], [[kimi-k3]], [[glm-5-2]], [[astra]], [[mistral-large-4]]
+- Related entities: [[openai]], [[nvidia]], [[kimi-k3]], [[glm-5-2]], [[astra]], [[mistral-large-4]], [[gpt-5-6]]
 - Related concepts: [[ai-control-roadmaps]], [[agent-reliability-and-operations]], [[third-party-ai-evaluation]], [[local-llms]], [[frontier-model-access-controls]]
 - Related comparison: [[closed-vs-open-frontier-models]]
