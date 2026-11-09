@@ -200,3 +200,10 @@
 - `/home/janet/.hermes/venvs/ai-wiki/bin/python scripts/lint_wiki.py`: `OK: 151 wiki pages, 338 raw newsletter sources`.
 - `/home/janet/.hermes/venvs/ai-wiki/bin/python -m py_compile scripts/*.py`: passed with no output.
 
+## [2026-11-09] synthesize | Weekly newsletter batch
+
+- Fetched 17 Gmail newsletter items; 8 were new raw newsletter sources dated 2026-11-02 through 2026-11-08. `raw/newsletters/manifest.json` was refreshed.
+- Created `concepts/ai-in-education.md` and `queries/weekly-briefing-2026-11-09.md`.
+- Updated `entities/microsoft.md`, `entities/openai.md`, `entities/gpt-5-6.md`, `concepts/ai-cybersecurity.md`, `concepts/frontier-model-access-controls.md`, `concepts/ai-infrastructure-economics.md`, `concepts/ai-benchmarking.md`, `concepts/agent-reliability-and-operations.md`, `concepts/reliable-data-pipelines.md`, and `index.md`.
+- Preserved existing raw newsletter files unchanged; retained the 8 new captures and refreshed manifest.
+

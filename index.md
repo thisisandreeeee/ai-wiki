@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.  
-> Last updated: 2026-11-02 | Total pages: 151
+> Last updated: 2026-11-09 | Total pages: 153
 
 ## Entities
 
@@ -97,6 +97,7 @@
 - [[ai-for-science]] — Scientific hypothesis generation and experimental verification accelerated by models, search, software, and agents.
 - [[ai-health-data-interfaces]] — Personal health record and wearable-data interfaces connected to AI assistants.
 - [[ai-healthcare]] — Health-oriented LLM and AI workflows with clinical validation and human-in-the-loop constraints.
+- [[ai-in-education]] — School AI governance combining student-data protections, administrator controls, human review, and classroom-use questions.
 - [[ai-in-finance]] — Domain-specific agent adoption across equity research, banking, corporate finance, and analyst workflows.
 - [[ai-infrastructure-economics]] — Cost, compute, token, datacenter, chip, and energy constraints behind AI agent growth.
 - [[ai-memory-chip-shortage]] — Supply constraints on HBM and advanced memory chips as a bottleneck for AI hardware scaling.
@@ -165,3 +166,4 @@
 - [[weekly-briefing-2026-10-19]] — Weekly synthesis of frontier models, agent orchestration, physical/scientific agents, workplace trust, and infrastructure economics.
 - [[weekly-briefing-2026-10-26]] — Weekly synthesis of inference economics, programmable compute, attention interfaces, enterprise diffusion, cyber defense, and high-stakes evaluation.
 - [[weekly-briefing-2026-11-02]] — Weekly synthesis of computer-use models, open-weight cyber controls, interactive worlds, agent authorization, semantic layers, and agent-mediated advertising.
+- [[weekly-briefing-2026-11-09]] — Weekly synthesis of cyber scope controls, school AI governance, data-center consent, image workflows, workplace metrics, and data-analysis evaluation.
