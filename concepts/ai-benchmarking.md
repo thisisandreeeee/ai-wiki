@@ -1,7 +1,7 @@
 ---
 title: AI Benchmarking
 created: 2026-07-30
-updated: 2026-11-02
+updated: 2026-11-09
 type: concept
 tags: [ai, research, model]
 sources: [raw/newsletters/ainews-2026-07-25-ainews-claude-opus-5-fable-level-performance-at-opus-price-half-fable.md, raw/newsletters/ainews-2026-07-29-ainews-ai-is-eating-finance-aie-nyc-now-open.md, raw/newsletters/ainews-2026-07-24-ainews-black-forest-labs-flux-3-multimodal-flow-models-that-beat-seeda.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md, raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/ainews-2026-09-01-ainews-fal-s-h3-max-live-breaks-the-infinite-videogen-barrier.md, raw/newsletters/the-neuron-2026-09-07-openai-s-data-vs-its-chief-scientist-s-fear.md, raw/newsletters/the-neuron-2026-09-09-openai-s-1m-math-breakthrough-sparked-a-fight-with-anthropic.md, raw/newsletters/the-neuron-2026-09-11-openai-advances-another-millennium-problem.md, raw/newsletters/ainews-2026-09-16-ainews-jev-a-system-one-model-that-only-decides-classifies-routes-scor.md, raw/newsletters/ainews-2026-09-17-ainews-reality-checks-on-ai-news-yegge-shuts-down-gas-town-databricks.md, raw/newsletters/latent-space-2026-09-15-can-skills-learned-in-games-transfer-to-real-world-work.md, raw/newsletters/the-neuron-2026-09-18-ai-agents-just-out-mathed-us.md]
@@ -78,7 +78,15 @@ The same discipline applies to OpenAI's reported Exponential Time Hypothesis dis
 
 Mistral Large 4 adds openness and safety dimensions to model comparison: reported coding-agent results, token use, context size, refusal rates, licensing, and the behavior of modified public weights all matter. The comparison is not portable until the model, harness, test set, deployment, and evaluator are independently reproducible. [[mistral-large-4]] [[closed-vs-open-frontier-models]] [raw/newsletters/the-neuron-2026-10-30-you-can-now-download-mistral-large-4.md]
 
+## November 2026: benchmark real work and data judgment
+
+Mercor's APEX-Agents leaderboard is reported as comparing complex banking, consulting, and legal assignments; the issue says Google's Gemini 4 models lead Sonnet 5.5 and Opus 5.5. Because the item is sponsor-linked and the methodology is not reproduced in the newsletter, treat the ranking as a lead rather than independent evidence. The durable benchmark question is whether task definitions, environments, tool use, human intervention, and cost are disclosed well enough to replay. [[model-routing]] [[third-party-ai-evaluation]] [raw/newsletters/data-elixir-2026-11-03-data-elixir-issue-596.md]
+
+Data Science Weekly's issue highlights a study benchmarking 17 end-to-end workflows across five analytical families and separating inferential validity, signal recovery, and predictive calibration. It also surfaces a practical warning that exploratory data analysis still requires personally inspecting data: LLM assistance may accelerate work without replacing human judgment about data quality and unexpected structure. [[reliable-data-pipelines]] [raw/newsletters/data-science-weekly-2026-11-05-data-science-weekly-issue-676.md]
+
+The new causal-ML links reinforce that predictive accuracy is not treatment-effect quality: simulated cases with known effects are useful for testing when causal methods outperform standard language, generalized-linear, or gradient-boosting models. Multiple imputation and regression-test practices from the same batch point toward benchmarks that score uncertainty, calibration, and reproducibility—not only a final answer. [[agent-reliability-and-operations]] [raw/newsletters/data-elixir-2026-11-03-data-elixir-issue-596.md]
+
 ## Links
 
-- Related concepts: [[coding-agent-evaluation]], [[real-world-agent-evaluations]], [[software-factories]], [[model-routing]], [[third-party-ai-evaluation]]
+- Related concepts: [[coding-agent-evaluation]], [[real-world-agent-evaluations]], [[software-factories]], [[model-routing]], [[third-party-ai-evaluation]], [[reliable-data-pipelines]], [[agent-reliability-and-operations]]
 - Related entities: [[claude-opus-5]], [[kimi-k3]], [[gpt-5-6]], [[mistral-large-4]]
