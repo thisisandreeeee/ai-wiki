@@ -207,3 +207,8 @@
 - Updated `entities/microsoft.md`, `entities/openai.md`, `entities/gpt-5-6.md`, `concepts/ai-cybersecurity.md`, `concepts/frontier-model-access-controls.md`, `concepts/ai-infrastructure-economics.md`, `concepts/ai-benchmarking.md`, `concepts/agent-reliability-and-operations.md`, `concepts/reliable-data-pipelines.md`, and `index.md`.
 - Preserved existing raw newsletter files unchanged; retained the 8 new captures and refreshed manifest.
 
+## [2026-11-09] lint | 0 issues found
+
+- `/home/janet/.hermes/venvs/ai-wiki/bin/python scripts/lint_wiki.py`: `OK: 153 wiki pages, 346 raw newsletter sources`.
+- `/home/janet/.hermes/venvs/ai-wiki/bin/python -m py_compile scripts/*.py`: passed with no output.
+
