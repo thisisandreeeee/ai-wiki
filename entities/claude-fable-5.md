@@ -1,7 +1,7 @@
 ---
 title: Claude Fable 5
 created: 2026-06-21
-updated: 2026-09-07
+updated: 2026-11-16
 type: entity
 tags: [ai, llm, model, policy]
 sources: [raw/newsletters/the-neuron-2026-06-10-claude-fable-most-controversial-ai-yet.md, raw/newsletters/the-neuron-2026-06-14-us-gov-shuts-down-claude-fable.md, raw/newsletters/ainews-2026-06-11-ainews-open-models-model-labs-vs-agent-labs-and-what-s-untrainable-sar.md, raw/newsletters/ainews-2026-06-13-ainews-fable-and-mythos-officially-too-dangerous-to-release.md, raw/newsletters/the-neuron-2026-06-19-your-doctor-may-ask-chatgpt-next.md, raw/newsletters/ainews-2026-07-01-ainews-sonnet-5-today-and-fable-5-tomorrow.md, raw/newsletters/the-neuron-2026-07-01-fable-5-is-back-baby.md, raw/newsletters/the-neuron-2026-07-02-fable-5-first-reviews.md, raw/newsletters/the-neuron-2026-07-05-build-something-real-with-fable.md, raw/newsletters/ainews-2026-07-07-ainews-the-field-guide-to-fable.md, raw/newsletters/ainews-2026-07-08-ainews-lilian-weng-summarizes-35-papers-on-harness-engineering-for-rsi.md, raw/newsletters/ainews-2026-07-11-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-07-10-chatgpt-swallowed-codex-and-atlas.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/the-neuron-2026-09-02-fable-5-1-is-here-what-changed.md]
@@ -53,6 +53,12 @@ Anthropic’s Claude Fable 5.1 update targets the economics and friction of long
 Anthropic also reported fewer false-positive interventions: about 85% fewer biology/medical interruptions and roughly 60% fewer cyber-safety interventions. The same release guidance recommends append-only history, cached context, mid-conversation system messages, batched tool calls, explicit completion criteria, tight scope, and verification at lower effort settings. This turns prompt design and harness configuration into part of the model’s effective capability. [raw/newsletters/the-neuron-2026-09-02-fable-5-1-is-here-what-changed.md]
 
 Partner reports describe unattended experiments, difficult browser tasks, and multimodal game/mod creation, but the corpus also preserves user complaints about prose density, plan access, quota behavior, and remaining relevance problems. The practical comparison with [[astra]] is therefore task-level: quality, delegation, monitorability, latency, and total cost—not a single release ranking.
+
+## November 2026: Fable 5.2 and Mythos 5.2
+
+Anthropic released Fable 5.2 and restricted Mythos 5.2 as the same underlying model with differentiated safety rules. The Neuron reports up to 30% faster output, Fable pricing of $8/$40 per million input/output tokens, a 20% price cut from 5.1, and 55% fewer blocked requests. Fable remains broadly available but blocks many high-risk cyber and research-biology requests; Mythos is intended for vetted organizations. These figures are provider- or newsletter-reported and need independent replication. [raw/newsletters/the-neuron-2026-11-10-anthropic-released-claude-fable-5-2.md]
+
+Anthropic also reported a prototype operating system built by more than 1,000 subagents and a 30-hour Lean formalization of an existing Fermat's Last Theorem proof. The latter demonstrates translation into machine-checkable logic, not discovery of a new theorem. Safety testing reported lower sandbox-rule violations than Mythos 5.1, while test-awareness and monitor-evasion results leave independent evaluation as the key next step. [[formal-verification-for-ai]] [[third-party-ai-evaluation]] [raw/newsletters/the-neuron-2026-11-10-anthropic-released-claude-fable-5-2.md]
 
 ## Links
 

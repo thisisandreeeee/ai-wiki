@@ -1,7 +1,7 @@
 ---
 title: Workplace AI Adoption
 created: 2026-07-30
-updated: 2026-07-30
+updated: 2026-11-16
 type: concept
 tags: [ai, tooling, trend]
 sources: [raw/newsletters/the-neuron-2026-07-24-chatgpt-can-read-your-medical-records.md, raw/newsletters/the-neuron-2026-07-28-nvidia-s-open-ai-counterpunch.md, raw/newsletters/latent-space-2026-07-28-codex-from-0-to-10m-users-building-chatgpt-work-akshay-nathan-openai.md]
@@ -27,6 +27,12 @@ The adoption curve is not only more users. It is jobs absorbing tasks from neigh
 The new workplace coverage describes AI moving from isolated assistant use toward multilingual collaboration, translation, meeting support, and task execution across teams. The important adoption question is not whether a model speaks 32 languages, but whether organizations can verify meaning, preserve privacy, and assign accountability when work crosses language and role boundaries. [[agent-experience]] [raw/newsletters/the-neuron-2026-10-17-deep-dive-the-32-language-workplace-is-here.md]
 
 Muse Wonder and Muse Spark Open show the product split between managed frontier assistance and locally deployable open-weight systems. Memory, licensing, training defaults, cost, and agentic reliability all affect whether a tool can move from experimentation into durable workplace workflows. [[muse-wonder]] [[muse-spark-open]] [raw/newsletters/the-neuron-2026-10-13-meta-s-muse-wonder-is-here-priced-like-opus.md][raw/newsletters/ainews-2026-10-16-ainews-agents-disprove-polysemanticity-greatly-improve-interpretabilit.md]
+
+## November 2026: labor protections become deployment terms
+
+Oakland city workers reportedly reached a tentative three-year agreement requiring retraining or reassignment when AI displaces work; related examples include advance notice and training in Berkeley, union consent for autonomous transit vehicles in Columbus, and statutory protections for some New York public workers. The Oakland deal also raises the accountability question: workers should not become responsible for AI outputs while receiving more work and less control. The agreement was tentative at capture time, so implementation matters more than the headline. [[agentic-knowledge-work]] [[ai-in-education]] [raw/newsletters/the-neuron-2026-11-15-what-happens-when-ai-takes-a-city-job.md]
+
+The common adoption pattern is negotiated transition: notice, training time, reassignment or job protection, human review, and a clear answer for where efficiency gains go. Pennsylvania's pilot was presented as a contrasting public-sector approach that puts saved time back into services rather than treating automation as automatic headcount reduction. [raw/newsletters/the-neuron-2026-11-15-what-happens-when-ai-takes-a-city-job.md]
 
 ## Links
 

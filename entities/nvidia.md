@@ -1,7 +1,7 @@
 ---
 title: NVIDIA
 created: 2026-06-23
-updated: 2026-09-07
+updated: 2026-11-16
 type: entity
 tags: [ai, company, model, tooling]
 sources: [raw/newsletters/the-neuron-2026-08-18-why-openai-needed-nvidia-to-co-sign.md, raw/newsletters/ainews-2026-08-21-ainews-poolside-gets-12b-reverse-execuhire-to-nvidia-founders-stay-for.md, raw/newsletters/ainews-2026-06-02-ainews-nvidia-cosmos-3-nemotron-3-ultra-and-rtx-spark.md, raw/newsletters/the-neuron-2026-06-02-nvidia-agents-in-your-laptop.md, raw/newsletters/ainews-2026-06-05-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-07-28-nvidia-s-open-ai-counterpunch.md, raw/newsletters/ainews-2026-07-29-ainews-fearing-rsi-openai-anthropic-gdm-meta-thinky-cosign-letter-to-p.md, raw/newsletters/the-neuron-2026-09-06-openai-linked-agents-hijacked-a-german-wiki.md]
@@ -41,6 +41,12 @@ The same coverage frames NVIDIA’s strategic surface more broadly. Vera is posi
 The Neuron’s September 6 capture reports that NVIDIA agreed to buy Hugging Face for $12.93B, a stronger status claim than the late-August reports that had not yet been publicly confirmed. Treat the transaction as newly reported confirmation in this corpus while tracking formal company disclosures. The strategic combination would join NVIDIA’s hardware and infrastructure position to Hugging Face’s model, dataset, and developer-distribution layer. [raw/newsletters/the-neuron-2026-09-06-openai-linked-agents-hijacked-a-german-wiki.md]
 
 The report says Hugging Face would continue supporting rival clouds, models, and hardware. That promise matters because NVIDIA’s open-model strategy can expand demand for its hardware while ownership of a neutral distribution hub raises governance and portability questions. [[hugging-face]], [[closed-vs-open-frontier-models]], and [[local-llms]] remain the relevant cross-links.
+
+## November 2026: leadership transition and ecosystem risk
+
+The Neuron reports that Jensen Huang resigned immediately as NVIDIA CEO and left the board after 33 years; CFO Colette Kress became interim CEO while the board searches for a permanent successor, and Harvey Jones became the first board chair. The report also describes an investigation involving an alleged foreign-intelligence relationship while preserving caveats: NVIDIA said it had no reason to believe secrets were compromised, and the allegation was not officially confirmed. [[ai-infrastructure-economics]] [raw/newsletters/the-neuron-2026-11-13-jensen-huang-resigned-as-nvidia-ceo.md]
+
+The immediate business question is not whether CUDA disappears—NVIDIA's software layer reportedly has more than 7.5M developers—but whether customers keep buying while building alternatives. Leadership retention, delivery, licensing, investment pace, and the November 17 earnings report are the practical watchpoints. The episode shows how governance events can propagate through a concentrated AI supply chain without implying that the underlying platform has already failed. [raw/newsletters/the-neuron-2026-11-13-jensen-huang-resigned-as-nvidia-ceo.md]
 
 ## Links
 

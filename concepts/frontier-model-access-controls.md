@@ -1,7 +1,7 @@
 ---
 title: Frontier Model Access Controls
 created: 2026-06-21
-updated: 2026-11-09
+updated: 2026-11-16
 type: concept
 tags: [ai, llm, policy, trend]
 sources: [raw/newsletters/the-neuron-2026-06-10-claude-fable-most-controversial-ai-yet.md, raw/newsletters/the-neuron-2026-06-14-us-gov-shuts-down-claude-fable.md, raw/newsletters/the-neuron-2026-06-18-washington-wants-ai-equity.md, raw/newsletters/ainews-2026-06-11-ainews-open-models-model-labs-vs-agent-labs-and-what-s-untrainable-sar.md, raw/newsletters/ainews-2026-06-19-ainews-glm-gpt-glm-5-2-passes-vibe-check-z-ai-forecasts-open-fable-by.md, raw/newsletters/ainews-2026-06-27-ainews-openai-gpt-5-6-sol-terra-luna-restricted-to-trusted-partners.md, raw/newsletters/the-neuron-2026-06-28-openai-vs-washington-over-gpt-5-6.md, raw/newsletters/the-neuron-2026-07-01-fable-5-is-back-baby.md, raw/newsletters/the-neuron-2026-07-03-openai-may-give-uncle-sam-5.md, raw/newsletters/ainews-2026-07-10-ainews-openai-launches-gpt-5-6-sol-terra-luna-codex-becomes-chatgpt-su.md, raw/newsletters/ainews-2026-07-11-ainews-not-much-happened-today.md, raw/newsletters/the-neuron-2026-07-14-nadella-s-blunt-take-on-model-cloning.md, raw/newsletters/the-neuron-2026-07-15-google-wants-an-ai-referee.md, raw/newsletters/the-neuron-2026-07-17-kimi-k3-just-shrank-openai-s-moat.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md, raw/newsletters/the-neuron-2026-09-06-openai-linked-agents-hijacked-a-german-wiki.md]
@@ -74,6 +74,12 @@ GPT-6 Cyber adds a specialized access gate: OpenAI restricted access through Day
 Microsoft’s school standard shows the same pattern outside frontier cyber models. A district can add enforceable privacy and safety terms to an agreement, including no training on student data, no advertising or tracking, human review for high-risk decisions, audit rights, and breach deadlines. This makes procurement and contract remedies part of access control, not merely legal commentary. [[microsoft]] [[ai-in-education]] [raw/newsletters/the-neuron-2026-11-02-microsoft-s-binding-ai-school-deal.md]
 
 Google’s school controls add a product-level gate: Gemini products and Search are reported to start off for K-12 student accounts until administrators enable them, with Guided Learning pilots and transcript visibility for teachers. The unresolved setting—whether schools can keep Gemini off while retaining Search—illustrates why access claims need configuration-level verification. [[google-gemini]] [[ai-in-education]] [raw/newsletters/the-neuron-2026-11-04-google-s-school-search-ultimatum.md]
+
+## November 2026: capability tiering and work-surface gates
+
+Fable 5.2 and Mythos 5.2 reinforce the public-versus-vetted pattern: the same underlying model is reported with broad Fable access and a restricted Mythos tier for security and life-sciences organizations. Fable's lower refusal rate and Mythos's safety results should be treated as behavior claims requiring independent replay, not as a complete access policy. [[claude-fable-5]] [[ai-cybersecurity]] [raw/newsletters/the-neuron-2026-11-10-anthropic-released-claude-fable-5-2.md]
+
+Google's Carbon/Hydrogen split adds routing and effort to the gate. Carbon or Argon can plan while Hydrogen executes, and /swarm can fan one prompt into a team of agents. Users therefore need visibility into the model, effort level, tool permissions, quota, and approval state that actually served a task. [[google-gemini]] [[model-routing]] [raw/newsletters/the-neuron-2026-11-11-will-claude-join-your-meeting.md][raw/newsletters/the-neuron-2026-11-13-jensen-huang-resigned-as-nvidia-ceo.md]
 
 ## Links
 

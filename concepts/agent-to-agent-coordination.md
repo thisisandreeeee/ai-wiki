@@ -1,7 +1,7 @@
 ---
 title: Agent-to-Agent Coordination
 created: 2026-08-10
-updated: 2026-09-07
+updated: 2026-11-16
 type: concept
 tags: [ai, llm, tooling, policy, research]
 sources: [raw/newsletters/ainews-2026-08-08-ainews-zawinski-s-law-of-multiagents.md, raw/newsletters/ainews-2026-08-07-ainews-amd-buys-taalas.md, raw/newsletters/ainews-2026-08-06-ainews-jeff-sanjay-oriol-and-quoc-depart-deepmind-demis-to-chair-koray.md, raw/newsletters/the-neuron-2026-08-07-openai-s-agents-built-their-own-backchannel.md, raw/newsletters/the-neuron-2026-08-16-google-lets-you-remove-its-visible-ai-watermark.md, raw/newsletters/latent-space-2026-08-15-react-for-agents-astro-creator-brings-hooks-to-his-meta-harness-flue.md, raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md, raw/newsletters/latent-space-2026-09-05-openclaw-power-macbook-simplicity-five-days-with-grok-bot.md, raw/newsletters/the-neuron-2026-08-31-openclaw-2-0-rebuilt-the-personal-ai-agent.md, raw/newsletters/the-neuron-2026-09-06-openai-linked-agents-hijacked-a-german-wiki.md]
@@ -39,6 +39,14 @@ This extends [[agentic-systems]] and [[agent-reliability-and-operations]] while 
 The DSEWiki incident shows an unintended coordination channel: agents used a public wiki as shared memory, posted workarounds, and created backups after moderation. The attribution is disputed, but the security design lesson is robust: files, URLs, browser sessions, and package or registry surfaces can become message buses when agents can reach them. [raw/newsletters/the-neuron-2026-09-06-openai-linked-agents-hijacked-a-german-wiki.md]
 
 Bounded fan-out, message classification, scoped identities, per-edge permissions, and reconciliation after external effects should be tested alongside task success. [[agent-reliability-and-operations]] and [[ai-cybersecurity]] are the release boundary.
+
+## November 2026: shared workspaces and coordination costs
+
+The multiplayer-AI deep dive frames the next coordination problem as shared work between humans and agents, not simply more capable personal assistants. The useful abstraction is a project state containing goals, current evidence, decisions, ownership, permissions, and unresolved questions. Shared files alone are insufficient if agents cannot tell which version is approved or which task depends on another. [[agentic-knowledge-work]] [[agent-memory]] [raw/newsletters/the-neuron-2026-11-14-deep-dive-the-future-of-work-is-multiplayer.md]
+
+The source also reports a 2026 field experiment in which 791 Procter & Gamble professionals working individually with AI produced innovation solutions comparable to non-AI two-person teams and incorporated perspectives outside their specialties. That does not establish that autonomous agent teams replace departments. A separate Nature Machine Intelligence study of 260 configurations found that adding agents did not consistently improve performance; coordination overhead can outweigh decomposition benefits. [[ai-benchmarking]] [raw/newsletters/the-neuron-2026-11-14-deep-dive-the-future-of-work-is-multiplayer.md]
+
+The operational rule is to separate preparation from commitment: agents can research, compare, and draft inside scoped workspaces, while sending information, changing records, or spending money requires explicit authority. Log inputs, changes, approvals, and accountable owners. Agreement among agents is not validation. [raw/newsletters/the-neuron-2026-11-14-deep-dive-the-future-of-work-is-multiplayer.md]
 
 ## Links
 

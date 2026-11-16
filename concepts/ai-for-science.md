@@ -1,7 +1,7 @@
 ---
 title: AI for Science
 created: 2026-09-28
-updated: 2026-10-12
+updated: 2026-11-16
 type: concept
 tags: [ai, machine-learning, data-science, research, tooling, trend]
 sources: [raw/newsletters/latent-space-2026-09-22-an-oscar-two-asteroids-and-the-algorithm-in-your-sklearn-john-platt-on.md, raw/newsletters/newsletter-2026-09-24-foundries-vs-navigators-lowering-the-cost-of-science.md, raw/newsletters/the-neuron-2026-09-24-what-950-claude-agents-found.md, raw/newsletters/latent-space-2026-09-23-bio-security-is-an-ai-arms-race-eric-nguyen-ceo-radical-numerics.md]
@@ -42,6 +42,12 @@ OpenAI's reported 722 mathematical manuscripts show a new bottleneck shape: gene
 [[periodic-labs]] describes the physical analogue. Materials discovery needs synthesis, characterization, multimodal measurements, negative results, and reasoning under noisy and incomplete observations. Experiments are the ground truth because a model can otherwise exploit memorized answers or an imperfect simulator. [[self-driving-labs]] [raw/newsletters/latent-space-2026-10-08-synthesis-superintelligence-from-semiconductors-to-superconductors-per.md]
 
 The AlphaFold discussion adds a scope warning: useful structure prediction is not the same as solving protein dynamics, function, whole-cell biology, or disease. A good scientific model therefore needs calibrated uncertainty and behavioral characterization even when internal interpretability is incomplete. [raw/newsletters/latent-space-2026-10-10-why-alphafold-didn-t-solve-protein-folding-pushmeet-kohli-google-deepm.md]
+
+## November 2026: cell-specific genomics and formal proofs
+
+DeepMind's AlphaGenome 2 models how a DNA variant changes gene regulation by cell type. The Neuron reports a 1-million-letter DNA input, more than 100 million cell profiles across 68 tissues, stronger results on variant discovery and effect direction in DeepMind's evaluations, and adaptation to new cell states without retraining. The model is research-only and not clinically or diagnostically validated; external replication on unseen cells and regions is the relevant next test. [[google-deepmind]] [raw/newsletters/the-neuron-2026-11-12-dna-isn-t-one-recipe-says-google-s-new-ai.md]
+
+Two math stories sharpen the verification bottleneck. PSI reported an unreleased Anthropic model helping prove the Aaronson–Ambainis conjecture, with Lean checking the formal proof; Anthropic reported formalizing an existing Fermat proof; and DeepMind reported Lean-checked security properties for Signal code. These are checkable artifacts, not automatic guarantees that the formal statement matches the intended real-world claim. [[formal-verification-for-ai]] [[third-party-ai-evaluation]] [raw/newsletters/the-neuron-2026-11-09-would-you-trust-ai-math.md][raw/newsletters/the-neuron-2026-11-10-anthropic-released-claude-fable-5-2.md][raw/newsletters/the-neuron-2026-11-11-will-claude-join-your-meeting.md]
 
 ## Links
 
