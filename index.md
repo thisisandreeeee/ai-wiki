@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.  
-> Last updated: 2026-11-09 | Total pages: 153
+> Last updated: 2026-11-16 | Total pages: 155
 
 ## Entities
 
@@ -109,6 +109,7 @@
 - [[forward-deployed-engineering]] — Customer-embedded engineering that turns production workflow knowledge into reusable platform capabilities.
 - [[frontier-lab-governance]] — Internal and external mechanisms steering frontier labs, including employee petitions, release gates, and government coordination.
 - [[frontier-model-access-controls]] — Policy, product, safety, and trusted-partner gates that determine who receives frontier model capability.
+- [[formal-verification-for-ai]] — Machine-checked proofs as evidence for AI-generated mathematics and software claims, with a separate statement-validation boundary.
 - [[game-based-capability-training]] — Using verifiable games and RL environments to teach capabilities and test transfer to real work.
 - [[local-llms]] — Local/open model deployment as a resilience, privacy, cost-control, and agent-system portability layer.
 - [[llm-application-interface]] — Model requests, structured output, tool calling, MCP, context management, and workflow selection.
@@ -167,3 +168,4 @@
 - [[weekly-briefing-2026-10-26]] — Weekly synthesis of inference economics, programmable compute, attention interfaces, enterprise diffusion, cyber defense, and high-stakes evaluation.
 - [[weekly-briefing-2026-11-02]] — Weekly synthesis of computer-use models, open-weight cyber controls, interactive worlds, agent authorization, semantic layers, and agent-mediated advertising.
 - [[weekly-briefing-2026-11-09]] — Weekly synthesis of cyber scope controls, school AI governance, data-center consent, image workflows, workplace metrics, and data-analysis evaluation.
+- [[weekly-briefing-2026-11-16]] — Weekly synthesis of model portfolio routing, formal verification, shared AI workspaces, infrastructure governance, science, and labor protections.
