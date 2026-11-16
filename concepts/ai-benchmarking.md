@@ -1,7 +1,7 @@
 ---
 title: AI Benchmarking
 created: 2026-07-30
-updated: 2026-11-09
+updated: 2026-11-16
 type: concept
 tags: [ai, research, model]
 sources: [raw/newsletters/ainews-2026-07-25-ainews-claude-opus-5-fable-level-performance-at-opus-price-half-fable.md, raw/newsletters/ainews-2026-07-29-ainews-ai-is-eating-finance-aie-nyc-now-open.md, raw/newsletters/ainews-2026-07-24-ainews-black-forest-labs-flux-3-multimodal-flow-models-that-beat-seeda.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md, raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/ainews-2026-09-01-ainews-fal-s-h3-max-live-breaks-the-infinite-videogen-barrier.md, raw/newsletters/the-neuron-2026-09-07-openai-s-data-vs-its-chief-scientist-s-fear.md, raw/newsletters/the-neuron-2026-09-09-openai-s-1m-math-breakthrough-sparked-a-fight-with-anthropic.md, raw/newsletters/the-neuron-2026-09-11-openai-advances-another-millennium-problem.md, raw/newsletters/ainews-2026-09-16-ainews-jev-a-system-one-model-that-only-decides-classifies-routes-scor.md, raw/newsletters/ainews-2026-09-17-ainews-reality-checks-on-ai-news-yegge-shuts-down-gas-town-databricks.md, raw/newsletters/latent-space-2026-09-15-can-skills-learned-in-games-transfer-to-real-world-work.md, raw/newsletters/the-neuron-2026-09-18-ai-agents-just-out-mathed-us.md]
@@ -85,6 +85,14 @@ Mercor's APEX-Agents leaderboard is reported as comparing complex banking, consu
 Data Science Weekly's issue highlights a study benchmarking 17 end-to-end workflows across five analytical families and separating inferential validity, signal recovery, and predictive calibration. It also surfaces a practical warning that exploratory data analysis still requires personally inspecting data: LLM assistance may accelerate work without replacing human judgment about data quality and unexpected structure. [[reliable-data-pipelines]] [raw/newsletters/data-science-weekly-2026-11-05-data-science-weekly-issue-676.md]
 
 The new causal-ML links reinforce that predictive accuracy is not treatment-effect quality: simulated cases with known effects are useful for testing when causal methods outperform standard language, generalized-linear, or gradient-boosting models. Multiple imputation and regression-test practices from the same batch point toward benchmarks that score uncertainty, calibration, and reproducibility—not only a final answer. [[agent-reliability-and-operations]] [raw/newsletters/data-elixir-2026-11-03-data-elixir-issue-596.md]
+
+## November 2026: completion and reproducibility over headline scores
+
+Co-Design Bench, described in The Neuron's AI skill section, tested coding agents on 273 real app-editing tasks with 2,331 hidden acceptance criteria. The best of ten models met 69.9% of criteria on an average task but fully completed only 26.4% of tasks. A judge checked each criterion against evidence and a separate verifier challenged each pass. The benchmark supports a sharper definition of completion, while its checklist-remediation workflow remains an adaptation rather than a tested intervention. [[coding-agent-evaluation]] [[third-party-ai-evaluation]] [raw/newsletters/the-neuron-2026-11-09-would-you-trust-ai-math.md]
+
+Data Elixir's coverage adds two reproducibility warnings. A sponsored APEX-Agents leaderboard ranks models on complex banking, consulting, and legal work but does not reproduce enough methodology in the newsletter to support a portable ranking. E-means was promoted as roughly 10x faster than k-means, while an attempted reproduction measured 1.5x; implementation details and benchmark setup changed the conclusion. [[model-routing]] [[reliable-data-pipelines]] [raw/newsletters/data-elixir-2026-11-10-data-elixir-issue-597.md]
+
+These examples reinforce the evidence chain: disclose task definitions, hidden criteria, model and harness, retries, verifier protocol, compute, and cost; preserve raw outputs; and rerun the result before generalizing it.
 
 ## Links
 

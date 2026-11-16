@@ -1,7 +1,7 @@
 ---
 title: Google Gemini
 created: 2026-07-30
-updated: 2026-11-02
+updated: 2026-11-16
 type: entity
 tags: [ai, llm, model, company]
 sources: [raw/newsletters/the-neuron-2026-07-23-google-split-gemini-in-three.md, raw/newsletters/ainews-2026-07-22-ainews-ai-cybersecurity-becomes-top-of-mind.md, raw/newsletters/ainews-2026-08-14-ainews-gemini-3-7-flash-brings-gdm-back-to-the-forefront.md, raw/newsletters/the-neuron-2026-08-14-why-gemini-3-7-flash-just-got-half-price.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/ainews-2026-09-03-ainews-muse-spark-1-3-matches-gpt-5-6-sol-confirming-meta-superintelli.md, raw/newsletters/the-neuron-2026-09-03-new-google-meta-and-maybe-openai-models.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md]
@@ -45,6 +45,12 @@ Argon strengthens the portfolio-and-routing interpretation of Gemini. The compar
 Google DeepMind's [[gemini-4-argon]] portfolio now has two adjacent restricted surfaces. The Neuron reports Gemini 4 Carbon as a cyber-defense model for finding, verifying, and patching vulnerabilities, with limited access through the Fairwind program; Google also reported very low cheating on Terminal-Bench 4.0, though the figures await defender-side validation. [raw/newsletters/the-neuron-2026-10-29-google-s-cloud-doubled-stock-fell.md]
 
 The same batch reports Genie 4, a research-preview world model that creates navigable, editable environments with ambient sound, physical interactions, and Gemini-guided multi-step events. Google positions it for games, film, and robot simulation, while acknowledging inconsistency in objects, physics, and spatial details over longer sessions. [[agentic-robotics]] [[real-world-agent-evaluations]] [raw/newsletters/the-neuron-2026-10-28-what-google-s-new-genie-4-can-simulate.md]
+
+## November 2026: Carbon and Hydrogen
+
+The November batch reports Google launching Gemini 4 Carbon for long coding, research, and security jobs, with /swarm turning one prompt into a team of agents. It also reports Gemini 4 Hydrogen as a faster, cheaper execution model, with Carbon or Argon planning and Hydrogen carrying out smaller steps. Google claims near-Carbon coding results with lower quota use and faster completion in its own tests; these figures are vendor-reported and should be treated as routing hypotheses, not universal rankings. [[model-routing]] [[ai-benchmarking]] [raw/newsletters/the-neuron-2026-11-11-will-claude-join-your-meeting.md][raw/newsletters/the-neuron-2026-11-13-jensen-huang-resigned-as-nvidia-ceo.md]
+
+The product direction extends Gemini's portfolio strategy from specialized endpoints to explicit planner-worker orchestration. The operational question is cost per verified completed task after retries, tool latency, and human review—not the token price of either model in isolation.
 
 ## Links
 

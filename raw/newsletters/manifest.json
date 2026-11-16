@@ -9,13 +9,22 @@
     "chars": 21469
   },
   {
-    "id": "1a18c6587f7d0731",
+    "id": "1a1d24080f5afd70",
+    "newsletter": "data-science-weekly",
+    "subject": "Data Science Weekly - Issue 677",
+    "date": "Fri, 13 Nov 2026 00:12:28 +0000",
+    "from": "Data Science Weekly Newsletter <datascienceweekly@substack.com>",
+    "path": "raw/newsletters/data-science-weekly-2026-11-13-data-science-weekly-issue-677.md",
+    "chars": 14491
+  },
+  {
+    "id": "1a1d47fd22a35132",
     "newsletter": "the-neuron",
-    "subject": "😸 You can now download Mistral Large 4",
-    "date": "Fri, 30 Oct 2026 10:39:58 +0000 (UTC)",
+    "subject": "😺 Jensen Huang resigned as Nvidia CEO",
+    "date": "Fri, 13 Nov 2026 10:34:45 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-10-30-you-can-now-download-mistral-large-4.md",
-    "chars": 21322
+    "path": "raw/newsletters/the-neuron-2026-11-13-jensen-huang-resigned-as-nvidia-ceo.md",
+    "chars": 24456
   },
   {
     "id": "1a19be1761396e1b",
@@ -27,31 +36,22 @@
     "chars": 19874
   },
   {
-    "id": "1a177b5730ace3d8",
+    "id": "1a1bfa567015bf07",
     "newsletter": "the-neuron",
-    "subject": "😺 Anthropic's unexpected paywall breach",
-    "date": "Mon, 26 Oct 2026 10:15:41 +0000 (UTC)",
+    "subject": "😺 Would you trust AI math?",
+    "date": "Mon, 09 Nov 2026 09:30:48 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-10-26-anthropic-s-unexpected-paywall-breach.md",
-    "chars": 20043
+    "path": "raw/newsletters/the-neuron-2026-11-09-would-you-trust-ai-math.md",
+    "chars": 22113
   },
   {
-    "id": "1a1918666caae622",
+    "id": "1a1dacd4bcd0fe0e",
     "newsletter": "the-neuron",
-    "subject": "A Neuron reader tried our AI courses. His take?",
-    "date": "Sat, 31 Oct 2026 10:34:25 +0000 (UTC)",
+    "subject": "😸 Deep Dive: The Future of Work is Multiplayer",
+    "date": "Sat, 14 Nov 2026 16:03:39 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-10-31-a-neuron-reader-tried-our-ai-courses-his-take.md",
-    "chars": 2210
-  },
-  {
-    "id": "1a1989a09497e4f9",
-    "newsletter": "the-neuron",
-    "subject": "😺 Publishers sell ads only AI agents see",
-    "date": "Sun, 01 Nov 2026 19:33:08 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-11-01-publishers-sell-ads-only-ai-agents-see.md",
-    "chars": 16696
+    "path": "raw/newsletters/the-neuron-2026-11-14-deep-dive-the-future-of-work-is-multiplayer.md",
+    "chars": 17679
   },
   {
     "id": "1a1bca7ed3492737",
@@ -63,6 +63,15 @@
     "chars": 14851
   },
   {
+    "id": "1a1e07a2bebb1468",
+    "newsletter": "the-neuron",
+    "subject": "😺 What happens when AI takes a city job?",
+    "date": "Sun, 15 Nov 2026 18:31:03 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-11-15-what-happens-when-ai-takes-a-city-job.md",
+    "chars": 16343
+  },
+  {
     "id": "1a1ab45f70f9e3e0",
     "newsletter": "the-neuron",
     "subject": "😺 OpenAI's new Images 2.6 is a design tool",
@@ -72,22 +81,13 @@
     "chars": 19248
   },
   {
-    "id": "1a18746f0bf9f083",
+    "id": "1a1cf600cf3c0992",
     "newsletter": "the-neuron",
-    "subject": "😸 Google's cloud doubled. Stock fell.",
-    "date": "Thu, 29 Oct 2026 10:48:13 +0000 (UTC)",
+    "subject": "😺 DNA isn't one recipe, says Google's new AI",
+    "date": "Thu, 12 Nov 2026 10:48:55 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-10-29-google-s-cloud-doubled-stock-fell.md",
-    "chars": 19528
-  },
-  {
-    "id": "1a18a09d1fcef130",
-    "newsletter": "data-science-weekly",
-    "subject": "Data Science Weekly - Issue 675",
-    "date": "Thu, 29 Oct 2026 23:40:40 +0000",
-    "from": "Data Science Weekly Newsletter <datascienceweekly@substack.com>",
-    "path": "raw/newsletters/data-science-weekly-2026-10-29-data-science-weekly-issue-675.md",
-    "chars": 15624
+    "path": "raw/newsletters/the-neuron-2026-11-12-dna-isn-t-one-recipe-says-google-s-new-ai.md",
+    "chars": 21409
   },
   {
     "id": "1a1adfb09440018d",
@@ -117,22 +117,22 @@
     "chars": 8079
   },
   {
-    "id": "1a17ceb7909a58fd",
+    "id": "1a1c50407aaf298e",
     "newsletter": "the-neuron",
-    "subject": "😺 OpenAI's Terra can enter your invoices",
-    "date": "Tue, 27 Oct 2026 10:32:43 +0000 (UTC)",
+    "subject": "😺 Anthropic released Claude Fable 5.2",
+    "date": "Tue, 10 Nov 2026 10:32:17 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-10-27-openai-s-terra-can-enter-your-invoices.md",
-    "chars": 21637
+    "path": "raw/newsletters/the-neuron-2026-11-10-anthropic-released-claude-fable-5-2.md",
+    "chars": 21446
   },
   {
-    "id": "1a17efbf9870e7ff",
+    "id": "1a1c75f703fb4503",
     "newsletter": "data-elixir",
-    "subject": "Data Elixir - Issue 595",
-    "date": "Tue, 27 Oct 2026 20:10:03 +0000 (UTC)",
+    "subject": "Data Elixir - Issue 597",
+    "date": "Tue, 10 Nov 2026 21:31:22 +0000 (UTC)",
     "from": "Data Elixir <lon@dataelixir.com>",
-    "path": "raw/newsletters/data-elixir-2026-10-27-data-elixir-issue-595.md",
-    "chars": 8392
+    "path": "raw/newsletters/data-elixir-2026-11-10-data-elixir-issue-597.md",
+    "chars": 8242
   },
   {
     "id": "1a1a61fc18461dec",
@@ -144,12 +144,12 @@
     "chars": 21182
   },
   {
-    "id": "1a18211476405647",
+    "id": "1a1ca2b346b46c53",
     "newsletter": "the-neuron",
-    "subject": "😺 What Google's new Genie 4 can simulate",
-    "date": "Wed, 28 Oct 2026 10:32:05 +0000 (UTC)",
+    "subject": "😸 Will Claude join your meeting?",
+    "date": "Wed, 11 Nov 2026 10:33:03 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-10-28-what-google-s-new-genie-4-can-simulate.md",
-    "chars": 20057
+    "path": "raw/newsletters/the-neuron-2026-11-11-will-claude-join-your-meeting.md",
+    "chars": 19975
   }
 ]

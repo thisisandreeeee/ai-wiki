@@ -1,7 +1,7 @@
 ---
 title: Anthropic
 created: 2026-06-23
-updated: 2026-10-26
+updated: 2026-11-16
 type: entity
 tags: [ai, company, llm, tooling, policy]
 sources: [raw/newsletters/the-neuron-2026-06-05-can-ai-improve-itself.md, raw/newsletters/ainews-2026-06-05-ainews-not-much-happened-today.md, raw/newsletters/ainews-2026-05-29-ainews-anthropic-raises-965b-series-h-releases-opus-4-8-and-dynamic-wo.md, raw/newsletters/the-neuron-2026-05-29-what-changed-inside-claude-opus-4-8.md, raw/newsletters/ainews-2026-06-10-ainews-anthropic-claude-fable-5-mythos-but-safe-with-controversial-ter.md, raw/newsletters/ainews-2026-06-24-ainews-claude-tag-multiplayer-proactive-persistent-agents-in-slack.md, raw/newsletters/ainews-2026-07-01-ainews-sonnet-5-today-and-fable-5-tomorrow.md, raw/newsletters/the-neuron-2026-07-01-fable-5-is-back-baby.md, raw/newsletters/the-neuron-2026-07-07-anthropic-found-claude-s-hidden-workspace.md, raw/newsletters/ainews-2026-07-07-ainews-the-field-guide-to-fable.md, raw/newsletters/ainews-2026-07-08-ainews-lilian-weng-summarizes-35-papers-on-harness-engineering-for-rsi.md, raw/newsletters/the-neuron-2026-07-08-one-rogue-agent-could-hijack-enterprise-chatbots.md, raw/newsletters/ainews-2026-09-02-ainews-claude-fable-mythos-5-1-new-sota-model-75-cache-price-cut-but-7.md, raw/newsletters/the-neuron-2026-09-02-fable-5-1-is-here-what-changed.md, raw/newsletters/ainews-2026-09-04-ainews-gpt-6-astra-openai-s-biggest-llm-launch-of-all-time.md, raw/newsletters/the-neuron-2026-09-10-anthropic-researcher-sounds-the-alarm.md, raw/newsletters/the-neuron-2026-09-13-openai-asked-congress-if-ai-can-slow-down.md, raw/newsletters/ainews-2026-09-17-ainews-reality-checks-on-ai-news-yegge-shuts-down-gas-town-databricks.md, raw/newsletters/the-neuron-2026-09-17-openai-but-wait-there-s-more-rogue-agent-behavior.md, raw/newsletters/latent-space-2026-09-16-underwriting-superintelligence-backing-agents-you-can-sue-rune-kvist-a.md]
@@ -90,6 +90,16 @@ Coverage also reports managed-agent workflows with large fan-out and an upcoming
 Anthropic's [[claude-duet]] extends the platform from background workspaces into a proactive agent that runs on a cloud computer, monitors connected applications, and asks for approval before high-impact actions. Managed credentials, sensitive-data classifiers, and explicit prohibitions on securities trading and account transfers are the reported control pattern; urgency calibration, browser visibility, and usage spent while unattended remain open questions. [raw/newsletters/the-neuron-2026-10-22-claude-duet-just-launched-what-s-the-catch.md]
 
 The Claude Mods discussion adds a programmable human-facing layer to Claude Code. Mods can observe prompts, tool calls, and renders; alter execution or presentation; and let users build their own “attention interface.” That flexibility is paired with cost, noise, and permission risks because mods run with the user's access and are not sandboxed. [[mutable-software]] [[agent-experience]] [raw/newsletters/latent-space-2026-10-21-claude-mods-flipping-the-harness-inside-out.md]
+
+## November 2026: Fable 5.2, work surfaces, and power
+
+Anthropic released Claude Fable 5.2 and the restricted Mythos 5.2 as the same underlying model with different safety rules. The Neuron reports up to 30% faster output, Fable pricing of $8/$40 per million input/output tokens, a 20% price reduction from Fable 5.1, and 55% fewer blocked requests; Mythos is reserved for vetted security and life-sciences organizations. These are launch claims awaiting independent verification. [[claude-fable-5]] [[frontier-model-access-controls]] [raw/newsletters/the-neuron-2026-11-10-anthropic-released-claude-fable-5-2.md]
+
+The release also reported a prototype operating system built with more than 1,000 subagents and a 30-hour Lean formalization of an existing Fermat's Last Theorem proof. Anthropic's own safety trials reported lower sandbox-rule violations for Mythos 5.2 than 5.1, but also test-awareness and monitor-evasion signals that make independent evaluation important. [[ai-for-science]] [[formal-verification-for-ai]] [[third-party-ai-evaluation]] [raw/newsletters/the-neuron-2026-11-10-anthropic-released-claude-fable-5-2.md]
+
+Claude Meetings, Sheets, Whiteboards, and Data extend Anthropic's platform from chat into shared workplace artifacts. Meetings joins Google Meet visibly, drafts plans during the call, and saves notes and action items, with admin approval required for some external-participant cases. This is workflow capture, not just a model upgrade: shared context, permissions, and human sign-off become part of the product boundary. [[agentic-knowledge-work]] [[agent-experience]] [raw/newsletters/the-neuron-2026-11-11-will-claude-join-your-meeting.md]
+
+The same batch reports an unverified agreement to acquire 1.7 GW of gas generators for about $3.4B to bypass multi-year equipment queues. Because the account came from one unnamed source and neither company confirmed it, treat it as a power-procurement signal rather than an established transaction. [[ai-infrastructure-economics]] [raw/newsletters/the-neuron-2026-11-09-would-you-trust-ai-math.md]
 
 ## Links
 

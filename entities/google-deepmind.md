@@ -1,7 +1,7 @@
 ---
 title: Google DeepMind
 created: 2026-06-21
-updated: 2026-09-14
+updated: 2026-11-16
 type: entity
 tags: [ai, company, research, policy]
 sources: [raw/newsletters/the-neuron-2026-06-21-how-deepmind-would-stop-rogue-agents.md, raw/newsletters/ainews-2026-06-11-ainews-open-models-model-labs-vs-agent-labs-and-what-s-untrainable-sar.md, raw/newsletters/latent-space-2026-06-18-the-professor-of-outputmaxxing-anjney-midha-amp.md, raw/newsletters/the-neuron-2026-06-25-chatgpt-s-secret-advantage.md, raw/newsletters/ainews-2026-06-26-ainews-openai-reports-median-internal-codex-output-tokens-grew-56x-in.md, raw/newsletters/the-neuron-2026-06-26-ai-is-making-your-next-apple-device-cost-more.md, raw/newsletters/the-neuron-2026-06-28-openai-vs-washington-over-gpt-5-6.md, raw/newsletters/ainews-2026-08-06-ainews-jeff-sanjay-oriol-and-quoc-depart-deepmind-demis-to-chair-koray.md, raw/newsletters/ainews-2026-08-14-ainews-gemini-3-7-flash-brings-gdm-back-to-the-forefront.md, raw/newsletters/the-neuron-2026-09-13-openai-asked-congress-if-ai-can-slow-down.md, raw/newsletters/the-neuron-2026-09-08-ai-drug-reversed-aging-markers.md]
@@ -67,6 +67,12 @@ The August Gemini 3.7 Flash launch is the product-side counterpoint: Google is u
 The new captures report Google DeepMind’s AlphaGenome Atlas predicting the molecular effects of all 9 billion possible single-letter changes in the human genome. They also describe the complete male fruit-fly connectome—more than 166,000 neurons—being wired into experimental game, trading, and robotics environments. A connectome is a wiring diagram, not a digital mind; the downstream behavior still depends on chosen inputs, outputs, rewards, and training. [raw/newsletters/the-neuron-2026-09-13-openai-asked-congress-if-ai-can-slow-down.md]
 
 These projects extend the lab’s existing science-and-control identity: biological structure becomes a predictive substrate, while agent behavior still needs careful evaluation and safety boundaries. [[self-driving-labs]] and [[agentic-robotics]] are the closest conceptual links.
+
+## November 2026: AlphaGenome 2 and proof-producing agents
+
+DeepMind's AlphaGenome 2 predicts how a DNA variant affects different cell types rather than treating a tissue as one undifferentiated signal. The Neuron reports a 1-million-letter input window, training on more than 100 million cell profiles across 68 human and mouse tissues, and improved variant-detection and effect-direction results on DeepMind's evaluations. It is research-only and not clinically validated; outside-lab replication on unseen cells and regions remains the important test. [[ai-for-science]] [[ai-healthcare]] [raw/newsletters/the-neuron-2026-11-12-dna-isn-t-one-recipe-says-google-s-new-ai.md]
+
+The same batch reports AI agents proving security properties of Signal's production code in Lean. This is a second example of models producing a checkable artifact, but formal verification still depends on whether the formal statement faithfully captures the intended real-world claim. [[formal-verification-for-ai]] [raw/newsletters/the-neuron-2026-11-11-will-claude-join-your-meeting.md]
 
 ## Links
 

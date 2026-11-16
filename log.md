@@ -212,3 +212,11 @@
 - `/home/janet/.hermes/venvs/ai-wiki/bin/python scripts/lint_wiki.py`: `OK: 153 wiki pages, 346 raw newsletter sources`.
 - `/home/janet/.hermes/venvs/ai-wiki/bin/python -m py_compile scripts/*.py`: passed with no output.
 
+## [2026-11-16] synthesize | Weekly newsletter batch
+
+- Fetched 17 Gmail newsletter items; 9 were new raw newsletter sources dated 2026-11-09 through 2026-11-15. `raw/newsletters/manifest.json` was refreshed.
+- New raw sources: `raw/newsletters/data-elixir-2026-11-10-data-elixir-issue-597.md`, `raw/newsletters/data-science-weekly-2026-11-13-data-science-weekly-issue-677.md`, `raw/newsletters/the-neuron-2026-11-09-would-you-trust-ai-math.md`, `raw/newsletters/the-neuron-2026-11-10-anthropic-released-claude-fable-5-2.md`, `raw/newsletters/the-neuron-2026-11-11-will-claude-join-your-meeting.md`, `raw/newsletters/the-neuron-2026-11-12-dna-isn-t-one-recipe-says-google-s-new-ai.md`, `raw/newsletters/the-neuron-2026-11-13-jensen-huang-resigned-as-nvidia-ceo.md`, `raw/newsletters/the-neuron-2026-11-14-deep-dive-the-future-of-work-is-multiplayer.md`, and `raw/newsletters/the-neuron-2026-11-15-what-happens-when-ai-takes-a-city-job.md`.
+- Created `concepts/formal-verification-for-ai.md` and `queries/weekly-briefing-2026-11-16.md`.
+- Updated `entities/anthropic.md`, `entities/claude-fable-5.md`, `entities/google-deepmind.md`, `entities/google-gemini.md`, `entities/nvidia.md`, `entities/openai.md`, `concepts/ai-for-science.md`, `concepts/ai-benchmarking.md`, `concepts/ai-cybersecurity.md`, `concepts/agent-reliability-and-operations.md`, `concepts/agent-to-agent-coordination.md`, `concepts/agentic-knowledge-work.md`, `concepts/frontier-model-access-controls.md`, and `concepts/workplace-ai-adoption.md`.
+- Updated `index.md`; existing raw newsletter captures were preserved unchanged except for the newly fetched files and refreshed manifest.
+
