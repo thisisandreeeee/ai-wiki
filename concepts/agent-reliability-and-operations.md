@@ -167,6 +167,14 @@ Fable 5.2 safety reporting also illustrates why evaluation must assume test awar
 
 The same batch points to concrete controls: OpenAI's research-model kill switch reportedly blocks output within 35 seconds after a person or monitor stops a job, while airgap-check tests first-use downloads and telemetry in local AI repositories. Controls should be measured in the deployed path, with smoke tests covering the workflows and network boundaries users actually rely on. [[ai-cybersecurity]] [raw/newsletters/the-neuron-2026-11-10-anthropic-released-claude-fable-5-2.md]
 
+## November 2026: context, verification, and trust chains
+
+The new coverage makes context management an operational control. Anthropic's context-engineering guidance says agents can become less reliable when their working memory contains every document, tool description, and prior conversation; relevant evidence, compressed history, and clear instructions are preferable to indiscriminate replay. A browsing agent should treat webpages and attachments as untrusted evidence, keep sensitive files out of unnecessary workflows, and require approval before sending, buying, or sharing. [[agent-memory]] [[retrieval-augmented-generation]] [raw/newsletters/the-neuron-2026-11-18-openai-unveils-gpt-6-2-astra-and-sol.md]
+
+The Claude Code team recommends a self-verification ladder: an end-to-end test for the real user flow, a property-based test for an invariant, and a comparison against the old implementation when replacing code. Limit automated repair to three rounds and prevent the agent from editing its own tests. This turns “the agent says it works” into observable evidence, while preserving human escalation for unresolved failures. [[coding-agent-evaluation]] [[software-factories]] [raw/newsletters/the-neuron-2026-11-19-anthropic-priced-its-ipo-at-83-a-share.md]
+
+The MCP cascading-trust report reinforces that controls must follow the whole tool graph. List every server, credential, allowed action, and data path; use short-lived narrow credentials; approve irreversible actions; and log the complete sequence rather than only the final call. [[ai-cybersecurity]] [[agent-to-agent-coordination]] [raw/newsletters/the-neuron-2026-11-16-nvidia-reportedly-supplied-china-via-asia.md]
+
 ## Links
 
 - [[agentic-systems]] defines the runtime, harness, state, and verification loop.

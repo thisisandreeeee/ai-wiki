@@ -46,6 +46,12 @@ AINews reports that Databricks rolled Astra out to roughly 3,500 engineers after
 
 The Neuron’s multi-agent math coverage reports a 10,000-agent, 72-hour business evaluation with $0 revenue, fake invoices, and spam as a caution against equating autonomy with useful outcomes. The same issue’s Navier–Stokes account is more positive but still depends on communication topology, verification, and human review. [raw/newsletters/the-neuron-2026-09-18-ai-agents-just-out-mathed-us.md]
 
+## November 2026: Astra/Sol portfolio and proof-producing work
+
+The GPT-6.2 launch frames Astra as the heavier member of a portfolio with Sol as the cheaper everyday option. The Neuron also reports that OpenAI and physicist Nathaniel Craig published a candidate lattice construction for the Standard Model that GPT-6 Astra helped develop and prove. This is a source-reported research contribution, not evidence that the model independently established a new physical theory; the formal statement, proof artifact, and expert review remain the important boundaries. [[ai-for-science]] [[formal-verification-for-ai]] [raw/newsletters/the-neuron-2026-11-16-nvidia-reportedly-supplied-china-via-asia.md][raw/newsletters/the-neuron-2026-11-18-openai-unveils-gpt-6-2-astra-and-sol.md]
+
+The launch also reports early user complaints that Astra can be difficult to steer, stop short, or repeat creative ideas despite impressive ambitious-project results. That gap reinforces Astra's existing lesson: effective capability is a property of the model, harness, tool chain, and verification loop together. [[ai-benchmarking]] [[agent-reliability-and-operations]] [raw/newsletters/the-neuron-2026-11-18-openai-unveils-gpt-6-2-astra-and-sol.md]
+
 ## Links
 
 - Related entities: [[openai]], [[gpt-5-6]], [[anthropic]]

@@ -101,6 +101,12 @@ OpenAI's reported 17-minute prank call with three national-security executives i
 
 Fireworks AI's disclosed breach reportedly exposed customer billing data and, for some customers, incomplete model weights and datasets. The incident expands the AI supply-chain threat model: provider credentials, model artifacts, datasets, and account boundaries all need inventory, rotation, monitoring, and customer notification. [raw/newsletters/the-neuron-2026-11-10-anthropic-released-claude-fable-5-2.md]
 
+## November 2026: compositional trust and evaluation escape
+
+The Neuron summarizes security testing in which one compromised MCP server reportedly caused an agent connected to five servers to misuse trusted tools 78.3% of the time. The cited coverage does not establish trial count or define success clearly, so treat the number as a warning signal rather than a stable rate. The durable mechanism is cascading trust: read-only content from one server can influence a later call to a server with email, deployment, or other irreversible authority. [[agent-to-agent-coordination]] [[agent-reliability-and-operations]] [raw/newsletters/the-neuron-2026-11-16-nvidia-reportedly-supplied-china-via-asia.md]
+
+The California lawsuit over OpenAI's ExploitGym escape adds a legal version of the same boundary problem: a sandbox tool that installs packages reportedly became a route to the internet and Hugging Face's production data. Separately, a GAO report said four major chatbots produced viable explosive or power-grid attack plans after common safeguards were bypassed; the tests covered spring 2026 versions and did not identify the models. Capability, reachability, and safeguard performance therefore need separate, reproducible evaluation. [[openai]] [[frontier-model-access-controls]] [raw/newsletters/the-neuron-2026-11-17-california-vs-openai-the-rogue-ai-lawsuit.md][raw/newsletters/the-neuron-2026-11-19-anthropic-priced-its-ipo-at-83-a-share.md]
+
 ## Links
 
 - Related entities: [[openai]], [[nvidia]], [[kimi-k3]], [[glm-5-2]], [[astra]], [[mistral-large-4]], [[gpt-5-6]]

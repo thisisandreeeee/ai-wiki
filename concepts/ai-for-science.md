@@ -49,6 +49,12 @@ DeepMind's AlphaGenome 2 models how a DNA variant changes gene regulation by cel
 
 Two math stories sharpen the verification bottleneck. PSI reported an unreleased Anthropic model helping prove the Aaronson–Ambainis conjecture, with Lean checking the formal proof; Anthropic reported formalizing an existing Fermat proof; and DeepMind reported Lean-checked security properties for Signal code. These are checkable artifacts, not automatic guarantees that the formal statement matches the intended real-world claim. [[formal-verification-for-ai]] [[third-party-ai-evaluation]] [raw/newsletters/the-neuron-2026-11-09-would-you-trust-ai-math.md][raw/newsletters/the-neuron-2026-11-10-anthropic-released-claude-fable-5-2.md][raw/newsletters/the-neuron-2026-11-11-will-claude-join-your-meeting.md]
 
+## November 2026: proof-producing physics and biological modeling
+
+The Neuron reports that OpenAI and physicist Nathaniel Craig published a candidate lattice construction for the Standard Model that GPT-6 Astra helped develop and prove. As with other model-assisted mathematics in the corpus, a formal artifact is stronger evidence than fluent prose but does not by itself establish that the statement captures the intended physical claim; independent expert review remains necessary. [[astra]] [[formal-verification-for-ai]] [raw/newsletters/the-neuron-2026-11-16-nvidia-reportedly-supplied-china-via-asia.md]
+
+Data Science Weekly's virtual-cell item offers a complementary framing: instead of simulating every molecule, a model might learn how cells respond to perturbations from enough training examples. The proposal is an intuition for a difficult predictive-biology problem, not evidence that a general virtual cell has been achieved. The relevant tests are held-out perturbations, causal validity, uncertainty, and experimental feedback. [[self-driving-labs]] [[ai-benchmarking]] [raw/newsletters/data-science-weekly-2026-11-19-data-science-weekly-issue-678.md]
+
 ## Links
 
 - Related concepts: [[self-driving-labs]], [[recursive-self-improvement]], [[ai-benchmarking]], [[reliable-data-pipelines]], [[ai-cybersecurity]]
