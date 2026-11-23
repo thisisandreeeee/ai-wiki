@@ -34,6 +34,12 @@ Claude Meetings, Sheets, Whiteboards, and Data, Google's Carbon/Hydrogen portfol
 
 A multiplayer-work deep dive proposes four prerequisites for useful AI teammates: shared context, defined ownership, scoped tools and permissions, and continuity about completed or blocked work. It also warns that several agents can amplify one mistaken interpretation. The right metric is completed work at the same quality with fewer coordination steps, not agent count. [[agent-to-agent-coordination]] [[agent-reliability-and-operations]] [raw/newsletters/the-neuron-2026-11-14-deep-dive-the-future-of-work-is-multiplayer.md]
 
+## November 2026: model portfolios meet data work
+
+OpenAI's Astra/Sol release, Google's Gemini Tasks, and Microsoft's specialized MAI models illustrate a planner-worker portfolio: a stronger model handles difficult reasoning while cheaper or narrower systems execute routine work. The useful competition metric is end-to-end task success after tool selection, retries, permissions, and human correction—not model quality in isolation. [[openai]] [[model-routing]] [[ai-benchmarking]] [raw/newsletters/the-neuron-2026-11-18-openai-unveils-gpt-6-2-astra-and-sol.md]
+
+Data Science Weekly's “Data Intelligence Engineer” framing adds the human role around these systems. When agents remove the backlog, people still need to validate numbers, inspect data, and decide what quality control is justified. That is a practical form of agentic knowledge work: responsibility shifts from producing every intermediate artifact to checking evidence and making accountable decisions. [[reliable-data-pipelines]] [[agent-reliability-and-operations]] [raw/newsletters/data-science-weekly-2026-11-19-data-science-weekly-issue-678.md]
+
 ## Links
 
 - Related entities: [[openai]], [[anthropic]]

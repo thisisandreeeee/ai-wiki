@@ -50,6 +50,12 @@ The Neuron describes a Microsoft research pattern in which a separate memory cur
 
 This is the memory analogue of least privilege. A task agent can propose state, but a separate read-only process should decide whether that state becomes durable knowledge. [[agent-reliability-and-operations]] and [[retrieval-augmented-generation]] provide the surrounding controls.
 
+## November 2026: memory should be small and checked
+
+Anthropic's Pokémon Red experiment compares two memory strategies. The Neuron reports that an older Claude Sonnet 3.7 run accumulated 413 files and nearly one million characters after about 10,000 steps, while Claude Fable 5 used nine files plus a top-level file totaling roughly 43,000 characters and earned more badges in the reported runs. A separate review step checked notes against transcripts, corrected a false location note, and improved progress; the source used one run per condition, so this is a design signal rather than a controlled result. [[agent-reliability-and-operations]] [raw/newsletters/the-neuron-2026-11-17-california-vs-openai-the-rogue-ai-lawsuit.md]
+
+The practical pattern is a compact handoff: preserve the goal, decisions, verified facts with sources, unresolved questions, and next actions; omit a blow-by-blow transcript; then flag anything that cannot be checked. A smaller memory is not automatically better, but it is easier to inspect, refresh, and delete—and a confidently wrong durable note can be worse than no note. [[agent-to-agent-coordination]] [[reliable-data-pipelines]] [raw/newsletters/the-neuron-2026-11-17-california-vs-openai-the-rogue-ai-lawsuit.md]
+
 ## Links
 
 - Related concepts: [[agentic-systems]], [[software-factories]], [[retrieval-augmented-generation]], [[ontologies-for-agents]]

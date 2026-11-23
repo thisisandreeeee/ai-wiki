@@ -48,6 +48,12 @@ The Neuron reports that Jensen Huang resigned immediately as NVIDIA CEO and left
 
 The immediate business question is not whether CUDA disappears—NVIDIA's software layer reportedly has more than 7.5M developers—but whether customers keep buying while building alternatives. Leadership retention, delivery, licensing, investment pace, and the November 17 earnings report are the practical watchpoints. The episode shows how governance events can propagate through a concentrated AI supply chain without implying that the underlying platform has already failed. [raw/newsletters/the-neuron-2026-11-13-jensen-huang-resigned-as-nvidia-ceo.md]
 
+## November 2026: remote compute and export-control loopholes
+
+The Neuron reports Wall Street Journal claims that NVIDIA cultivated Asian data-center partners that rented advanced chips to Chinese customers; one partner, Megaspeed, reportedly arranged nearly $12B in chip orders across 2024 and 2025 and opened an outside-lawyer probe. These are press reports, not findings. The mechanism matters because renting overseas compute can bypass shipment-focused controls: the chips remain in the data center while a customer logs in remotely. [[ai-infrastructure-economics]] [[frontier-model-access-controls]] [raw/newsletters/the-neuron-2026-11-16-nvidia-reportedly-supplied-china-via-asia.md]
+
+The same batch reports renewed proposals to restrict remote access and a Commerce Department interim rule requiring licenses for exports to data centers that might indirectly provide computing access to China or other restricted countries. NVIDIA therefore sits inside a control problem spanning hardware shipments, cloud identity, remote access, and allied supply chains—not only accelerator performance. [raw/newsletters/the-neuron-2026-11-16-nvidia-reportedly-supplied-china-via-asia.md][raw/newsletters/the-neuron-2026-11-20-would-you-give-meta-s-ai-your-phone.md]
+
 ## Links
 
 - Related concepts: [[local-llms]], [[ai-infrastructure-economics]], [[self-driving-labs]], [[ai-cybersecurity]]

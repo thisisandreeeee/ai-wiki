@@ -94,6 +94,12 @@ Data Elixir's coverage adds two reproducibility warnings. A sponsored APEX-Agent
 
 These examples reinforce the evidence chain: disclose task definitions, hidden criteria, model and harness, retries, verifier protocol, compute, and cost; preserve raw outputs; and rerun the result before generalizing it.
 
+## November 2026: long-horizon engineering and reproducibility
+
+Mercor's sponsored OpenWorldEngineer leaderboard is reported to test agents on 26 long-horizon tasks across software, machine learning, and scientific computing, graded with hidden tests. The source says results vary sharply; because the item is sponsor-linked and the newsletter does not reproduce the full method, treat it as a lead rather than an independent ranking. The durable benchmark design is to measure project completion and hidden acceptance criteria, not only a short coding score. [[coding-agent-evaluation]] [[third-party-ai-evaluation]] [raw/newsletters/data-elixir-2026-11-17-data-elixir-issue-598.md]
+
+The same batch's honest-omics example reports a popular pipeline's AUC falling from 0.89 to 0.59 after feature-selection leakage was corrected, with calibration worse than predicting a constant baseline. This is a reminder that benchmark validity includes feature-selection boundaries, uncertainty, calibration, and reproducible evaluation—not just a high headline metric. [[reliable-data-pipelines]] [raw/newsletters/data-elixir-2026-11-17-data-elixir-issue-598.md]
+
 ## Links
 
 - Related concepts: [[coding-agent-evaluation]], [[real-world-agent-evaluations]], [[software-factories]], [[model-routing]], [[third-party-ai-evaluation]], [[reliable-data-pipelines]], [[agent-reliability-and-operations]]

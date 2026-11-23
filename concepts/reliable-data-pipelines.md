@@ -34,6 +34,12 @@ Data Science Weekly highlights a practical limit on AI-assisted analytics: explo
 
 The batch also surfaces multiple imputation as a reproducible way to represent missing-data uncertainty rather than filling every gap with one overconfident guess. A causal-ML comparison using simulated cases with known effects offers a complementary guardrail: prediction quality does not establish which intervention will change an outcome. These patterns keep data lineage, assumptions, uncertainty, and verification visible before an agent turns analysis into a decision. [raw/newsletters/data-elixir-2026-11-03-data-elixir-issue-596.md]
 
+## November 2026: data judgment and AI-assisted analysis
+
+Data Science Weekly's “Data Intelligence Engineer” framing describes a role shift: AI can remove a ticket backlog while increasing the need for humans to verify the numbers, decide how much quality control is appropriate, and inspect whether the analysis answers the right question. That is a data-pipeline implication, not proof of a standardized new job title. [[ai-benchmarking]] [[agentic-knowledge-work]] [raw/newsletters/data-science-weekly-2026-11-19-data-science-weekly-issue-678.md]
+
+The batch also pairs practical and statistical failure modes. A worked honest-omics example reports AUC dropping from 0.89 to 0.59 after validation leakage is addressed, while a survival-analysis example shows selection among survivors can create a significant-looking effect even when treatment changes nothing. AI-assisted analysis should preserve data lineage, validation boundaries, missing-data assumptions, and the distinction between predictive and causal claims. [raw/newsletters/data-elixir-2026-11-17-data-elixir-issue-598.md][raw/newsletters/data-science-weekly-2026-11-19-data-science-weekly-issue-678.md]
+
 ## Links
 
 - Related concepts: [[local-llms]], [[self-driving-labs]], [[ai-benchmarking]], [[agent-reliability-and-operations]]

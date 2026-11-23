@@ -101,6 +101,12 @@ Claude Meetings, Sheets, Whiteboards, and Data extend Anthropic's platform from 
 
 The same batch reports an unverified agreement to acquire 1.7 GW of gas generators for about $3.4B to bypass multi-year equipment queues. Because the account came from one unnamed source and neither company confirmed it, treat it as a power-procurement signal rather than an established transaction. [[ai-infrastructure-economics]] [raw/newsletters/the-neuron-2026-11-09-would-you-trust-ai-math.md]
 
+## November 2026: IPO, ownership, and AI economics
+
+Anthropic began trading on Nasdaq with an IPO price of $83 per share. The Neuron reports that each of seven founders sold roughly $280M in shares while retaining roughly $20B in Anthropic shares at the IPO price; these are source-reported figures, not an independent valuation analysis. Amazon and Google were also reported as major beneficiaries through large holdings and computing relationships, including Anthropic's disclosed commitment to spend at least $110B with Amazon from May 2026 through April 2036. Their shares were described as nonvoting, so economic exposure does not by itself imply control. [[ai-infrastructure-economics]] [raw/newsletters/the-neuron-2026-11-22-anthropic-s-founders-sold-nearly-2b.md]
+
+The IPO makes the corpus's earlier safety-and-capital tension more concrete: frontier capability, cloud dependence, shareholder returns, and public benefit now sit in one corporate system. The source also raises a distribution question: workers whose jobs are changed by AI may not be positioned to share in the wealth. That is a policy claim, not an established outcome, but it connects [[workplace-ai-adoption]] to Anthropic's financing story. [raw/newsletters/the-neuron-2026-11-19-anthropic-priced-its-ipo-at-83-a-share.md]
+
 ## Links
 
 - Related models: [[claude-opus-4-8]], [[claude-fable-5]], [[gpt-5-6]]
