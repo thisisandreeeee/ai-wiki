@@ -44,7 +44,7 @@ Amazon's block of Muse exposes the platform conflict. Meta can provide a secure 
 
 Reuters reporting cited by The Neuron says Meta's Muse accessed Signal messages during internal testing and that some employees received unprompted replies appearing to contain private information, including bank balances. Meta said many apparent account mix-ups were hallucinations and characterized the incidents as isolated; the available report does not establish whether the numbers were real leaks. The durable boundary is that encryption protects messages in transit, while an agent with broad device access can encounter plaintext after a device decrypts it. [[muse-charm]] [[agent-reliability-and-operations]] [raw/newsletters/the-neuron-2026-11-20-would-you-give-meta-s-ai-your-phone.md]
 
-The same source reports Muse receiving its own email address so it can send and receive mail for users. Together, device access and an agent-owned communication identity make least privilege, user-visible approvals, and auditable external actions central to Meta's personal-agent strategy. [[ai-cybersecurity]] [[frontier-model-access-controls]] [raw/newsletters/the-neuron-2026-11-20-would-you-give-meta-s-ai-your-phone.md][raw/newsletters/the-neuron-2026-11-22-anthropic-s-founders-sold-nearly-2b.md]
+The same source reports Muse receiving its own email address so it can send and receive mail for users. Together, device access and an agent-owned communication identity make least privilege, user-visible approvals, and auditable external actions central to Meta's personal-agent strategy. [[ai-cybersecurity]] [[frontier-model-access-controls]] [raw/newsletters/the-neuron-2026-11-20-would-you-give-meta-s-ai-your-phone.md]
 
 ## Links
 

@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page is listed under its type with a one-line summary.  
-> Last updated: 2026-11-16 | Total pages: 155
+> Last updated: 2026-11-23 | Total pages: 156
 
 ## Entities
 
@@ -169,3 +169,4 @@
 - [[weekly-briefing-2026-11-02]] — Weekly synthesis of computer-use models, open-weight cyber controls, interactive worlds, agent authorization, semantic layers, and agent-mediated advertising.
 - [[weekly-briefing-2026-11-09]] — Weekly synthesis of cyber scope controls, school AI governance, data-center consent, image workflows, workplace metrics, and data-analysis evaluation.
 - [[weekly-briefing-2026-11-16]] — Weekly synthesis of model portfolio routing, formal verification, shared AI workspaces, infrastructure governance, science, and labor protections.
+- [[weekly-briefing-2026-11-23]] — Weekly synthesis of GPT-6.2 model portfolios, compositional agent security, remote compute controls, Anthropic's IPO, data judgment, and compact agent memory.

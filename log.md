@@ -220,3 +220,10 @@
 - Updated `entities/anthropic.md`, `entities/claude-fable-5.md`, `entities/google-deepmind.md`, `entities/google-gemini.md`, `entities/nvidia.md`, `entities/openai.md`, `concepts/ai-for-science.md`, `concepts/ai-benchmarking.md`, `concepts/ai-cybersecurity.md`, `concepts/agent-reliability-and-operations.md`, `concepts/agent-to-agent-coordination.md`, `concepts/agentic-knowledge-work.md`, `concepts/frontier-model-access-controls.md`, and `concepts/workplace-ai-adoption.md`.
 - Updated `index.md`; existing raw newsletter captures were preserved unchanged except for the newly fetched files and refreshed manifest.
 
+## [2026-11-23] synthesize | Weekly newsletter batch
+
+- Fetched 18 Gmail newsletter items; 9 were new raw newsletter sources dated 2026-11-16 through 2026-11-22. `raw/newsletters/manifest.json` was refreshed.
+- Created `queries/weekly-briefing-2026-11-23.md`.
+- Updated `entities/anthropic.md`, `entities/astra.md`, `entities/meta.md`, `entities/nvidia.md`, `entities/openai.md`, `concepts/agent-memory.md`, `concepts/agent-reliability-and-operations.md`, `concepts/agentic-knowledge-work.md`, `concepts/ai-benchmarking.md`, `concepts/ai-cybersecurity.md`, `concepts/ai-for-science.md`, `concepts/reliable-data-pipelines.md`, and `index.md`.
+- Preserved existing raw newsletter captures unchanged; retained the 9 new captures and refreshed manifest.
+
