@@ -1,14 +1,5 @@
 [
   {
-    "id": "1a1b08c4bd23a731",
-    "newsletter": "the-neuron",
-    "subject": "😺 OpenAI launched GPT-6 Cyber. The catch?",
-    "date": "Fri, 06 Nov 2026 11:08:42 +0000 (UTC)",
-    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-11-06-openai-launched-gpt-6-cyber-the-catch.md",
-    "chars": 21469
-  },
-  {
     "id": "1a1d24080f5afd70",
     "newsletter": "data-science-weekly",
     "subject": "Data Science Weekly - Issue 677",
@@ -27,13 +18,13 @@
     "chars": 24456
   },
   {
-    "id": "1a19be1761396e1b",
+    "id": "1a1f88494177783d",
     "newsletter": "the-neuron",
-    "subject": "😺 Microsoft's binding AI school deal",
-    "date": "Mon, 02 Nov 2026 10:50:02 +0000 (UTC)",
+    "subject": "😺 Would you give Meta's AI your phone?",
+    "date": "Fri, 20 Nov 2026 10:32:56 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-11-02-microsoft-s-binding-ai-school-deal.md",
-    "chars": 19874
+    "path": "raw/newsletters/the-neuron-2026-11-20-would-you-give-meta-s-ai-your-phone.md",
+    "chars": 17709
   },
   {
     "id": "1a1bfa567015bf07",
@@ -45,6 +36,15 @@
     "chars": 22113
   },
   {
+    "id": "1a1e409252f9c3ad",
+    "newsletter": "the-neuron",
+    "subject": "😺 Nvidia reportedly supplied China via Asia",
+    "date": "Mon, 16 Nov 2026 11:04:21 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-11-16-nvidia-reportedly-supplied-china-via-asia.md",
+    "chars": 19137
+  },
+  {
     "id": "1a1dacd4bcd0fe0e",
     "newsletter": "the-neuron",
     "subject": "😸 Deep Dive: The Future of Work is Multiplayer",
@@ -54,13 +54,13 @@
     "chars": 17679
   },
   {
-    "id": "1a1bca7ed3492737",
+    "id": "1a1fda8e6dc4c60f",
     "newsletter": "the-neuron",
-    "subject": "😸 OpenAI’s next challenge: the neighbors",
-    "date": "Sun, 08 Nov 2026 19:34:31 +0000 (UTC)",
+    "subject": "Office Hours (AI edition) are in session 🤖",
+    "date": "Sat, 21 Nov 2026 10:31:04 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-11-08-openai-s-next-challenge-the-neighbors.md",
-    "chars": 14851
+    "path": "raw/newsletters/the-neuron-2026-11-21-office-hours-ai-edition-are-in-session.md",
+    "chars": 1333
   },
   {
     "id": "1a1e07a2bebb1468",
@@ -72,13 +72,13 @@
     "chars": 16343
   },
   {
-    "id": "1a1ab45f70f9e3e0",
+    "id": "1a204c0e34ffafd5",
     "newsletter": "the-neuron",
-    "subject": "😺 OpenAI's new Images 2.6 is a design tool",
-    "date": "Thu, 05 Nov 2026 10:34:10 +0000 (UTC)",
+    "subject": "😺 Anthropic’s founders sold nearly $2B",
+    "date": "Sun, 22 Nov 2026 19:34:38 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-11-05-openai-s-new-images-2-6-is-a-design-tool.md",
-    "chars": 19248
+    "path": "raw/newsletters/the-neuron-2026-11-22-anthropic-s-founders-sold-nearly-2b.md",
+    "chars": 15730
   },
   {
     "id": "1a1cf600cf3c0992",
@@ -90,31 +90,22 @@
     "chars": 21409
   },
   {
-    "id": "1a1adfb09440018d",
-    "newsletter": "data-science-weekly",
-    "subject": "Data Science Weekly - Issue 676",
-    "date": "Thu, 5 Nov 2026 23:10:40 +0000",
-    "from": "Data Science Weekly Newsletter <datascienceweekly@substack.com>",
-    "path": "raw/newsletters/data-science-weekly-2026-11-05-data-science-weekly-issue-676.md",
-    "chars": 14739
-  },
-  {
-    "id": "1a1a1195a73eeb44",
+    "id": "1a1f36aa622b3656",
     "newsletter": "the-neuron",
-    "subject": "😸 Anthropic’s $895B receipts",
-    "date": "Tue, 03 Nov 2026 11:09:11 +0000 (UTC)",
+    "subject": "😸 Anthropic priced its IPO at $83 a share",
+    "date": "Thu, 19 Nov 2026 10:46:46 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-11-03-anthropic-s-895b-receipts.md",
-    "chars": 19114
+    "path": "raw/newsletters/the-neuron-2026-11-19-anthropic-priced-its-ipo-at-83-a-share.md",
+    "chars": 17522
   },
   {
-    "id": "1a1a2bd80809513f",
-    "newsletter": "data-elixir",
-    "subject": "Data Elixir - Issue 596",
-    "date": "Tue, 03 Nov 2026 18:48:09 +0000 (UTC)",
-    "from": "Data Elixir <lon@dataelixir.com>",
-    "path": "raw/newsletters/data-elixir-2026-11-03-data-elixir-issue-596.md",
-    "chars": 8079
+    "id": "1a1f43eb6383d481",
+    "newsletter": "data-science-weekly",
+    "subject": "Data Science Weekly - Issue 678",
+    "date": "Thu, 19 Nov 2026 14:38:10 +0000",
+    "from": "Data Science Weekly Newsletter <datascienceweekly@substack.com>",
+    "path": "raw/newsletters/data-science-weekly-2026-11-19-data-science-weekly-issue-678.md",
+    "chars": 16134
   },
   {
     "id": "1a1c50407aaf298e",
@@ -135,13 +126,22 @@
     "chars": 8242
   },
   {
-    "id": "1a1a61fc18461dec",
+    "id": "1a1e9017b9bc1ef5",
     "newsletter": "the-neuron",
-    "subject": "😾 Google’s school Search ultimatum",
-    "date": "Wed, 04 Nov 2026 10:34:15 +0000 (UTC)",
+    "subject": "😺 California vs OpenAI: the rogue AI lawsuit",
+    "date": "Tue, 17 Nov 2026 10:15:49 +0000 (UTC)",
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
-    "path": "raw/newsletters/the-neuron-2026-11-04-google-s-school-search-ultimatum.md",
-    "chars": 21182
+    "path": "raw/newsletters/the-neuron-2026-11-17-california-vs-openai-the-rogue-ai-lawsuit.md",
+    "chars": 19967
+  },
+  {
+    "id": "1a1eab6748511a58",
+    "newsletter": "data-elixir",
+    "subject": "Data Elixir - Issue 598",
+    "date": "Tue, 17 Nov 2026 18:13:04 +0000 (UTC)",
+    "from": "\"lon@dataelixir.com\" <lon@dataelixir.com>",
+    "path": "raw/newsletters/data-elixir-2026-11-17-data-elixir-issue-598.md",
+    "chars": 15905
   },
   {
     "id": "1a1ca2b346b46c53",
@@ -151,5 +151,14 @@
     "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
     "path": "raw/newsletters/the-neuron-2026-11-11-will-claude-join-your-meeting.md",
     "chars": 19975
+  },
+  {
+    "id": "1a1ee55bebe399a6",
+    "newsletter": "the-neuron",
+    "subject": "😺 OpenAI unveils GPT-6.2 Astra and Sol",
+    "date": "Wed, 18 Nov 2026 11:05:57 +0000 (UTC)",
+    "from": "The Neuron <theneuron@newsletter.theneurondaily.com>",
+    "path": "raw/newsletters/the-neuron-2026-11-18-openai-unveils-gpt-6-2-astra-and-sol.md",
+    "chars": 20942
   }
 ]
